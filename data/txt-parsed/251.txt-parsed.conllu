@@ -1,0 +1,2063 @@
+# sent_id = 1
+# sent_len = 40
+# text = Today's meeting with you esteemed commanders and dear youth, serving in the Army, in the Islamic Republic's Guards Corps, in Basij, and the police force takes me back to the Sacred Defense Era.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Today	today	NOUN	NN	_	3	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	's	's	PART	POS	_	1	case	_	ent_type=_|ent_id=2|ent_iob=O
+3	meeting	meeting	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	esteemed	esteem	VERB	VBN	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	commanders	commander	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	dear	dear	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	youth	youth	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	serving	serve	VERB	VBG	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Army	Army	PROPN	NNP	_	13	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	Islamic	Islamic	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	Republic	Republic	PROPN	NNP	_	23	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	's	's	PART	POS	_	20	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+22	Guards	Guards	PROPN	NNPS	_	23	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+23	Corps	Corps	PROPN	NNP	_	17	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Basij	Basij	PROPN	NNP	_	25	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+27	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	police	police	NOUN	NN	_	31	compound	_	ent_type=_|ent_id=2|ent_iob=O
+31	force	force	NOUN	NN	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	takes	take	VERB	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	me	-PRON-	PRON	PRP	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	back	back	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	to	to	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	39	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+37	Sacred	Sacred	PROPN	NNP	_	39	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+38	Defense	Defense	PROPN	NNP	_	39	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+39	Era	Era	PROPN	NNP	_	35	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+40	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 33
+# text = The memories of the armed units of the Army and the Guards Corps of Fars province and Shiraz during the tough Sacred Defense Era are not something that one can ever forget.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	memories	memory	NOUN	NNS	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	armed	armed	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	units	unit	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Army	Army	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	Guards	Guards	PROPN	NNPS	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Corps	Corps	PROPN	NNP	_	9	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	of	of	ADP	IN	_	13	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Fars	Fars	PROPN	NNP	_	16	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	province	province	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	Shiraz	Shiraz	PROPN	NNP	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	during	during	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	tough	tough	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	Sacred	Sacred	PROPN	NNP	_	24	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	Defense	Defense	PROPN	NNP	_	24	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	Era	Era	PROPN	NNP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	not	not	PART	RB	_	25	neg	_	ent_type=_|ent_id=2|ent_iob=O
+27	something	something	PRON	NN	_	25	attr	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	DET	WDT	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	one	one	PRON	PRP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	can	can	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	ever	ever	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	forget	forget	VERB	VB	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 51
+# text = In the first year of the imposed war - which was a hard time for the Armed Forces - the news was spread in Ahvaz that the 37th Armored Brigade and 55th Airborne Brigade were going to be sent onto the battlefields, which cheered up the defense officials there.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	In	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	first	first	ADJ	JJ	_	4	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	year	year	NOUN	NN	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	imposed	impose	VERB	VBN	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	war	war	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	hard	hard	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	time	time	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	Armed	Armed	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Forces	Forces	PROPN	NNPS	_	15	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	-	-	PUNCT	:	_	23	punct	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	the	the	DET	DT	_	21	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	news	news	NOUN	NN	_	23	nsubjpass	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	was	be	AUX	VBD	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	spread	spread	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Ahvaz	Ahvaz	PROPN	NNP	_	24	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+26	that	that	SCONJ	IN	_	36	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	30	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+28	37th	37th	ADJ	JJ	_	30	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+29	Armored	Armored	PROPN	NNP	_	30	compound	_	ent_type=_|ent_id=2|ent_iob=O
+30	Brigade	Brigade	PROPN	NNP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	55th	55th	ADJ	JJ	_	34	amod	_	ent_type=FAC|ent_id=3|ent_iob=B
+33	Airborne	Airborne	PROPN	NNP	_	34	compound	_	ent_type=FAC|ent_id=1|ent_iob=I
+34	Brigade	Brigade	PROPN	NNP	_	30	conj	_	ent_type=FAC|ent_id=1|ent_iob=I
+35	were	be	AUX	VBD	_	36	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	going	go	VERB	VBG	_	23	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	be	be	AUX	VB	_	39	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+39	sent	send	VERB	VBN	_	36	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	onto	onto	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	battlefields	battlefield	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	which	which	DET	WDT	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+45	cheered	cheer	VERB	VBD	_	42	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+46	up	up	ADP	RP	_	45	prt	_	ent_type=_|ent_id=2|ent_iob=O
+47	the	the	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	defense	defense	NOUN	NN	_	49	compound	_	ent_type=_|ent_id=2|ent_iob=O
+49	officials	official	NOUN	NNS	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	there	there	ADV	RB	_	49	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+51	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 26
+# text = On a trip to Khorramshahr in those days of hardship, I saw some brave youth who were ready to selflessly lay down their lives.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	On	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	trip	trip	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Khorramshahr	Khorramshahr	PROPN	NNP	_	4	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	those	those	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	days	day	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	hardship	hardship	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	I	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	saw	see	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	some	some	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	brave	brave	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	youth	youth	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	who	who	PRON	WP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	were	be	AUX	VBD	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	ready	ready	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	selflessly	selflessly	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	lay	lay	VERB	VB	_	19	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	down	down	ADP	RP	_	22	prt	_	ent_type=_|ent_id=2|ent_iob=O
+24	their	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	lives	life	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 11
+# text = I asked them, "Where are you from?"
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	asked	ask	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	them	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Where	where	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 8
+# text = They said that they were from Shiraz.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	were	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	from	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Shiraz	Shiraz	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 30
+# text = Later on the gradual establishment of Fajr and al-Mahdi divisions in Shiraz and Fars province proved to be one of our strengths on the battlefield those days.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Later	later	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	gradual	gradual	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	establishment	establishment	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Fajr	Fajr	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	al	al	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	-	-	PUNCT	HYPH	_	11	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	Mahdi	Mahdi	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	divisions	division	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Shiraz	Shiraz	PROPN	NNP	_	17	nmod	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	Fars	Fars	PROPN	NNP	_	14	conj	_	ent_type=LOC|ent_id=3|ent_iob=B
+17	province	province	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	proved	prove	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	one	one	NUM	CD	_	20	attr	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	strengths	strength	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	battlefield	battlefield	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	those	those	DET	DT	_	29	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+29	days	day	NOUN	NNS	_	20	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+30	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 44
+# text = Each and every one of the backup units, training units, infantry centers, armored centers, electronics industries, and the backup services of Ministry of Defense left a memory of themselves during and after the eventful era of Sacred Defense.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Each	each	DET	DT	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	every	every	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	backup	backup	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	units	unit	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	training	train	VERB	VBG	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	units	unit	NOUN	NNS	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	infantry	infantry	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	centers	center	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	armored	armored	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	centers	center	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	electronics	electronic	NOUN	NNS	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	industries	industry	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	backup	backup	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	services	service	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Ministry	Ministry	PROPN	NNP	_	26	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	of	of	ADP	IN	_	27	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+29	Defense	Defense	PROPN	NNP	_	28	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+30	left	leave	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	a	a	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	memory	memory	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	themselves	-PRON-	PRON	PRP	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	during	during	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	after	after	ADP	IN	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	eventful	eventful	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	era	era	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	Sacred	Sacred	PROPN	NNP	_	43	compound	_	ent_type=_|ent_id=2|ent_iob=O
+43	Defense	Defense	PROPN	NNP	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 40
+# text = For me, meeting you dear youth on this parade ground - on which you are ready to proclaim that you will bravely follow in the footsteps of the pioneers of this path - is reminiscent of the past.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	For	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	me	-PRON-	PRON	PRP	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	meeting	meet	VERB	VBG	_	35	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	dear	dear	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	youth	youth	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	parade	parade	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	ground	ground	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	HYPH	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	you	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	ready	ready	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	proclaim	proclaim	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	you	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	bravely	bravely	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	follow	follow	VERB	VB	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	footsteps	footstep	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	pioneers	pioneer	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	this	this	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	path	path	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	-	-	PUNCT	HYPH	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+36	reminiscent	reminiscent	ADJ	JJ	_	35	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	past	past	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 29
+# text = You dear youth must in the first place note that according to Imam Sajjad (a.s.), armed forces are like a stronghold for national security.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	must	must	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	first	first	ADJ	JJ	_	8	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+8	place	place	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	note	note	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	according	accord	VERB	VBG	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Imam	Imam	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+14	Sajjad	Sajjad	PROPN	NNP	_	12	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+15	(	(	PUNCT	-LRB-	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	a.s	a.s	PROPN	NNP	_	17	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	.	.	PROPN	NNP	_	14	appos	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	)	)	PUNCT	-RRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	armed	armed	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	forces	force	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	are	be	AUX	VBP	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	like	like	SCONJ	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	stronghold	stronghold	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	for	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	national	national	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	security	security	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 26
+# text = The nation will have the feeling of peace and security if you powerfully maintain your grandeur through equipping yourselves with weapons and boosting your spirit.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	feeling	feeling	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	peace	peace	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	security	security	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	if	if	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	you	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	powerfully	powerfully	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	maintain	maintain	VERB	VBP	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	your	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	grandeur	grandeur	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	through	through	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	equipping	equip	VERB	VBG	_	17	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	yourselves	yourself	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	weapons	weapon	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	boosting	boost	VERB	VBG	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	your	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	spirit	spirit	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 15
+# text = Even in advanced communities, life is no pleasure in the absence of security.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Even	even	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	advanced	advanced	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	communities	community	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	life	life	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	no	no	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	pleasure	pleasure	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	absence	absence	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	security	security	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 6
+# text = Security brings about mental peace.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Security	security	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	brings	bring	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	about	about	ADP	IN	_	2	prt	_	ent_type=_|ent_id=2|ent_iob=O
+4	mental	mental	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	peace	peace	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 28
+# text = If the Armed Forces bravely, selflessly, and shrewdly identify and fulfill their roles at the right time, they will be able to provide security.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	If	if	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	Armed	Armed	PROPN	NNP	_	4	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	Forces	Forces	PROPN	NNPS	_	23	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+5	bravely	bravely	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	selflessly	selflessly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	shrewdly	shrewdly	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	identify	identify	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	fulfill	fulfill	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	roles	role	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	at	at	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	right	right	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	time	time	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	they	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	able	able	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	provide	provide	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	security	security	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 20
+# text = The mere existence of armed forces and seeking to strengthen them do not necessarily imply belligerence in any country.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	mere	mere	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	existence	existence	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	armed	armed	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	forces	force	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	seeking	seek	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	strengthen	strengthen	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	them	-PRON-	PRON	PRP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	do	do	AUX	VB	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	necessarily	necessarily	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	imply	imply	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	belligerence	belligerence	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	any	any	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	country	country	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 38
+# text = With the power of the Iranian nation in international arenas, we have proved that the Iranian nation and the Islamic Republic of Iran will not pose any threat to the neighboring and non-neighboring countries.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	With	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	power	power	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	nation	nation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	international	international	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	arenas	arena	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	we	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	have	have	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	proved	prove	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iranian	iranian	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	nation	nation	NOUN	NN	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+21	Islamic	Islamic	PROPN	NNP	_	22	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+22	Republic	Republic	PROPN	NNP	_	18	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+23	of	of	ADP	IN	_	22	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+24	Iran	Iran	PROPN	NNP	_	23	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+25	will	will	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	not	not	PART	RB	_	27	neg	_	ent_type=_|ent_id=2|ent_iob=O
+27	pose	pose	VERB	VB	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	any	any	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	threat	threat	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	neighboring	neighboring	NOUN	NN	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	non	non	ADJ	JJ	_	35	dep	_	ent_type=_|ent_id=2|ent_iob=O
+35	-	-	ADJ	JJ	_	36	dep	_	ent_type=_|ent_id=2|ent_iob=O
+36	neighboring	neighboring	ADJ	JJ	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	countries	country	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 11
+# text = We were attacked, and we powerfully defended our country.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	attacked	attack	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	powerfully	powerfully	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	defended	defend	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 23
+# text = However, the thought of invasion and occupation of other countries never crossed the minds of the Iranian people and their officials.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	However	however	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	thought	thought	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	invasion	invasion	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	occupation	occupation	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	other	other	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	countries	country	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	never	never	ADV	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	crossed	cross	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	minds	mind	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	people	people	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	officials	official	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 11
+# text = All the same, the Armed Forces must be powerful.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	All	all	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	same	same	ADJ	JJ	_	9	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	Armed	Armed	PROPN	NNP	_	7	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	Forces	Forces	PROPN	NNPS	_	9	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	must	must	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	powerful	powerful	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 11
+# text = The world in which we live is a belligerent world.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	world	world	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	live	live	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	belligerent	belligerent	ADJ	JJ	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	world	world	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 10
+# text = The world is doomed to suffer from domineering policies.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	world	world	NOUN	NN	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	doomed	doom	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	suffer	suffer	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	domineering	domineer	VERB	VBG	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	policies	policy	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 27
+# text = The motives of the global domineering powers are a warning to all nations to strengthen their internal structure and make the necessary preparations in this regard.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	motives	motive	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	global	global	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	domineering	domineering	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	powers	power	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	warning	warning	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	nations	nation	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	strengthen	strengthen	VERB	VB	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	internal	internal	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	structure	structure	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	make	make	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	necessary	necessary	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	preparations	preparation	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	regard	regard	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 23
+# text = When the superpowers can and dare attack other nations, even small excuses are used to justify their full-scale invasion.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	superpowers	superpower	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	dare	dare	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	attack	attack	VERB	VB	_	9	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	other	other	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	nations	nation	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	even	even	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	small	small	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	excuses	excuse	NOUN	NNS	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	justify	justify	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	full	full	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	HYPH	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	scale	scale	NOUN	NN	_	22	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	invasion	invasion	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 13
+# text = Today, the case of Iraq and Afghanistan lies before our eyes.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Today	today	NOUN	NN	_	9	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	case	case	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iraq	Iraq	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	Afghanistan	Afghanistan	PROPN	NNP	_	6	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	lies	lie	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	before	before	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	eyes	eye	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 9
+# text = On what grounds did they enter Iraqi territory?
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	On	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	what	what	DET	WDT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	grounds	ground	NOUN	NNS	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	did	do	AUX	VBD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	enter	enter	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iraqi	iraqi	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	territory	territory	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	?	?	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 9
+# text = On what grounds did they cross Afghan borders?
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	On	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	what	what	DET	WDT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	grounds	ground	NOUN	NNS	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	did	do	AUX	VBD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	cross	cross	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	Afghan	afghan	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	borders	border	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	?	?	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 12
+# text = They promised to bring security and freedom to the Iraqi people.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	promised	promise	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	bring	bring	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	security	security	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	freedom	freedom	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	4	dative	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iraqi	iraqi	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 18
+# text = The Iraqi people have lived the most insecure period of their lives during the last 5 years.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iraqi	iraqi	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	lived	live	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	most	most	ADV	RBS	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	insecure	insecure	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	period	period	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	lives	life	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	during	during	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	17	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	last	last	ADJ	JJ	_	17	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	5	5	NUM	CD	_	17	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	years	year	NOUN	NNS	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 10
+# text = This is indicative of the nature of the superpowers.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	indicative	indicative	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	nature	nature	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	superpowers	superpower	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 9
+# text = The situation in Afghanistan is almost the same.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	situation	situation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Afghanistan	Afghanistan	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	almost	almost	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	same	same	ADJ	JJ	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 23
+# text = When arrogant powers think they can take steps towards the invasion of other countries, they will not hesitate to do so.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	arrogant	arrogant	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	powers	power	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	think	think	VERB	VBP	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	take	take	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	steps	step	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	towards	towards	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	invasion	invasion	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	other	other	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	countries	country	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	they	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	hesitate	hesitate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	do	do	AUX	VB	_	19	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	so	so	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 15
+# text = Of course, the Iranian nation is familiar with the nature of the superpowers.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nation	nation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	familiar	familiar	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	nature	nature	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	superpowers	superpower	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 28
+# text = The Islamic Republic, the Iranian nation, and the Armed Forces have proved their abilities to the superpowers and the invaders during the last thirty years.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	14	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	nation	nation	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	Armed	Armed	PROPN	NNP	_	12	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	Forces	Forces	PROPN	NNPS	_	7	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	have	have	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	proved	prove	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	abilities	ability	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	superpowers	superpower	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	invaders	invader	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	during	during	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	27	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+25	last	last	ADJ	JJ	_	27	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+26	thirty	thirty	NUM	CD	_	27	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	years	year	NOUN	NNS	_	23	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 21
+# text = They have proved that the great, intelligent, ancient Iranian nation is not an easy game for any superpowers.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	proved	prove	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	intelligent	intelligent	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	ancient	ancient	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iranian	iranian	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	nation	nation	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	easy	easy	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	game	game	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	any	any	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	superpowers	superpower	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 13
+# text = All people throughout the world have come to realize this fact nowadays.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	throughout	throughout	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	world	world	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	come	come	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	realize	realize	VERB	VB	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	fact	fact	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	nowadays	nowadays	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 29
+# text = There is no army in the world today that can do to the Iranian nation what they have done to the Iraqi people in the last five year.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	army	army	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	world	world	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	today	today	NOUN	NN	_	2	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	that	that	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	do	do	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iranian	iranian	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	nation	nation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	what	what	PRON	WP	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	done	do	VERB	VBN	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Iraqi	iraqi	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	people	people	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+26	last	last	ADJ	JJ	_	28	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	five	five	NUM	CD	_	28	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	year	year	NOUN	NN	_	24	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+29	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 6
+# text = The Iranian nation is powerful.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	powerful	powerful	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 13
+# text = You official Armed Forces enjoy a great support called the Iranian nation.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	4	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	official	official	ADJ	JJ	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	Armed	Armed	PROPN	NNP	_	4	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	Forces	Forces	PROPN	NNPS	_	5	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+5	enjoy	enjoy	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	support	support	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	called	call	VERB	VBN	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iranian	iranian	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	nation	nation	NOUN	NN	_	9	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 40
+# text = Millions of youth, iron wills, and warm and faithful hearts from various social classes - nomads, city dwellers, villagers, people living in various parts of the country, and people working in various professions -
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Millions	million	NOUN	NNS	_	0	ROOT	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	iron	iron	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	wills	will	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	warm	warm	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	faithful	faithful	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	hearts	heart	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	various	various	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	social	social	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	classes	class	NOUN	NNS	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	HYPH	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	nomads	nomad	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	city	city	NOUN	NN	_	21	compound	_	ent_type=_|ent_id=2|ent_iob=O
+21	dwellers	dweller	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	villagers	villager	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	people	people	NOUN	NNS	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+26	living	live	VERB	VBG	_	25	acl	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	various	various	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	parts	part	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	country	country	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	people	people	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	working	work	VERB	VBG	_	35	acl	_	ent_type=_|ent_id=2|ent_iob=O
+37	in	in	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	various	various	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	professions	profession	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	-	-	PUNCT	,	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 13
+# text = all share the same characteristics: they all have an iron will.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	all	all	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	share	share	VERB	VBP	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	same	same	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	characteristics	characteristic	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	:	:	PUNCT	:	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	DT	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	an	an	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	iron	iron	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 12
+# text = This is the greatest support that a nation can ever enjoy.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	greatest	great	ADJ	JJS	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	support	support	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	ever	ever	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	enjoy	enjoy	VERB	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 7
+# text = You must be ready and powerful.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	ready	ready	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	powerful	powerful	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 19
+# text = We will take no heed of the hostile language and the threats of mouthpieces of the arrogant powers.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	no	no	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	heed	heed	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	hostile	hostile	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	language	language	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	threats	threat	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	mouthpieces	mouthpiece	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	arrogant	arrogant	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	powers	power	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 21
+# text = The Iranian nation will not be concerned by these words, because they are simply the enemies' psychological warfare.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	concerned	concern	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	words	word	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	because	because	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	simply	simply	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	enemies	enemy	NOUN	NNS	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	'	'	PART	POS	_	17	case	_	ent_type=_|ent_id=2|ent_iob=O
+19	psychological	psychological	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	warfare	warfare	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 32
+# text = The Iranian nation knows well that the enemies of this nation are not daring and intrepid enough to enter a battle which would be impossible for them to get out of.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	knows	know	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	well	well	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	enemies	enemy	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	nation	nation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	daring	daring	ADJ	JJ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	intrepid	intrepid	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	enough	enough	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	enter	enter	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	battle	battle	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	which	which	DET	WDT	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	would	would	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	be	be	AUX	VB	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	impossible	impossible	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	for	for	ADP	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	them	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	get	get	AUX	VB	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	out	out	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 16
+# text = We are well aware of this fact, but you should remain vigilant and powerful.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	well	well	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	aware	aware	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	fact	fact	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	remain	remain	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	vigilant	vigilant	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	powerful	powerful	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 27
+# text = Armed Forces - the Army, the Islamic Revolution's Guards Corps, Basij, and the police - must become stronger on a daily basis.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Armed	Armed	PROPN	NNP	_	2	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	Forces	Forces	PROPN	NNPS	_	21	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+3	-	-	PUNCT	:	_	2	punct	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	the	the	DET	DT	_	5	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+5	Army	Army	PROPN	NNP	_	2	appos	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	Revolution	Revolution	PROPN	NNP	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	's	's	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	Guards	Guards	PROPN	NNPS	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	Corps	Corps	PROPN	NNP	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	Basij	Basij	PROPN	NNP	_	12	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	police	police	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	:	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	must	must	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	stronger	strong	ADJ	JJR	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	on	on	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	daily	daily	ADJ	JJ	_	26	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+26	basis	basis	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 7
+# text = That is the essence of innovation.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	essence	essence	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	innovation	innovation	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 9
+# text = Innovation is not just limited to manufacturing weapons.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Innovation	Innovation	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	just	just	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	limited	limit	VERB	VBN	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	manufacturing	manufacture	VERB	VBG	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	weapons	weapon	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 39
+# text = Although innovation in manufacturing armament and in new methods of preparing weapons is one of the most important instances of innovation, we are in need of innovation in training, organization, backup, and military guidelines.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Although	although	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	innovation	innovation	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	manufacturing	manufacture	VERB	VBG	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	armament	armament	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	new	new	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	methods	method	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	preparing	prepare	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	weapons	weapon	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	one	one	NUM	CD	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	most	most	ADV	RBS	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	important	important	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	instances	instance	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	innovation	innovation	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	we	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	need	need	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	innovation	innovation	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	training	training	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	organization	organization	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	backup	backup	PROPN	NNP	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	military	military	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	guidelines	guideline	NOUN	NNS	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 16
+# text = You must take long, steady strides and move powerfully towards pre-specified goals.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	long	long	ADV	RB	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	steady	steady	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	strides	stride	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	move	move	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	powerfully	powerfully	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	towards	towards	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	pre	pre	ADJ	JJ	_	13	dep	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	ADJ	JJ	_	14	dep	_	ent_type=_|ent_id=2|ent_iob=O
+14	specified	specified	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	goals	goal	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 6
+# text = You must increase your strength.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	increase	increase	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	your	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	strength	strength	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 15
+# text = You must make this stronghold and this fort more secure for the Iranian nation.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	stronghold	stronghold	NOUN	NN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	fort	fort	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	more	more	ADV	RBR	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	secure	secure	ADJ	JJ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Iranian	iranian	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	nation	nation	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 10
+# text = The world of global politics is filled with impiety.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	world	world	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	global	global	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	politics	politic	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	filled	fill	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	impiety	impiety	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 14
+# text = This has caused the global arrogant powers to betray even their own friends.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	caused	cause	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	global	global	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	arrogant	arrogant	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	powers	power	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	betray	betray	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	even	even	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	own	own	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	friends	friend	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 12
+# text = You definitely witnessed what they did to the doomed Saddam Hussein.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	definitely	definitely	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	witnessed	witness	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	what	what	PRON	WP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	did	do	AUX	VBD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	doomed	doom	VERB	VBN	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	Saddam	Saddam	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	Hussein	Hussein	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 17
+# text = They only strengthened his forces for as long as they felt the need for his existence.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	only	only	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	strengthened	strengthen	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	his	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	forces	force	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	long	long	ADV	RB	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	as	as	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	felt	feel	VERB	VBD	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	need	need	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	his	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	existence	existence	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 16
+# text = The Americans backed Saddam Hussein during the Iraqi imposed war as much as they could.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Americans	Americans	PROPN	NNPS	_	3	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	backed	back	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	Saddam	Saddam	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Hussein	Hussein	PROPN	NNP	_	3	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	during	during	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iraqi	iraqi	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	imposed	impose	VERB	VBN	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	war	war	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	as	as	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	much	much	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	as	as	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	could	could	VERB	MD	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 11
+# text = They provided him with aerial maps, intelligence and weapons.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	provided	provide	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	him	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	aerial	aerial	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	maps	map	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	intelligence	intelligence	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	weapons	weapon	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 18
+# text = They even helped boost their psychological state and got their allies to support the Iraqi regime financially.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	even	even	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	helped	help	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	boost	boost	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	psychological	psychological	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	state	state	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	got	get	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	allies	ally	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	support	support	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iraqi	iraqi	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	regime	regime	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	financially	financially	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 16
+# text = They supported Saddam Hussein on all sides because they felt the need for his presence.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	supported	support	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Saddam	Saddam	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Hussein	Hussein	PROPN	NNP	_	2	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	on	on	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	sides	side	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	because	because	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	felt	feel	VERB	VBD	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	need	need	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	his	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	presence	presence	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 20
+# text = They were hopeful that he could undermine the powerful and proud nature of the Iranian nation in the world.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	hopeful	hopeful	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	he	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	could	could	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	undermine	undermine	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	powerful	powerful	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	proud	proud	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	nature	nature	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iranian	iranian	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	nation	nation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	world	world	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 24
+# text = The Iranian nation managed to recognize the nature of the superpowers, and it is still familiar with the nature of those powers.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	recognize	recognize	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nature	nature	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	superpowers	superpower	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	it	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	still	still	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	familiar	familiar	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	with	with	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	nature	nature	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	those	those	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	powers	power	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 24
+# text = The strong stance of the Islamic Republic against the criminal US regime is rooted in such in-depth knowledge of their nature.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	strong	strong	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	stance	stance	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	Islamic	Islamic	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	Republic	Republic	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	against	against	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	criminal	criminal	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	US	US	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	regime	regime	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	rooted	root	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	such	such	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	20	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	HYPH	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	depth	depth	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	knowledge	knowledge	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	nature	nature	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 33
+# text = I wonder if there is a person who does not know that the presidential terms of the current US president have been the most insecure period in the recent history of mankind.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	wonder	wonder	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	there	there	PRON	EX	_	5	expl	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	person	person	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	does	do	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	know	know	VERB	VB	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	presidential	presidential	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	terms	term	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	current	current	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	US	US	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	president	president	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	have	have	AUX	VBP	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	been	be	AUX	VBN	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	most	most	ADV	RBS	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	insecure	insecure	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	period	period	NOUN	NN	_	22	attr	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	recent	recent	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	history	history	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	mankind	mankind	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 27
+# text = The presidential terms of George Bush are the dark period in which the world became an insecure place and in which terrorism engulfed the whole world.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	presidential	presidential	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	terms	term	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	George	George	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	Bush	Bush	PROPN	NNP	_	4	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	dark	dark	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	period	period	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	world	world	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	became	become	VERB	VBD	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	insecure	insecure	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	place	place	NOUN	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	which	which	DET	WDT	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	terrorism	terrorism	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	engulfed	engulf	VERB	VBD	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	whole	whole	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	world	world	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 13
+# text = This dark stain will be registered in history next to his name.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	dark	dark	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	stain	stain	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	registered	register	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	history	history	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	next	next	ADJ	JJ	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	his	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	name	name	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 23
+# text = Of course, he is going to leave in a matter of months and will leave the problems to the next president.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	he	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	going	go	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	leave	leave	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	matter	matter	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	months	month	NOUN	NNS	_	12	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	will	will	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	leave	leave	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	problems	problem	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	next	next	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	president	president	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 18
+# text = But this is a case that will always remain open, and it will never be closed.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	always	always	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	remain	remain	VERB	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	open	open	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	never	never	ADV	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	closed	close	VERB	VBN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 9
+# text = Our youth must learn lessons from these things.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	learn	learn	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	lessons	lesson	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	from	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	things	thing	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 23
+# text = You must know who you are and recognize the greatness of the thought that established this Revolution and this sacred government. "
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	recognize	recognize	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	greatness	greatness	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	thought	thought	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	established	establish	VERB	VBD	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Revolution	Revolution	PROPN	NNP	_	15	dobj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	sacred	sacred	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	government	government	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 20
+# text = Neither the East, nor the West" is a slogan that rejects all arrogance and all arrogant powers.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Neither	neither	CCONJ	CC	_	3	preconj	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	3	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+3	East	East	PROPN	NNP	_	9	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	nor	nor	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	West	West	PROPN	NNP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	''	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	slogan	slogan	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	rejects	reject	VERB	VBZ	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	all	all	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	arrogance	arrogance	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	all	all	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	arrogant	arrogant	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	powers	power	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 29
+# text = It is the independence slogan of the Iranian nation, a slogan that shows our trust in the faithful youth who live in various parts of this country.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	independence	independence	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	slogan	slogan	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iranian	iranian	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	nation	nation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	slogan	slogan	NOUN	NN	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	shows	show	VERB	VBZ	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	trust	trust	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	faithful	faithful	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	youth	youth	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	who	who	PRON	WP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	live	live	VERB	VBP	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	various	various	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	parts	part	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	this	this	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	country	country	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 7
+# text = This slogan is alive and immortal.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	slogan	slogan	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	alive	alive	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	immortal	immortal	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 23
+# text = The slogan poured forth from the heart that was in contact with the invisible world, God, and servitude to God.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	slogan	slogan	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	poured	pour	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	forth	forth	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	heart	heart	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	was	be	AUX	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	contact	contact	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	invisible	invisible	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	God	God	PROPN	NNP	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	servitude	servitude	VERB	VB	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	God	God	PROPN	NNP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 22
+# text = It was taught to the Iranian nation by that great wise old man, the brave scholar [Imam Khomeini].
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	It	-PRON-	PRON	PRP	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	taught	teach	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	nation	nation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	3	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	great	great	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	wise	wise	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	old	old	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	man	man	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	brave	brave	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	scholar	scholar	NOUN	NN	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+18	[	[	PUNCT	-LRB-	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	Imam	Imam	PROPN	NNP	_	20	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+20	Khomeini	Khomeini	PROPN	NNP	_	17	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+21	]	]	PUNCT	-RRB-	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 11
+# text = My dear youth, the Armed Forces belong to you.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	My	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	Armed	Armed	PROPN	NNP	_	7	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	Forces	Forces	PROPN	NNPS	_	8	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	belong	belong	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 7
+# text = The whole country belongs to you.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	whole	whole	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	country	country	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	belongs	belong	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 21
+# text = You should equip yourselves with knowledge, practicality, piety, faithfulness, and purity to the extent you could.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	equip	equip	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	yourselves	yourself	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	knowledge	knowledge	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	practicality	practicality	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	piety	piety	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	faithfulness	faithfulness	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	purity	purity	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	extent	extent	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	you	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	could	could	VERB	MD	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 32
+# text = Remember that God is with you, and God willing the prayers of the Imam of the Age (may our souls be sacrificed for his sake) will protect you.
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Remember	remember	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	God	God	PROPN	NNP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	willing	willing	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	prayers	prayer	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+15	Imam	Imam	PROPN	NNP	_	13	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+16	of	of	ADP	IN	_	15	prep	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+17	the	the	DET	DT	_	18	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+18	Age	Age	PROPN	NNP	_	16	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+19	(	(	PUNCT	-LRB-	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	may	may	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	souls	soul	NOUN	NNS	_	24	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	sacrificed	sacrifice	VERB	VBN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	for	for	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	his	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	sake	sake	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	)	)	PUNCT	-RRB-	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	will	will	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	protect	protect	VERB	VB	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	you	-PRON-	PRON	PRP	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech to Armed units in Shiraz
+# year = 2008
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

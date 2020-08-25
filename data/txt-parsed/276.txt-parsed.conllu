@@ -1,0 +1,2606 @@
+# sent_id = 1
+# sent_len = 10
+# text = I congratulate you dear young cadets on your graduation.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	congratulate	congratulate	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	dear	dear	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	young	young	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	cadets	cadet	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	your	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	graduation	graduation	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 17
+# text = From now on, you are officially considered members of the Islamic Republic's glorious Army.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	From	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	now	now	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	on	on	ADV	RB	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	officially	officially	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	considered	consider	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	members	member	NOUN	NNS	_	8	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	Republic	Republic	PROPN	NNP	_	16	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	's	's	PART	POS	_	13	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	glorious	glorious	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	Army	Army	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 32
+# text = I also express my congratulations to the dear youth who received their epaulettes and who will continue their acquisition of knowledge in the military academy of the Islamic Republic of Iran.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	express	express	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	my	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	congratulations	congratulation	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	dear	dear	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	youth	youth	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	received	receive	VERB	VBD	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	epaulettes	epaulette	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	continue	continue	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	acquisition	acquisition	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	knowledge	knowledge	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	military	military	ADJ	JJ	_	25	compound	_	ent_type=_|ent_id=2|ent_iob=O
+25	academy	academy	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+28	Islamic	Islamic	PROPN	NNP	_	29	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+29	Republic	Republic	PROPN	NNP	_	26	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+30	of	of	ADP	IN	_	29	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+31	Iran	Iran	PROPN	NNP	_	30	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+32	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 40
+# text = The importance that I attach to the Armed Forces and the personnel who render services to the country is primarily due to the fact that the Armed Forces play the most important role in preserving the country's security.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	importance	importance	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	attach	attach	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	Armed	Armed	PROPN	NNP	_	9	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	Forces	Forces	PROPN	NNPS	_	6	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	personnel	personnel	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	render	render	VERB	VBP	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	services	service	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	primarily	primarily	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	due	due	ADJ	JJ	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	fact	fact	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	Armed	Armed	PROPN	NNP	_	28	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+28	Forces	Forces	PROPN	NNPS	_	29	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+29	play	play	VERB	VBP	_	24	acl	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	most	most	ADV	RBS	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	important	important	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	role	role	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	preserving	preserve	VERB	VBG	_	34	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	country	country	NOUN	NN	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	's	's	PART	POS	_	37	case	_	ent_type=_|ent_id=2|ent_iob=O
+39	security	security	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 37
+# text = As the Commander of the Faithful (a.s.) said, armed forces act as a stronghold for their country, protect the territories of their people like strong ramparts, and preserve their security.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	As	as	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Commander	Commander	PROPN	NNP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	Faithful	faithful	ADJ	JJ	_	5	intj	_	ent_type=_|ent_id=2|ent_iob=O
+7	(	(	PUNCT	-LRB-	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	a.s	a.s	PROPN	NNP	_	9	dep	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	)	)	PUNCT	-RRB-	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	said	say	VERB	VBD	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	armed	armed	PROPN	NNP	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	forces	force	NOUN	NNS	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	act	act	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	as	as	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	stronghold	stronghold	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	country	country	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	protect	protect	VERB	VB	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	territories	territory	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	their	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	people	people	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	like	like	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	strong	strong	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	ramparts	rampart	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	preserve	preserve	VERB	VB	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	their	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	security	security	NOUN	NN	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 21
+# text = In all human communities and for all nations, the importance of security is not comparable with any other thing.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	In	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	human	human	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	communities	community	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nations	nation	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	importance	importance	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	security	security	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	comparable	comparable	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	any	any	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	other	other	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	thing	thing	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 34
+# text = If a society is provided with security, it will be possible for the society to achieve knowledge, progress, justice, glory, and dignity in this world and the hereafter.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	If	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	society	society	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	provided	provide	VERB	VBN	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	security	security	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	possible	possible	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	society	society	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	achieve	achieve	VERB	VB	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	knowledge	knowledge	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	progress	progress	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	justice	justice	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	glory	glory	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	dignity	dignity	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	this	this	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	world	world	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	hereafter	hereafter	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 13
+# text = In the absence of security, human achievements will be an impossibility.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	absence	absence	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	security	security	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	human	human	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	achievements	achievement	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	an	an	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	impossibility	impossibility	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 15
+# text = This is the primary reason for the great respect shown to the armed forces.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	primary	primary	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	reason	reason	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	great	great	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	respect	respect	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	shown	show	VERB	VBN	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	armed	armed	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	forces	force	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 27
+# text = The second reason is that the armed forces have accepted to pay the price for doing their duty, which is not comparable with anything else.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	second	second	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	reason	reason	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	armed	armed	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	forces	force	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	accepted	accept	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	pay	pay	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	price	price	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	doing	do	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	duty	duty	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	which	which	DET	WDT	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	not	not	PART	RB	_	21	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	comparable	comparable	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	with	with	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	anything	anything	PRON	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	else	else	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 17
+# text = Members of the armed forces have laid down their lives for the sake of their responsibility.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Members	member	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	armed	armed	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	forces	force	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	laid	lay	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	down	down	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	lives	life	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	sake	sake	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	responsibility	responsibility	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 38
+# text = These people - serving the Army, the Revolutionary Guards, and other parts of the Islamic Republic's Armed Forces - have formed a system and laid down their lives to protect the country's security.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	serving	serve	VERB	VBG	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Army	Army	PROPN	NNP	_	4	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	Revolutionary	Revolutionary	PROPN	NNP	_	10	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Guards	Guards	PROPN	NNPS	_	6	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	other	other	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	parts	part	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	Republic	Republic	PROPN	NNP	_	21	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	's	's	PART	POS	_	18	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	Armed	Armed	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	Forces	Forces	PROPN	NNPS	_	15	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	-	-	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	have	have	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	formed	form	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	system	system	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	laid	lay	VERB	VBD	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	down	down	ADP	RP	_	28	prt	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	lives	life	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	PART	TO	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	protect	protect	VERB	VB	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	country	country	NOUN	NN	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	's	's	PART	POS	_	35	case	_	ent_type=_|ent_id=2|ent_iob=O
+37	security	security	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 5
+# text = That is something impressive.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	something	something	PRON	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	impressive	impressive	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 21
+# text = The reason our nation has never forgotten our dear martyrs is that they laid down their lives for the country.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	reason	reason	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	nation	nation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	never	never	ADV	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	forgotten	forget	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	dear	dear	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	martyrs	martyr	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	laid	lay	VERB	VBD	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	down	down	ADP	RP	_	14	prt	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	lives	life	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	country	country	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 18
+# text = Materialistic people would not even give up their small ambitions, let alone lay down their lives.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Materialistic	materialistic	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	even	even	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	give	give	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	up	up	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	small	small	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	ambitions	ambition	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	let	let	VERB	VB	_	10	appos	_	ent_type=_|ent_id=2|ent_iob=O
+13	alone	alone	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	lay	lay	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	down	down	ADP	RP	_	14	prt	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	lives	life	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 25
+# text = But righteous men, valorous people, and guardians of spiritual values are prepared to lay down their lives and step into this arena.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	But	but	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	righteous	righteous	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	men	man	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	valorous	valorous	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	guardians	guardian	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	spiritual	spiritual	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	values	value	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	prepared	prepared	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	lay	lay	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	down	down	ADP	RP	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	lives	life	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	step	step	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	into	into	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	arena	arena	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 25
+# text = Dear valorous cadets of military academies of the Islamic Republic of Iran's Army, you are one of firmest foundations of this country.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	valorous	valorous	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	cadets	cadet	NOUN	NNS	_	17	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	military	military	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	academies	academy	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	of	of	ADP	IN	_	10	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Iran	Iran	PROPN	NNP	_	14	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	's	's	PART	POS	_	12	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	Army	Army	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	you	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	one	one	NUM	CD	_	17	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	firmest	firm	ADJ	JJS	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	foundations	foundation	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	country	country	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 14
+# text = All nations have the right to make efforts in order to gain power.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	nations	nation	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	right	right	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	make	make	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	efforts	effort	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	order	order	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	gain	gain	VERB	VB	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	power	power	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 5
+# text = It is their duty.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	their	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	duty	duty	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 19
+# text = If nations do not achieve power, they will be trampled upon in global conflicts and power struggles.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	If	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	nations	nation	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	achieve	achieve	VERB	VB	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	power	power	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	trampled	trample	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	upon	upon	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	global	global	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	conflicts	conflict	NOUN	NNS	_	18	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	power	power	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	struggles	struggle	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 22
+# text = If a nation gets used to weakness and does not consider this a great flaw, it does not deserve glory.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	If	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	gets	get	VERB	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	used	use	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	weakness	weakness	NOUN	NN	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	does	do	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	consider	consider	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	flaw	flaw	NOUN	NN	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	it	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	does	do	AUX	VBZ	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	not	not	PART	RB	_	20	neg	_	ent_type=_|ent_id=2|ent_iob=O
+20	deserve	deserve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	glory	glory	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 19
+# text = Global powers and autocratic and oppressive rulers of the world will have no mercy on such a nation.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Global	global	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	powers	power	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	autocratic	autocratic	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	oppressive	oppressive	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	rulers	ruler	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	world	world	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	no	no	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	mercy	mercy	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	such	such	DET	PDT	_	18	predet	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 9
+# text = All nations have a duty to become powerful.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	nations	nation	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	duty	duty	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	become	become	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	powerful	powerful	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 19
+# text = Of course the power of a nation is not just limited to the power of its armed forces.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	power	power	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	nation	nation	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	just	just	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	limited	limit	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	power	power	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	its	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	armed	armed	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	forces	force	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 10
+# text = The power of a nation is a multifaceted reality.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	power	power	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	nation	nation	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	multifaceted	multifacete	VERB	VBN	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	reality	reality	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 19
+# text = The armed forces stand at the frontline and are indicative of the dynamism and power of a nation.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	armed	armed	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	forces	force	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	stand	stand	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	frontline	frontline	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	indicative	indicative	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	dynamism	dynamism	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	power	power	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 27
+# text = However, in order to preserve its power, the nation should also gain advanced knowledge and have strong morality, religious faith, and determination.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	However	however	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	order	order	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	preserve	preserve	VERB	VB	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	its	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	power	power	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	nation	nation	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	also	also	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	gain	gain	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	advanced	advanced	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	knowledge	knowledge	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	strong	strong	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	morality	morality	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	religious	religious	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	faith	faith	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	determination	determination	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 10
+# text = I will now stress the spiritual elements of powers.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	now	now	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	stress	stress	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	spiritual	spiritual	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	elements	element	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	powers	power	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 22
+# text = The most important element of spiritual power is religious faith - that is, believing in God and relying on Him.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	most	most	ADV	RBS	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	element	element	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	spiritual	spiritual	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	religious	religious	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	faith	faith	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	ADV	RB	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	is	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	believing	believe	VERB	VBG	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	God	God	PROPN	NNP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	relying	rely	VERB	VBG	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Him	-PRON-	PRON	PRP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 12
+# text = That is what prepares one to set out on difficult journeys.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	prepares	prepare	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	one	one	PRON	PRP	_	4	dobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	set	set	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	difficult	difficult	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	journeys	journey	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 13
+# text = That is what makes one tread the path in a determined fashion.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	makes	make	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	one	one	NUM	CD	_	6	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	tread	tread	NOUN	NN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	path	path	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	determined	determined	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	fashion	fashion	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 9
+# text = That is what makes the hardships appear small.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	makes	make	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	hardships	hardship	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	appear	appear	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	small	small	ADJ	JJ	_	7	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 10
+# text = Religious faith makes one set great goals for oneself.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Religious	religious	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	faith	faith	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	makes	make	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	set	set	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	goals	goal	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	oneself	oneself	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 13
+# text = Genuine power will not be gained in the absence of religious faith.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Genuine	genuine	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	power	power	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	gained	gain	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	absence	absence	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	religious	religious	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	faith	faith	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 18
+# text = Power does not result from advanced weaponry, money, political power, and means of propaganda.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Power	power	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	does	do	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	result	result	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	advanced	advanced	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	weaponry	weaponry	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	money	money	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	political	political	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	power	power	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	means	mean	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	propaganda	propaganda	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 48
+# text = If money and advanced destructive weaponry could ensure genuine power for a country, the Zionist regime would not have suffered those humiliating defeats against the faithful youth of Lebanon in the 33-day war and against the death-defying people of Gaza in the 22-day war.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	If	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	money	money	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	advanced	advanced	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	destructive	destructive	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	weaponry	weaponry	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	could	could	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	ensure	ensure	VERB	VB	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	genuine	genuine	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	power	power	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Zionist	zionist	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	regime	regime	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	would	would	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	not	not	PART	RB	_	21	neg	_	ent_type=_|ent_id=2|ent_iob=O
+20	have	have	AUX	VB	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	suffered	suffer	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	those	those	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	humiliating	humiliating	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	defeats	defeat	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	against	against	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	faithful	faithful	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	youth	youth	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	Lebanon	Lebanon	PROPN	NNP	_	29	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+31	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	33-day	33-day	NUM	CD	_	34	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+34	war	war	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	against	against	ADP	IN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	death	death	NOUN	NN	_	40	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+39	-	-	PUNCT	HYPH	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	defying	defy	VERB	VBG	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	people	people	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	Gaza	Gaza	PROPN	NNP	_	42	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+44	in	in	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	22-day	22-day	NUM	CD	_	47	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+47	war	war	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 34
+# text = If the material elements of power were sufficient, the US government would not have suffered those failures in its war against the defenseless people of Afghanistan and in occupying Iraq and Afghanistan.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	If	if	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	material	material	NOUN	NN	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	elements	element	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	power	power	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	were	be	AUX	VBD	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	sufficient	sufficient	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	US	US	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	government	government	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	would	would	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VB	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	suffered	suffer	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	those	those	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	failures	failure	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	its	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	war	war	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	against	against	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	defenseless	defenseless	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	people	people	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Afghanistan	Afghanistan	PROPN	NNP	_	26	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+28	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	occupying	occupy	VERB	VBG	_	29	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	Iraq	Iraq	PROPN	NNP	_	30	dobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	Afghanistan	Afghanistan	PROPN	NNP	_	31	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+34	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 9
+# text = These examples are in front of our eyes.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	examples	example	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	front	front	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	eyes	eye	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 23
+# text = These are the crucial and valuable tests that verify the realities we know, the realities we have read or heard about.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	crucial	crucial	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	valuable	valuable	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	tests	test	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	verify	verify	VERB	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	realities	reality	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	know	know	VERB	VBP	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	realities	reality	NOUN	NNS	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+17	we	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	read	read	VERB	VBN	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	or	or	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	heard	hear	VERB	VBN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	about	about	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 30
+# text = When nations' hearts are enlightened by religious faith and clear goals, they will have enough determination, and they will not encroach on other people's lives.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	When	when	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	nations	nation	NOUN	NNS	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	'	'	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	hearts	heart	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	enlightened	enlighten	VERB	VBN	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	religious	religious	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	faith	faith	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	clear	clear	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	goals	goal	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	will	will	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	enough	enough	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	determination	determination	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	they	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	not	not	PART	RB	_	24	neg	_	ent_type=_|ent_id=2|ent_iob=O
+24	encroach	encroach	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	other	other	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	people	people	NOUN	NNS	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	's	's	PART	POS	_	27	case	_	ent_type=_|ent_id=2|ent_iob=O
+29	lives	life	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 12
+# text = Attacking one's neighbors does not mean that one is powerful.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Attacking	attack	VERB	VBG	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	PRON	PRP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	neighbors	neighbor	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	does	do	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	mean	mean	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	one	one	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	powerful	powerful	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 8
+# text = Attacking a defenseless people is not power.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Attacking	attack	VERB	VBG	_	5	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	defenseless	defenseless	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 41
+# text = A country is not said to be powerful when it sends its army to suppress a nation thousands of kilometers away in order to further its military, economic, and political goals on the other side of the world.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	country	country	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	said	say	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	powerful	powerful	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	when	when	ADV	WRB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	sends	send	VERB	VBZ	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	army	army	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	suppress	suppress	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	nation	nation	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	thousands	thousand	NOUN	NNS	_	17	nummod	_	ent_type=QUANTITY|ent_id=3|ent_iob=B
+19	of	of	ADP	IN	_	18	prep	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+20	kilometers	kilometer	NOUN	NNS	_	19	pobj	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+21	away	away	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	order	order	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	further	further	VERB	VB	_	23	acl	_	ent_type=_|ent_id=2|ent_iob=O
+26	its	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	military	military	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	economic	economic	ADJ	JJ	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	political	political	ADJ	JJ	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	goals	goal	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	on	on	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	other	other	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	side	side	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	of	of	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	world	world	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 27
+# text = The materialistic powers that are based on such foundations and have imposed their political and economic agenda on other countries will be punished for their wrongdoing.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	materialistic	materialistic	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	powers	power	NOUN	NNS	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	based	base	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	foundations	foundation	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	imposed	impose	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	political	political	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	economic	economic	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	agenda	agenda	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	other	other	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	countries	country	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	will	will	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	be	be	AUX	VB	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	punished	punish	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	wrongdoing	wrongdoing	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 4
+# text = They will collapse.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	collapse	collapse	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 25
+# text = Faithful but oppressed nations will have control over the future of the world if they tread the path with steely determination and good intentions.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Faithful	faithful	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	but	but	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	oppressed	oppress	VERB	VBD	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+4	nations	nation	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	control	control	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	over	over	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	future	future	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	if	if	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	tread	tread	VERB	VBP	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	path	path	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	with	with	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	steely	steely	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	determination	determination	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	good	good	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	intentions	intention	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 33
+# text = They will have control over a future in which there will be no invasion, no transgression, no terror race, and no arms race, a future built on justice.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	control	control	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	over	over	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	future	future	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	there	there	PRON	EX	_	12	expl	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	no	no	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	invasion	invasion	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	no	no	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	transgression	transgression	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	no	no	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	terror	terror	NOUN	NN	_	21	compound	_	ent_type=_|ent_id=2|ent_iob=O
+21	race	race	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	no	no	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	arms	arm	NOUN	NNS	_	26	compound	_	ent_type=_|ent_id=2|ent_iob=O
+26	race	race	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	future	future	NOUN	NN	_	14	appos	_	ent_type=_|ent_id=2|ent_iob=O
+30	built	build	VERB	VBN	_	29	acl	_	ent_type=_|ent_id=2|ent_iob=O
+31	on	on	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	justice	justice	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 20
+# text = My dear ones, as the young generation, you are the pioneers of moving towards such a world.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	My	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	ones	one	NOUN	NNS	_	11	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	as	as	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	young	young	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	generation	generation	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	pioneers	pioneer	NOUN	NNS	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	moving	move	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	towards	towards	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	such	such	DET	PDT	_	19	predet	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	world	world	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 19
+# text = Our youth in the Armed Forces and other organizations of this country are the pioneers of this movement.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	Armed	Armed	PROPN	NNP	_	6	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	Forces	Forces	PROPN	NNPS	_	3	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	other	other	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	organizations	organization	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	pioneers	pioneer	NOUN	NNS	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	movement	movement	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 25
+# text = The Islamic Republic of Iran wants to convey this novel and clear message of peace and prosperity to the world of today and tomorrow.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Iran	Iran	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	wants	want	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	convey	convey	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	novel	novel	ADJ	JJ	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	clear	clear	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	message	message	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	peace	peace	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	prosperity	prosperity	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	world	world	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	today	today	NOUN	NN	_	21	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	tomorrow	tomorrow	NOUN	NN	_	22	conj	_	ent_type=DATE|ent_id=3|ent_iob=B
+25	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 6
+# text = The future belongs to you.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	future	future	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	belongs	belong	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 3
+# text = Work hard.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Work	work	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	hard	hard	ADV	RB	_	1	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 43
+# text = With your strong determination and good intentions and by utilizing all your potentialities, you must build and expand a strong core of power in order to be the soldiers and pioneers of this movement in the true sense of the word.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	With	with	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	your	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	strong	strong	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	determination	determination	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	good	good	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	intentions	intention	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	utilizing	utilize	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	PDT	_	13	predet	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	potentialities	potentiality	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	you	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	must	must	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	build	build	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	expand	expand	VERB	VB	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	strong	strong	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	core	core	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	power	power	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	order	order	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	be	be	AUX	VB	_	26	acl	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	soldiers	soldier	NOUN	NNS	_	28	attr	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	pioneers	pioneer	NOUN	NNS	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	this	this	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	movement	movement	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	in	in	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	true	true	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	sense	sense	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	word	word	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 20
+# text = By Allah's favor, today the Armed Forces of the Islamic Republic of Iran enjoy great significant advantages.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	By	by	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	favor	favor	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	today	today	NOUN	NN	_	16	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	the	the	DET	DT	_	9	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	Armed	Armed	PROPN	NNP	_	9	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	Forces	Forces	PROPN	NNPS	_	16	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	of	of	ADP	IN	_	9	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Republic	Republic	PROPN	NNP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iran	Iran	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	enjoy	enjoy	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	great	great	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	significant	significant	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	advantages	advantage	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 10
+# text = You must increase these advantages on a daily basis.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	increase	increase	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	advantages	advantage	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	daily	daily	ADJ	JJ	_	9	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	basis	basis	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 11
+# text = Take research, knowledge, and acquisition of knowledge seriously.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	research	research	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	knowledge	knowledge	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	acquisition	acquisition	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	knowledge	knowledge	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	seriously	seriously	ADV	RB	_	1	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 20
+# text = Use your youth as an opportunity to realize the different talents that Allah the Exalted has bestowed on you.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Use	use	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	as	as	SCONJ	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	opportunity	opportunity	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	realize	realize	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	different	different	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	talents	talent	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	Allah	Allah	PROPN	NNP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Exalted	Exalted	PROPN	NNP	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+16	has	have	AUX	VBZ	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	bestowed	bestow	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	you	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 19
+# text = You should appreciate the opportunity to serve this nation, a nation that has lofty and clear ideals.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	opportunity	opportunity	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	serve	serve	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	nation	nation	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	nation	nation	NOUN	NN	_	9	appos	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	has	have	AUX	VBZ	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	lofty	lofty	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	clear	clear	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	ideals	ideal	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 20
+# text = It is a great honor to be at the frontline of defending and serving such a nation and government.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	honor	honor	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	at	at	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	frontline	frontline	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	defending	defend	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	serving	serve	VERB	VBG	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	such	such	DET	PDT	_	17	predet	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	nation	nation	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	government	government	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 8
+# text = Do not take this honor for granted.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Do	do	AUX	VB	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+3	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	honor	honor	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	granted	grant	VERB	VBN	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 12
+# text = Today even the enemies cannot deny the power of Iran.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	even	even	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enemies	enemy	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	deny	deny	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	power	power	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iran	Iran	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 6
+# text = Even the enemies acknowledge it.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Even	even	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	enemies	enemy	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	acknowledge	acknowledge	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 25
+# text = Of course the enemies are aggressively screaming out the power of our country and our government with the intention of promoting their Iranophobia campaign.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enemies	enemy	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	aggressively	aggressively	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	screaming	scream	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	power	power	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	government	government	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	intention	intention	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	promoting	promote	VERB	VBG	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iranophobia	Iranophobia	PROPN	NNP	_	24	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+24	campaign	campaign	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 16
+# text = One part of their statements is right, and the other part is sheer lies.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	One	one	NUM	CD	_	2	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	part	part	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	statements	statement	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	right	right	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	part	part	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	sheer	sheer	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	lies	lie	NOUN	NNS	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 13
+# text = The part that shows the power of the Islamic Republic is right.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	part	part	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	shows	show	VERB	VBZ	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	power	power	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	right	right	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 25
+# text = Thirty years ago, when the Islamic Republic was established, we started from the scratch, and we managed to make great advances.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Thirty	thirty	NUM	CD	_	2	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	years	year	NOUN	NNS	_	3	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	ago	ago	ADV	RB	_	13	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	when	when	ADV	WRB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	10	nsubjpass	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	was	be	AUX	VBD	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	established	establish	VERB	VBN	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	started	start	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	scratch	scratch	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	we	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	managed	manage	VERB	VBD	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	make	make	VERB	VB	_	20	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	great	great	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	advances	advance	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 27
+# text = We are not satisfied with the achievements we have made so far, but what we have achieved is not comparable to what we started with.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	satisfied	satisfied	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	achievements	achievement	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	made	make	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	so	so	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	far	far	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	what	what	PRON	WP	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	we	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VBP	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	achieved	achieve	VERB	VBN	_	19	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+21	comparable	comparable	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	what	what	PRON	WP	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	we	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	started	start	VERB	VBD	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	with	with	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 11
+# text = I was in the Armed Forces since the first day.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	Armed	Armed	PROPN	NNP	_	6	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	Forces	Forces	PROPN	NNPS	_	3	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	since	since	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	first	first	ADJ	JJ	_	10	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	day	day	NOUN	NN	_	7	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 30
+# text = I have personally seen the entire capacity of the Army, the Ministry of Defense, our facilities, the Islamic Revolution Guards Corps, and the Armed Forces.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	personally	personally	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	seen	see	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	entire	entire	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	capacity	capacity	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Army	Army	PROPN	NNP	_	8	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	Ministry	Ministry	PROPN	NNP	_	10	appos	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	of	of	ADP	IN	_	13	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Defense	Defense	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	facilities	facility	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	24	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	Islamic	Islamic	PROPN	NNP	_	22	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	Revolution	Revolution	PROPN	NNP	_	24	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	Guards	Guards	PROPN	NNPS	_	24	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	Corps	Corps	PROPN	NNP	_	18	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	Armed	Armed	PROPN	NNP	_	29	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+29	Forces	Forces	PROPN	NNPS	_	24	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+30	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 20
+# text = Thirty years ago, no one could imagine you dear youth would achieve this peak of progress one day.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Thirty	thirty	NUM	CD	_	2	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	years	year	NOUN	NNS	_	3	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	ago	ago	ADV	RB	_	8	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	no	no	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	one	one	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	could	could	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	imagine	imagine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	dear	dear	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	youth	youth	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	would	would	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	achieve	achieve	VERB	VB	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	peak	peak	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	progress	progress	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	one	one	NUM	CD	_	19	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	day	day	NOUN	NN	_	13	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 21
+# text = You have achieved scientific power, military power, self-confidence, solidarity, and progress in different areas.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	achieved	achieve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	scientific	scientific	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	power	power	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	military	military	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	power	power	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	self	self	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	confidence	confidence	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	solidarity	solidarity	NOUN	NN	_	12	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	progress	progress	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	different	different	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	areas	area	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 10
+# text = That part of the enemies' statements is true.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	That	that	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	part	part	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemies	enemy	NOUN	NNS	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	'	'	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	statements	statement	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	true	true	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 16
+# text = The wrong part of their statements is what they say to promote their Iranophobia campaign.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	wrong	wrong	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	part	part	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	statements	statement	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	what	what	PRON	WP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	say	say	VERB	VBP	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	promote	promote	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iranophobia	Iranophobia	PROPN	NNP	_	15	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	campaign	campaign	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 19
+# text = This national power of the Islamic Republic is not a threat to any nation or any neighboring country.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	national	national	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	power	power	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	Islamic	Islamic	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	Republic	Republic	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	threat	threat	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	any	any	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	nation	nation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	or	or	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	any	any	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	neighboring	neighbor	VERB	VBG	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 5
+# text = It is an opportunity.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	opportunity	opportunity	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 25
+# text = Yes, our power is a threat to the global bullies, domineering powers, and those who interfere in other nations' affairs.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Yes	yes	INTJ	UH	_	5	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	power	power	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	threat	threat	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	global	global	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	bullies	bully	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	domineering	domineering	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	powers	power	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	those	those	DET	DT	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	interfere	interfere	VERB	VBP	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	other	other	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	nations	nation	NOUN	NNS	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	'	'	PART	POS	_	22	case	_	ent_type=_|ent_id=2|ent_iob=O
+24	affairs	affair	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 36
+# text = It is a threat to those who misused the great natural resources and manpower of this nation and trampled on its honor - those who still nurture thoughts of going back to those old days.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	threat	threat	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	those	those	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	misused	misuse	VERB	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	great	great	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	natural	natural	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	resources	resource	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	manpower	manpower	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	nation	nation	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	trampled	trample	VERB	VBD	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	its	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	honor	honor	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	those	those	DET	DT	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+25	who	who	PRON	WP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	still	still	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	nurture	nurture	VERB	VBP	_	24	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	thoughts	thought	NOUN	NNS	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	going	go	VERB	VBG	_	29	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	back	back	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	those	those	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	old	old	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	days	day	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 11
+# text = But our power is not a threat to other nations.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	power	power	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	threat	threat	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	nations	nation	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 8
+# text = Our war games are not a threat.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	war	war	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	games	game	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	threat	threat	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 7
+# text = Our missiles are not a threat.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	missiles	missile	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	threat	threat	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 6
+# text = We build planes and warships.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	build	build	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	planes	plane	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	warships	warship	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 11
+# text = We encourage brave youth like you to enter the arena.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	encourage	encourage	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	brave	brave	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	youth	youth	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	enter	enter	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	arena	arena	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 11
+# text = But none of these pose any threat to other countries.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	none	none	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	pose	pose	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	any	any	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	threat	threat	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	countries	country	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 26
+# text = These achievements show that a nation can thrive when it believes in its capabilities, relies on Allah, and fills its heart with faith.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	achievements	achievement	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	show	show	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	thrive	thrive	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	when	when	ADV	WRB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	believes	believe	VERB	VBZ	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	its	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	capabilities	capability	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	relies	rely	VERB	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	on	on	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Allah	Allah	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	fills	fill	VERB	VBZ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	its	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	heart	heart	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	with	with	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	faith	faith	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 7
+# text = That is encouragement for other nations.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	encouragement	encouragement	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	other	other	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	nations	nation	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 18
+# text = World nations should know that if they want glory, they will not get it from America.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	World	world	NOUN	NN	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	nations	nation	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	if	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	want	want	VERB	VBP	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	glory	glory	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	get	get	AUX	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	it	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	from	from	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	America	America	PROPN	NNP	_	16	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 26
+# text = They will not get this glory when they rely on global powers or when they purchase weapons from arms companies and beg them for weapons.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	glory	glory	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	when	when	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	rely	rely	VERB	VBP	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	global	global	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	powers	power	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	when	when	ADV	WRB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	purchase	purchase	VERB	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	weapons	weapon	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	from	from	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	arms	arm	NOUN	NNS	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	companies	company	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	beg	beg	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	weapons	weapon	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 24
+# text = They should know that glory can be achieved through national dynamism, national self-confidence, reliance on Allah, and progress.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	glory	glory	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	achieved	achieve	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	through	through	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	national	national	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	dynamism	dynamism	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	national	national	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	self	self	NOUN	NN	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	HYPH	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	confidence	confidence	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	reliance	reliance	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	Allah	Allah	PROPN	NNP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	progress	progress	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 31
+# text = Dear brave youth, you should appreciate this training course, your youth, this national glory and fame, this political grandeur, your nation, and your government.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	brave	brave	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	training	training	NOUN	NN	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	course	course	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	youth	youth	NOUN	NN	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	national	national	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	glory	glory	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	fame	fame	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	political	political	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	grandeur	grandeur	NOUN	NN	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	your	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	nation	nation	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	your	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	government	government	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 14
+# text = You should prepare yourselves for a better future and for conquering other arenas.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	prepare	prepare	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	yourselves	yourself	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	better	well	ADJ	JJR	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	future	future	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	conquering	conquer	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	arenas	arena	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 6
+# text = The future belongs to you.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	future	future	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	belongs	belong	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 24
+# text = The Armed Forces are like a family, and I would like to emphatically call you to sympathy, solidarity, and unity.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	Armed	Armed	PROPN	NNP	_	3	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+3	Forces	Forces	PROPN	NNPS	_	4	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	family	family	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	would	would	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	like	like	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	emphatically	emphatically	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	call	call	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	you	-PRON-	PRON	PRP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	sympathy	sympathy	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	solidarity	solidarity	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	unity	unity	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 10
+# text = Thankfully, this solidarity and unity already exists today.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Thankfully	thankfully	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	solidarity	solidarity	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	unity	unity	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	already	already	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	exists	exist	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 27
+# text = The Army, the Islamic Revolution Guards Corps, Basij, and the Police are all members of this family, and you are all brothers.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Army	Army	PROPN	NNP	_	15	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	8	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	Revolution	Revolution	PROPN	NNP	_	8	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	Guards	Guards	PROPN	NNPS	_	8	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	Corps	Corps	PROPN	NNP	_	2	appos	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	Basij	Basij	PROPN	NNP	_	8	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Police	Police	NOUN	NNS	_	10	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	all	all	DET	DT	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	members	member	NOUN	NNS	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	family	family	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	you	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	all	all	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	brothers	brother	NOUN	NNS	_	24	attr	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 30
+# text = In particular, regarding the Navy, I should stress that it is considered a strategic force in our country as well as in many parts of the world.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	particular	particular	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	regarding	regard	VERB	VBG	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Navy	Navy	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	I	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	stress	stress	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	considered	consider	VERB	VBN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	strategic	strategic	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	force	force	NOUN	NN	_	14	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	country	country	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	as	as	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	well	well	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	as	as	SCONJ	IN	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	many	many	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	parts	part	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	world	world	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 9
+# text = The Navy must be considered a strategic force.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Navy	Navy	PROPN	NNP	_	5	nsubjpass	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	must	must	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	considered	consider	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	strategic	strategic	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	force	force	NOUN	NN	_	5	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 32
+# text = The southern coasts of the country, which are being controlled by the Islamic Republic of Iran's Army, are very important, and they have good capacities for progress.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	southern	southern	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	coasts	coast	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	being	be	AUX	VBG	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	controlled	control	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	Republic	Republic	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	of	of	ADP	IN	_	15	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	Iran	Iran	PROPN	NNP	_	19	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	's	's	PART	POS	_	17	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	Army	Army	PROPN	NNP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	very	very	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	important	important	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	they	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	have	have	AUX	VBP	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	good	good	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	capacities	capacity	NOUN	NNS	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	for	for	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	progress	progress	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 7
+# text = Pay more attention to those areas.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	more	more	ADJ	JJR	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	attention	attention	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	areas	area	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 14
+# text = Continue navigation, which is thankfully more technologically advanced now than the past.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Continue	continue	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	navigation	navigation	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	thankfully	thankfully	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	more	more	ADV	RBR	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	technologically	technologically	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	advanced	advance	VERB	VBN	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	now	now	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	than	than	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	past	past	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 7
+# text = Pay more attention to submarine advances.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	more	more	ADJ	JJR	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	attention	attention	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	submarine	submarine	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	advances	advance	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 14
+# text = Pay attention to defense facilities of warships everywhere, especially in southern waters.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	attention	attention	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	defense	defense	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	facilities	facility	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	warships	warship	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	everywhere	everywhere	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	especially	especially	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	southern	southern	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	waters	water	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 10
+# text = Thankfully, the Navy enjoys good capacities and commanders.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Thankfully	thankfully	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Navy	Navy	PROPN	NNP	_	5	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	enjoys	enjoy	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	good	good	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	capacities	capacity	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	commanders	commander	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 9
+# text = Today your efforts can result in various outcomes.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	efforts	effort	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	result	result	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	various	various	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	outcomes	outcome	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 30
+# text = Your efforts can bring about blossoming for yourselves, the Navy, the entire Army of the Islamic Republic of Iran, and the Islamic Republic's Armed Forces.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Your	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	efforts	effort	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	bring	bring	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	RP	_	4	prt	_	ent_type=_|ent_id=2|ent_iob=O
+6	blossoming	blossom	VERB	VBG	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	yourselves	yourself	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Navy	Navy	PROPN	NNP	_	4	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	entire	entire	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Army	Army	PROPN	NNP	_	11	appos	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Islamic	Islamic	PROPN	NNP	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	Republic	Republic	PROPN	NNP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Iran	Iran	PROPN	NNP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	Islamic	Islamic	PROPN	NNP	_	26	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+26	Republic	Republic	PROPN	NNP	_	29	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	's	's	PART	POS	_	26	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+28	Armed	Armed	PROPN	NNP	_	29	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+29	Forces	Forces	PROPN	NNPS	_	15	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+30	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 7
+# text = That is what we pray for.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	pray	pray	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 19
+# text = We rely on God, and we are certain that we will achieve what He determines for us.
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	rely	rely	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	on	on	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	certain	certain	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	achieve	achieve	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	what	what	PRON	WP	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	He	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	determines	determine	VERB	VBZ	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	us	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech to Cadets in Noshahr 
+# year = 2009
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

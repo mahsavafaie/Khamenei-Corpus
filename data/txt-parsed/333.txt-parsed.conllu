@@ -1,0 +1,1163 @@
+# sent_id = 1
+# sent_len = 30
+# text = I wish to congratulate you dear audience, government officials, honorable ambassadors of Islamic countries, Iranian people and the Islamic Ummah on this great and auspicious Eid.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	wish	wish	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	congratulate	congratulate	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	dear	dear	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	audience	audience	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	government	government	NOUN	NN	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	officials	official	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	honorable	honorable	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	ambassadors	ambassador	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	countries	country	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	people	people	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+22	Islamic	Islamic	PROPN	NNP	_	23	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	Ummah	Ummah	PROPN	NNP	_	19	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	this	this	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	great	great	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	auspicious	auspicious	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	Eid	Eid	PROPN	NNP	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 36
+# text = I hope the repentance and supplication of the faithful Iranian nation during the month of Ramadan will cause divine grace, mercy, support and guidance to be bestowed on the great people of Iran.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	repentance	repentance	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	supplication	supplication	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	faithful	faithful	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iranian	iranian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	nation	nation	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	during	during	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	month	month	NOUN	NN	_	12	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	of	of	ADP	IN	_	14	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	Ramadan	Ramadan	PROPN	NNP	_	15	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	cause	cause	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	divine	divine	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	grace	grace	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	mercy	mercy	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	support	support	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	guidance	guidance	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	be	be	AUX	VB	_	29	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+29	bestowed	bestow	VERB	VBN	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	on	on	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	great	great	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	people	people	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Iran	Iran	PROPN	NNP	_	34	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+36	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 17
+# text = Worship, praying and congregational prayers show that this auspicious Eid is an occasion for celebration.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Worship	Worship	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	praying	pray	VERB	VBG	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	congregational	congregational	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	prayers	prayer	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	show	show	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	auspicious	auspicious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Eid	Eid	PROPN	NNP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	an	an	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	occasion	occasion	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	celebration	celebration	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 27
+# text = In the entire world of Islam, the people lined up in a unified manner to perform their congressional prayers and show their humility before God.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	entire	entire	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	world	world	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islam	Islam	PROPN	NNP	_	5	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	lined	line	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	up	up	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	unified	unified	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	manner	manner	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	perform	perform	VERB	VB	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	congressional	congressional	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	prayers	prayer	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	show	show	VERB	VBP	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	humility	humility	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	before	before	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	God	God	PROPN	NNP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 10
+# text = This is a spiritual bond in the Islamic Ummah.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	spiritual	spiritual	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	bond	bond	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	Ummah	Ummah	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 35
+# text = In the same way, the Islamic Ummah should form a unified front to deal with the important issues of the world many of which are related to the Islamic Ummah and its fate.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	same	same	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	way	way	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	Ummah	Ummah	PROPN	NNP	_	10	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	form	form	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	unified	unified	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	front	front	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	deal	deal	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	important	important	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	issues	issue	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	world	world	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	many	many	ADJ	JJ	_	27	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	which	which	DET	WDT	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	are	be	AUX	VBP	_	27	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+27	related	relate	VERB	VBN	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+30	Islamic	Islamic	PROPN	NNP	_	31	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+31	Ummah	Ummah	PROPN	NNP	_	28	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	its	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	fate	fate	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 54
+# text = If these Muslim hearts are united and if the discord caused by the enemies of Islam and the Islamic Ummah is resolved, then Muslim efforts, capabilities and thoughts will be in the same direction and will effectively deal with the big camp that is opposed to Islam and the Islamic Ummah.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	If	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Muslim	muslim	ADJ	JJ	_	4	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+4	hearts	heart	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	32	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	united	united	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	if	if	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	discord	discord	NOUN	NN	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	caused	cause	VERB	VBN	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	enemies	enemy	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islam	Islam	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	Islamic	Islamic	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	Ummah	Ummah	PROPN	NNP	_	16	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	is	be	AUX	VBZ	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	resolved	resolve	VERB	VBN	_	32	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	then	then	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	Muslim	muslim	ADJ	JJ	_	26	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	efforts	effort	NOUN	NNS	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	capabilities	capability	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	thoughts	thought	NOUN	NNS	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	will	will	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+33	in	in	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	same	same	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	direction	direction	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	will	will	VERB	MD	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	effectively	effectively	ADV	RB	_	40	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+40	deal	deal	VERB	VB	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	with	with	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	big	big	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	camp	camp	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	that	that	DET	WDT	_	46	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+46	is	be	AUX	VBZ	_	44	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+47	opposed	oppose	VERB	VBN	_	46	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+48	to	to	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	Islam	Islam	PROPN	NNP	_	48	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+50	and	and	CCONJ	CC	_	49	cc	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	53	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+52	Islamic	Islamic	PROPN	NNP	_	53	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+53	Ummah	Ummah	PROPN	NNP	_	49	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+54	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 18
+# text = It is a fact that today there is a camp that is opposed to Islam and Muslims.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	fact	fact	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	today	today	NOUN	NN	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	there	there	PRON	EX	_	8	expl	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	camp	camp	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	WDT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	opposed	oppose	VERB	VBN	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islam	Islam	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	Muslims	Muslims	PROPN	NNPS	_	15	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 20
+# text = It slipped out of their mouth, and they used the term "crusade" a few years ago.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	slipped	slip	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	out	out	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	mouth	mouth	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	used	use	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	term	term	NOUN	NN	_	14	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	``	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	crusade	crusade	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	"	"	PUNCT	''	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	18	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	few	few	ADJ	JJ	_	18	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	years	year	NOUN	NNS	_	19	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	ago	ago	ADV	RB	_	10	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 12
+# text = This means the entire Islamic Ummah is faced with a threat.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	entire	entire	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	Ummah	Ummah	PROPN	NNP	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	faced	face	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	threat	threat	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 31
+# text = It is a mistake to think that the enemies of Islam and Muslims are opposed to a certain portion of the world of Islam and support another portion of it.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	mistake	mistake	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	think	think	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	enemies	enemy	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islam	Islam	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	Muslims	Muslims	PROPN	NNPS	_	11	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	are	be	AUX	VBP	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	opposed	oppose	VERB	VBN	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	certain	certain	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	portion	portion	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	world	world	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islam	Islam	PROPN	NNP	_	23	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+25	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	support	support	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	another	another	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	portion	portion	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	it	-PRON-	PRON	PRP	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 6
+# text = This is not the case.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 10
+# text = They are opposed to the Islamic Ummah in general.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	opposed	oppose	VERB	VBN	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	Islamic	Islamic	PROPN	NNP	_	7	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	Ummah	Ummah	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	general	general	NOUN	NN	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 15
+# text = This is because the essence of Islam requires resistance against bullying and hegemonic powers.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	essence	essence	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islam	Islam	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	requires	require	VERB	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	resistance	resistance	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	against	against	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	bullying	bullying	NOUN	NN	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	hegemonic	hegemonic	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	powers	power	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 6
+# text = They are opposed to Islam.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	opposed	oppose	VERB	VBN	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islam	Islam	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 8
+# text = They have deployed their forces against Islam.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	deployed	deploy	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	forces	force	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	against	against	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islam	Islam	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 7
+# text = We have a duty to resist.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	duty	duty	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	resist	resist	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 11
+# text = The entire world of Islam has a responsibility to resist.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	entire	entire	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	world	world	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islam	Islam	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	responsibility	responsibility	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	resist	resist	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 23
+# text = Fortunately we notice today that many nations have realized certain realities that were not really clear to them in the past decades.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Fortunately	fortunately	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	notice	notice	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	today	today	NOUN	NN	_	3	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	many	many	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	nations	nation	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	realized	realize	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	certain	certain	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	realities	reality	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	were	be	AUX	VBD	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	really	really	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	clear	clear	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	them	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	past	past	NOUN	NN	_	22	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	decades	decade	NOUN	NNS	_	19	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 17
+# text = Today the issue of Palestine is an issue that is alive in the world of Islam.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	issue	issue	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Palestine	Palestine	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	an	an	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	issue	issue	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	alive	alive	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islam	Islam	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 10
+# text = This was not what the enemies of Palestine wanted.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	what	what	PRON	WP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	enemies	enemy	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Palestine	Palestine	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	wanted	want	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 7
+# text = They wanted to isolate this issue.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	wanted	want	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	isolate	isolate	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	issue	issue	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 14
+# text = They wanted to make people forget the existence of a country called Palestine.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	wanted	want	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	forget	forget	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	existence	existence	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	called	call	VERB	VBN	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	Palestine	Palestine	PROPN	NNP	_	12	oprd	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 12
+# text = They wanted to wipe Palestine off the map of the world.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	wanted	want	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	wipe	wipe	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	Palestine	Palestine	PROPN	NNP	_	4	dobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	off	off	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	map	map	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 13
+# text = Fortunately Muslim nations are pursuing this issue with awareness and vigilance today.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Fortunately	fortunately	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	Muslim	muslim	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nations	nation	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	pursuing	pursue	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	issue	issue	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	awareness	awareness	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	vigilance	vigilance	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 12
+# text = Some governments are cooperating, and others fail to do so.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Some	some	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	governments	government	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	cooperating	cooperate	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	others	other	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	fail	fail	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	do	do	AUX	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	so	so	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 23
+# text = But peoples are pursuing the issue of Palestine unanimously, and there is no doubt their efforts will produce the desired results.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	peoples	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	pursuing	pursue	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	issue	issue	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Palestine	Palestine	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	unanimously	unanimously	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	there	there	PRON	EX	_	13	expl	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	no	no	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	doubt	doubt	ADV	RB	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	efforts	effort	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	will	will	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	produce	produce	VERB	VB	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	desired	desire	VERB	VBN	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	results	result	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 13
+# text = The same is true of different issues of the world of Islam.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	same	same	ADJ	JJ	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	true	true	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	different	different	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	issues	issue	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	world	world	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islam	Islam	PROPN	NNP	_	11	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 26
+# text = This is a great lesson that Eid ul-Fitr holds for us - the unified front formed by Muslim brothers in all Islamic countries.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	lesson	lesson	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	Eid	Eid	PROPN	NNP	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	ul	ul	PROPN	NNP	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	Fitr	Fitr	PROPN	NNP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	holds	hold	VERB	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	us	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	unified	unified	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	front	front	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	formed	form	VERB	VBN	_	17	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	by	by	ADP	IN	_	18	agent	_	ent_type=_|ent_id=2|ent_iob=O
+20	Muslim	muslim	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	brothers	brother	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	all	all	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islamic	islamic	ADJ	JJ	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	countries	country	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 7
+# text = Everybody should move in this direction.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	move	move	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	direction	direction	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 9
+# text = All of us should work in this direction.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	All	all	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	us	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	work	work	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	direction	direction	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 11
+# text = By Allah's favor, these efforts will be continued.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	By	by	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	favor	favor	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	these	these	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	efforts	effort	NOUN	NNS	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	continued	continue	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 49
+# text = And the day Muslim nations enter into global issues in a unified fashion, the problems that plague the world of Islam will be resolved in favor of Muslim nations - unlike the current situation in which different disagreements in the world of Islam prevent this from happening.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	And	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	day	day	NOUN	NN	_	25	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	Muslim	muslim	ADJ	JJ	_	5	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	nations	nation	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	enter	enter	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	into	into	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	global	global	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	issues	issue	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	unified	unified	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	fashion	fashion	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	problems	problem	NOUN	NNS	_	25	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	WDT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	plague	plague	VERB	VBP	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	world	world	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islam	Islam	PROPN	NNP	_	21	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+23	will	will	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	be	be	AUX	VB	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	resolved	resolve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	favor	favor	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Muslim	muslim	ADJ	JJ	_	30	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+30	nations	nation	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	-	-	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	unlike	unlike	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	current	current	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	situation	situation	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	in	in	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	which	which	DET	WDT	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	different	different	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	disagreements	disagreement	NOUN	NNS	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	world	world	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	Islam	Islam	PROPN	NNP	_	43	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+45	prevent	prevent	VERB	VB	_	35	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+46	this	this	DET	DT	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	from	from	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	happening	happen	VERB	VBG	_	47	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 22
+# text = However, by Allah's favor, we will get closer to unity of the Islamic Ummah on a daily basis.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	However	however	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	by	by	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Allah	Allah	PROPN	NNP	_	6	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	's	's	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	favor	favor	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	closer	close	ADJ	JJR	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	unity	unity	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	Ummah	Ummah	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	daily	daily	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	basis	basis	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 17
+# text = Fortunately our dear nation is a role model in this regard - it is an example.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Fortunately	fortunately	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	dear	dear	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	role	role	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	model	model	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	regard	regard	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	:	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	example	example	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 5
+# text = Our people are vigilant.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	vigilant	vigilant	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 5
+# text = Our people are united.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	united	united	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 13
+# text = Our nation is pursuing global issues in a caring and enthusiastic manner.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	pursuing	pursue	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	global	global	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	issues	issue	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	caring	caring	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	enthusiastic	enthusiastic	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	manner	manner	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 21
+# text = Our nation is actively involved in the issues of the world of Islam and adopts clear positions on these issues.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	actively	actively	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	involved	involve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	issues	issue	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islam	Islam	PROPN	NNP	_	12	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	adopts	adopt	VERB	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	clear	clear	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	positions	position	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	these	these	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	issues	issue	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 27
+# text = An example of this was manifested in the great Quds Day rallies across the country - in all towns and cities and even in some villages.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	An	an	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	example	example	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	manifested	manifest	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	great	great	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	Quds	Quds	PROPN	NNPS	_	11	compound	_	ent_type=EVENT|ent_id=3|ent_iob=B
+11	Day	Day	PROPN	NNP	_	12	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+12	rallies	rally	VERB	VBZ	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	across	across	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	all	all	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	towns	town	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	cities	city	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	even	even	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	some	some	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	villages	village	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 22
+# text = The people took to the streets and shouted slogans in support of their Muslim brothers whom they have never even seen.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	took	take	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	streets	street	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	shouted	shout	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	slogans	slogan	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	support	support	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	Muslim	muslim	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	brothers	brother	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	whom	whom	PRON	WP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	never	never	ADV	RB	_	21	neg	_	ent_type=_|ent_id=2|ent_iob=O
+20	even	even	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	seen	see	VERB	VBN	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 9
+# text = But they consider their problems as their own.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	consider	consider	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	problems	problem	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	as	as	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	own	own	ADJ	JJ	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 10
+# text = This is due to religious faith and Islamic Awakening.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	due	due	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	religious	religious	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	faith	faith	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	Awakening	Awakening	PROPN	NNP	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 19
+# text = This is the path that our magnanimous Imam (r.a.) opened up in front of us.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	path	path	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	magnanimous	magnanimous	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	Imam	Imam	PROPN	NNP	_	13	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	(	(	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	r.a	r.a	PROPN	NNP	_	11	dep	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	opened	open	VERB	VBD	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	up	up	ADP	RP	_	13	prt	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	front	front	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	us	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 41
+# text = We will continue this path, and the threats, opposition, hostilities and spiteful acts that one can see in different parts of the big opposing camp will not be able to prevent this nation from treading its path.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	continue	continue	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	path	path	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	threats	threat	NOUN	NNS	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	opposition	opposition	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	hostilities	hostility	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	spiteful	spiteful	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	acts	act	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	SCONJ	IN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	one	one	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	can	can	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	see	see	VERB	VB	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	different	different	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	parts	part	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	big	big	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	opposing	oppose	VERB	VBG	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	camp	camp	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	will	will	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	not	not	PART	RB	_	31	neg	_	ent_type=_|ent_id=2|ent_iob=O
+31	be	be	AUX	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	able	able	ADJ	JJ	_	31	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	prevent	prevent	VERB	VB	_	32	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	this	this	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	nation	nation	NOUN	NN	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	from	from	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	treading	tread	VERB	VBG	_	37	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	its	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	path	path	NOUN	NN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 16
+# text = I hope Allah the Exalted will bestow more mercy and blessings on you dear people.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	more	more	ADJ	JJR	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	mercy	mercy	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	blessings	blessing	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	you	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	dear	dear	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 12
+# text = I hope God will bestow His grace on all of you.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	bestow	bestow	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	His	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	grace	grace	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	DT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 22
+# text = I hope Allah the Exalted will open up the doors of His grace on the Islamic Ummah on a daily basis.
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	open	open	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	up	up	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	doors	door	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	His	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	grace	grace	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	Ummah	Ummah	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	daily	daily	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	basis	basis	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address to Government Officials and Ambassadors of Islamic Countries
+# year = 2010
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

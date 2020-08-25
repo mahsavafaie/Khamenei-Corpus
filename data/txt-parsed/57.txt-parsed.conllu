@@ -1,0 +1,1569 @@
+# sent_id = 1
+# sent_len = 17
+# text = I would like to felicitate the advent of the New Year on all our dear compatriots.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	felicitate	felicitate	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	advent	advent	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+10	New	New	PROPN	NNP	_	11	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+11	Year	Year	PROPN	NNP	_	8	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+12	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	all	all	DET	PDT	_	16	predet	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	dear	dear	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	compatriots	compatriot	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 26
+# text = I would also like to pay tribute to the most prominent among the righteous and the Master of Martyrs, His Holiness Imam Hussein ibn Ali
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	pay	pay	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	tribute	tribute	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	6	dative	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	most	most	ADV	RBS	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	prominent	prominent	ADJ	JJ	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	among	among	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	righteous	righteous	ADJ	JJ	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+17	Master	Master	PROPN	NNP	_	14	conj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+18	of	of	ADP	IN	_	17	prep	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+19	Martyrs	Martyrs	PROPN	NNP	_	18	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+20	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	His	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	Holiness	Holiness	PROPN	NNP	_	4	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+23	Imam	Imam	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+24	Hussein	Hussein	PROPN	NNP	_	26	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+25	ibn	ibn	PROPN	NNP	_	26	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+26	Ali	Ali	PROPN	NNP	_	22	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+
+# sent_id = 3
+# sent_len = 28
+# text = (peace and greetings be upon him), to the sacred soul of our late magnanimous Imam and to the immaculate souls of our dignified martyrs.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	(	(	PUNCT	-LRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	peace	peace	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	greetings	greeting	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	upon	upon	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	him	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	)	)	PUNCT	-RRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	sacred	sacred	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	soul	soul	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	late	late	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	magnanimous	magnanimous	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	Imam	Imam	PROPN	NNP	_	14	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	immaculate	immaculate	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	souls	soul	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	dignified	dignified	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	martyrs	martyr	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 31
+# text = During the past year, I called on the government officials to do their utmost to create more jobs in order to lower the rate of unemployment in the country.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	During	during	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	past	past	ADJ	JJ	_	4	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	year	year	NOUN	NN	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	called	call	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	government	government	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	officials	official	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	do	do	AUX	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	utmost	utmost	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	create	create	VERB	VB	_	15	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	more	more	ADJ	JJR	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	jobs	job	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	order	order	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	lower	lower	VERB	VB	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	rate	rate	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	unemployment	unemployment	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	country	country	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 32
+# text = I also asked them to launch a campaign against financial and economic corruption, which is a malady that undermines and detracts from our achievements and positive results of our endeavors.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	asked	ask	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	them	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	launch	launch	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	campaign	campaign	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	against	against	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	financial	financial	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	economic	economic	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	corruption	corruption	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	which	which	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	malady	malady	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	DET	WDT	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	undermines	undermine	VERB	VBZ	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	detracts	detract	VERB	VBZ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	from	from	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	achievements	achievement	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	positive	positive	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	results	result	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	our	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	endeavors	endeavor	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 44
+# text = Although the efforts made by the officials during the past year to eliminate unemployment and counter corruption are worthy of praise, they are not enough and more efforts should be made by the government during the current year to achieve these objectives.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Although	although	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	efforts	effort	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	made	make	VERB	VBN	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	officials	official	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	during	during	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	past	past	ADJ	JJ	_	11	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	year	year	NOUN	NN	_	8	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	eliminate	eliminate	VERB	VB	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	unemployment	unemployment	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	counter	counter	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	corruption	corruption	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	worthy	worthy	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	praise	praise	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	they	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	not	not	PART	RB	_	24	neg	_	ent_type=_|ent_id=2|ent_iob=O
+26	enough	enough	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	more	more	ADJ	JJR	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	efforts	effort	NOUN	NNS	_	32	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	should	should	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	be	be	AUX	VB	_	32	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	made	make	VERB	VBN	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	by	by	ADP	IN	_	32	agent	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	government	government	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	during	during	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	39	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+38	current	current	ADJ	JJ	_	39	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+39	year	year	NOUN	NN	_	36	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+40	to	to	PART	TO	_	41	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	achieve	achieve	VERB	VB	_	32	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+42	these	these	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	objectives	objective	NOUN	NNS	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 18
+# text = In general, the accomplishment of great tasks is not possible in a short period of time.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	general	general	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	accomplishment	accomplishment	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	tasks	task	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	possible	possible	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	short	short	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	period	period	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	time	time	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 38
+# text = Another point that I would like to add and emphasize this year is that the officials in charge of all three branches of government should launch a campaign to render more and better services to the public.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Another	another	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	point	point	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	VERB	VB	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	add	add	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	emphasize	emphasize	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	year	year	NOUN	NN	_	10	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	officials	official	NOUN	NNS	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	charge	charge	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	all	all	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	three	three	NUM	CD	_	22	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+22	branches	branch	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	government	government	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	should	should	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	launch	launch	VERB	VB	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	campaign	campaign	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	render	render	VERB	VB	_	28	acl	_	ent_type=_|ent_id=2|ent_iob=O
+31	more	more	ADJ	JJR	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	better	well	ADJ	JJR	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	services	service	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	public	public	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 35
+# text = Besides, they should give priority to those plans and projects that are of greater benefit to the people, especially to the underprivileged and deprived strata, and which can be implemented faster.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Besides	besides	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	give	give	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	priority	priority	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	5	dative	_	ent_type=_|ent_id=2|ent_iob=O
+8	those	those	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	plans	plan	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	projects	project	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	greater	great	ADJ	JJR	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	benefit	benefit	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	especially	especially	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	underprivileged	underprivileged	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	deprived	deprive	VERB	VBN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	strata	strata	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	which	which	DET	WDT	_	33	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	can	can	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	be	be	AUX	VB	_	33	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	implemented	implement	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	faster	faster	ADV	RBR	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 32
+# text = Furthermore, reports on the measures taken by the government should regularly be given to the people so that they may judge and assess the competence and efficiency of the system.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Furthermore	furthermore	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	reports	report	NOUN	NNS	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	measures	measure	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	taken	take	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	government	government	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	regularly	regularly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	given	give	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	dative	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	people	people	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	so	so	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	may	may	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	judge	judge	VERB	VB	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	assess	assess	VERB	VB	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	competence	competence	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	efficiency	efficiency	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	system	system	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 31
+# text = I would like to call on all officials in the three branches of government and the political groups to compete with one another to render better services to the public.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	call	call	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	officials	official	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	three	three	NUM	CD	_	12	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+12	branches	branch	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	government	government	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	political	political	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	groups	group	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	compete	compete	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	with	with	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	one	one	NUM	CD	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	another	another	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	render	render	VERB	VB	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	better	well	ADJ	JJR	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	services	service	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	public	public	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 27
+# text = The reason why I am asking them to do so is that some in the country are only competing with one another to attain political power.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	reason	reason	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	am	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	asking	ask	VERB	VBG	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	them	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	do	do	AUX	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	so	so	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	some	some	DET	DT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	country	country	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	only	only	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	competing	compete	VERB	VBG	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	one	one	NUM	CD	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	another	another	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	attain	attain	VERB	VB	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	political	political	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	power	power	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 31
+# text = This kind of rivalry is surely harmful to the people's interests, and the only useful rivalry is the one aimed at serving the people in a better way.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	kind	kind	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	rivalry	rivalry	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	surely	surely	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	harmful	harmful	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	's	's	PART	POS	_	10	case	_	ent_type=_|ent_id=2|ent_iob=O
+12	interests	interest	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	only	only	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	useful	useful	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	rivalry	rivalry	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	one	one	NOUN	NN	_	19	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+22	aimed	aim	VERB	VBN	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	at	at	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	serving	serve	VERB	VBG	_	23	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	people	people	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	better	well	ADJ	JJR	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	way	way	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 21
+# text = All officials should take this competition very seriously and draw up and implement the necessary plans to achieve this goal.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	officials	official	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	competition	competition	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	very	very	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	seriously	seriously	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	draw	draw	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	up	up	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	implement	implement	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	necessary	necessary	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	plans	plan	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	achieve	achieve	VERB	VB	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	goal	goal	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 22
+# text = They should prove the competence and efficiency of our system, which our enemies are trying hard to call into question.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	prove	prove	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	competence	competence	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	efficiency	efficiency	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	system	system	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	enemies	enemy	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	trying	try	VERB	VBG	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	hard	hard	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	call	call	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	into	into	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	question	question	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 38
+# text = Unfortunately, the turn of the year has coincided with a devastative war that has been motivated by evil intentions and which is a clear sign of bullying and oppression on the part of the United States.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Unfortunately	unfortunately	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	turn	turn	NOUN	NN	_	9	nsubj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	of	of	ADP	IN	_	4	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	the	the	DET	DT	_	7	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	year	year	NOUN	NN	_	5	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	coincided	coincide	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	devastative	devastative	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	war	war	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	has	have	AUX	VBZ	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	been	be	AUX	VBN	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	motivated	motivate	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	17	agent	_	ent_type=_|ent_id=2|ent_iob=O
+19	evil	evil	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	intentions	intention	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	which	which	DET	WDT	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	clear	clear	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	sign	sign	NOUN	NN	_	23	attr	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	bullying	bullying	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	oppression	oppression	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	on	on	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	part	part	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+36	United	United	PROPN	NNP	_	37	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+37	States	States	PROPN	NNP	_	34	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+38	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 50
+# text = Although the United States and some other countries like Britain have waged this war on Iraq, it is not clear whether they will also be able to bring it to an end, unless they withdraw their military forces out of the region and end this human catastrophe.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Although	although	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	United	United	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	States	States	PROPN	NNP	_	12	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	some	some	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	other	other	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	countries	country	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	like	like	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Britain	Britain	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	waged	wage	VERB	VBN	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	war	war	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iraq	Iraq	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	it	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+21	clear	clear	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	whether	whether	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	they	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	will	will	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	also	also	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	be	be	AUX	VB	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	able	able	ADJ	JJ	_	26	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	bring	bring	VERB	VB	_	27	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	it	-PRON-	PRON	PRP	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	an	an	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	end	end	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	unless	unless	SCONJ	IN	_	37	mark	_	ent_type=_|ent_id=2|ent_iob=O
+36	they	-PRON-	PRON	PRP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	withdraw	withdraw	VERB	VBP	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+38	their	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	military	military	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	forces	force	NOUN	NNS	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	out	out	SCONJ	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	region	region	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	end	end	VERB	VB	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	this	this	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	human	human	ADJ	JJ	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	catastrophe	catastrophe	NOUN	NN	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 49
+# text = The U.S. war on Iraq, which is aimed at capturing that country, is not the first of its kind, since the United States has imposed many such wars on other nations in eastern Asia, Africa and Latin America in the past half a century.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	war	war	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iraq	Iraq	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	aimed	aim	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	at	at	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	capturing	capture	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	first	first	ADJ	JJ	_	15	attr	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	its	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	kind	kind	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	since	since	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	United	United	PROPN	NNP	_	26	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+26	States	States	PROPN	NNP	_	28	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	has	have	AUX	VBZ	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	imposed	impose	VERB	VBN	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	many	many	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	such	such	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	wars	war	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	on	on	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	other	other	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	nations	nation	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	eastern	eastern	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	Asia	Asia	PROPN	NNP	_	35	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+38	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	Africa	Africa	PROPN	NNP	_	37	conj	_	ent_type=LOC|ent_id=3|ent_iob=B
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	Latin	Latin	PROPN	NNP	_	42	compound	_	ent_type=LOC|ent_id=3|ent_iob=B
+42	America	America	PROPN	NNP	_	39	conj	_	ent_type=LOC|ent_id=1|ent_iob=I
+43	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	48	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+45	past	past	ADJ	JJ	_	48	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+46	half	half	DET	PDT	_	48	predet	_	ent_type=DATE|ent_id=1|ent_iob=I
+47	a	a	DET	DT	_	48	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+48	century	century	NOUN	NN	_	43	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+49	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 39
+# text = But the important point with regard to all these cases is that although the Untied States won certain victories in the short term, it received hard slaps in the face from those nations in the long run!
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	But	but	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	point	point	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	regard	regard	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	cases	case	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	although	although	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	Untied	Untied	PROPN	NNP	_	16	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	States	States	PROPN	NNP	_	17	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	won	win	VERB	VBD	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	certain	certain	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	victories	victory	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	short	short	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	term	term	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	it	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	received	receive	VERB	VBD	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	hard	hard	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	slaps	slap	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	face	face	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	from	from	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	those	those	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	nations	nation	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	long	long	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	run	run	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	!	!	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 17
+# text = Where is the government in the former South Vietnam that was supported by the United States?
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Where	where	ADV	WRB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	government	government	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	former	former	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	South	South	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Vietnam	Vietnam	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	that	that	DET	WDT	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	supported	support	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	United	United	PROPN	NNP	_	16	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	States	States	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 14
+# text = Where is Pinochet, whom the U.S. helped to take power in Chile?
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Where	where	ADV	WRB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Pinochet	Pinochet	PROPN	NNP	_	2	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	whom	whom	PRON	WP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	U.S.	U.S.	PROPN	NNP	_	8	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	helped	help	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	take	take	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	power	power	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Chile	Chile	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 12
+# text = In all these cases, the United States ultimately suffered humiliation.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	PDT	_	4	predet	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	cases	case	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	United	United	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	States	States	PROPN	NNP	_	10	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	ultimately	ultimately	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	suffered	suffer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	humiliation	humiliation	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 19
+# text = This same fate is also in store for the U.S. with regard to its military aggression against Iraq.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	same	same	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	fate	fate	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	store	store	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	U.S.	U.S.	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	regard	regard	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	its	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	military	military	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	aggression	aggression	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	against	against	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iraq	Iraq	PROPN	NNP	_	17	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 21
+# text = The war waged by the United States and Britain on Iraq has strongly been condemned by the world public opinion.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	war	war	NOUN	NN	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	waged	wage	VERB	VBN	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	3	agent	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	United	United	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	States	States	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	Britain	Britain	PROPN	NNP	_	7	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iraq	Iraq	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	has	have	AUX	VBZ	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	strongly	strongly	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	been	be	AUX	VBN	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	condemned	condemn	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	world	world	NOUN	NN	_	20	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	public	public	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	opinion	opinion	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 27
+# text = But the aggressors, who claim to respect human rights and the people's views, are continuing with their aggression heedless of this worldwide condemnation.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	But	but	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	aggressors	aggressor	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	claim	claim	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	respect	respect	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	human	human	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	rights	right	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	's	's	PART	POS	_	13	case	_	ent_type=_|ent_id=2|ent_iob=O
+15	views	view	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	continuing	continue	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	with	with	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	aggression	aggression	NOUN	NN	_	22	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	heedless	heedless	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	worldwide	worldwide	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	condemnation	condemnation	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 38
+# text = In fact, the main objectives pursued by the U.S. and Britain are to occupy Iraq and take control of its oilfields, dominate the Middle East region and extend full support to the illegitimate Zionist regime.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	In	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	main	main	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	objectives	objective	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	pursued	pursue	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	U.S.	U.S.	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	Britain	Britain	PROPN	NNP	_	10	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	occupy	occupy	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iraq	Iraq	PROPN	NNP	_	15	dobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	take	take	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	control	control	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	its	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	oilfields	oilfield	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	dominate	dominate	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+26	Middle	Middle	PROPN	NNP	_	27	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+27	East	East	PROPN	NNP	_	28	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+28	region	region	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	extend	extend	VERB	VB	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	full	full	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	support	support	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	illegitimate	illegitimate	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	Zionist	zionist	ADJ	JJ	_	37	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+37	regime	regime	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 32
+# text = Under the circumstances, we pray for the safety of the Iraqi people, but this does not mean that we feel sympathy for the Iraqi dictator and the Ba'thist regime.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Under	under	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	circumstances	circumstance	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	safety	safety	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iraqi	iraqi	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	does	do	AUX	VBZ	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	mean	mean	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	we	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	feel	feel	VERB	VBP	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	sympathy	sympathy	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Iraqi	iraqi	ADJ	JJ	_	27	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+27	dictator	dictator	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	Ba'thist	ba'thist	ADJ	JJ	_	31	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+31	regime	regime	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 36
+# text = Indeed, we are the ones who have suffered the most from the missiles and chemical weapons that were used by the Iraqi regime in the course of its imposed war on the Islamic Republic.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Indeed	indeed	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	ones	one	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	suffered	suffer	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	most	most	ADJ	JJS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	missiles	missile	NOUN	NNS	_	17	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	chemical	chemical	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	weapons	weapon	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	DET	WDT	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	were	be	AUX	VBD	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	used	use	VERB	VBN	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	20	agent	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iraqi	iraqi	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	regime	regime	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	course	course	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	its	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	imposed	impose	VERB	VBN	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	war	war	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	on	on	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+34	Islamic	Islamic	PROPN	NNP	_	35	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+35	Republic	Republic	PROPN	NNP	_	32	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+36	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 29
+# text = However, it is also worthy of mention that these weapons of mass destruction had been supplied to the Iraqi regime by the United States and Britain themselves.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	However	however	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	worthy	worthy	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	mention	mention	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	weapons	weapon	NOUN	NNS	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	mass	mass	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	destruction	destruction	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	had	have	AUX	VBD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	been	be	AUX	VBN	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	supplied	supply	VERB	VBN	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iraqi	iraqi	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	regime	regime	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	17	agent	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+24	United	United	PROPN	NNP	_	25	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+25	States	States	PROPN	NNP	_	22	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	Britain	Britain	PROPN	NNP	_	25	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+28	themselves	-PRON-	PRON	PRP	_	27	appos	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 19
+# text = But these two countries have now waged a war on Iraq on the pretext of destroying these weapons!
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	But	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	two	two	NUM	CD	_	4	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	countries	country	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	now	now	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	waged	wage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	war	war	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iraq	Iraq	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	pretext	pretext	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	destroying	destroy	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	these	these	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	weapons	weapon	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	!	!	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 15
+# text = Therefore, it is clear that we feel sympathy only for the Iraqi people.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	clear	clear	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	feel	feel	VERB	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	sympathy	sympathy	NOUN	NN	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	only	only	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Iraqi	iraqi	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	people	people	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 36
+# text = We also believe that only the Iraqi nation has the right to decide its future, and that no government or organization, not even the United Nations, has the right to do so.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	only	only	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iraqi	iraqi	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	nation	nation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	has	have	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	right	right	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	decide	decide	VERB	VB	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	its	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	future	future	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	30	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	no	no	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	government	government	NOUN	NN	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	organization	organization	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	not	not	PART	RB	_	20	neg	_	ent_type=_|ent_id=2|ent_iob=O
+25	even	even	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	United	United	PROPN	NNP	_	28	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+28	Nations	Nations	PROPN	NNP	_	20	appos	_	ent_type=ORG|ent_id=1|ent_iob=I
+29	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	has	have	AUX	VBZ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	right	right	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	do	do	AUX	VB	_	32	acl	_	ent_type=_|ent_id=2|ent_iob=O
+35	so	so	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 33
+# text = The people of Iraq, who possess a rich culture and an ancient civilization, can decide their future and their next government by going to the polls and casting their votes.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iraq	Iraq	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	possess	possess	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	rich	rich	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	culture	culture	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	an	an	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	ancient	ancient	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	civilization	civilization	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	can	can	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	decide	decide	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	future	future	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	next	next	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	government	government	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	by	by	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	going	go	VERB	VBG	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	polls	poll	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	casting	cast	VERB	VBG	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	their	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	votes	vote	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 33
+# text = We condemn the current military aggression against Iraq, since it is inflicting great sufferings on the Iraqi nation, and we believe that it should be stopped as soon as possible.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	condemn	condemn	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	current	current	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	military	military	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	aggression	aggression	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	against	against	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iraq	Iraq	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	since	since	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	inflicting	inflict	VERB	VBG	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	sufferings	suffering	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iraqi	iraqi	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	nation	nation	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	we	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	believe	believe	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+25	it	-PRON-	PRON	PRP	_	28	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	should	should	VERB	MD	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	be	be	AUX	VB	_	28	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	stopped	stop	VERB	VBN	_	23	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	as	as	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	soon	soon	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	as	as	SCONJ	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	possible	possible	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 16
+# text = The Iranian people should note that this is the unmasked face of the United States!
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	note	note	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	unmasked	unmasked	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	face	face	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	United	United	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	States	States	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	!	!	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 27
+# text = Despite its claims to respect human rights and democracy, the U.S. will not hesitate to attack other nations if this aggression furthers its illegitimate interests.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Despite	despite	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	its	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	claims	claim	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	respect	respect	VERB	VB	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	human	human	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	rights	right	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	democracy	democracy	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	U.S.	U.S.	PROPN	NNP	_	15	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	hesitate	hesitate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	attack	attack	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	other	other	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	nations	nation	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	if	if	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	aggression	aggression	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	furthers	further	VERB	VBZ	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	its	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	illegitimate	illegitimate	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	interests	interest	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 26
+# text = This is the meaning of the term 'arrogance', which has been introduced into the world's political terminology by our Islamic Revolution.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	meaning	meaning	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	term	term	NOUN	NN	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	'	'	PUNCT	``	_	7	case	_	ent_type=_|ent_id=2|ent_iob=O
+9	arrogance	arrogance	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	'	'	PUNCT	''	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	has	have	AUX	VBZ	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	been	be	AUX	VBN	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	introduced	introduce	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	into	into	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	world	world	NOUN	NN	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	's	's	PART	POS	_	18	case	_	ent_type=_|ent_id=2|ent_iob=O
+20	political	political	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	terminology	terminology	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=EVENT|ent_id=3|ent_iob=B
+24	Islamic	Islamic	PROPN	NNP	_	25	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+25	Revolution	Revolution	PROPN	NNP	_	22	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 29
+# text = Arrogance means that a country considers itself entitled to trample on the rights and interests of other nations and promote its own interests by using its military power!
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Arrogance	arrogance	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	country	country	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	considers	consider	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	itself	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	entitled	entitle	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	trample	trample	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	rights	right	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	interests	interest	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	other	other	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	nations	nation	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	promote	promote	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	its	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	own	own	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	interests	interest	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	by	by	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	using	use	VERB	VBG	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	its	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	military	military	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	power	power	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 26
+# text = The Iranian people, who are well aware of the arrogant nature of the United States and Britain, should be more vigilant than before.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	well	well	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	aware	aware	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	arrogant	arrogant	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	nature	nature	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	United	United	PROPN	NNP	_	16	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	States	States	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	Britain	Britain	PROPN	NNP	_	16	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	should	should	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	more	more	ADV	RBR	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	vigilant	vigilant	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	than	than	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	before	before	ADV	RB	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 26
+# text = They should also be prepared for likely encounters not only in the military area, but also in the cultural, political and economic spheres.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	They	-PRON-	PRON	PRP	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	prepared	prepare	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	likely	likely	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	encounters	encounter	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	11	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+10	only	only	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	military	military	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	area	area	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	but	but	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	also	also	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	cultural	cultural	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	political	political	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	economic	economic	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	spheres	sphere	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 49
+# text = In conclusion, I would like to ask our young people in the 15-35 age group, who constitute over seventy percent of our population, to try to keep up their strength, resolve and confidence and be well prepared for encounters in different areas.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	ask	ask	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	young	young	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	15	15	NUM	CD	_	18	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	-	-	SYM	SYM	_	16	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	35	35	NUM	CD	_	18	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	age	age	NOUN	NN	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	group	group	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	constitute	constitute	VERB	VBP	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	over	over	ADP	IN	_	23	quantmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	seventy	seventy	NUM	CD	_	24	nummod	_	ent_type=PERCENT|ent_id=3|ent_iob=B
+24	percent	percent	NOUN	NN	_	21	dobj	_	ent_type=PERCENT|ent_id=1|ent_iob=I
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	population	population	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	try	try	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	keep	keep	VERB	VB	_	30	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	up	up	ADP	RP	_	32	prt	_	ent_type=_|ent_id=2|ent_iob=O
+34	their	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	strength	strength	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	resolve	resolve	NOUN	NN	_	32	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	confidence	confidence	NOUN	NN	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	be	be	AUX	VB	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	well	well	ADV	RB	_	43	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+43	prepared	prepare	VERB	VBN	_	41	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+44	for	for	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	encounters	encounter	NOUN	NNS	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	in	in	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	different	different	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	areas	area	NOUN	NNS	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 25
+# text = Probably we will never face a military encounter, but we will surely face political, economic and, in particular, cultural conflicts.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Probably	probably	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	never	never	ADV	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	face	face	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	military	military	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	encounter	encounter	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	we	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	surely	surely	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	face	face	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	political	political	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	economic	economic	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	particular	particular	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	cultural	cultural	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	conflicts	conflict	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 47
+# text = I would like to once again call on our government officials to increase their efforts to render more and better services to the public and to do their utmost to eliminate corruption, so that our young people may witness the positive results of their endeavors.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	once	once	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	again	again	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	call	call	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	government	government	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	officials	official	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	increase	increase	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	efforts	effort	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	render	render	VERB	VB	_	15	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	more	more	ADJ	JJR	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	better	well	ADJ	JJR	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	services	service	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	public	public	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	do	do	AUX	VB	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	their	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	utmost	utmost	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	eliminate	eliminate	VERB	VB	_	29	acl	_	ent_type=_|ent_id=2|ent_iob=O
+32	corruption	corruption	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	so	so	SCONJ	IN	_	40	mark	_	ent_type=_|ent_id=2|ent_iob=O
+35	that	that	SCONJ	IN	_	40	mark	_	ent_type=_|ent_id=2|ent_iob=O
+36	our	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	young	young	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	people	people	NOUN	NNS	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	may	may	VERB	MD	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	witness	witness	VERB	VB	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	positive	positive	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	results	result	NOUN	NNS	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	of	of	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	their	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+46	endeavors	endeavor	NOUN	NNS	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 29
+# text = I pray to Almighty Allah to bestow success on our officials in performing their duties and to confer more honor, prosperity and dignity on our great nation.
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	success	success	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	officials	official	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	performing	perform	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	duties	duty	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	confer	confer	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	more	more	ADJ	JJR	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	honor	honor	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	prosperity	prosperity	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	dignity	dignity	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	great	great	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	nation	nation	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address on New Year's Day
+# year = 2003
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

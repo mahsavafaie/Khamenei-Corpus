@@ -1,0 +1,2641 @@
+# sent_id = 1
+# sent_len = 52
+# text = All praise is due to Allah, the Lord of all sentient beings, and peace and greetings be upon our Master and Prophet, Ab-al-Qassem Al-Mustafa Muhammad, and upon his immaculate and infallible household, especially the one remaining with Allah on earth.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	praise	praise	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	due	due	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Lord	Lord	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	sentient	sentient	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	beings	being	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	peace	peace	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	greetings	greeting	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	be	be	AUX	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	upon	upon	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	Master	Master	PROPN	NNP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	Prophet	Prophet	PROPN	NNP	_	22	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+25	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	Ab	Ab	PROPN	NNP	_	30	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+27	-	-	PUNCT	HYPH	_	30	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+28	al	al	PROPN	NNP	_	30	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+29	-	-	PUNCT	HYPH	_	30	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+30	Qassem	Qassem	PROPN	NNP	_	34	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+31	Al	Al	PROPN	NNP	_	33	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+32	-	-	PUNCT	HYPH	_	33	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+33	Mustafa	Mustafa	PROPN	NNP	_	34	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+34	Muhammad	Muhammad	PROPN	NNP	_	19	npadvmod	_	ent_type=PERSON|ent_id=1|ent_iob=I
+35	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	upon	upon	SCONJ	IN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	his	-PRON-	DET	PRP$	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	immaculate	immaculate	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	infallible	infallible	ADJ	JJ	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	household	household	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	especially	especially	ADV	RB	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	46	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	one	one	NOUN	NN	_	42	appos	_	ent_type=_|ent_id=2|ent_iob=O
+47	remaining	remain	VERB	VBG	_	46	acl	_	ent_type=_|ent_id=2|ent_iob=O
+48	with	with	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	Allah	Allah	PROPN	NNP	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	on	on	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	earth	earth	NOUN	NN	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 27
+# text = The two factors which Ayatollah Haeri Shirazi mentioned in regard to security are indeed true: "Power should be accompanied by faithfulness and spirituality."
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	two	two	NUM	CD	_	3	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	factors	factor	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	Ayatollah	Ayatollah	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	Haeri	Haeri	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	Shirazi	Shirazi	PROPN	NNP	_	8	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	mentioned	mention	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	regard	regard	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	security	security	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	indeed	indeed	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	true	true	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	:	:	PUNCT	:	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	"	"	PUNCT	``	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	Power	power	NOUN	NN	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	accompanied	accompany	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	21	agent	_	ent_type=_|ent_id=2|ent_iob=O
+23	faithfulness	faithfulness	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	spirituality	spirituality	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	"	"	PUNCT	''	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 38
+# text = Although the primary purpose of faithfulness and spirituality is self-edification, the importance of faithfulness in the protection of society is no less than power, which is considered as the other element of security.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Although	although	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	primary	primary	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	purpose	purpose	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	faithfulness	faithfulness	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	spirituality	spirituality	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	self	self	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	edification	edification	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	importance	importance	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	faithfulness	faithfulness	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	protection	protection	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	society	society	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	no	no	ADV	RB	_	25	neg	_	ent_type=_|ent_id=2|ent_iob=O
+25	less	less	ADJ	JJR	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	than	than	SCONJ	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	power	power	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	which	which	DET	WDT	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	is	be	AUX	VBZ	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	considered	consider	VERB	VBN	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	as	as	SCONJ	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	other	other	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	element	element	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	security	security	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 59
+# text = People can be ensured of security according to Mr. Haeri's words - which are indeed true - when these two factors go hand in hand, that is when spirituality is accompanied by material power which is influential, which could set the limits, and which could lead the people in society in an influential way.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	People	People	NOUN	NNS	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	ensured	ensure	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	security	security	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	according	accord	VERB	VBG	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Mr.	Mr.	PROPN	NNP	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	Haeri	Haeri	PROPN	NNP	_	12	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	's	's	PART	POS	_	10	case	_	ent_type=_|ent_id=2|ent_iob=O
+12	words	word	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	indeed	indeed	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	true	true	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	when	when	ADV	WRB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	these	these	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	two	two	NUM	CD	_	22	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+22	factors	factor	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	go	go	VERB	VBP	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	hand	hand	NOUN	NN	_	23	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	hand	hand	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	DET	DT	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	is	be	AUX	VBZ	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	when	when	ADV	WRB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	spirituality	spirituality	NOUN	NN	_	33	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	is	be	AUX	VBZ	_	33	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	accompanied	accompany	VERB	VBN	_	29	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	by	by	ADP	IN	_	33	agent	_	ent_type=_|ent_id=2|ent_iob=O
+35	material	material	ADJ	JJ	_	36	compound	_	ent_type=_|ent_id=2|ent_iob=O
+36	power	power	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	which	which	DET	WDT	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	is	be	AUX	VBZ	_	36	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	influential	influential	ADJ	JJ	_	38	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	which	which	DET	WDT	_	43	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+42	could	could	VERB	MD	_	43	aux	_	ent_type=_|ent_id=2|ent_iob=O
+43	set	set	VERB	VB	_	36	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	limits	limit	NOUN	NNS	_	43	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	,	,	PUNCT	,	_	43	punct	_	ent_type=_|ent_id=2|ent_iob=O
+47	and	and	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+48	which	which	DET	WDT	_	50	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+49	could	could	VERB	MD	_	50	aux	_	ent_type=_|ent_id=2|ent_iob=O
+50	lead	lead	VERB	VB	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	people	people	NOUN	NNS	_	50	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	in	in	ADP	IN	_	50	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	society	society	NOUN	NN	_	53	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	in	in	ADP	IN	_	50	prep	_	ent_type=_|ent_id=2|ent_iob=O
+56	an	an	DET	DT	_	58	det	_	ent_type=_|ent_id=2|ent_iob=O
+57	influential	influential	ADJ	JJ	_	58	amod	_	ent_type=_|ent_id=2|ent_iob=O
+58	way	way	NOUN	NN	_	55	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 13
+# text = People can endure hunger, and the inability to satisfy sensual desires .But
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	People	People	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	endure	endure	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	hunger	hunger	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	inability	inability	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	satisfy	satisfy	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	sensual	sensual	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	desires	desire	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.But	.But	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 10
+# text = lack of security is not something they can endure.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	lack	lack	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	security	security	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	something	something	PRON	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	endure	endure	VERB	VB	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 16
+# text = Living in a society which is affluent and prosperous but not secure is very bitter.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Living	live	VERB	VBG	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	society	society	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	affluent	affluent	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	prosperous	prosperous	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	secure	secure	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	very	very	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	bitter	bitter	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 24
+# text = Therefore, security is of paramount importance, and it needs to be complemented by spirituality and spiritual guidance along with material power.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	security	security	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	paramount	paramount	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	importance	importance	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	needs	need	VERB	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	complemented	complement	VERB	VBN	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	by	by	ADP	IN	_	14	agent	_	ent_type=_|ent_id=2|ent_iob=O
+16	spirituality	spirituality	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	spiritual	spiritual	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	guidance	guidance	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	along	along	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	with	with	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	material	material	ADJ	JJ	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	power	power	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 13
+# text = Today we can say that material power boils down to political power.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	material	material	ADJ	JJ	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	boils	boil	VERB	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	down	down	ADP	RP	_	8	prt	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	political	political	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	power	power	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 21
+# text = This is a reality which should deeply concern us - both me as well as you dear brothers and sisters.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	reality	reality	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	deeply	deeply	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	concern	concern	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	us	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	both	both	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	me	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	as	as	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	well	well	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	you	-PRON-	PRON	PRP	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	dear	dear	VERB	VBP	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	brothers	brother	NOUN	NNS	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	sisters	sister	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 6
+# text = Why should we be concerned?
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Why	why	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	concerned	concern	VERB	VBN	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 19
+# text = This is because the Islamic Republic is a model which could have both factors at the same time.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	Republic	Republic	PROPN	NNP	_	7	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	model	model	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	could	could	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VB	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	both	both	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	factors	factor	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	at	at	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	same	same	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	time	time	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 15
+# text = The Islamic Republic means the political power of the household of Islam and religion.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	political	political	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	household	household	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islam	Islam	PROPN	NNP	_	11	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	religion	religion	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 9
+# text = This is the essence of the Islamic Republic.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	essence	essence	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 13
+# text = There existed a time when spirituality and spiritual guidance dominated our country.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	existed	exist	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	time	time	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	when	when	ADV	WRB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	spirituality	spirituality	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	spiritual	spiritual	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	guidance	guidance	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	dominated	dominate	VERB	VBD	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 15
+# text = There were a lot of prominent intellectuals, scholars and philosophers in our country.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	lot	lot	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	prominent	prominent	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	intellectuals	intellectual	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	scholars	scholar	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	philosophers	philosopher	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 27
+# text = But they were only concerned with delivering speeches to different groups of people or to a specific audience in order to have an influence on them.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	only	only	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	concerned	concerned	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	delivering	deliver	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	speeches	speech	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	different	different	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	groups	group	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	specific	specific	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	audience	audience	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	order	order	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	have	have	AUX	VB	_	20	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	an	an	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	influence	influence	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	them	-PRON-	PRON	PRP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 7
+# text = This was what they mainly did.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	mainly	mainly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	did	do	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 7
+# text = Today the Islamic Republic is flourishing.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	Islamic	Islamic	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	Republic	Republic	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	is	be	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	flourishing	flourish	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 18
+# text = Allah the Exalted has put us to the test as the standard-bearers of spiritual guidance.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Allah	Allah	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Exalted	Exalted	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	put	put	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	us	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	test	test	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	standard	standard	NOUN	NN	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	HYPH	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	bearers	bearer	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	spiritual	spiritual	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	guidance	guidance	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 18
+# text = This is indeed a great scene on which we have been put to the test by God.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	indeed	indeed	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	scene	scene	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	been	be	AUX	VBN	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	put	put	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	test	test	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+17	God	God	PROPN	NNP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 28
+# text = We should be concerned with what I previously mentioned, and this is because it is upon us to feel what a great duty we are shouldering.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	concerned	concern	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	what	what	PRON	WP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	I	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	previously	previously	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	mentioned	mention	VERB	VBD	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	because	because	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	it	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	upon	upon	SCONJ	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	us	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	feel	feel	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	what	what	PRON	WP	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	great	great	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	duty	duty	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	we	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	are	be	AUX	VBP	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	shouldering	shoulder	VERB	VBG	_	24	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 30
+# text = There was a time when being a cleric or student at an Islamic seminary - studying lessons on religion - would bring about limited responsibility for us as clerics.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	time	time	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	when	when	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	being	be	AUX	VBG	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	cleric	cleric	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	or	or	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	student	student	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	at	at	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	an	an	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islamic	islamic	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	seminary	seminary	NOUN	NN	_	16	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	HYPH	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	studying	study	VERB	VBG	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	lessons	lesson	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	religion	religion	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	would	would	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	bring	bring	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	about	about	ADP	RP	_	22	prt	_	ent_type=_|ent_id=2|ent_iob=O
+24	limited	limited	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	responsibility	responsibility	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	for	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	us	-PRON-	PRON	PRP	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	as	as	SCONJ	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	clerics	cleric	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 43
+# text = But today studying at an Islamic Seminary and becoming a cleric who is to raise the flag of guidance and be the standard-bearer of propagating religion lays upon us a responsibility which is as great as the Islamic Republic itself.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	3	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	studying	study	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islamic	Islamic	PROPN	NNP	_	7	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	Seminary	Seminary	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	becoming	become	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	cleric	cleric	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	who	who	PRON	WP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	raise	raise	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	flag	flag	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	guidance	guidance	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	standard	standard	NOUN	NN	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	-	-	PUNCT	HYPH	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	bearer	bearer	NOUN	NN	_	21	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	propagating	propagate	VERB	VBG	_	26	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	religion	religion	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	lays	lay	NOUN	NNS	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+30	upon	upon	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	us	-PRON-	PRON	PRP	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	a	a	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	responsibility	responsibility	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	which	which	DET	WDT	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	is	be	AUX	VBZ	_	33	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	as	as	ADV	RB	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	great	great	ADJ	JJ	_	35	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	as	as	SCONJ	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	41	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+40	Islamic	Islamic	PROPN	NNP	_	41	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+41	Republic	Republic	PROPN	NNP	_	38	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+42	itself	-PRON-	PRON	PRP	_	41	appos	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 8
+# text = Of course the responsibility has been shared.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	responsibility	responsibility	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	shared	share	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 11
+# text = It is not limited to a specific person or official.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	limited	limit	VERB	VBN	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	specific	specific	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	person	person	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	or	or	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	official	official	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 8
+# text = We are all responsible in this regard.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	responsible	responsible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	regard	regard	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 19
+# text = My responsibility may be greater than that of yours, yet we are all responsible towards this issue.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	My	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	responsibility	responsibility	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	may	may	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	greater	great	ADJ	JJR	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	than	than	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	DT	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	yours	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	yet	yet	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	all	all	DET	DT	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	responsible	responsible	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	towards	towards	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	issue	issue	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 22
+# text = Such a perspective should draw our attention towards what the Islamic seminaries and clerics in general should be most vigilant about.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Such	such	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	perspective	perspective	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	draw	draw	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	attention	attention	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	towards	towards	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	what	what	PRON	WP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islamic	islamic	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	seminaries	seminary	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	clerics	cleric	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	general	general	NOUN	NN	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	should	should	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	be	be	AUX	VB	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	most	most	ADV	RBS	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	vigilant	vigilant	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	about	about	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 24
+# text = And I should tell you that self-edification tops the list of the responsibilities which have been placed on us as clerics.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	And	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	tell	tell	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	dative	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	self	self	NOUN	NN	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	edification	edification	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	tops	top	VERB	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	list	list	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	responsibilities	responsibility	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	been	be	AUX	VBN	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	placed	place	VERB	VBN	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	us	-PRON-	PRON	PRP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	clerics	cleric	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 14
+# text = And today we even see some honorable women who have entered this scene.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	even	even	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	some	some	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	honorable	honorable	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	women	woman	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	entered	enter	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	scene	scene	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 13
+# text = In the first place, we must focus our attention on ourselves.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	first	first	ADJ	JJ	_	4	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+4	place	place	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	must	must	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	focus	focus	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	attention	attention	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	ourselves	-PRON-	PRON	PRP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 6
+# text = We must strengthen ourselves spiritually.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	strengthen	strengthen	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	ourselves	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	spiritually	spiritually	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 22
+# text = Those who are spiritually strong can shoulder heavy duties, but those who have problems within themselves cannot do so.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Those	those	DET	DT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	spiritually	spiritually	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	strong	strong	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	shoulder	shoulder	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	heavy	heavy	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	duties	duty	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	but	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	those	those	DET	DT	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	have	have	AUX	VBP	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	problems	problem	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	within	within	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	themselves	-PRON-	PRON	PRP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	can	can	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	not	not	PART	RB	_	20	neg	_	ent_type=_|ent_id=2|ent_iob=O
+20	do	do	AUX	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	so	so	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 10
+# text = Piety and self-edification is our primary duty.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Piety	piety	NOUN	NN	_	6	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	self	self	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	edification	edification	NOUN	NN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	primary	primary	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	duty	duty	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 14
+# text = The youth and the young students of Islamic seminaries must appreciate their youth.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	young	young	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	students	student	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	islamic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	seminaries	seminary	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	must	must	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	youth	youth	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 35
+# text = Your pure and immaculate hearts can build a personality for you today that will help keep alive the light of spirituality in your hearts forever so that no one can ever extinguish this light.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Your	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	pure	pure	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	immaculate	immaculate	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	hearts	heart	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	build	build	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	personality	personality	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	7	dative	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	that	that	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	help	help	VERB	VB	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	keep	keep	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	alive	alive	ADJ	JJ	_	16	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	light	light	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	spirituality	spirituality	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	your	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	hearts	heart	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	forever	forever	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	so	so	SCONJ	IN	_	32	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	that	that	SCONJ	IN	_	32	mark	_	ent_type=_|ent_id=2|ent_iob=O
+28	no	no	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	one	one	NOUN	NN	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	can	can	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	ever	ever	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	extinguish	extinguish	VERB	VB	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	this	this	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	light	light	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 12
+# text = This is the first thing that we must take into account.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	first	first	ADJ	JJ	_	5	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+5	thing	thing	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	must	must	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	take	take	VERB	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	into	into	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	account	account	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 19
+# text = We must pay attention to Allah and remember that we will one day have to go to Him.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	attention	attention	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	remember	remember	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	we	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NUM	CD	_	13	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	day	day	NOUN	NN	_	14	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	have	have	AUX	VB	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	go	go	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Him	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 9
+# text = This is an easy task for the youth.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	easy	easy	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	task	task	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	youth	youth	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 11
+# text = Therefore, you must not take your youth for granted.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	must	must	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	your	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	youth	youth	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	granted	grant	VERB	VBN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 24
+# text = Avoiding sins and avoiding deeds that are of a suspicious nature as well as admonition are some of the manifestations of this appreciation.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Avoiding	avoid	VERB	VBG	_	16	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	sins	sin	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	avoiding	avoid	VERB	VBG	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	deeds	deed	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	suspicious	suspicious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	nature	nature	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	well	well	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	admonition	admonition	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	some	some	DET	DT	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	manifestations	manifestation	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	appreciation	appreciation	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 17
+# text = Allah has provided us with the means of admonition, the example of which is praying.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Allah	Allah	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	provided	provide	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	us	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	means	mean	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	admonition	admonition	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	example	example	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	praying	pray	VERB	VBG	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 20
+# text = The obligatory prayers that we say five times a day are one of Allah's greatest blessings for us.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	obligatory	obligatory	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	prayers	prayer	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	five	five	NUM	CD	_	8	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+8	times	time	NOUN	NNS	_	6	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	day	day	NOUN	NN	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NUM	CD	_	11	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Allah	Allah	PROPN	NNP	_	17	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	's	's	PART	POS	_	14	case	_	ent_type=_|ent_id=2|ent_iob=O
+16	greatest	great	ADJ	JJS	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	blessings	blessing	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	us	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 16
+# text = We would be engulfed in negligence if it were not for the sake of prayers.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	engulfed	engulf	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	negligence	negligence	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	if	if	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	sake	sake	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	prayers	prayer	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 8
+# text = These prayers drag us out of negligence.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	prayers	prayer	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	drag	drag	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	us	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	out	out	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	negligence	negligence	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 15
+# text = Saying prayers properly and attentively is one of the means of self-edification.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Saying	say	VERB	VBG	_	6	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	prayers	prayer	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	properly	properly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	attentively	attentively	ADV	RB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	one	one	NUM	CD	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	means	mean	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	self	self	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	HYPH	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	edification	edification	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 16
+# text = Reciting the Holy Quran and reading it regularly are the means of self-edification.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Reciting	recite	VERB	VBG	_	9	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	1	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	reading	read	VERB	VBG	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	it	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	regularly	regularly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	means	mean	NOUN	NNS	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	self	self	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	PUNCT	HYPH	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	edification	edification	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 25
+# text = Fortunately, I can see today that recitation of the Holy Quran is an increasingly common phenomenon everywhere among the students of Islamic seminaries.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Fortunately	fortunately	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	today	today	NOUN	NN	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	recitation	recitation	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+11	Holy	Holy	PROPN	NNP	_	12	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	Quran	Quran	PROPN	NNP	_	9	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+13	is	be	AUX	VBZ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	an	an	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	increasingly	increasingly	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	common	common	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	phenomenon	phenomenon	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	everywhere	everywhere	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	among	among	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	students	student	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	seminaries	seminary	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 42
+# text = The fact that we encourage people to recite the Quran well and consider it as an honorable act is because good recitation increases the attraction of the Quran, makes hearts get closer to it, and makes people remember it.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	encourage	encourage	VERB	VBP	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	recite	recite	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Quran	Quran	PROPN	NNP	_	8	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	well	well	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	consider	consider	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	it	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	honorable	honorable	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	act	act	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	because	because	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	good	good	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	recitation	recitation	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	increases	increase	VERB	VBZ	_	30	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	attraction	attraction	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	Quran	Quran	PROPN	NNP	_	26	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	makes	make	VERB	VBZ	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	hearts	heart	NOUN	NNS	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	get	get	AUX	VB	_	30	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	closer	close	ADJ	JJR	_	32	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	it	-PRON-	PRON	PRP	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	makes	make	VERB	VBZ	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	people	people	NOUN	NNS	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	remember	remember	VERB	VB	_	38	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	it	-PRON-	PRON	PRP	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 17
+# text = The same thing could be observed among the advice and recommendations of the late Ayatollah Qazi.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	same	same	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	thing	thing	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	could	could	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	observed	observe	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	among	among	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	advice	advice	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	recommendations	recommendation	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	late	late	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Ayatollah	Ayatollah	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	Qazi	Qazi	PROPN	NNP	_	12	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 18
+# text = He used to advise his students to recite the Quran whenever they got up in the morning.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	advise	advise	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	students	student	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	recite	recite	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Quran	Quran	PROPN	NNP	_	8	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	whenever	whenever	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	they	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	got	get	VERB	VBD	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	up	up	ADP	RP	_	13	prt	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	morning	morning	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 16
+# text = This was the advice by such spiritual a man as Hajj Mirza Ali Agha Qazi.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	advice	advice	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	such	such	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	spiritual	spiritual	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	man	man	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	SCONJ	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Hajj	Hajj	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	Mirza	Mirza	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	Ali	Ali	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	Agha	Agha	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+15	Qazi	Qazi	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 20
+# text = He used to advise people to regularly pray and read Sahife Sajjadiye, which is a world of understanding.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	advise	advise	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	regularly	regularly	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	pray	pray	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	read	read	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	Sahife	Sahife	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	Sajjadiye	Sajjadiye	PROPN	NNP	_	10	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	world	world	NOUN	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	understanding	understanding	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 13
+# text = Certainly theology is one of the things that should top our list.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Certainly	certainly	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	theology	theology	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	things	thing	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	top	top	VERB	VB	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	list	list	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 5
+# text = We must understand religion.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	understand	understand	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	religion	religion	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 7
+# text = Today, your audiences need you.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	your	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	audiences	audience	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 10
+# text = They need to become aware of religion and theology.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	become	become	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	aware	aware	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	religion	religion	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	theology	theology	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 15
+# text = These days the great Martyr Motahhari is increasingly remembered due to his martyrdom anniversary.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	These	these	DET	DT	_	2	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	days	day	NOUN	NNS	_	9	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	Martyr	Martyr	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	Motahhari	Motahhari	PROPN	NNP	_	9	nsubjpass	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	increasingly	increasingly	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	remembered	remember	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	due	due	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	his	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	martyrdom	martyrdom	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	anniversary	anniversary	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 15
+# text = Motahhari was an example of those who are familiar with theology and religious understanding.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Motahhari	Motahhari	PROPN	NNP	_	2	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	example	example	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	those	those	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	familiar	familiar	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	theology	theology	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	religious	religious	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	understanding	understanding	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 36
+# text = Keeping in mind that his life did not last long, if you just take a look at his works, you will see the extent of the grace that God had bestowed upon him.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Keeping	keep	VERB	VBG	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	mind	mind	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	life	life	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	last	last	VERB	VB	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	long	long	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	if	if	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	you	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	just	just	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	take	take	VERB	VBP	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	look	look	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	at	at	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	his	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	works	work	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	you	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	extent	extent	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	grace	grace	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	that	that	DET	WDT	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	God	God	PROPN	NNP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	had	have	AUX	VBD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	bestowed	bestow	VERB	VBN	_	29	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	upon	upon	SCONJ	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	him	-PRON-	PRON	PRP	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 9
+# text = I advise the youth to read his books.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	advise	advise	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	youth	youth	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	read	read	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	books	book	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 7
+# text = He has new things to say.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	new	new	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	things	thing	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 26
+# text = Religious realities, religious knowledge and analyzing religious understanding and beliefs are needed today as much as they were the day he talked about them.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Religious	religious	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	realities	reality	NOUN	NNS	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	religious	religious	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	knowledge	knowledge	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	analyzing	analyze	VERB	VBG	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	religious	religious	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	understanding	understanding	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	beliefs	belief	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	needed	need	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	today	today	NOUN	NN	_	13	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	as	as	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	much	much	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	as	as	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	they	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	were	be	AUX	VBD	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	day	day	NOUN	NN	_	19	attr	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	he	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	talked	talk	VERB	VBD	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	about	about	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	them	-PRON-	PRON	PRP	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 15
+# text = Students of theology must be familiar with Islamic jurisprudence as well as intellectual sciences.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Students	student	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	theology	theology	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	must	must	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	familiar	familiar	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	islamic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	jurisprudence	jurisprudence	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	well	well	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	SCONJ	IN	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	intellectual	intellectual	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	sciences	science	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 15
+# text = Intellectual sciences provide us with the means to access the minds of our addressees.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Intellectual	intellectual	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	sciences	science	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	provide	provide	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	us	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	means	mean	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	access	access	VERB	VB	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	minds	mind	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	addressees	addressee	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 27
+# text = Today, there are some people who shape the mentality of others through the use of some shallow philosophies are only similar to philosophy in form.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	shape	shape	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	mentality	mentality	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	others	other	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	through	through	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	use	use	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	some	some	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	shallow	shallow	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	philosophies	philosophy	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	only	only	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	similar	similar	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	philosophy	philosophy	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	form	form	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 9
+# text = Some of these philosophies even serve political purposes.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Some	some	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	philosophies	philosophy	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	even	even	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	serve	serve	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	political	political	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	purposes	purpose	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 22
+# text = Both now and in the past, there were some so-called philosophers in the West who served capitalist causes.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Both	both	CCONJ	CC	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	now	now	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	past	past	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	there	there	PRON	EX	_	9	expl	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	some	some	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	so	so	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	HYPH	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	called	call	VERB	VBN	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	philosophers	philosopher	NOUN	NNS	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	West	West	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	served	serve	VERB	VBD	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	capitalist	capitalist	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	causes	cause	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 28
+# text = Of course, they did not make a mention of economy or capitalism, but what they produced as philosophy is now being used to promote capitalism.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	did	do	AUX	VBD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	mention	mention	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	economy	economy	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	or	or	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	capitalism	capitalism	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	what	what	PRON	WP	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	produced	produce	VERB	VBD	_	24	csubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	SCONJ	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	philosophy	philosophy	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	now	now	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	being	be	AUX	VBG	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	used	use	VERB	VBN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	promote	promote	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	capitalism	capitalism	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 20
+# text = This means that those who consider the world as the bait for their policies will not stop at anything.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	those	those	DET	DT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	consider	consider	VERB	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	world	world	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	as	as	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	bait	bait	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	policies	policy	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	not	not	PART	RB	_	17	neg	_	ent_type=_|ent_id=2|ent_iob=O
+17	stop	stop	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	at	at	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	anything	anything	PRON	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 30
+# text = And this is one of the ways in which they try to train the minds of their audience so that they will have the same mentality as other nations.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	ways	way	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	try	try	VERB	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	train	train	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	minds	mind	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	audience	audience	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	so	so	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	they	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	have	have	AUX	VB	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	same	same	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	mentality	mentality	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	as	as	SCONJ	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	other	other	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	nations	nation	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 11
+# text = They use such things to manipulate the way people think.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	use	use	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	such	such	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	things	thing	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	manipulate	manipulate	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	way	way	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	think	think	VERB	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 19
+# text = It is not possible to fight them through causing uproar, excommunicating, insulting, and losing temper.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	possible	possible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	fight	fight	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	them	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	through	through	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	causing	cause	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	uproar	uproar	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	excommunicating	excommunicate	VERB	VBG	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	insulting	insult	VERB	VBG	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	losing	lose	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	temper	temper	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 11
+# text = It is like a knot that has to be untied.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	knot	knot	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	untied	untie	VERB	VBN	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 10
+# text = Stomping on the knot will not help undo it.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Stomping	stomp	VERB	VBG	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	on	on	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	knot	knot	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	undo	undo	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	it	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 4
+# text = We must think.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	think	think	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 12
+# text = Today, our Islamic seminaries are in need of intellectual sciences.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	seminaries	seminary	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	need	need	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	intellectual	intellectual	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	sciences	science	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 8
+# text = They have to know logic and philosophy.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	know	know	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	logic	logic	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	philosophy	philosophy	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 25
+# text = Of course, Islamic jurisprudence is undoubtedly the backbone of Islamic seminaries, but logic and philosophy as well as theology are also necessary.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	jurisprudence	jurisprudence	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	undoubtedly	undoubtedly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	backbone	backbone	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islamic	islamic	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	seminaries	seminary	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	but	but	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	logic	logic	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	philosophy	philosophy	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	as	as	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	well	well	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	SCONJ	IN	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	theology	theology	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	are	be	AUX	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	also	also	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	necessary	necessary	ADJ	JJ	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 37
+# text = When our magnanimous Imam Khomeini (r.a.) issued his earnest command regarding hijab in the years after the victory of the Islamic Revolution, some of his supporters asked why he had said so.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	When	when	ADV	WRB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	magnanimous	magnanimous	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	Imam	Imam	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Khomeini	Khomeini	PROPN	NNP	_	10	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	(	(	PUNCT	-LRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	r.a	r.a	PROPN	NNP	_	8	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	.	.	PUNCT	.	_	5	appos	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	)	)	PUNCT	-RRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	issued	issue	VERB	VBD	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	his	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	earnest	earnest	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	command	command	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	regarding	regard	VERB	VBG	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	hijab	hijab	ADJ	JJ	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+18	years	year	NOUN	NNS	_	16	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	after	after	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	victory	victory	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+24	Islamic	Islamic	PROPN	NNP	_	25	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+25	Revolution	Revolution	PROPN	NNP	_	22	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+26	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	some	some	DET	DT	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	his	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	supporters	supporter	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	asked	ask	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+32	why	why	ADV	WRB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+33	he	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	had	have	AUX	VBD	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+35	said	say	VERB	VBN	_	31	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	so	so	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 32
+# text = When the subject of velayat faghih was brought up in the Assembly of Experts, some people objected, saying that there was no need for bringing up such an issue.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	When	when	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	subject	subject	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	velayat	velayat	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	faghih	faghih	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	brought	bring	VERB	VBN	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	up	up	ADP	RP	_	8	prt	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	Assembly	Assembly	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	of	of	ADP	IN	_	12	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	Experts	Experts	PROPN	NNPS	_	13	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	some	some	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	people	people	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	objected	object	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	saying	say	VERB	VBG	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	there	there	PRON	EX	_	23	expl	_	ent_type=_|ent_id=2|ent_iob=O
+23	was	be	AUX	VBD	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	no	no	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	need	need	NOUN	NN	_	23	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	for	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	bringing	bring	VERB	VBG	_	26	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	up	up	ADP	RP	_	27	prt	_	ent_type=_|ent_id=2|ent_iob=O
+29	such	such	DET	PDT	_	31	predet	_	ent_type=_|ent_id=2|ent_iob=O
+30	an	an	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	issue	issue	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 4
+# text = They were wrong.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	wrong	wrong	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 16
+# text = Imam Khomeini (r.a.) was right, and he made the right move.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Imam	Imam	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khomeini	Khomeini	PROPN	NNP	_	7	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	(	(	PUNCT	-LRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	r.a	r.a	PROPN	NNP	_	5	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	.	.	PUNCT	.	_	2	appos	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	)	)	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	right	right	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	he	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	made	make	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	right	right	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	move	move	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 30
+# text = The essential criterion is that we must insightfully and wisely be inspired by Islam, express our inspiration courageously, and move towards that goal in a foresightful manner.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	essential	essential	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	criterion	criterion	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	must	must	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	insightfully	insightfully	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	wisely	wisely	ADV	RB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	inspired	inspire	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islam	Islam	PROPN	NNP	_	13	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	express	express	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	inspiration	inspiration	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	courageously	courageously	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	move	move	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	towards	towards	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	goal	goal	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	foresightful	foresightful	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	manner	manner	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 16
+# text = Foresight is necessary, but it has to be accompanied by identification of our goals.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Foresight	foresight	NOUN	NN	_	2	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	it	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	accompanied	accompany	VERB	VBN	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	identification	identification	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	goals	goal	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 14
+# text = We must not confuse foresight with losing sight of our goals and frameworks.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	confuse	confuse	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	foresight	foresight	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	losing	lose	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	sight	sight	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	goals	goal	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	frameworks	framework	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 21
+# text = Some people imagine that foresight means that one should move away from the main principles, frameworks, and standards.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Some	some	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	imagine	imagine	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	foresight	foresight	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	means	mean	VERB	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	one	one	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	move	move	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	away	away	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	main	main	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	principles	principle	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	frameworks	framework	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	standards	standard	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 9
+# text = This is exactly what lack of foresight means.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	exactly	exactly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	what	what	PRON	WP	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	lack	lack	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	foresight	foresight	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	means	mean	NOUN	NNS	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 12
+# text = This is complete conformity with the demands of our greedy enemies.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	complete	complete	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	conformity	conformity	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	demands	demand	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	greedy	greedy	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	enemies	enemy	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 20
+# text = The goal must be set, and then we must pursue the goal in a determined and foresightful manner.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	goal	goal	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	must	must	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	set	set	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	then	then	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	must	must	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	pursue	pursue	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	goal	goal	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	determined	determined	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	foresightful	foresightful	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	manner	manner	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 13
+# text = We must be cautious, and caution is a manifestation of piety.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	cautious	cautious	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	caution	caution	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	manifestation	manifestation	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	piety	piety	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 21
+# text = Piety requires that we be cautious and not fall into the trap of the enemies or be caught off guard.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Piety	piety	NOUN	NN	_	2	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	requires	require	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	cautious	cautious	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	fall	fall	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	into	into	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	trap	trap	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	enemies	enemy	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	caught	catch	VERB	VBN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	off	off	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	guard	guard	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 21
+# text = This is wisdom, which is the third factor that the clergy and students of Islamic seminaries must observe today.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	wisdom	wisdom	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	third	third	ADJ	JJ	_	9	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+9	factor	factor	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	clergy	clergy	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	students	student	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islamic	islamic	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	seminaries	seminary	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	must	must	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	observe	observe	VERB	VB	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	today	today	NOUN	NN	_	19	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 7
+# text = We must strengthen piety within ourselves.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	strengthen	strengthen	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	piety	piety	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	within	within	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	ourselves	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 13
+# text = Through the use of knowledge, we must help our minds grow.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Through	through	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	use	use	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	knowledge	knowledge	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	must	must	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	minds	mind	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	grow	grow	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 15
+# text = Regarding the obtaining of knowledge, we must not be satisfied with mere education.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Regarding	regard	VERB	VBG	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	obtaining	obtaining	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	knowledge	knowledge	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	must	must	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	satisfied	satisfied	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	mere	mere	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	education	education	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 9
+# text = We must use our initiative and generate knowledge.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	use	use	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	initiative	initiative	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	generate	generate	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	knowledge	knowledge	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 28
+# text = From the very beginning, the students of Islamic seminaries must learn to listen critically and only keep the result of their active reasoning in their minds.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	From	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	beginning	beginning	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	students	student	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	islamic	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	seminaries	seminary	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	must	must	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	learn	learn	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	listen	listen	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	critically	critically	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	only	only	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	keep	keep	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	result	result	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	active	active	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	reasoning	reasoning	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	minds	mind	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 10
+# text = This is a firmly established concept in Islamic seminaries.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	firmly	firmly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	established	establish	VERB	VBN	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	concept	concept	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	islamic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	seminaries	seminary	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 18
+# text = Today, our Islamic seminaries must train clerics, thereby seeking to shoulder part of the responsibility.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	seminaries	seminary	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	must	must	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	train	train	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	clerics	cleric	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	thereby	thereby	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	seeking	seek	VERB	VBG	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	shoulder	shoulder	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	part	part	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	responsibility	responsibility	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 9
+# text = The Islamic Republic is capable of being expanded.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	capable	capable	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	being	be	AUX	VBG	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	expanded	expand	VERB	VBN	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 16
+# text = Of course, this does not mean territorial expansion, rather it means qualitative expansion.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	does	do	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	mean	mean	VERB	VB	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	territorial	territorial	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	expansion	expansion	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	rather	rather	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	qualitative	qualitative	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	expansion	expansion	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 27
+# text = We can proceed towards justice, spirituality, morality, and practicing Islamic laws only if we have knowledgeable, pious, courageous and wise clerics.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	proceed	proceed	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	towards	towards	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	justice	justice	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	spirituality	spirituality	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	morality	morality	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	practicing	practice	VERB	VBG	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islamic	islamic	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	laws	law	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	only	only	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	if	if	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	we	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	knowledgeable	knowledgeable	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	pious	pious	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	courageous	courageous	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	wise	wise	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	clerics	cleric	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 13
+# text = Students of Islamic seminaries must be trained with this goal in mind.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	Students	student	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	Islamic	islamic	ADJ	JJ	_	4	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+4	seminaries	seminary	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	must	must	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	trained	train	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	goal	goal	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	mind	mind	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 24
+# text = And you dear brothers and sisters must pay attention to the fact that this goal makes the training job a spiritually valuable task.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	And	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	dear	dear	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	brothers	brother	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	sisters	sister	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	must	must	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	attention	attention	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	fact	fact	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	goal	goal	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	makes	make	VERB	VBZ	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	training	training	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	job	job	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	spiritually	spiritually	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	valuable	valuable	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	task	task	NOUN	NN	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 9
+# text = This is something that goes beyond individual matters.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	something	something	PRON	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	goes	go	VERB	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	beyond	beyond	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	individual	individual	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	matters	matter	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 19
+# text = You must take care not to be diverted from the path to this great goal by trivial issues.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	care	care	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	diverted	divert	VERB	VBN	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	path	path	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	goal	goal	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	trivial	trivial	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	issues	issue	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 17
+# text = You must take care not to be separated from one another due to assumptions and fancies.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	care	care	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	separated	separate	VERB	VBN	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	one	one	NUM	CD	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	another	another	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	due	due	ADJ	JJ	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	assumptions	assumption	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	fancies	fancy	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 7
+# text = The clergy are a unified front.
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	clergy	clergy	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	unified	unified	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	front	front	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 21
+# text = We must not let trivial disagreements destroy the unity of the clergy or let our energy be spent on arguing...
+# title = Leader's Speech to the Clergy in Shiraz
+# year = 2008
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	trivial	trivial	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	disagreements	disagreement	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	destroy	destroy	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	unity	unity	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	clergy	clergy	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	let	let	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	energy	energy	NOUN	NN	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	spent	spend	VERB	VBN	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	arguing	argue	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	...	...	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O

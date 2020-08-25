@@ -1,0 +1,1411 @@
+# sent_id = 1
+# sent_len = 57
+# text = Ayatollah Khamenei stated that the main outcome of the fasting in the holy month of Ramazan is the deepening of piety and virtue in the hearts and souls of Muslims, which helps them to follow the right path in the face of different temptations and various enticements, which are likely to lead them astray.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	main	main	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	outcome	outcome	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	fasting	fasting	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	holy	holy	ADJ	JJ	_	14	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	month	month	NOUN	NN	_	11	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Ramazan	Ramazan	PROPN	NNP	_	15	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+17	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	deepening	deepening	NOUN	NN	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	piety	piety	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	virtue	virtue	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	hearts	heart	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	souls	soul	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	Muslims	Muslims	PROPN	NNPS	_	29	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+31	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	which	which	DET	WDT	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	helps	help	VERB	VBZ	_	26	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	them	-PRON-	PRON	PRP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	to	to	PART	TO	_	36	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	follow	follow	VERB	VB	_	33	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	right	right	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	path	path	NOUN	NN	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	face	face	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	different	different	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+45	temptations	temptation	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	and	and	CCONJ	CC	_	45	cc	_	ent_type=_|ent_id=2|ent_iob=O
+47	various	various	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	enticements	enticement	NOUN	NNS	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+49	,	,	PUNCT	,	_	48	punct	_	ent_type=_|ent_id=2|ent_iob=O
+50	which	which	DET	WDT	_	51	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+51	are	be	AUX	VBP	_	39	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+52	likely	likely	ADJ	JJ	_	51	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+53	to	to	PART	TO	_	54	aux	_	ent_type=_|ent_id=2|ent_iob=O
+54	lead	lead	VERB	VB	_	52	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+55	them	-PRON-	PRON	PRP	_	54	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	astray	astray	ADV	RB	_	54	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+57	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 46
+# text = Leader of the Islamic Republic further noted: "One of the important lessons that Muslims should learn from fasting and experiencing hunger during the holy month of Ramazan is that they should have more sympathy for the hungry, the deprived and the poor.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Leader	leader	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	2	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	further	further	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	:	:	PUNCT	:	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	"	"	PUNCT	``	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	One	one	NUM	CD	_	31	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	important	important	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	lessons	lesson	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	Muslims	Muslims	PROPN	NNPS	_	19	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	should	should	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	learn	learn	VERB	VB	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	from	from	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	fasting	fast	VERB	VBG	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	experiencing	experience	VERB	VBG	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	hunger	hunger	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	during	during	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+26	holy	holy	ADJ	JJ	_	28	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	month	month	NOUN	NN	_	25	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Ramazan	Ramazan	PROPN	NNP	_	29	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+30	is	be	AUX	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	that	that	SCONJ	IN	_	35	mark	_	ent_type=_|ent_id=2|ent_iob=O
+32	they	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	should	should	VERB	MD	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	have	have	AUX	VB	_	31	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	more	more	ADJ	JJR	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	sympathy	sympathy	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	for	for	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	hungry	hungry	ADJ	JJ	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	,	,	PUNCT	,	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	deprived	deprive	VERB	VBN	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	46	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	poor	poor	ADJ	JJ	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 18
+# text = This sympathy should be expressed in a willingness to give help to the poor and the needy.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	sympathy	sympathy	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	expressed	express	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	willingness	willingness	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	give	give	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	help	help	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	10	dative	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	poor	poor	ADJ	JJ	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	needy	needy	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 21
+# text = Indeed, it is the duty of all Muslims to do their utmost to eliminate poverty and deprivation from society.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Indeed	indeed	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	duty	duty	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Muslims	Muslims	PROPN	NNPS	_	7	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	do	do	AUX	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	utmost	utmost	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	eliminate	eliminate	VERB	VB	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	poverty	poverty	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	deprivation	deprivation	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	from	from	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	society	society	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 19
+# text = "Almighty Allah says in the holy Qur'an, 'Have you noticed him who rejects the religion?
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Almighty	Almighty	PROPN	NNP	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	says	say	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	holy	holy	ADJ	JJ	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Qur'an	Qur'an	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	'	'	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	Have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	you	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	noticed	notice	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	him	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	rejects	reject	VERB	VBZ	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	religion	religion	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 22
+# text = He is the one who treats the orphan with harshness, and does not urge the feeding of the poor.'
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	treats	treat	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	orphan	orphan	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	harshness	harshness	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	does	do	AUX	VBZ	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	urge	urge	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	feeding	feeding	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	poor	poor	ADJ	JJ	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	'	'	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 3
+# text = (107:
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	(	(	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	107	107	NUM	CD	_	0	ROOT	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	:	:	SYM	SYM	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 4
+# text = 1-3)
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	1	1	NUM	CD	_	0	ROOT	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	-	-	SYM	SYM	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	3	3	NUM	CD	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	)	)	PUNCT	-RRB-	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 31
+# text = "These verses clearly indicate that being indifferent and feeling no responsibility toward the sufferings of the poor and the deprived is one of the signs of rejecting the religion.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	These	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	verses	verse	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	clearly	clearly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	indicate	indicate	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	being	be	AUX	VBG	_	22	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	indifferent	indifferent	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	feeling	feel	VERB	VBG	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	no	no	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	responsibility	responsibility	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	toward	toward	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	sufferings	suffering	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	poor	poor	ADJ	JJ	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	deprived	deprive	VERB	VBN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	one	one	NUM	CD	_	22	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	signs	sign	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	rejecting	reject	VERB	VBG	_	27	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	religion	religion	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 29
+# text = Therefore, fasting during the holy month of Ramazan should help to remind us of this responsibility, which has been entrusted to us by our religion."
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Therefore	therefore	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	fasting	fast	VERB	VBG	_	11	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	during	during	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	holy	holy	ADJ	JJ	_	7	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	month	month	NOUN	NN	_	4	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Ramazan	Ramazan	PROPN	NNP	_	8	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	should	should	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	remind	remind	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	us	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	responsibility	responsibility	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	which	which	DET	WDT	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	has	have	AUX	VBZ	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	been	be	AUX	VBN	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	entrusted	entrust	VERB	VBN	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	us	-PRON-	PRON	PRP	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	by	by	ADP	IN	_	22	agent	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	religion	religion	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	"	"	PUNCT	''	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 7
+# text = Ayatollah Khamenei went on to say:
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	:	:	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 38
+# text = "It is true that the eradication of poverty in any society is only possible by administering social justice and by preventing those who enjoy certain privileges from amassing a fortune through the misappropriation of public funds.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	true	true	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	eradication	eradication	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	poverty	poverty	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	any	any	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	society	society	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	only	only	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	possible	possible	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	administering	administer	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	social	social	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	justice	justice	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	preventing	prevent	VERB	VBG	_	21	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	those	those	DET	DT	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	enjoy	enjoy	VERB	VBP	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	certain	certain	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	privileges	privilege	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	amassing	amass	VERB	VBG	_	28	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	a	a	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	fortune	fortune	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	through	through	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	misappropriation	misappropriation	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	public	public	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	funds	fund	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 16
+# text = It is also true that performing this task is mainly the duty of the government.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	true	true	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	performing	perform	VERB	VBG	_	9	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	task	task	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	mainly	mainly	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	duty	duty	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	government	government	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 13
+# text = However, the people also shoulder some heavy responsibilities in this regard.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	also	also	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	shoulder	shoulder	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	some	some	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	heavy	heavy	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	responsibilities	responsibility	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	regard	regard	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 29
+# text = "In other words, the government can carry out the task of eradicating poverty through the implementation of long-range and medium-term social programs.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	''	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	words	word	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	government	government	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	carry	carry	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	out	out	ADP	RP	_	9	prt	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	task	task	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	eradicating	eradicate	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	poverty	poverty	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	through	through	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	implementation	implementation	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	long	long	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	-	-	PUNCT	HYPH	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	range	range	NOUN	NN	_	28	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	medium	medium	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	-	-	PUNCT	HYPH	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	term	term	NOUN	NN	_	28	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	social	social	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	programs	program	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 13
+# text = But the implementation of these programs will surely take quite a while.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	But	but	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	implementation	implementation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	programs	program	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	surely	surely	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	quite	quite	DET	PDT	_	12	predet	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	while	while	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 20
+# text = "The people should not remain indifferent to the sufferings of the deprived while these programs are being implemented.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	remain	remain	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	indifferent	indifferent	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	sufferings	suffering	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	deprived	deprive	VERB	VBN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	while	while	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	these	these	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	programs	program	NOUN	NNS	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	being	be	AUX	VBG	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	implemented	implement	VERB	VBN	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 26
+# text = They should face up to their own responsibilities toward the poor and the needy, rather than wait for these programs to bear fruit."
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	face	face	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	up	up	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	own	own	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	responsibilities	responsibility	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	toward	toward	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	poor	poor	ADJ	JJ	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	needy	needy	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	rather	rather	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	than	than	SCONJ	IN	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	wait	wait	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	these	these	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	programs	program	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	bear	bear	VERB	VB	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	fruit	fruit	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 36
+# text = The Leader also called on the Iranian people to avoid extravagance and refrain from spending money on luxuries, which he described as a major hindrance to giving help to the deprived and the needy.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	called	call	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranian	iranian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	avoid	avoid	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	extravagance	extravagance	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	refrain	refrain	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	spending	spend	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	money	money	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	luxuries	luxury	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	which	which	DET	WDT	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	he	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	described	describe	VERB	VBD	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	as	as	SCONJ	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	major	major	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	hindrance	hindrance	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	giving	give	VERB	VBG	_	27	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	help	help	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	deprived	deprive	VERB	VBN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	needy	needy	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 17
+# text = In the second sermon, Ayatollah Khamenei referred to some issues related to the Islamic world.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	second	second	ADJ	JJ	_	4	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+4	sermon	sermon	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Ayatollah	Ayatollah	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	Khamenei	Khamenei	PROPN	NNP	_	8	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	referred	refer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	some	some	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	issues	issue	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	related	relate	VERB	VBN	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	world	world	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 38
+# text = The Leader stated that, today, Islamic countries are in need of convergence, congruity and unity more than ever, since the enemies of Islam are intensifying their plots and machinations against the Muslim ummah.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	today	today	NOUN	NN	_	10	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	islamic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	countries	country	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	need	need	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	convergence	convergence	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	congruity	congruity	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	unity	unity	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	more	more	ADJ	JJR	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	than	than	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	ever	ever	ADV	RB	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	since	since	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	enemies	enemy	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Islam	Islam	PROPN	NNP	_	26	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	are	be	AUX	VBP	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	intensifying	intensify	VERB	VBG	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	plots	plot	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	machinations	machination	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	against	against	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	Muslim	muslim	ADJ	JJ	_	37	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+37	ummah	ummah	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 74
+# text = "Although some arrogant powers like the United States are trying to make up for their mistakes, which have caused the exposure of their plots against the Islamic world, by claiming that they bear no hostility toward Muslims, the measures that are currently being taken by U.S. administration and the Zionist regime bear witness to their plots and hostile intentions against Islam and the Muslim ummah," he noted.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	73	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Although	although	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	arrogant	arrogant	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	powers	power	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	United	United	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	States	States	PROPN	NNP	_	6	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	are	be	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	trying	try	VERB	VBG	_	73	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	make	make	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	up	up	ADP	RP	_	13	prt	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	mistakes	mistake	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	which	which	DET	WDT	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	have	have	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	caused	cause	VERB	VBN	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	exposure	exposure	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	plots	plot	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	against	against	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	Islamic	islamic	ADJ	JJ	_	30	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+30	world	world	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	by	by	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	claiming	claim	VERB	VBG	_	32	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	that	that	SCONJ	IN	_	36	mark	_	ent_type=_|ent_id=2|ent_iob=O
+35	they	-PRON-	PRON	PRP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	bear	bear	VERB	VBP	_	33	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	no	no	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	hostility	hostility	NOUN	NN	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	toward	toward	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	Muslims	Muslims	PROPN	NNPS	_	39	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+41	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	measures	measure	NOUN	NNS	_	56	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+44	that	that	DET	WDT	_	48	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+45	are	be	AUX	VBP	_	48	aux	_	ent_type=_|ent_id=2|ent_iob=O
+46	currently	currently	ADV	RB	_	48	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+47	being	be	AUX	VBG	_	48	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+48	taken	take	VERB	VBN	_	43	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+49	by	by	ADP	IN	_	48	agent	_	ent_type=_|ent_id=2|ent_iob=O
+50	U.S.	U.S.	PROPN	NNP	_	51	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+51	administration	administration	NOUN	NN	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	and	and	CCONJ	CC	_	51	cc	_	ent_type=_|ent_id=2|ent_iob=O
+53	the	the	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	Zionist	zionist	ADJ	JJ	_	55	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+55	regime	regime	NOUN	NN	_	51	conj	_	ent_type=_|ent_id=2|ent_iob=O
+56	bear	bear	NOUN	NN	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+57	witness	witness	NOUN	NN	_	56	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+58	to	to	ADP	IN	_	56	prep	_	ent_type=_|ent_id=2|ent_iob=O
+59	their	-PRON-	DET	PRP$	_	60	poss	_	ent_type=_|ent_id=2|ent_iob=O
+60	plots	plot	NOUN	NNS	_	58	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+61	and	and	CCONJ	CC	_	60	cc	_	ent_type=_|ent_id=2|ent_iob=O
+62	hostile	hostile	ADJ	JJ	_	63	amod	_	ent_type=_|ent_id=2|ent_iob=O
+63	intentions	intention	NOUN	NNS	_	60	conj	_	ent_type=_|ent_id=2|ent_iob=O
+64	against	against	ADP	IN	_	60	prep	_	ent_type=_|ent_id=2|ent_iob=O
+65	Islam	Islam	PROPN	NNP	_	64	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+66	and	and	CCONJ	CC	_	65	cc	_	ent_type=_|ent_id=2|ent_iob=O
+67	the	the	DET	DT	_	69	det	_	ent_type=_|ent_id=2|ent_iob=O
+68	Muslim	muslim	ADJ	JJ	_	69	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+69	ummah	ummah	NOUN	NN	_	65	conj	_	ent_type=_|ent_id=2|ent_iob=O
+70	,	,	PUNCT	,	_	73	punct	_	ent_type=_|ent_id=2|ent_iob=O
+71	"	"	PUNCT	''	_	73	punct	_	ent_type=_|ent_id=2|ent_iob=O
+72	he	-PRON-	PRON	PRP	_	73	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+73	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+74	.	.	PUNCT	.	_	73	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 5
+# text = Ayatollah Khamenei further stated:
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 39
+# text = "The fact is that the geographic area that is inhabited by the Muslim ummah is one of the most important parts of the world, since it is quite rich in natural resources, especially mineral resources.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	fact	fact	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	geographic	geographic	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	area	area	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	inhabited	inhabit	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Muslim	muslim	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	ummah	ummah	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	one	one	NUM	CD	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	most	most	ADV	RBS	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	important	important	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	parts	part	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	world	world	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	since	since	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+28	it	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	is	be	AUX	VBZ	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	quite	quite	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	rich	rich	ADJ	JJ	_	29	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	natural	natural	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	resources	resource	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	especially	especially	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	mineral	mineral	NOUN	NN	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	resources	resource	NOUN	NNS	_	34	appos	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 25
+# text = The arrogant powers are coveting the national and mineral wealth of Muslim nations, but Islam poses a major obstacle to their illegitimate goals.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	arrogant	arrogant	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	powers	power	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	coveting	covet	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	national	national	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	mineral	mineral	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	wealth	wealth	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Muslim	muslim	ADJ	JJ	_	13	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	nations	nation	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islam	Islam	PROPN	NNP	_	17	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	poses	pose	VERB	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	major	major	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	obstacle	obstacle	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	illegitimate	illegitimate	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	goals	goal	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 17
+# text = This is why they are hatching all sorts of plots to subvert this divine religion."
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	hatching	hatch	VERB	VBG	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	sorts	sort	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	plots	plot	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	subvert	subvert	VERB	VB	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	divine	divine	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	religion	religion	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 56
+# text = Elsewhere in his remarks, Leader of the Islamic Republic noted: "One day the arrogant powers were thinking that nothing had remained of Islam and its enlightening teachings due to the spread of their corrupt culture in the world, a culture which promotes licentiousness, hedonism and the pursuit of sensual pleasures.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Elsewhere	elsewhere	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Leader	leader	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	:	:	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	``	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	One	one	NUM	CD	_	16	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	day	day	NOUN	NN	_	21	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	arrogant	arrogant	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	powers	power	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	were	be	AUX	VBD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	thinking	think	VERB	VBG	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	nothing	nothing	PRON	NN	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	had	have	AUX	VBD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	remained	remain	VERB	VBN	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Islam	Islam	PROPN	NNP	_	26	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	its	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	enlightening	enlightening	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	teachings	teaching	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	due	due	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	32	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	spread	spread	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	their	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	corrupt	corrupt	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	culture	culture	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	in	in	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	world	world	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	,	,	PUNCT	,	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+43	a	a	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	culture	culture	NOUN	NN	_	39	appos	_	ent_type=_|ent_id=2|ent_iob=O
+45	which	which	DET	WDT	_	47	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+46	promotes	promote	VERB	VBZ	_	45	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+47	licentiousness	licentiousness	NOUN	NN	_	47	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	,	,	PUNCT	,	_	48	punct	_	ent_type=_|ent_id=2|ent_iob=O
+49	hedonism	hedonism	NOUN	NN	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	and	and	CCONJ	CC	_	50	cc	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	53	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	pursuit	pursuit	NOUN	NN	_	50	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	of	of	ADP	IN	_	53	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	sensual	sensual	ADJ	JJ	_	56	amod	_	ent_type=_|ent_id=2|ent_iob=O
+55	pleasures	pleasure	NOUN	NNS	_	54	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 30
+# text = "In other words, they were assuming that there was no longer any sign of the Islamic zeal, piety, enthusiasm and motivation among the Muslim nations.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	words	word	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	were	be	AUX	VBD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	assuming	assume	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	there	there	PRON	EX	_	11	expl	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	no	no	DET	DT	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	longer	longer	ADV	RBR	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	any	any	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	sign	sign	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Islamic	Islamic	PROPN	NNP	_	19	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	zeal	zeal	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	piety	piety	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	enthusiasm	enthusiasm	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	motivation	motivation	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	among	among	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	Muslim	muslim	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	nations	nation	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 51
+# text = "However, they later found out that they were quite mistaken, since they witnessed the hoisting of the flag of Islamic power and dignity in Iran by the great and honorable Iranian nation, and they also witnessed the Islamic revival and awakening in the whole Muslim world.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	''	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	later	later	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	found	find	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	out	out	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	were	be	AUX	VBD	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	quite	quite	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	mistaken	mistaken	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	since	since	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	witnessed	witness	VERB	VBD	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	hoisting	hoisting	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	flag	flag	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	power	power	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	dignity	dignity	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	Iran	Iran	PROPN	NNP	_	27	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+29	by	by	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	great	great	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	honorable	honorable	ADJ	JJ	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	Iranian	iranian	ADJ	JJ	_	35	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+35	nation	nation	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	they	-PRON-	PRON	PRP	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	also	also	ADV	RB	_	40	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+40	witnessed	witness	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	Islamic	islamic	ADJ	JJ	_	43	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+43	revival	revival	NOUN	NN	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	awakening	awakening	NOUN	NN	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	in	in	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	the	the	DET	DT	_	50	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	whole	whole	ADJ	JJ	_	50	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	Muslim	muslim	ADJ	JJ	_	50	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+50	world	world	NOUN	NN	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	.	.	PUNCT	.	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 40
+# text = "They have noticed that Islam is a brilliant and undeniable reality which is deeply rooted in the hearts of the Muslim nations, and which is posing a major obstacle to their self-serving and domineering objectives.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	noticed	notice	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islam	Islam	PROPN	NNP	_	7	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	brilliant	brilliant	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	undeniable	undeniable	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	reality	reality	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	which	which	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	deeply	deeply	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	rooted	root	VERB	VBN	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	hearts	heart	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Muslim	muslim	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	nations	nation	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	which	which	DET	WDT	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	is	be	AUX	VBZ	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	posing	pose	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	a	a	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	major	major	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	obstacle	obstacle	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	their	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	self	self	NOUN	NN	_	36	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	-	-	PUNCT	HYPH	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	serving	serve	VERB	VBG	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	domineering	domineering	ADJ	JJ	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	objectives	objective	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 30
+# text = Faced with this reality, they are now hatchings new plots and machinations to subvert this divine religion and to undermine the honor, dignity and power of Muslims.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Faced	face	VERB	VBN	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	with	with	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	reality	reality	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	now	now	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	hatchings	hatching	NOUN	NNS	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	new	new	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	plots	plot	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	machinations	machination	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	subvert	subvert	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	divine	divine	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	religion	religion	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	undermine	undermine	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	honor	honor	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	dignity	dignity	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	power	power	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Muslims	Muslims	PROPN	NNPS	_	28	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+30	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 25
+# text = "Fortunately, the Muslim nations have now become aware of the evil intentions of the arrogant powers and their hostile attitude toward Islam.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Fortunately	fortunately	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Muslim	muslim	ADJ	JJ	_	6	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nations	nation	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	now	now	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	become	become	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	aware	aware	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	evil	evil	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	intentions	intention	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	arrogant	arrogant	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	powers	power	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	hostile	hostile	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	attitude	attitude	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	toward	toward	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islam	Islam	PROPN	NNP	_	23	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+25	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 38
+# text = Thus, it's no wonder that the results of an opinion poll recently conducted by some Western media indicated that the people in the Islamic countries strongly hate the United States and the Zionist regime."
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Thus	thus	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	's	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	no	no	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	wonder	wonder	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	results	result	NOUN	NNS	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	an	an	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	opinion	opinion	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	poll	poll	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	recently	recently	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	conducted	conduct	VERB	VBN	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+17	some	some	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Western	western	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	media	medium	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	indicated	indicate	VERB	VBD	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	people	people	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Islamic	islamic	ADJ	JJ	_	27	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+27	countries	country	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	strongly	strongly	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	hate	hate	VERB	VBP	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+31	United	United	PROPN	NNP	_	32	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+32	States	States	PROPN	NNP	_	29	dobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	Zionist	zionist	ADJ	JJ	_	36	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+36	regime	regime	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 84
+# text = As regards the domineering and hegemonic attitude of the United States toward Islamic countries, Ayatollah Khamenei stated: "The United States is trying to impose its hegemony on the Muslim nations by subverting their cultural values and religious tenets, so that they may become submissive and yield to U.S. domination meekly and without protest, and so that they may express no reaction or sensitivity to the plunder of their national wealth and natural resources by the arrogant powers. "
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	domineering	domineering	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	hegemonic	hegemonic	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	attitude	attitude	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	United	United	PROPN	NNP	_	11	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	States	States	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	toward	toward	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islamic	islamic	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	countries	country	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	Ayatollah	Ayatollah	PROPN	NNP	_	17	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+17	Khamenei	Khamenei	PROPN	NNP	_	18	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+18	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	:	:	PUNCT	:	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	``	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	The	the	DET	DT	_	24	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	United	United	PROPN	NNP	_	24	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+23	States	States	PROPN	NNP	_	26	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+24	is	be	AUX	VBZ	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	trying	try	VERB	VBG	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	impose	impose	VERB	VB	_	26	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	its	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	hegemony	hegemony	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	on	on	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	Muslim	muslim	ADJ	JJ	_	34	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	nations	nation	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	by	by	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	subverting	subvert	VERB	VBG	_	35	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	their	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	cultural	cultural	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	values	value	NOUN	NNS	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	religious	religious	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	tenets	tenet	NOUN	NNS	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+43	so	so	SCONJ	IN	_	48	mark	_	ent_type=_|ent_id=2|ent_iob=O
+44	that	that	SCONJ	IN	_	48	mark	_	ent_type=_|ent_id=2|ent_iob=O
+45	they	-PRON-	PRON	PRP	_	48	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+46	may	may	VERB	MD	_	48	aux	_	ent_type=_|ent_id=2|ent_iob=O
+47	become	become	VERB	VB	_	36	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+48	submissive	submissive	ADJ	JJ	_	48	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	48	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	yield	yield	NOUN	NN	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	to	to	ADP	IN	_	51	prep	_	ent_type=_|ent_id=2|ent_iob=O
+52	U.S.	U.S.	PROPN	NNP	_	54	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+53	domination	domination	NOUN	NN	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	meekly	meekly	NOUN	NNS	_	51	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+55	and	and	CCONJ	CC	_	55	cc	_	ent_type=_|ent_id=2|ent_iob=O
+56	without	without	ADP	IN	_	55	conj	_	ent_type=_|ent_id=2|ent_iob=O
+57	protest	protest	NOUN	NN	_	57	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+58	,	,	PUNCT	,	_	48	punct	_	ent_type=_|ent_id=2|ent_iob=O
+59	and	and	CCONJ	CC	_	48	cc	_	ent_type=_|ent_id=2|ent_iob=O
+60	so	so	SCONJ	IN	_	65	mark	_	ent_type=_|ent_id=2|ent_iob=O
+61	that	that	SCONJ	IN	_	65	mark	_	ent_type=_|ent_id=2|ent_iob=O
+62	they	-PRON-	PRON	PRP	_	65	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+63	may	may	VERB	MD	_	65	aux	_	ent_type=_|ent_id=2|ent_iob=O
+64	express	express	VERB	VB	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+65	no	no	DET	DT	_	67	det	_	ent_type=_|ent_id=2|ent_iob=O
+66	reaction	reaction	NOUN	NN	_	65	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+67	or	or	CCONJ	CC	_	67	cc	_	ent_type=_|ent_id=2|ent_iob=O
+68	sensitivity	sensitivity	NOUN	NN	_	67	conj	_	ent_type=_|ent_id=2|ent_iob=O
+69	to	to	ADP	IN	_	65	prep	_	ent_type=_|ent_id=2|ent_iob=O
+70	the	the	DET	DT	_	72	det	_	ent_type=_|ent_id=2|ent_iob=O
+71	plunder	plunder	NOUN	NN	_	70	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+72	of	of	ADP	IN	_	72	prep	_	ent_type=_|ent_id=2|ent_iob=O
+73	their	-PRON-	DET	PRP$	_	76	poss	_	ent_type=_|ent_id=2|ent_iob=O
+74	national	national	ADJ	JJ	_	76	amod	_	ent_type=_|ent_id=2|ent_iob=O
+75	wealth	wealth	NOUN	NN	_	73	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+76	and	and	CCONJ	CC	_	76	cc	_	ent_type=_|ent_id=2|ent_iob=O
+77	natural	natural	ADJ	JJ	_	79	amod	_	ent_type=_|ent_id=2|ent_iob=O
+78	resources	resource	NOUN	NNS	_	76	conj	_	ent_type=_|ent_id=2|ent_iob=O
+79	by	by	ADP	IN	_	65	agent	_	ent_type=_|ent_id=2|ent_iob=O
+80	the	the	DET	DT	_	83	det	_	ent_type=_|ent_id=2|ent_iob=O
+81	arrogant	arrogant	ADJ	JJ	_	83	amod	_	ent_type=_|ent_id=2|ent_iob=O
+82	powers	power	NOUN	NNS	_	80	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+83	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+84	"	"	PUNCT	''	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 47
+# text = However, the brave, faithful and honorable Iranian people, who have raised the flag of Islam in this country and who firmly adhere to their Islamic and cultural values and revolutionary ideals, would never submit to the illegitimate demands of the United States.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	However	however	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	brave	brave	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	faithful	faithful	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	honorable	honorable	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iranian	iranian	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	people	people	NOUN	NNS	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	have	have	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	raised	raise	VERB	VBN	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	flag	flag	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Islam	Islam	PROPN	NNP	_	17	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	country	country	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	firmly	firmly	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	adhere	adhere	VERB	VBP	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	Islamic	islamic	ADJ	JJ	_	31	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	cultural	cultural	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	values	value	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	revolutionary	revolutionary	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	ideals	ideal	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	would	would	VERB	MD	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	never	never	ADV	RB	_	38	neg	_	ent_type=_|ent_id=2|ent_iob=O
+38	submit	submit	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+39	to	to	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	illegitimate	illegitimate	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	demands	demand	NOUN	NNS	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	46	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+45	United	United	PROPN	NNP	_	46	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+46	States	States	PROPN	NNP	_	43	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+47	.	.	PUNCT	.	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 23
+# text = Indeed, no threats or intimidation would be able to weaken the strong will and determination of the great Iranian nation."
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Indeed	indeed	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	threats	threat	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	or	or	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	intimidation	intimidation	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	would	would	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	able	able	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	weaken	weaken	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	strong	strong	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	determination	determination	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	great	great	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iranian	iranian	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	nation	nation	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	"	"	PUNCT	''	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 50
+# text = In conclusion, the Leader expressed his gratitude to the Iranian people for their participation in the grand rallies in support of Palestinians that were held in different cities across the country on the World Day of Quds, or the last Friday in the holy month of Ramazan.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Leader	leader	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	expressed	express	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	gratitude	gratitude	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iranian	iranian	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	people	people	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	participation	participation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	grand	grand	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	rallies	rally	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	support	support	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Palestinians	Palestinians	PROPN	NNPS	_	22	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	that	that	DET	WDT	_	26	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	were	be	AUX	VBD	_	26	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	held	hold	VERB	VBN	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	different	different	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	cities	city	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	across	across	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	country	country	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	on	on	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+35	World	World	PROPN	NNP	_	36	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+36	Day	Day	PROPN	NNP	_	33	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+37	of	of	ADP	IN	_	36	prep	_	ent_type=EVENT|ent_id=1|ent_iob=I
+38	Quds	Quds	PROPN	NNPS	_	37	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+39	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	or	or	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+42	last	last	ADJ	JJ	_	43	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+43	Friday	Friday	PROPN	NNP	_	21	conj	_	ent_type=DATE|ent_id=1|ent_iob=I
+44	in	in	ADP	IN	_	21	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+45	the	the	DET	DT	_	47	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+46	holy	holy	ADJ	JJ	_	47	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+47	month	month	NOUN	NN	_	44	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+48	of	of	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	Ramazan	Ramazan	PROPN	NNP	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 47
+# text = Ayatollah Khamenei stressed that such nationwide rallies and demonstrations clearly indicate that the devout Iranian people, especially the zealous youngsters, are determined to follow the path that was trodden by late Imam Khomeini in accomplishing the lofty ideals and objectives of the Islamic Revolution.
+# title = Sermons Delivered at Eid-al-Fitr Prayers 
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	stressed	stress	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	such	such	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	nationwide	nationwide	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	rallies	rally	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	demonstrations	demonstration	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	clearly	clearly	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	indicate	indicate	VERB	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	devout	devout	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iranian	iranian	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	people	people	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	especially	especially	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	zealous	zealous	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	youngsters	youngster	NOUN	NNS	_	16	appos	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	are	be	AUX	VBP	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	determined	determine	VERB	VBN	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	follow	follow	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	path	path	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	that	that	DET	WDT	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	was	be	AUX	VBD	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	trodden	trodden	ADJ	JJ	_	28	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	by	by	ADP	IN	_	31	agent	_	ent_type=_|ent_id=2|ent_iob=O
+33	late	late	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	Imam	Imam	PROPN	NNP	_	35	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+35	Khomeini	Khomeini	PROPN	NNP	_	32	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+36	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	accomplishing	accomplish	VERB	VBG	_	36	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	lofty	lofty	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	ideals	ideal	NOUN	NNS	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	objectives	objective	NOUN	NNS	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	46	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+45	Islamic	Islamic	PROPN	NNP	_	46	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+46	Revolution	Revolution	PROPN	NNP	_	43	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+47	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O

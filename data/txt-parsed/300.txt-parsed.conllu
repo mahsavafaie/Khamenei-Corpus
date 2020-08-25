@@ -1,0 +1,1285 @@
+# sent_id = 1
+# sent_len = 52
+# text = All praise is due to Allah, the Lord of all sentient beings, and peace and greetings be upon our Master and Prophet, Ab-al-Qassem Al-Mustafa Muhammad, and upon his immaculate and infallible household, especially the one remaining with Allah on earth.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	praise	praise	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	due	due	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Lord	Lord	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	sentient	sentient	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	beings	being	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	peace	peace	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	greetings	greeting	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	be	be	AUX	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	upon	upon	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	Master	Master	PROPN	NNP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	Prophet	Prophet	PROPN	NNP	_	22	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+25	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	Ab	Ab	PROPN	NNP	_	30	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+27	-	-	PUNCT	HYPH	_	30	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+28	al	al	PROPN	NNP	_	30	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+29	-	-	PUNCT	HYPH	_	30	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+30	Qassem	Qassem	PROPN	NNP	_	34	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+31	Al	Al	PROPN	NNP	_	33	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+32	-	-	PUNCT	HYPH	_	33	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+33	Mustafa	Mustafa	PROPN	NNP	_	34	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+34	Muhammad	Muhammad	PROPN	NNP	_	19	npadvmod	_	ent_type=PERSON|ent_id=1|ent_iob=I
+35	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	upon	upon	SCONJ	IN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	his	-PRON-	DET	PRP$	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	immaculate	immaculate	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	infallible	infallible	ADJ	JJ	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	household	household	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	especially	especially	ADV	RB	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	46	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	one	one	NOUN	NN	_	42	appos	_	ent_type=_|ent_id=2|ent_iob=O
+47	remaining	remain	VERB	VBG	_	46	acl	_	ent_type=_|ent_id=2|ent_iob=O
+48	with	with	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	Allah	Allah	PROPN	NNP	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	on	on	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	earth	earth	NOUN	NN	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 38
+# text = Marivan - the city itself, the people of Marivan, the landscape, and these important areas - is for me one of the most memorable regions in Kurdistan and the western part of the country.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	Marivan	Marivan	PROPN	NNP	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	city	city	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	itself	-PRON-	PRON	PRP	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Marivan	Marivan	PROPN	NNP	_	9	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	landscape	landscape	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	these	these	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	important	important	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	areas	area	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	for	for	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	me	-PRON-	PRON	PRP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	one	one	NUM	CD	_	20	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	most	most	ADV	RBS	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	memorable	memorable	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	regions	region	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	Kurdistan	Kurdistan	PROPN	NNP	_	29	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+31	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	western	western	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	part	part	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	country	country	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 30
+# text = I thank Allah the Exalted who bestowed upon me the blessing to visit this land which is full of bravery, beauty of nature, kindness, and loyalty.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestowed	bestow	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	upon	upon	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	me	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	blessing	blessing	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	visit	visit	VERB	VB	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	land	land	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	full	full	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	bravery	bravery	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	beauty	beauty	NOUN	NN	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	nature	nature	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	kindness	kindness	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	loyalty	loyalty	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 13
+# text = I have experienced these feelings in this region in the past too.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	experienced	experience	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	feelings	feeling	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	region	region	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	past	past	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	too	too	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 38
+# text = The dear people of Marivan who have formed this sincere gathering here should know that I consider this city and region and this great public gathering as a divine blessing for the country and the Islamic Revolution.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Marivan	Marivan	PROPN	NNP	_	4	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	formed	form	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	sincere	sincere	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	gathering	gathering	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	here	here	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	I	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	consider	consider	VERB	VBP	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	city	city	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	region	region	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	great	great	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	public	public	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	gathering	gathering	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	as	as	SCONJ	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	divine	divine	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	blessing	blessing	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	for	for	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	country	country	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+36	Islamic	Islamic	PROPN	NNP	_	37	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+37	Revolution	Revolution	PROPN	NNP	_	33	conj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+38	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 60
+# text = I traveled to this region and developed a close familiarity with this region during the tough days at the early stages of the Islamic Revolution - when the enemies turned this beautiful green land into a battlefield and the kind, sincere, and faithful people of Marivan were dealing with the problems of war and the resultant shortcomings.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	traveled	travel	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	region	region	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	developed	develop	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	close	close	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	familiarity	familiarity	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	region	region	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	during	during	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+16	tough	tough	ADJ	JJ	_	17	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	days	day	NOUN	NNS	_	14	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	at	at	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	early	early	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	stages	stage	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+24	Islamic	Islamic	PROPN	NNP	_	25	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+25	Revolution	Revolution	PROPN	NNP	_	22	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+26	-	-	PUNCT	:	_	7	punct	_	ent_type=EVENT|ent_id=1|ent_iob=I
+27	when	when	ADV	WRB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	enemies	enemy	NOUN	NNS	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	turned	turn	VERB	VBD	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	this	this	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	beautiful	beautiful	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	green	green	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	land	land	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	into	into	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	a	a	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	battlefield	battlefield	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	kind	kind	NOUN	NN	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	,	,	PUNCT	,	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+42	sincere	sincere	ADJ	JJ	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	faithful	faithful	ADJ	JJ	_	46	amod	_	ent_type=_|ent_id=2|ent_iob=O
+46	people	people	NOUN	NNS	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	of	of	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	Marivan	Marivan	PROPN	NNP	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	were	be	AUX	VBD	_	50	aux	_	ent_type=_|ent_id=2|ent_iob=O
+50	dealing	deal	VERB	VBG	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	with	with	ADP	IN	_	50	prep	_	ent_type=_|ent_id=2|ent_iob=O
+52	the	the	DET	DT	_	53	det	_	ent_type=_|ent_id=2|ent_iob=O
+53	problems	problem	NOUN	NNS	_	51	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	of	of	ADP	IN	_	53	prep	_	ent_type=_|ent_id=2|ent_iob=O
+55	war	war	NOUN	NN	_	54	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	and	and	CCONJ	CC	_	55	cc	_	ent_type=_|ent_id=2|ent_iob=O
+57	the	the	DET	DT	_	59	det	_	ent_type=_|ent_id=2|ent_iob=O
+58	resultant	resultant	ADJ	JJ	_	59	amod	_	ent_type=_|ent_id=2|ent_iob=O
+59	shortcomings	shortcoming	NOUN	NNS	_	53	conj	_	ent_type=_|ent_id=2|ent_iob=O
+60	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 11
+# text = That was what Allah the Exalted had determined for me.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	Allah	Allah	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Exalted	Exalted	PROPN	NNP	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	had	have	AUX	VBD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	determined	determine	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	me	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 29
+# text = Our faithful brothers - who have come here from other parts of the country - talked about the kindness, loyalty, and sincerity of you dear people.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	faithful	faithful	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	brothers	brother	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	come	come	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	here	here	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	other	other	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	parts	part	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	HYPH	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	talked	talk	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	about	about	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	kindness	kindness	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	loyalty	loyalty	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	sincerity	sincerity	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	you	-PRON-	PRON	PRP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	dear	dear	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	people	people	NOUN	NNS	_	19	appos	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 16
+# text = I myself have seen the manifestation of these traits in the people of this region.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	myself	-PRON-	PRON	PRP	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	seen	see	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	manifestation	manifestation	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	traits	trait	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	region	region	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 26
+# text = I will never forget the time when I met with a group of sincere people here in the city of Marivan in the year 1359.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	never	never	ADV	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	forget	forget	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	time	time	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	when	when	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	I	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	met	meet	VERB	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	group	group	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	sincere	sincere	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	here	here	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	city	city	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Marivan	Marivan	PROPN	NNP	_	20	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+24	year	year	NOUN	NN	_	22	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+25	1359	1359	NUM	CD	_	24	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+26	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 7
+# text = We went to an educational center -
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	educational	educational	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	center	center	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 8
+# text = I think it was a primary school -
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	think	think	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	primary	primary	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	school	school	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 10
+# text = and I talked to a group of teenagers there.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	talked	talk	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	group	group	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	teenagers	teenager	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	there	there	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 9
+# text = Those teenagers are now middle-aged men.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	Those	those	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	teenagers	teenager	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	now	now	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	middle	middle	ADJ	JJ	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	-	-	PUNCT	HYPH	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	aged	aged	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	men	man	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 15
+# text = From here, we went to Dezli and Daraki, if I remember correctly.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	From	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	here	here	ADV	RB	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Dezli	Dezli	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	Daraki	Daraki	PROPN	NNP	_	7	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	if	if	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	I	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	remember	remember	VERB	VBP	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	correctly	correctly	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 6
+# text = They are very important regions.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	regions	region	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 9
+# text = They have a beautiful nature and hospitable people.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	beautiful	beautiful	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	nature	nature	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	hospitable	hospitable	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 45
+# text = However, due to the oppression of the enemies of the Iranian nation and the Islamic Revolution, this great region - with its nice people, tall and green mountains, and fertile plains - had turned into the scene of intense war.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	However	however	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	due	due	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	oppression	oppression	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	enemies	enemy	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iranian	iranian	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	nation	nation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+17	Revolution	Revolution	PROPN	NNP	_	13	conj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	great	great	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	region	region	NOUN	NN	_	18	intj	_	ent_type=_|ent_id=2|ent_iob=O
+22	-	-	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	with	with	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	its	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	nice	nice	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	people	people	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	tall	tall	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	green	green	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	mountains	mountain	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	fertile	fertile	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	plains	plain	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	-	-	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	had	have	AUX	VBD	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	turned	turn	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+39	into	into	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	scene	scene	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	intense	intense	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	war	war	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 18
+# text = And the enemy had managed to take advantage of its mercenaries to deal blows to the people.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	enemy	enemy	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	had	have	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	managed	manage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	take	take	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	advantage	advantage	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	its	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	mercenaries	mercenary	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	deal	deal	VERB	VB	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	blows	blow	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	people	people	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 22
+# text = They tried to use those mercenaries to deal direct or indirect blows to the Islamic Republic and degrade the Iranian nation.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	tried	try	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	use	use	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	mercenaries	mercenary	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	deal	deal	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	direct	direct	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	indirect	indirect	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	blows	blow	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	Islamic	Islamic	PROPN	NNP	_	16	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	Republic	Republic	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	degrade	degrade	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iranian	iranian	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	nation	nation	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 20
+# text = I will never forget the time when the people of Dezli welcomed us with open arms on that day.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	never	never	ADV	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	forget	forget	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	time	time	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	when	when	ADV	WRB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Dezli	Dezli	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	welcomed	welcome	VERB	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	us	-PRON-	PRON	PRP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	open	open	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	arms	arm	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	DET	DT	_	19	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	day	day	NOUN	NN	_	17	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 20
+# text = I left Dezli with some other people, and we moved towards the mountainous areas which overlooked Iraqi territories.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	left	leave	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Dezli	Dezli	PROPN	NNP	_	2	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	other	other	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	moved	move	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	towards	towards	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	mountainous	mountainous	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	areas	area	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	overlooked	overlook	VERB	VBD	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iraqi	iraqi	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	territories	territory	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 15
+# text = On that day, those people had been infiltrated by the enemies' mercenaries.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	On	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	day	day	NOUN	NN	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	had	have	AUX	VBD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	infiltrated	infiltrate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	enemies	enemy	NOUN	NNS	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	'	'	PART	POS	_	12	case	_	ent_type=_|ent_id=2|ent_iob=O
+14	mercenaries	mercenary	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 24
+# text = Those disgraceful mercenaries had informed the enemy of our presence in those areas, and the enemy sent its aircraft to that region.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	Those	those	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	disgraceful	disgraceful	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	mercenaries	mercenary	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	had	have	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	informed	inform	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemy	enemy	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	presence	presence	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	those	those	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	areas	area	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	enemy	enemy	NOUN	NN	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	sent	send	VERB	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	its	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	aircraft	aircraft	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	region	region	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 18
+# text = In the middle of the way, we saw the enemy' aircraft fly over our heads.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	middle	middle	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	way	way	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	saw	see	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	enemy	enemy	NOUN	NN	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	'	'	PUNCT	``	_	11	case	_	ent_type=_|ent_id=2|ent_iob=O
+13	aircraft	aircraft	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	fly	fly	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	over	over	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	heads	head	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 10
+# text = We knew something was going to happen to Dezli.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	knew	know	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	something	something	PRON	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	going	go	VERB	VBG	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	happen	happen	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Dezli	Dezli	PROPN	NNP	_	8	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 15
+# text = When we came back, we realized that they had dropped bombs on civilians.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	came	come	VERB	VBD	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	back	back	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	realized	realize	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	had	have	AUX	VBD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	dropped	drop	VERB	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	bombs	bomb	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	civilians	civilian	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 9
+# text = They wounded some people and killed some others.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	wounded	wound	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	killed	kill	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	some	some	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	others	other	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 19
+# text = We collected the corpses of the martyrs and took them along with some of the wounded to Marivan.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	collected	collect	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	corpses	corpse	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	martyrs	martyr	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	took	take	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	them	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	along	along	ADP	RP	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	some	some	DET	DT	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	wounded	wound	VERB	VBN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Marivan	Marivan	PROPN	NNP	_	17	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 7
+# text = These memories are full of lessons.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	memories	memory	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	full	full	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	lessons	lesson	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 15
+# text = Those days, the governments that now claim to advocate democracy supported Saddam Hussein.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	Those	those	DET	DT	_	2	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	days	day	NOUN	NNS	_	12	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	governments	government	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	now	now	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	claim	claim	VERB	VBP	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	advocate	advocate	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	democracy	democracy	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	supported	support	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	Saddam	Saddam	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+14	Hussein	Hussein	PROPN	NNP	_	12	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+15	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 6
+# text = They supported these savage acts.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	supported	support	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	savage	savage	NOUN	NN	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	acts	act	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 39
+# text = The youth of our country should know that those who claim to support human rights turned our dear country and western borders - such as the Kurdistan region - into a testing ground for deception and irrevocable mistakes.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	country	country	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	those	those	DET	DT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	claim	claim	VERB	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	support	support	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	human	human	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	rights	right	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	turned	turn	VERB	VBD	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	dear	dear	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	country	country	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	western	western	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	borders	border	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	such	such	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	as	as	SCONJ	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Kurdistan	Kurdistan	PROPN	NNP	_	28	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+28	region	region	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	-	-	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	into	into	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	a	a	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	testing	testing	NOUN	NN	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+33	ground	ground	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	for	for	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	deception	deception	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	irrevocable	irrevocable	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	mistakes	mistake	NOUN	NNS	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 38
+# text = In Operation Val-Fajr-4, Kurdish, Persian, and other youth went to the battlefields to put an end to the enemies' attacks and free Marivan from the fire of the enemies' artillery.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	In	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Operation	Operation	PROPN	NNP	_	1	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	Val	Val	PROPN	NNP	_	5	nmod	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Fajr-4	Fajr-4	PROPN	NNP	_	14	dep	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Kurdish	kurdish	ADJ	JJ	_	6	intj	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Persian	persian	ADJ	JJ	_	7	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	youth	youth	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	battlefields	battlefield	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	put	put	VERB	VB	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	an	an	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	end	end	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	enemies	enemy	NOUN	NNS	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	'	'	PART	POS	_	24	case	_	ent_type=_|ent_id=2|ent_iob=O
+26	attacks	attack	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	free	free	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	Marivan	Marivan	PROPN	NNP	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	from	from	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	fire	fire	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	enemies	enemy	NOUN	NNS	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	'	'	PART	POS	_	35	case	_	ent_type=_|ent_id=2|ent_iob=O
+37	artillery	artillery	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 7
+# text = And they managed to do so.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	so	so	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 15
+# text = The enemies constantly put Marivan under heavy fire using their long-range artillery.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	constantly	constantly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	put	put	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	Marivan	Marivan	PROPN	NNP	_	4	dobj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+6	under	under	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	heavy	heavy	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	fire	fire	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	using	use	VERB	VBG	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	long	long	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	HYPH	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	range	range	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	artillery	artillery	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 38
+# text = These youth along with the members of Basij and the Islamic Republic's Guards Corps - who were in fact brave Kurdish youth and people from other parts of the country - organized operation Val-Fajr-4.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	along	along	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	members	member	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Basij	Basij	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	15	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	's	's	PART	POS	_	12	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	Guards	Guards	PROPN	NNPS	_	15	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	Corps	Corps	PROPN	NNP	_	8	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	-	-	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	who	who	PRON	WP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	were	be	AUX	VBD	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	fact	fact	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	brave	brave	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	Kurdish	kurdish	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	youth	youth	NOUN	NN	_	18	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	people	people	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	other	other	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	parts	part	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	country	country	NOUN	NN	_	33	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	-	-	PUNCT	HYPH	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	organized	organize	VERB	VBN	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	operation	operation	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	Val	Val	PROPN	NNP	_	37	compound	_	ent_type=_|ent_id=2|ent_iob=O
+36	-	-	PUNCT	HYPH	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	Fajr-4	Fajr-4	PROPN	NNP	_	34	appos	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 17
+# text = They managed to put an end to the enemies' attacks and made the enemies retreat.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	put	put	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	end	end	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	enemies	enemy	NOUN	NNS	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	'	'	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	attacks	attack	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	made	make	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	enemies	enemy	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	retreat	retreat	VERB	VB	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 6
+# text = They even managed to free Halabja
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	even	even	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	free	free	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	Halabja	Halabja	PROPN	NNP	_	5	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+
+# sent_id = 40
+# sent_len = 11
+# text = [in Iraq] which was occupied by the enemies.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	[	[	PUNCT	-LRB-	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+3	Iraq	Iraq	PROPN	NNP	_	2	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	]	]	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	occupied	occupy	VERB	VBN	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	enemies	enemy	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 15
+# text = And do you know what the enemies did to make up for that failure?
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	And	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemies	enemy	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	did	do	AUX	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	make	make	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	up	up	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	failure	failure	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 17
+# text = They could not invade Marivan because our brave soldiers had previously proven their power to them.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	could	could	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	invade	invade	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	Marivan	Marivan	PROPN	NNP	_	4	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	because	because	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	brave	brave	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	soldiers	soldier	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	had	have	AUX	VBD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	previously	previously	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	proven	prove	VERB	VBN	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	power	power	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	them	-PRON-	PRON	PRP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 25
+# text = Therefore, the merciless inhuman enemies, who were members of the Iraqi Ba'ath Party, dropped chemical bombs on the city of Halabja.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	Therefore	therefore	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	merciless	merciless	ADJ	JJ	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	inhuman	inhuman	PROPN	NNP	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	enemies	enemy	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	members	member	NOUN	NNS	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	Iraqi	iraqi	ADJ	JJ	_	15	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	Ba'ath	Ba'ath	PROPN	NNP	_	15	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Party	Party	PROPN	NNP	_	11	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	dropped	drop	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	chemical	chemical	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	bombs	bomb	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	city	city	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Halabja	Halabja	PROPN	NNP	_	23	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 51
+# text = Hundreds or even thousands of the Kurdish people who lived in Halabja died in those attacks simply because Saddam Hussein wanted to take revenge on the Kurdish people of Halabja because they had not confronted the faithful Armed Forces of the Islamic Republic and had accepted them with open arms.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	Hundreds	hundred	NOUN	NNS	_	13	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	or	or	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	even	even	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	thousands	thousand	NOUN	NNS	_	1	conj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Kurdish	kurdish	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	lived	live	VERB	VBD	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Halabja	Halabja	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	died	die	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	those	those	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	attacks	attack	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	simply	simply	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	because	because	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	Saddam	Saddam	PROPN	NNP	_	20	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+20	Hussein	Hussein	PROPN	NNP	_	21	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+21	wanted	want	VERB	VBD	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	take	take	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	revenge	revenge	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Kurdish	kurdish	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	people	people	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	Halabja	Halabja	PROPN	NNP	_	29	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+31	because	because	SCONJ	IN	_	35	mark	_	ent_type=_|ent_id=2|ent_iob=O
+32	they	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	had	have	AUX	VBD	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	not	not	PART	RB	_	35	neg	_	ent_type=_|ent_id=2|ent_iob=O
+35	confronted	confront	VERB	VBN	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	faithful	faithful	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	Armed	Armed	PROPN	NNP	_	39	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+39	Forces	Forces	PROPN	NNPS	_	35	dobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+40	of	of	ADP	IN	_	39	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+41	the	the	DET	DT	_	43	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+42	Islamic	Islamic	PROPN	NNP	_	43	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+43	Republic	Republic	PROPN	NNP	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	had	have	AUX	VBD	_	46	aux	_	ent_type=_|ent_id=2|ent_iob=O
+46	accepted	accept	VERB	VBN	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	them	-PRON-	PRON	PRP	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	with	with	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	open	open	ADJ	JJ	_	50	amod	_	ent_type=_|ent_id=2|ent_iob=O
+50	arms	arm	NOUN	NNS	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 11
+# text = The people of this region have experienced these great tests.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	region	region	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	experienced	experience	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	great	great	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	tests	test	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 9
+# text = I do not intend to retell historical facts.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	intend	intend	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	retell	retell	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	historical	historical	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	facts	fact	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 16
+# text = Of course, you - particularly the youth - should familiarize yourselves with these facts.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	particularly	particularly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	youth	youth	NOUN	NN	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	familiarize	familiarize	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	yourselves	yourself	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	these	these	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	facts	fact	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 31
+# text = You should learn lessons from the great tests which the Islamic Republic has gone through and from the great movement of the Iranian nation which resulted in this great victory.
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	learn	learn	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	lessons	lesson	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	tests	test	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	14	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	has	have	AUX	VBZ	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	gone	go	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	through	through	ADV	RB	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	from	from	ADP	IN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	great	great	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	movement	movement	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iranian	iranian	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	nation	nation	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	which	which	DET	WDT	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	resulted	result	VERB	VBD	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	this	this	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	great	great	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	victory	victory	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 6
+# text = These are great historical lessons...
+# title = Leader's Address to the People of Marivan 
+# year = 2009
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	historical	historical	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	lessons	lesson	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	...	...	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O

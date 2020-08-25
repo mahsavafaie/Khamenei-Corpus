@@ -1,0 +1,2211 @@
+# sent_id = 1
+# sent_len = 50
+# text = All praise is due to Allah, the Lord of the Worlds, and peace and greetings be upon our Master and Prophet, Ab-il-Qassem Al-Mustafa Mohammad, and upon his immaculate and infallible household, especially what remains with Allah on earth.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	praise	praise	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	due	due	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Lord	Lord	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Worlds	Worlds	PROPN	NNPS	_	10	pobj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	peace	peace	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	greetings	greeting	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	be	be	AUX	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	upon	upon	SCONJ	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	Master	Master	PROPN	NNP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	Prophet	Prophet	PROPN	NNP	_	21	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+24	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	Ab	Ab	PROPN	NNP	_	29	compound	_	ent_type=_|ent_id=2|ent_iob=O
+26	-	-	PUNCT	HYPH	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	il	il	PROPN	NNP	_	29	compound	_	ent_type=_|ent_id=2|ent_iob=O
+28	-	-	PUNCT	HYPH	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	Qassem	Qassem	PROPN	NNP	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+30	Al	Al	PROPN	NNP	_	32	compound	_	ent_type=_|ent_id=2|ent_iob=O
+31	-	-	PUNCT	HYPH	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	Mustafa	Mustafa	PROPN	NNP	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+33	Mohammad	Mohammad	PROPN	NNP	_	18	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	upon	upon	SCONJ	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	his	-PRON-	DET	PRP$	_	41	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	immaculate	immaculate	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	infallible	infallible	ADJ	JJ	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	household	household	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	,	,	PUNCT	,	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+43	especially	especially	ADV	RB	_	45	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+44	what	what	PRON	WP	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+45	remains	remain	VERB	VBZ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	with	with	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	Allah	Allah	PROPN	NNP	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	on	on	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	earth	earth	NOUN	NN	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 33
+# text = Every year, June 4 provides an opportunity for the Iranian people to renew their allegiance and express their loyalty to the principles of the Islamic Revolution and ideals of Imam Khomeini.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Every	every	DET	DT	_	2	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	year	year	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	June	June	PROPN	NNP	_	6	nsubj	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	4	4	NUM	CD	_	4	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	provides	provide	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	an	an	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	opportunity	opportunity	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iranian	iranian	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	people	people	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	renew	renew	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	allegiance	allegiance	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	express	express	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	loyalty	loyalty	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	principles	principle	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+26	Islamic	Islamic	PROPN	NNP	_	27	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+27	Revolution	Revolution	PROPN	NNP	_	24	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	ideals	ideal	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	Imam	Imam	PROPN	NNP	_	32	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+32	Khomeini	Khomeini	PROPN	NNP	_	30	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+33	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 60
+# text = Although our committed people always feel a strong bond with that prominent and unforgettable personality of our time, they use the demise anniversary of our late Imam, who was a great divine blessing, as an occasion for renewing their allegiance to the revolution that he led and the Islamic system that he established in this country.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Although	although	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	committed	committed	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	always	always	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	feel	feel	VERB	VBP	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	strong	strong	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	bond	bond	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	prominent	prominent	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	unforgettable	unforgettable	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	personality	personality	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	time	time	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	use	use	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	demise	demise	NOUN	NN	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	anniversary	anniversary	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	late	late	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	Imam	Imam	PROPN	NNP	_	25	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+29	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	who	who	PRON	WP	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	was	be	AUX	VBD	_	28	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	a	a	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	great	great	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	divine	divine	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	blessing	blessing	NOUN	NN	_	31	attr	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	as	as	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	an	an	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	occasion	occasion	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	for	for	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	renewing	renew	VERB	VBG	_	40	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+42	their	-PRON-	DET	PRP$	_	43	poss	_	ent_type=_|ent_id=2|ent_iob=O
+43	allegiance	allegiance	NOUN	NN	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	to	to	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	46	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	revolution	revolution	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	that	that	SCONJ	IN	_	49	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	he	-PRON-	PRON	PRP	_	49	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+49	led	lead	VERB	VBD	_	46	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+50	and	and	CCONJ	CC	_	46	cc	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	53	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	Islamic	islamic	ADJ	JJ	_	53	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+53	system	system	NOUN	NN	_	46	conj	_	ent_type=_|ent_id=2|ent_iob=O
+54	that	that	DET	WDT	_	56	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	he	-PRON-	PRON	PRP	_	56	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+56	established	establish	VERB	VBD	_	53	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+57	in	in	ADP	IN	_	56	prep	_	ent_type=_|ent_id=2|ent_iob=O
+58	this	this	DET	DT	_	59	det	_	ent_type=_|ent_id=2|ent_iob=O
+59	country	country	NOUN	NN	_	57	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+60	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 20
+# text = I would like to begin by citing a verse from the holy Qur'an that our late magnanimous Imam embodied.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	begin	begin	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	citing	cite	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	verse	verse	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	holy	holy	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	Qur'an	Qur'an	PROPN	NNP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	late	late	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	magnanimous	magnanimous	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	Imam	Imam	PROPN	NNP	_	19	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	embodied	embody	VERB	VBD	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 18
+# text = In Chapter Sojda of the Holy Qur'an, describing faithful persevering individuals, Almighty Allah says: "
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	In	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Chapter	Chapter	PROPN	NNP	_	3	compound	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Sojda	Sojda	PROPN	NNP	_	1	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	the	the	DET	DT	_	7	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+6	Holy	Holy	PROPN	NNP	_	7	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+7	Qur'an	Qur'an	PROPN	NNP	_	4	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	describing	describe	VERB	VBG	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	faithful	faithful	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	persevering	persevering	NOUN	NN	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	individuals	individual	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	Almighty	Almighty	PROPN	NNP	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	Allah	Allah	PROPN	NNP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	says	say	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	:	:	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	``	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 26
+# text = And We made some of them Imams to guide by Our command when they were patient, and they were certain of Our communications."
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	some	some	DET	DT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	Imams	Imams	PROPN	NNPS	_	9	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	guide	guide	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	command	command	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	when	when	ADV	WRB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	were	be	AUX	VBD	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	patient	patient	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	were	be	AUX	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	certain	certain	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	communications	communication	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	"	"	PUNCT	''	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 3
+# text = (32:24)
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	(	(	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	32:24	32:24	NUM	CD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	)	)	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 30
+# text = The above verse underlines that those characterized by the two main features, namely patience and certainty, were entrusted by Almighty Allah with the task of guiding others.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	above	above	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	verse	verse	NOUN	NN	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	underlines	underline	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	those	those	DET	DT	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	characterized	characterize	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	two	two	NUM	CD	_	12	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	main	main	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	features	feature	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	namely	namely	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	patience	patience	NOUN	NN	_	12	appos	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	certainty	certainty	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	were	be	AUX	VBD	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	entrusted	entrust	VERB	VBN	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	20	agent	_	ent_type=_|ent_id=2|ent_iob=O
+22	Almighty	Almighty	PROPN	NNP	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	Allah	Allah	PROPN	NNP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	with	with	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	task	task	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	guiding	guide	VERB	VBG	_	27	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	others	other	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 28
+# text = In other words, all prophets, leaders and those who managed to positively influence the course of history of mankind were characterized by these two features.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	In	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	prophets	prophet	NOUN	NNS	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	leaders	leader	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	those	those	DET	DT	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	managed	manage	VERB	VBD	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	positively	positively	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	influence	influence	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	course	course	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	history	history	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	mankind	mankind	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	were	be	AUX	VBD	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	characterized	characterize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	by	by	ADP	IN	_	23	agent	_	ent_type=_|ent_id=2|ent_iob=O
+25	these	these	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	two	two	NUM	CD	_	27	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+27	features	feature	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 29
+# text = Our magnanimous Imam, who brought about an Islamic revival and awakening in our nation and in the whole Islamic world as well, also exhibited these qualities.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	magnanimous	magnanimous	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Imam	Imam	PROPN	NNP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	brought	bring	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	about	about	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	an	an	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	islamic	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	revival	revival	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	awakening	awakening	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	nation	nation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	whole	whole	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islamic	islamic	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	world	world	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	well	well	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	also	also	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	exhibited	exhibit	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+27	these	these	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	qualities	quality	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 57
+# text = Forty years ago on June 5, 1963, a large number of faithful Iranians were martyred in Tehran and Qom at the hands of the cruel agents of the former regime only because they adhered to Islam and opposed the foreign domination of their country and the exploitation of their natural resources by outside powers.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Forty	forty	NUM	CD	_	2	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	years	year	NOUN	NNS	_	3	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	ago	ago	ADV	RB	_	17	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	June	June	PROPN	NNP	_	4	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	5	5	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	,	,	PUNCT	,	_	5	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	1963	1963	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	large	large	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	number	number	NOUN	NN	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	faithful	faithful	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iranians	Iranians	PROPN	NNPS	_	13	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	were	be	AUX	VBD	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	martyred	martyr	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Tehran	Tehran	PROPN	NNP	_	18	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	Qom	Qom	PROPN	NNP	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	at	at	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	hands	hand	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	cruel	cruel	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	agents	agent	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	former	former	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	regime	regime	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	only	only	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	because	because	SCONJ	IN	_	36	mark	_	ent_type=_|ent_id=2|ent_iob=O
+35	they	-PRON-	PRON	PRP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	adhered	adhere	VERB	VBD	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+37	to	to	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	Islam	Islam	PROPN	NNP	_	37	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+39	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	opposed	oppose	VERB	VBD	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	foreign	foreign	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	domination	domination	NOUN	NN	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	of	of	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	their	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+46	country	country	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	and	and	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+48	the	the	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+49	exploitation	exploitation	NOUN	NN	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	of	of	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	their	-PRON-	DET	PRP$	_	53	poss	_	ent_type=_|ent_id=2|ent_iob=O
+52	natural	natural	ADJ	JJ	_	53	amod	_	ent_type=_|ent_id=2|ent_iob=O
+53	resources	resource	NOUN	NNS	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	by	by	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+55	outside	outside	ADJ	JJ	_	56	amod	_	ent_type=_|ent_id=2|ent_iob=O
+56	powers	power	NOUN	NNS	_	54	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+57	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 32
+# text = After the massacre of innocent people in Tehran and Qom and the sending into exile of Imam Khomeini, many thought that the Islamic movement in this country had been crushed.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	After	after	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	massacre	massacre	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	innocent	innocent	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Tehran	Tehran	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	Qom	Qom	PROPN	NNP	_	8	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	sending	sending	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	into	into	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	exile	exile	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Imam	Imam	PROPN	NNP	_	18	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	Khomeini	Khomeini	PROPN	NNP	_	16	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+19	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	many	many	ADJ	JJ	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	thought	thought	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islamic	islamic	ADJ	JJ	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	movement	movement	NOUN	NN	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	this	this	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	country	country	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	had	have	AUX	VBD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	been	be	AUX	VBN	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	crushed	crush	VERB	VBN	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 21
+# text = But they were wrong, since the Iranian people followed the path of the Islamic movement with patience and certainty.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	wrong	wrong	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	since	since	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iranian	iranian	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	followed	follow	VERB	VBD	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	path	path	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	movement	movement	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	patience	patience	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	certainty	certainty	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 29
+# text = Today you can see that the Islamic movement launched by Imam Khomeini that was ruthlessly suppressed some 40 years ago has now swept through the whole Islamic world.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	islamic	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	movement	movement	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	launched	launch	VERB	VBN	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	Imam	Imam	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	Khomeini	Khomeini	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	that	that	DET	WDT	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	was	be	AUX	VBD	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	ruthlessly	ruthlessly	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	suppressed	suppress	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	some	some	DET	DT	_	19	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+18	40	40	NUM	CD	_	19	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	years	year	NOUN	NNS	_	20	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	ago	ago	ADV	RB	_	16	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	has	have	AUX	VBZ	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	now	now	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	swept	sweep	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	through	through	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	whole	whole	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	Islamic	islamic	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	world	world	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 12
+# text = Imam Khomeini led the Islamic movement from exile for 15 years.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Imam	Imam	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khomeini	Khomeini	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	led	lead	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islamic	islamic	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	movement	movement	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	exile	exile	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	15	15	NUM	CD	_	11	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	years	year	NOUN	NNS	_	9	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 44
+# text = Thanks to the deep religious faith and great political awareness of our nation, the late Imam managed to bring about unity and solidarity among the Iranian people against the tyrannical rule of the former regime and against foreign domination of our country.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Thanks	thank	NOUN	NNS	_	18	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	deep	deep	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	religious	religious	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	faith	faith	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	great	great	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	political	political	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	awareness	awareness	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	nation	nation	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	late	late	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	Imam	Imam	PROPN	NNP	_	18	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	bring	bring	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	about	about	ADP	RP	_	20	prt	_	ent_type=_|ent_id=2|ent_iob=O
+22	unity	unity	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	solidarity	solidarity	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	among	among	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Iranian	iranian	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	people	people	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	against	against	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	tyrannical	tyrannical	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	rule	rule	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	former	former	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	regime	regime	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	against	against	ADP	IN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	foreign	foreign	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	domination	domination	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	our	-PRON-	DET	PRP$	_	43	poss	_	ent_type=_|ent_id=2|ent_iob=O
+43	country	country	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 18
+# text = Whenever the people of a country enter the arena of struggle, they will surely achieve victory.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Whenever	whenever	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	enter	enter	VERB	VBP	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	arena	arena	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	struggle	struggle	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	surely	surely	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	achieve	achieve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	victory	victory	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 32
+# text = Consequently, the Islamic movement of the Iranian people also culminated in victory and an Islamic system was established in this country despite all the obstacles and plots of the enemies.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Consequently	consequently	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	movement	movement	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iranian	iranian	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	people	people	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	also	also	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	culminated	culminate	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	victory	victory	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islamic	islamic	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	system	system	NOUN	NN	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	was	be	AUX	VBD	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	established	establish	VERB	VBN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	country	country	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	despite	despite	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	all	all	DET	PDT	_	26	predet	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	obstacles	obstacle	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	plots	plot	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	enemies	enemy	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 38
+# text = Furthermore, the Islamic revival and awakening, the spirit of standing up to foreign domination and exploitation and the idea of freeing Muslim Ummah from the clutches of the arrogant powers have gone beyond our borders.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Furthermore	furthermore	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	revival	revival	NOUN	NN	_	2	intj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	awakening	awakening	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	spirit	spirit	NOUN	NN	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	standing	stand	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	up	up	ADP	RP	_	12	prt	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	foreign	foreign	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	domination	domination	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	exploitation	exploitation	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	idea	idea	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	freeing	free	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	Muslim	Muslim	PROPN	NNP	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	Ummah	Ummah	PROPN	NNP	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	clutches	clutch	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	arrogant	arrogant	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	powers	power	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	have	have	AUX	VBP	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	gone	go	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+35	beyond	beyond	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	our	-PRON-	DET	PRP$	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	borders	border	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 38
+# text = Today, all Muslim nations from the east to the west of the Islamic world, including those in the Middle East, northern Africa or eastern Asia, feel a deep hatred for the arrogant powers.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Today	today	NOUN	NN	_	30	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Muslim	muslim	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	nations	nation	NOUN	NNS	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	from	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	east	east	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	west	west	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	including	include	VERB	VBG	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	those	those	DET	DT	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+21	Middle	Middle	PROPN	NNP	_	22	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+22	East	East	PROPN	NNP	_	19	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+23	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	northern	northern	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	Africa	Africa	PROPN	NNP	_	18	conj	_	ent_type=LOC|ent_id=3|ent_iob=B
+26	or	or	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	eastern	eastern	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	Asia	Asia	PROPN	NNP	_	25	conj	_	ent_type=LOC|ent_id=3|ent_iob=B
+29	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	feel	feel	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	a	a	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	deep	deep	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	hatred	hatred	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	for	for	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	arrogant	arrogant	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	powers	power	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 28
+# text = These nations, especially their scholars, intellectuals and young people, are expressing a great desire for the enforcement of the Islamic law in their societies.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	nations	nation	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	especially	especially	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	scholars	scholar	NOUN	NNS	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	intellectuals	intellectual	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	young	young	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	expressing	express	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	great	great	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	desire	desire	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	enforcement	enforcement	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	law	law	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	societies	society	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 16
+# text = What did Imam Khomeini do that brought about all these developments in the Islamic world?
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	What	what	PRON	WP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	did	do	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	Imam	Imam	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Khomeini	Khomeini	PROPN	NNP	_	5	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	do	do	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	brought	bring	VERB	VBD	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	about	about	ADP	IN	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	PDT	_	11	predet	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	developments	development	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	?	?	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 11
+# text = Our magnanimous Imam put his trust in Islam and people.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	magnanimous	magnanimous	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Imam	Imam	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	put	put	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	trust	trust	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islam	Islam	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 12
+# text = His trust in people also stemmed from his trust in Islam.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	trust	trust	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	also	also	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	stemmed	stem	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	his	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	trust	trust	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islam	Islam	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 22
+# text = It is Islam that emphasizes the rights of people and the significance of their votes and their presence on the scene.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Islam	Islam	PROPN	NNP	_	2	attr	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	that	that	DET	WDT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	emphasizes	emphasize	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	rights	right	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	significance	significance	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	votes	vote	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	presence	presence	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	scene	scene	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 27
+# text = Imam Khomeini also relied on people in line with Islamic teachings and equated the grandeur and power of Islam with the grandeur and power of people.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Imam	Imam	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khomeini	Khomeini	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	relied	rely	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	line	line	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Islamic	islamic	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	teachings	teaching	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	equated	equate	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	grandeur	grandeur	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	power	power	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Islam	Islam	PROPN	NNP	_	18	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	grandeur	grandeur	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	power	power	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	people	people	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 14
+# text = Above all, Imam Khomeini revived the political and social aspects of Islam.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Above	above	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	DT	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Imam	Imam	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Khomeini	Khomeini	PROPN	NNP	_	6	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	revived	revive	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	political	political	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	social	social	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	aspects	aspect	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islam	Islam	PROPN	NNP	_	12	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 47
+# text = When the old colonial powers entered the Islamic world, they made every effort to undermine the political and social aspects of Islam and silence its call for justice, freedom and independence with the intention of forcing Muslims into submission and exploiting their natural resources.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	When	when	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	old	old	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	colonial	colonial	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	powers	power	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	entered	enter	VERB	VBD	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	islamic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	world	world	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	every	every	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	effort	effort	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	undermine	undermine	VERB	VB	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	political	political	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	social	social	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	aspects	aspect	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islam	Islam	PROPN	NNP	_	22	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+24	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	silence	silence	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	its	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	call	call	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	for	for	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	justice	justice	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	freedom	freedom	NOUN	NN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	independence	independence	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	with	with	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	intention	intention	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	forcing	force	VERB	VBG	_	37	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	Muslims	Muslims	PROPN	NNPS	_	38	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+40	into	into	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	submission	submission	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+43	exploiting	exploit	VERB	VBG	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	their	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+45	natural	natural	ADJ	JJ	_	46	amod	_	ent_type=_|ent_id=2|ent_iob=O
+46	resources	resource	NOUN	NNS	_	43	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 14
+# text = However, our magnanimous Imam reversed the trend and revitalized the pure Islam.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	magnanimous	magnanimous	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	Imam	Imam	PROPN	NNP	_	6	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	reversed	reverse	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	trend	trend	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	revitalized	revitalize	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	pure	pure	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islam	Islam	PROPN	NNP	_	10	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 45
+# text = He showed in practice that political Islam and moral and spiritual Islam are the same, contrary to the false notions that the enemies of Islam and those opposed to the awareness and awakening of Muslims have been trying to inculcate into Muslim nations.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	showed	show	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	practice	practice	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	political	political	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islam	Islam	PROPN	NNP	_	13	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	moral	moral	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	spiritual	spiritual	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islam	Islam	PROPN	NNP	_	7	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	are	be	AUX	VBP	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	same	same	ADJ	JJ	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	contrary	contrary	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	false	false	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	notions	notion	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	DET	WDT	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	enemies	enemy	NOUN	NNS	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Islam	Islam	PROPN	NNP	_	25	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	those	those	DET	DT	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	opposed	oppose	VERB	VBN	_	24	acl	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	awareness	awareness	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	awakening	awakening	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	Muslims	Muslims	PROPN	NNPS	_	35	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+37	have	have	AUX	VBP	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	been	be	AUX	VBN	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	trying	try	VERB	VBG	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+40	to	to	PART	TO	_	41	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	inculcate	inculcate	VERB	VB	_	39	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+42	into	into	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	Muslim	muslim	ADJ	JJ	_	44	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+44	nations	nation	NOUN	NNS	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 28
+# text = The pure Islam revitalized by the late Imam is opposed to both the reactionary Islam mixed with superstition and the one influenced by alien schools of thought.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	pure	pure	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Islam	Islam	PROPN	NNP	_	9	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	revitalized	revitalize	VERB	VBN	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	late	late	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	Imam	Imam	PROPN	NNP	_	5	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	is	be	AUX	VBZ	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	opposed	oppose	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	both	both	CCONJ	CC	_	16	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	reactionary	reactionary	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islam	Islam	PROPN	NNP	_	16	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	mixed	mix	VERB	VBN	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	superstition	superstition	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	one	one	NOUN	NN	_	18	conj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+22	influenced	influence	VERB	VBN	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	by	by	ADP	IN	_	22	agent	_	ent_type=_|ent_id=2|ent_iob=O
+24	alien	alien	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	schools	school	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	thought	thought	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 20
+# text = It is the religion that protects its followers against the exploitation and domination practiced by expansionist and arrogant powers.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	religion	religion	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	protects	protect	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	its	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	followers	follower	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	against	against	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	exploitation	exploitation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	domination	domination	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	practiced	practice	VERB	VBN	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	by	by	ADP	IN	_	14	agent	_	ent_type=_|ent_id=2|ent_iob=O
+16	expansionist	expansionist	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	arrogant	arrogant	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	powers	power	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 22
+# text = The enemies of Islam have also been propagating the wrong idea that democracy and religion are not compatible with each other.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islam	Islam	PROPN	NNP	_	3	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	also	also	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	propagating	propagate	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	wrong	wrong	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	idea	idea	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	democracy	democracy	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	religion	religion	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+18	compatible	compatible	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	with	with	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	each	each	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	other	other	ADJ	JJ	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 22
+# text = But the late Imam proved the falsity of this idea by establishing the Islamic Republic, which is a religious democracy.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	late	late	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	Imam	Imam	PROPN	NNP	_	5	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	proved	prove	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	falsity	falsity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	idea	idea	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	establishing	establish	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	Republic	Republic	PROPN	NNP	_	12	dobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	which	which	DET	WDT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	religious	religious	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	democracy	democracy	NOUN	NN	_	18	attr	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 14
+# text = Indeed, our Islamic system is a democratic government in its real sense.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Indeed	indeed	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	system	system	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	democratic	democratic	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	government	government	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	real	real	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	sense	sense	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 24
+# text = Ever since the establishment of the Islamic Republic some 24 years ago more than twenty general elections have been held in this country.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Ever	ever	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	since	since	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	establishment	establishment	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	some	some	DET	DT	_	11	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	24	24	NUM	CD	_	11	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	years	year	NOUN	NNS	_	12	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	ago	ago	ADV	RB	_	20	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	more	more	ADJ	JJR	_	15	amod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	than	than	SCONJ	IN	_	15	quantmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+15	twenty	twenty	NUM	CD	_	17	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+16	general	general	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	elections	election	NOUN	NNS	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	been	be	AUX	VBN	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	held	hold	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	country	country	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 31
+# text = Besides, the country's high-ranking officials, including the leader, the president and the parliamentarians, are elected through direct or indirect votes of the people.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Besides	besides	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	country	country	NOUN	NN	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	's	's	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	high	high	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	ranking	rank	VERB	VBG	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	officials	official	NOUN	NNS	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	including	include	VERB	VBG	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	leader	leader	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	president	president	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	parliamentarians	parliamentarian	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	elected	elect	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	through	through	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	direct	direct	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	or	or	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	indirect	indirect	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	votes	vote	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	people	people	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 19
+# text = Today, the enemies of Islam are doing their utmost to stifle the Islamic awakening of Muslim nations.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enemies	enemy	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islam	Islam	PROPN	NNP	_	5	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	are	be	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	doing	do	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	utmost	utmost	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	stifle	stifle	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	awakening	awakening	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Muslim	muslim	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	nations	nation	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 23
+# text = In particular, they are targeting the Islamic Republic, since it is the main source and center of this Islamic revival.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	particular	particular	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	targeting	target	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	Republic	Republic	PROPN	NNP	_	6	dobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	since	since	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	main	main	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	source	source	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	center	center	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	Islamic	islamic	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+22	revival	revival	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 26
+# text = Thus, it is no wonder that they are leveling all kinds of baseless accusations and spreading negative propaganda against the Iranian nation and government.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Thus	thus	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	no	no	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	wonder	wonder	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	leveling	level	VERB	VBG	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	kinds	kind	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	baseless	baseless	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	accusations	accusation	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	spreading	spread	VERB	VBG	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	negative	negative	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	propaganda	propaganda	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	against	against	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Iranian	iranian	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	nation	nation	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	government	government	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 18
+# text = For instance, the United States is accusing the Islamic Republic of supporting terrorism or harboring terrorists!
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	For	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	instance	instance	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	United	United	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	States	States	PROPN	NNP	_	8	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	accusing	accuse	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	Islamic	Islamic	PROPN	NNP	_	11	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	Republic	Republic	PROPN	NNP	_	8	dobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	of	of	ADP	IN	_	8	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	supporting	support	VERB	VBG	_	12	pcomp	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	terrorism	terrorism	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	or	or	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	harboring	harbor	VERB	VBG	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	terrorists	terrorist	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	!	!	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 7
+# text = This is a very outrageous lie.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	outrageous	outrageous	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	lie	lie	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 9
+# text = Iran neither supports terrorism nor harbors any terrorists.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Iran	Iran	PROPN	NNP	_	3	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	neither	neither	CCONJ	CC	_	3	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+3	supports	support	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	terrorism	terrorism	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	nor	nor	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	harbors	harbor	VERB	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	any	any	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	terrorists	terrorist	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 46
+# text = However, the Islamic Republic holds the view that there are millions of people in the Islamic world who are filled with hatred for the American aggressors and occupiers because of the atrocities that they are presently committing in Iraq or have committed in Afghanistan.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	holds	hold	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	view	view	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	there	there	PRON	EX	_	11	expl	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	millions	million	NOUN	NNS	_	11	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Islamic	islamic	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	world	world	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	who	who	PRON	WP	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	filled	fill	VERB	VBN	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	with	with	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	hatred	hatred	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	American	american	ADJ	JJ	_	27	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+27	aggressors	aggressor	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	occupiers	occupier	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	because	because	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	atrocities	atrocity	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	that	that	SCONJ	IN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	they	-PRON-	PRON	PRP	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	are	be	AUX	VBP	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	presently	presently	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	committing	commit	VERB	VBG	_	33	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	Iraq	Iraq	PROPN	NNP	_	39	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+41	or	or	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	have	have	AUX	VBP	_	43	aux	_	ent_type=_|ent_id=2|ent_iob=O
+43	committed	commit	VERB	VBN	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	in	in	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	Afghanistan	Afghanistan	PROPN	NNP	_	44	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+46	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 11
+# text = You cannot call these broad-minded people terrorists!
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	call	call	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	broad	broad	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	minded	minded	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	terrorists	terrorist	NOUN	NNS	_	4	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+11	!	!	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 23
+# text = You cannot call millions of people in Iraq, Egypt, Saudi Arabia, northern Africa, Pakistan and Afghanistan terrorists!
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	call	call	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	millions	million	NOUN	NNS	_	4	dobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iraq	Iraq	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	Egypt	Egypt	PROPN	NNP	_	9	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	Saudi	Saudi	PROPN	NNP	_	14	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	Arabia	Arabia	PROPN	NNP	_	11	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	northern	northern	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	Africa	Africa	PROPN	NNP	_	14	conj	_	ent_type=LOC|ent_id=3|ent_iob=B
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	Pakistan	Pakistan	PROPN	NNP	_	17	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	Afghanistan	Afghanistan	PROPN	NNP	_	19	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	terrorists	terrorist	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	!	!	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 25
+# text = Are the oppressed Palestinian people, who are defending their homes in the face of frequent attacks by Israeli tanks and helicopters, terrorists?
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	oppressed	oppress	VERB	VBN	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	Palestinian	palestinian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	people	people	NOUN	NNS	_	1	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	defending	defend	VERB	VBG	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	homes	home	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	face	face	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	frequent	frequent	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	attacks	attack	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Israeli	israeli	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	tanks	tank	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	helicopters	helicopter	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	terrorists	terrorist	NOUN	NNS	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+25	?	?	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 25
+# text = The brave and devoted Lebanese youth resisted Israeli military aggression and by sacrificing their precious lives forced the Zionist enemy to retreat from Lebanon.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	The	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	brave	brave	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	devoted	devoted	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	Lebanese	lebanese	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	youth	youth	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	resisted	resist	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	Israeli	israeli	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	military	military	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	aggression	aggression	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	sacrificing	sacrifice	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	precious	precious	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	lives	life	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	forced	force	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Zionist	zionist	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	enemy	enemy	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	retreat	retreat	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	from	from	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Lebanon	Lebanon	PROPN	NNP	_	23	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 57
+# text = If there were not valorous and faithful youth ready for self-sacrifice in Lebanon today, the Zionist regime would once again attack that country as it did in the past, advancing as far as that country's capital Beirut, and kept the southern part of that country under its occupation for years.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	there	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	valorous	valorous	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	faithful	faithful	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	youth	youth	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	ready	ready	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	self	self	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	HYPH	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	sacrifice	sacrifice	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Lebanon	Lebanon	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	today	today	NOUN	NN	_	3	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Zionist	zionist	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	regime	regime	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	would	would	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	once	once	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	again	again	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	attack	attack	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	that	that	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	country	country	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	as	as	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+28	it	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	did	do	AUX	VBD	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	past	past	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	advancing	advance	VERB	VBG	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+35	as	as	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	far	far	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	as	as	SCONJ	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	that	that	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	country	country	NOUN	NN	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	's	's	PART	POS	_	39	case	_	ent_type=_|ent_id=2|ent_iob=O
+41	capital	capital	NOUN	NN	_	42	compound	_	ent_type=_|ent_id=2|ent_iob=O
+42	Beirut	Beirut	PROPN	NNP	_	37	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+43	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	kept	keep	VERB	VBD	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	southern	southern	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	part	part	NOUN	NN	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	of	of	ADP	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+50	that	that	DET	DT	_	51	det	_	ent_type=_|ent_id=2|ent_iob=O
+51	country	country	NOUN	NN	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	under	under	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+53	its	-PRON-	DET	PRP$	_	54	poss	_	ent_type=_|ent_id=2|ent_iob=O
+54	occupation	occupation	NOUN	NN	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	for	for	ADP	IN	_	54	prep	_	ent_type=_|ent_id=2|ent_iob=O
+56	years	year	NOUN	NNS	_	55	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+57	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 32
+# text = Thanks to the Islamic awakening that our magnanimous Imam infused into Muslim nations, the faithful youth of Lebanon rose against the Zionist aggressors and drove them out of their homeland.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Thanks	thank	NOUN	NNS	_	20	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	awakening	awakening	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	magnanimous	magnanimous	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	Imam	Imam	PROPN	NNP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	infused	infuse	VERB	VBD	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+11	into	into	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Muslim	muslim	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	nations	nation	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	faithful	faithful	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	youth	youth	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Lebanon	Lebanon	PROPN	NNP	_	18	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	rose	rise	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	against	against	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Zionist	zionist	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	aggressors	aggressor	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	drove	drive	VERB	VBD	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	them	-PRON-	PRON	PRP	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	out	out	SCONJ	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	homeland	homeland	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 14
+# text = Now the question is, are the brave and devoted Lebanese youth terrorists?
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Now	now	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	question	question	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	brave	brave	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	devoted	devoted	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	Lebanese	lebanese	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	youth	youth	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	terrorists	terrorist	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 15
+# text = Terrorists are those who attack other nations and kill innocent people in their homes.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Terrorists	terrorist	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	those	those	DET	DT	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	attack	attack	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	other	other	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	nations	nation	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	kill	kill	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	innocent	innocent	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	homes	home	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 19
+# text = Today, the Islamic world is full of hatred for the United States for its occupation of Iraq.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	world	world	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	full	full	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	hatred	hatred	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	United	United	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	States	States	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	its	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	occupation	occupation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iraq	Iraq	PROPN	NNP	_	17	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 19
+# text = The U.S. officials refuse to allow the Iraqi people to decide their future and establish their favorite government.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	officials	official	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	refuse	refuse	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	allow	allow	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iraqi	iraqi	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	people	people	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	decide	decide	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	future	future	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	establish	establish	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	favorite	favorite	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	government	government	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 14
+# text = This is what the former Iraqi dictator Saddam Hussein also used to do.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	former	former	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iraqi	iraqi	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	dictator	dictator	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	Saddam	Saddam	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	Hussein	Hussein	PROPN	NNP	_	7	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	also	also	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	used	use	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	do	do	AUX	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 31
+# text = Therefore, just as the regime of Saddam was dictatorial and oppressed its people, the United States is also trampling on the legitimate rights of the great Iraqi nation.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	just	just	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	as	as	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	regime	regime	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Saddam	Saddam	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	was	be	AUX	VBD	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	dictatorial	dictatorial	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	oppressed	oppress	VERB	VBD	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	its	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	United	United	PROPN	NNP	_	18	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	States	States	PROPN	NNP	_	21	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	is	be	AUX	VBZ	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	also	also	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	trampling	trample	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	on	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	legitimate	legitimate	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	rights	right	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	great	great	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	Iraqi	iraqi	ADJ	JJ	_	30	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+30	nation	nation	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 28
+# text = By installing an American ruler in Iraq, the U.S. government is insulting the Iraqi nation, which has a rich culture and numerous scholars and intellectuals.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	By	by	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	installing	instal	VERB	VBG	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	American	american	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	ruler	ruler	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iraq	Iraq	PROPN	NNP	_	6	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	U.S.	U.S.	PROPN	NNP	_	11	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	government	government	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	insulting	insult	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iraqi	iraqi	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	nation	nation	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	which	which	DET	WDT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	has	have	AUX	VBZ	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	rich	rich	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	culture	culture	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	numerous	numerous	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	scholars	scholar	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	intellectuals	intellectual	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 24
+# text = Through such behavior, the United States is forcing the Iraqi people into a serious confrontation with the American occupiers of their homeland.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Through	through	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	such	such	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	behavior	behavior	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	United	United	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	States	States	PROPN	NNP	_	9	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	is	be	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	forcing	force	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iraqi	iraqi	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	people	people	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	into	into	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	serious	serious	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	confrontation	confrontation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	American	american	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	occupiers	occupier	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	homeland	homeland	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 29
+# text = What the United States has committed in Afghanistan and is presently doing in Iraq clearly shows the falsity of U.S. claims to advocate democracy and support human rights.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	What	what	PRON	WP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	United	United	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	States	States	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	committed	commit	VERB	VBN	_	16	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Afghanistan	Afghanistan	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	presently	presently	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	doing	do	VERB	VBG	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iraq	Iraq	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	clearly	clearly	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	falsity	falsity	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	U.S.	U.S.	PROPN	NNP	_	21	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+21	claims	claim	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	advocate	advocate	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	democracy	democracy	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	support	support	VERB	VB	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	human	human	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	rights	right	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 43
+# text = It is evident that the U.S. officials have no respect for the rights and freedoms of other nations, and that they are only seeking to further the interests of large corporations and conglomerates that hold immense influence over the U.S. administration.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	evident	evident	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	U.S.	U.S.	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	officials	official	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	no	no	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	respect	respect	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	rights	right	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	freedoms	freedom	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	other	other	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	nations	nation	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	they	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	are	be	AUX	VBP	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	only	only	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	seeking	seek	VERB	VBG	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	further	further	ADV	RB	_	25	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	interests	interest	NOUN	NNS	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	large	large	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	corporations	corporation	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	conglomerates	conglomerate	NOUN	NNS	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	that	that	DET	WDT	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	hold	hold	VERB	VBP	_	29	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+37	immense	immense	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	influence	influence	NOUN	NN	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	over	over	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	U.S.	U.S.	PROPN	NNP	_	42	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+42	administration	administration	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 22
+# text = In their negative propaganda, the enemies of the Islamic Republic are also claiming that there is discord between our officials.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	In	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	their	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	negative	negative	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	propaganda	propaganda	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemies	enemy	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	Islamic	Islamic	PROPN	NNP	_	11	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	Republic	Republic	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	are	be	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	also	also	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	claiming	claim	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	there	there	PRON	EX	_	17	expl	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	discord	discord	NOUN	NN	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	between	between	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	officials	official	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 36
+# text = I would like to assure the honorable Iranian people that the officials in charge of the three government branches are all united in confronting our enemies and in safeguarding our Islamic tenets and revolutionary principles.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	assure	assure	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	honorable	honorable	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iranian	iranian	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	people	people	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	officials	official	NOUN	NNS	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	charge	charge	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	three	three	NUM	CD	_	19	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+18	government	government	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	branches	branch	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	all	all	DET	DT	_	20	dep	_	ent_type=_|ent_id=2|ent_iob=O
+22	united	unite	VERB	VBN	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	confronting	confront	VERB	VBG	_	23	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	enemies	enemy	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	safeguarding	safeguard	VERB	VBG	_	28	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	our	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	Islamic	islamic	ADJ	JJ	_	32	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+32	tenets	tenet	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	revolutionary	revolutionary	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	principles	principle	NOUN	NNS	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 35
+# text = Therefore, the enemies' dream of seeing certain officials of the Islamic Republic opposing the ideals of Imam Khomeini and deviating from the revolutionary path of our Islamic system will never come true.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enemies	enemy	NOUN	NNS	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	'	'	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	dream	dream	NOUN	NN	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	seeing	see	VERB	VBG	_	7	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	certain	certain	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	officials	official	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	Islamic	Islamic	PROPN	NNP	_	14	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	Republic	Republic	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	opposing	oppose	VERB	VBG	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	ideals	ideal	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Imam	Imam	PROPN	NNP	_	20	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+20	Khomeini	Khomeini	PROPN	NNP	_	18	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+21	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	deviating	deviate	VERB	VBG	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	from	from	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	revolutionary	revolutionary	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	path	path	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	our	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	Islamic	islamic	ADJ	JJ	_	30	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+30	system	system	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	will	will	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	never	never	ADV	RB	_	33	neg	_	ent_type=_|ent_id=2|ent_iob=O
+33	come	come	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+34	true	true	ADJ	JJ	_	33	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 22
+# text = Glory be to Almighty Allah, Who has kept the name and memory of Imam Khomeini still alive in our country.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Glory	glory	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	kept	keep	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	name	name	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	memory	memory	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Imam	Imam	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	Khomeini	Khomeini	PROPN	NNP	_	14	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	still	still	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	alive	alive	ADJ	JJ	_	9	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	country	country	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 29
+# text = We also give praise to the Almighty and are grateful that our government officials have great devotion to our magnanimous Imam and adhere to his ideals and objectives.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	give	give	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	praise	praise	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	3	dative	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Almighty	Almighty	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	grateful	grateful	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	government	government	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	officials	official	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VBP	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	great	great	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	devotion	devotion	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	magnanimous	magnanimous	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	Imam	Imam	PROPN	NNP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	adhere	adhere	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	his	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	ideals	ideal	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	objectives	objective	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 51
+# text = In conclusion, I once again call on the officials in charge of the three government branches to try to increase their services to the people, intensify their campaign against corruption and discrimination and do their utmost to eliminate poverty from society and narrow the gap between different strata.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	In	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	once	once	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	again	again	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	call	call	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	officials	official	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	charge	charge	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	three	three	NUM	CD	_	17	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+16	government	government	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	branches	branch	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	try	try	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	increase	increase	VERB	VB	_	19	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	services	service	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	people	people	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	intensify	intensify	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	campaign	campaign	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	against	against	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	corruption	corruption	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	discrimination	discrimination	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	do	do	AUX	VBP	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	their	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	utmost	utmost	NOUN	NN	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	to	to	PART	TO	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	eliminate	eliminate	VERB	VB	_	38	acl	_	ent_type=_|ent_id=2|ent_iob=O
+41	poverty	poverty	NOUN	NN	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	from	from	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	society	society	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	narrow	narrow	VERB	VB	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	gap	gap	NOUN	NN	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	between	between	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	different	different	ADJ	JJ	_	50	amod	_	ent_type=_|ent_id=2|ent_iob=O
+50	strata	strata	NOUN	NN	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 27
+# text = I pray to Almighty Allah to bestow further success on our officials in performing their duties and in rendering more and better services to the people.
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	further	further	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	success	success	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	officials	official	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	performing	perform	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	duties	duty	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	rendering	render	VERB	VBG	_	18	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	more	more	ADJ	JJR	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	better	well	ADJ	JJR	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	services	service	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	people	people	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech in Commemoration of Imam Khomeini 
+# year = 2003
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

@@ -1,0 +1,611 @@
+# sent_id = 1
+# sent_len = 46
+# text = Today, after a long break, we will resume our discussion, but our hearts are full of sorrow and grief because of the sad event that occurred in Mina and that turned our Eid into mourning in the real sense of the word.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Today	today	NOUN	NN	_	10	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	after	after	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	long	long	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	break	break	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	resume	resume	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	discussion	discussion	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	but	but	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	hearts	heart	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	full	full	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	sorrow	sorrow	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	grief	grief	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	because	because	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	sad	sad	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	event	event	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	DET	WDT	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	occurred	occur	VERB	VBD	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	Mina	Mina	PROPN	NNP	_	30	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+32	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	that	that	DET	WDT	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	turned	turn	VERB	VBD	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	our	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	Eid	Eid	PROPN	NNP	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	into	into	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	mourning	mourn	VERB	VBG	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	real	real	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	sense	sense	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	word	word	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 25
+# text = Every year, during the hajj season - during these days when the hajj pilgrimage is over - the country experiences a public joy.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Every	every	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	year	year	NOUN	NN	_	21	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	during	during	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	hajj	hajj	PROPN	NNP	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	season	season	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	:	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	during	during	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	11	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	days	day	NOUN	NNS	_	9	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	when	when	ADV	WRB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	hajj	hajj	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	pilgrimage	pilgrimage	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	over	over	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	:	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	country	country	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	experiences	experience	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	public	public	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	joy	joy	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 16
+# text = Hajj pilgrims return and families are happy because fathers, children and spouses are back.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Hajj	Hajj	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pilgrims	pilgrim	VERB	VBZ	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	return	return	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	families	family	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	happy	happy	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	because	because	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	fathers	father	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	children	child	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	spouses	spouse	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	back	back	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 15
+# text = Families celebrate the return of their hajj pilgrims and the success of their pilgrimage.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Families	family	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	celebrate	celebrate	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	return	return	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	hajj	hajj	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	pilgrims	pilgrim	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	success	success	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	pilgrimage	pilgrimage	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 8
+# text = Every year, this is the case.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Every	every	DET	DT	_	2	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	year	year	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	case	case	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 22
+# text = It is a time of celebration, but this year, this celebration time has turned into a time of mourning.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	time	time	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	celebration	celebration	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	year	year	NOUN	NN	_	16	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	celebration	celebration	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	time	time	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	has	have	AUX	VBZ	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	turned	turn	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	into	into	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	time	time	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	mourning	mourning	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 23
+# text = In many provinces of the country, the number of casualties is large and the remains of the deceased should be returned.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	In	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	many	many	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	provinces	province	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	number	number	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	casualties	casualty	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	large	large	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	remains	remain	NOUN	NNS	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	deceased	deceased	ADJ	JJ	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	should	should	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	returned	return	VERB	VBN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 10
+# text = Therefore, hearts are truly mournful on these days.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	hearts	heart	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	truly	truly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	mournful	mournful	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	9	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	days	day	NOUN	NNS	_	7	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 15
+# text = One cannot forget about this feeling of grief even for a single moment.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	One	one	PRON	PRP	_	4	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	forget	forget	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	feeling	feeling	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	grief	grief	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	even	even	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	single	single	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	moment	moment	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 18
+# text = In recent days, this feeling of grief has troubled our hearts and the hearts of others.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	recent	recent	ADJ	JJ	_	3	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	days	day	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	feeling	feeling	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	grief	grief	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	has	have	AUX	VBZ	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	troubled	trouble	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	hearts	heart	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	hearts	heart	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	others	other	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 27
+# text = The conclusion that we should draw is that the responsibility of this heavy incident and this grave disaster falls on the shoulders of the Saudi rulers.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	draw	draw	VERB	VB	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	responsibility	responsibility	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	heavy	heavy	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	incident	incident	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	grave	grave	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	disaster	disaster	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	falls	fall	VERB	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	shoulders	shoulder	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Saudi	saudi	ADJ	JJ	_	26	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	rulers	ruler	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 9
+# text = They should accept the responsibility for this matter.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	accept	accept	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	responsibility	responsibility	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	matter	matter	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 29
+# text = If they shift the blame on others, constantly accuse this and that person and praise themselves in an incessant manner, these actions will get them nowhere.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	shift	shift	VERB	VBP	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	blame	blame	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	others	other	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	constantly	constantly	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	accuse	accuse	VERB	VB	_	26	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	person	person	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	praise	praise	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	themselves	-PRON-	PRON	PRP	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	an	an	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	incessant	incessant	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	manner	manner	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	these	these	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	actions	action	NOUN	NNS	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	will	will	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+27	them	-PRON-	PRON	PRP	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	nowhere	nowhere	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 5
+# text = These actions are fruitless.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	actions	action	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	fruitless	fruitless	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 11
+# text = After all, the world of Islam has certain questions.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	After	after	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	world	world	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islam	Islam	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	certain	certain	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	questions	question	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 21
+# text = Is the death of more than one thousand individuals from different Islamic countries and in one single incident a joke?
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	death	death	NOUN	NN	_	1	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	more	more	ADJ	JJR	_	8	amod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	than	than	SCONJ	IN	_	8	quantmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+7	one	one	NUM	CD	_	8	compound	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+8	thousand	thousand	NUM	CD	_	9	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+9	individuals	individual	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	different	different	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islamic	islamic	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	countries	country	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	one	one	NUM	CD	_	18	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+17	single	single	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	incident	incident	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	joke	joke	NOUN	NN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	?	?	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 16
+# text = And God knows how many hundreds of people from our country have lost their lives.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	knows	know	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	how	how	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	many	many	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	hundreds	hundred	NOUN	NNS	_	13	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	lost	lose	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	lives	life	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 12
+# text = Moreover, it is not clear where the missing people are.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Moreover	moreover	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	clear	clear	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	where	where	ADV	WRB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	missing	miss	VERB	VBG	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 12
+# text = It is possible that many of them are among the deceased.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	possible	possible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	many	many	ADJ	JJ	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	them	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	among	among	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	deceased	deceased	ADJ	JJ	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 20
+# text = Is the death of several hundred individuals in an event - the event of hajj - a minor incident?
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	death	death	NOUN	NN	_	1	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	several	several	ADJ	JJ	_	6	amod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	hundred	hundred	NUM	CD	_	7	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+7	individuals	individual	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	an	an	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	event	event	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	:	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	event	event	NOUN	NN	_	1	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	hajj	hajj	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	minor	minor	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	incident	incident	NOUN	NN	_	15	appos	_	ent_type=_|ent_id=2|ent_iob=O
+20	?	?	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 5
+# text = Is it a joke?
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	Is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	1	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	joke	joke	NOUN	NN	_	1	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	?	?	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 9
+# text = The world of Islam should think about this.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	world	world	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islam	Islam	PROPN	NNP	_	3	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	think	think	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 23
+# text = The first issue is that the Saudis should accept their responsibility and the requirements for accepting this responsibility should be acted on.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	first	first	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	issue	issue	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Saudis	Saudis	PROPN	NNPS	_	9	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	accept	accept	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	responsibility	responsibility	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	requirements	requirement	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	accepting	accept	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	responsibility	responsibility	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	acted	act	VERB	VBN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	on	on	ADP	IN	_	21	prt	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 36
+# text = If they engage in criticizing and accusing this and that person instead of apologizing to the Islamic Ummah and to the families, this will get them nowhere because nations are seriously pursuing this matter.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	engage	engage	VERB	VBP	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	criticizing	criticize	VERB	VBG	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	accusing	accuse	VERB	VBG	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	person	person	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	instead	instead	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	apologizing	apologize	VERB	VBG	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Ummah	Ummah	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	families	family	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	will	will	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+27	them	-PRON-	PRON	PRP	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	nowhere	nowhere	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	because	because	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+30	nations	nation	NOUN	NNS	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	are	be	AUX	VBP	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	seriously	seriously	ADV	RB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+33	pursuing	pursue	VERB	VBG	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	this	this	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	matter	matter	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 7
+# text = This matter will not be forgotten.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	matter	matter	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	forgotten	forget	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 2
+# text = I hope-
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope-	hope-	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 8
+# text = God willing- that God will ordain good.
+# title = Leader: Saudi Govt should accept responsibility for Mina calamity
+# year = 2015
+1	God	God	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	willing-	willing-	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	ordain	ordain	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	good	good	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O

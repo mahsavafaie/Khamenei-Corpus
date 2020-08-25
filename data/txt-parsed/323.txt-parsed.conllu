@@ -1,0 +1,3296 @@
+# sent_id = 1
+# sent_len = 50
+# text = All praise is due to Allah, the Lord of the Worlds, and peace and greetings upon our Master and Prophet, Ab-al-Qassem Al-Mustafa Muhammad, and upon his immaculate and infallible household, especially the one remaining with Allah on earth.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	praise	praise	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	due	due	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Lord	Lord	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Worlds	Worlds	PROPN	NNPS	_	10	pobj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	peace	peace	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	greetings	greeting	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	upon	upon	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	Master	Master	PROPN	NNP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	Prophet	Prophet	PROPN	NNP	_	20	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+23	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	Ab	Ab	PROPN	NNP	_	28	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+25	-	-	PUNCT	HYPH	_	28	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+26	al	al	PROPN	NNP	_	28	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+27	-	-	PUNCT	HYPH	_	28	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+28	Qassem	Qassem	PROPN	NNP	_	32	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+29	Al	Al	PROPN	NNP	_	31	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+30	-	-	PUNCT	HYPH	_	31	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+31	Mustafa	Mustafa	PROPN	NNP	_	32	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+32	Muhammad	Muhammad	PROPN	NNP	_	6	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+33	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	upon	upon	SCONJ	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	his	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	immaculate	immaculate	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	infallible	infallible	ADJ	JJ	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	household	household	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	,	,	PUNCT	,	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+42	especially	especially	ADV	RB	_	44	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	one	one	NOUN	NN	_	40	appos	_	ent_type=_|ent_id=2|ent_iob=O
+45	remaining	remain	VERB	VBG	_	44	acl	_	ent_type=_|ent_id=2|ent_iob=O
+46	with	with	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	Allah	Allah	PROPN	NNP	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	on	on	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	earth	earth	NOUN	NN	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 23
+# text = Greetings be upon you Fatima Masoumeh, the daughter of Musa ibn Ja'far, and your immaculate, chosen and infallible ancestors.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	Fatima	Fatima	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	Masoumeh	Masoumeh	PROPN	NNP	_	2	attr	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	daughter	daughter	NOUN	NN	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Musa	Musa	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	ibn	ibn	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	Ja'far	ja'far	NOUN	NN	_	10	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	immaculate	immaculate	NOUN	NN	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	chosen	chosen	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	infallible	infallible	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	ancestors	ancestor	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 34
+# text = I am very happy that I found the opportunity to spend a few valuable minutes in the company of the dear foreign seminarians and religious scholars as well as their instructors and managers.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	happy	happy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	found	find	VERB	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	opportunity	opportunity	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	spend	spend	VERB	VB	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	quantmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	few	few	ADJ	JJ	_	15	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+14	valuable	valuable	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	minutes	minute	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	company	company	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	dear	dear	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	foreign	foreign	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	seminarians	seminarian	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	religious	religious	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	scholars	scholar	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	as	as	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	well	well	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	as	as	SCONJ	IN	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	instructors	instructor	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	managers	manager	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 17
+# text = You dear foreign seminarians and scholars should know that you are not strangers in Islamic Iran.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	4	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	VERB	VBP	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	foreign	foreign	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	seminarians	seminarian	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	scholars	scholar	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	strangers	stranger	NOUN	NNS	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	Islamic	PROPN	NNP	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iran	Iran	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 12
+# text = You are not even our guests - consider Iran your home.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	even	even	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	guests	guest	NOUN	NNS	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	consider	consider	VERB	VB	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iran	Iran	PROPN	NNP	_	11	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	home	home	NOUN	NN	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 6
+# text = You are my dear children.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	my	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	dear	dear	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	children	child	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 25
+# text = We appreciate the presence of the eager instructors and seminarians who have traveled to our country with the enthusiasm to learn pure Islamic teachings.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	appreciate	appreciate	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	presence	presence	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	eager	eager	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	instructors	instructor	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	seminarians	seminarian	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	who	who	PRON	WP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	traveled	travel	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	country	country	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	enthusiasm	enthusiasm	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	learn	learn	VERB	VB	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+22	pure	pure	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	teachings	teaching	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 34
+# text = We consider it our responsibility to help you dear people as much as we can to benefit from pure Islamic teachings and the teachings of Holy Prophet's (s.w.a.) household.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	consider	consider	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	responsibility	responsibility	NOUN	NN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	help	help	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	dear	dear	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	as	as	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	much	much	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	as	as	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	we	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	can	can	VERB	MD	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	benefit	benefit	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	from	from	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	pure	pure	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islamic	islamic	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	teachings	teaching	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	teachings	teaching	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Holy	Holy	PROPN	NNP	_	27	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+27	Prophet	Prophet	PROPN	NNP	_	33	poss	_	ent_type=PERSON|ent_id=1|ent_iob=I
+28	's	's	PART	POS	_	27	case	_	ent_type=PERSON|ent_id=1|ent_iob=I
+29	(	(	PUNCT	-LRB-	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	s.w.a	s.w.a	ADJ	JJ	_	33	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	)	)	PUNCT	-RRB-	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	household	household	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 35
+# text = The first lesson that the Islamic Revolution and the auspicious Islamic Republic taught us was that we should think beyond our borders and turn our attention to the vast arena of the Islamic Ummah.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	first	first	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	lesson	lesson	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	13	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+6	Islamic	Islamic	PROPN	NNP	_	7	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+7	Revolution	Revolution	PROPN	NNP	_	13	nsubj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	auspicious	auspicious	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	Republic	Republic	PROPN	NNP	_	7	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	taught	teach	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	us	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	we	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	should	should	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	think	think	VERB	VB	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	beyond	beyond	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	borders	border	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	turn	turn	VERB	VB	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	attention	attention	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	vast	vast	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	arena	arena	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+33	Islamic	Islamic	PROPN	NNP	_	34	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+34	Ummah	Ummah	PROPN	NNP	_	31	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+35	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 17
+# text = Our magnanimous Imam taught us that our attention should be focused on the great Islamic Ummah.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	magnanimous	magnanimous	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Imam	Imam	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	taught	teach	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	us	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	attention	attention	NOUN	NN	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	focused	focus	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	Islamic	PROPN	NNP	_	16	compound	_	ent_type=FAC|ent_id=3|ent_iob=B
+16	Ummah	Ummah	PROPN	NNP	_	12	pobj	_	ent_type=FAC|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 17
+# text = Iran was extremely frustrated under the pressure of tyranny and colonialism during the rule of taghut.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Iran	Iran	PROPN	NNP	_	2	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	extremely	extremely	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	frustrated	frustrated	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	under	under	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	pressure	pressure	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	tyranny	tyranny	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	colonialism	colonialism	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	during	during	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	rule	rule	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	taghut	taghut	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 15
+# text = It was being crushed by the pressure, and it needed to be saved.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	being	be	AUX	VBG	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	crushed	crush	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	pressure	pressure	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	needed	need	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	saved	save	VERB	VBN	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 15
+# text = However, the essential pressure and historical aggression was focused on the Islamic Ummah.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	However	however	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	essential	essential	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	pressure	pressure	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	historical	historical	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	aggression	aggression	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	was	be	AUX	VBD	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	focused	focus	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	Islamic	Islamic	PROPN	NNP	_	14	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	Ummah	Ummah	PROPN	NNP	_	11	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 56
+# text = For several centuries, the great Islamic Ummah, which has been in one of the most strategic locations in the world, was suffering from weakness, defeat, backwardness, colonialism and material and scientific poverty due to the interference of superpowers, greed of powerful governments and belligerence of the arrogant powers.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	For	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	several	several	ADJ	JJ	_	3	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	centuries	century	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	Islamic	PROPN	NNP	_	8	amod	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	Ummah	Ummah	PROPN	NNP	_	25	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	has	have	AUX	VBZ	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	been	be	AUX	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	one	one	NUM	CD	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	most	most	ADV	RBS	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	strategic	strategic	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	locations	location	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	world	world	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	was	be	AUX	VBD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	suffering	suffer	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	weakness	weakness	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	defeat	defeat	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	backwardness	backwardness	NOUN	NN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	colonialism	colonialism	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	material	material	NOUN	NN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	scientific	scientific	ADJ	JJ	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	poverty	poverty	NOUN	NN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	due	due	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	to	to	ADP	IN	_	39	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	interference	interference	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	superpowers	superpower	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	,	,	PUNCT	,	_	44	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	greed	greed	NOUN	NN	_	44	appos	_	ent_type=_|ent_id=2|ent_iob=O
+47	of	of	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	powerful	powerful	ADJ	JJ	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	governments	government	NOUN	NNS	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	and	and	CCONJ	CC	_	49	cc	_	ent_type=_|ent_id=2|ent_iob=O
+51	belligerence	belligerence	NOUN	NN	_	49	conj	_	ent_type=_|ent_id=2|ent_iob=O
+52	of	of	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+53	the	the	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	arrogant	arrogant	ADJ	JJ	_	55	amod	_	ent_type=_|ent_id=2|ent_iob=O
+55	powers	power	NOUN	NNS	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 14
+# text = The attention of the Islamic Revolution was focused on the world of Islam.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	attention	attention	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+6	Revolution	Revolution	PROPN	NNP	_	3	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+7	was	be	AUX	VBD	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	focused	focus	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islam	Islam	PROPN	NNP	_	12	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 22
+# text = Its attention was focused on helping the Islamic Ummah get rid of the arrogant powers' hand of oppression and aggression.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Its	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	attention	attention	NOUN	NN	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	focused	focus	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	helping	help	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	Ummah	Ummah	PROPN	NNP	_	10	nsubj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+10	get	get	VERB	VBP	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	rid	rid	VERB	VBN	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	arrogant	arrogant	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	powers	power	NOUN	NNS	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	'	'	PART	POS	_	15	case	_	ent_type=_|ent_id=2|ent_iob=O
+17	hand	hand	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	oppression	oppression	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	aggression	aggression	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 38
+# text = Therefore, when the Islamic Revolution achieved victory in Iran, Muslim nations in the west and east of the world felt that a new breeze was blowing over their life and that the atmosphere was changing.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Therefore	therefore	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	when	when	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+6	Revolution	Revolution	PROPN	NNP	_	7	nsubj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+7	achieved	achieve	VERB	VBD	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	victory	victory	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iran	Iran	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Muslim	Muslim	PROPN	NNP	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	nations	nation	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	west	west	NOUN	NN	_	14	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	east	east	PROPN	NNP	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	world	world	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	felt	feel	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	new	new	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	breeze	breeze	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	was	be	AUX	VBD	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	blowing	blow	VERB	VBG	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	over	over	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	life	life	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	that	that	SCONJ	IN	_	37	mark	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	atmosphere	atmosphere	NOUN	NN	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	was	be	AUX	VBD	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	changing	change	VERB	VBG	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 8
+# text = They felt that new hopes were emerging.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	felt	feel	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	new	new	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	hopes	hope	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	were	be	AUX	VBD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	emerging	emerge	VERB	VBG	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 40
+# text = Therefore, in Africa, in Asia and in any part of the world populated by Muslims, they felt that the victory of the Islamic Revolution and the establishment of the Islamic Republic had offered them new possibilities.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Therefore	therefore	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Africa	Africa	PROPN	NNP	_	3	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+5	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Asia	Asia	PROPN	NNP	_	6	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	any	any	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	part	part	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	populated	populate	VERB	VBN	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+17	Muslims	Muslims	PROPN	NNPS	_	16	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	felt	feel	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	36	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	victory	victory	NOUN	NN	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+26	Islamic	Islamic	PROPN	NNP	_	27	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+27	Revolution	Revolution	PROPN	NNP	_	24	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+28	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	establishment	establishment	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+33	Islamic	Islamic	PROPN	NNP	_	34	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+34	Republic	Republic	PROPN	NNP	_	31	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+35	had	have	AUX	VBD	_	36	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	offered	offer	VERB	VBN	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	them	-PRON-	PRON	PRP	_	36	dative	_	ent_type=_|ent_id=2|ent_iob=O
+38	new	new	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	possibilities	possibility	NOUN	NNS	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 22
+# text = We learned this from our Imam, and this has been the clear path of the Islamic Republic up until now.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	learned	learn	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	from	from	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	Imam	Imam	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	has	have	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	been	be	AUX	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	clear	clear	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	path	path	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	Republic	Republic	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	up	up	ADP	RP	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	until	until	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	now	now	ADV	RB	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 11
+# text = Part of the great work is what you are doing.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Part	part	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	work	work	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	what	what	PRON	WP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	doing	do	VERB	VBG	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 21
+# text = You have gathered here from nearly one hundred countries in order to become familiar with the pure teachings of Islam.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	gathered	gather	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	here	here	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	nearly	nearly	ADV	RB	_	8	advmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	one	one	NUM	CD	_	8	compound	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+8	hundred	hundred	NUM	CD	_	9	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+9	countries	country	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	order	order	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	become	become	VERB	VB	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	familiar	familiar	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	pure	pure	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	teachings	teaching	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islam	Islam	PROPN	NNP	_	19	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 28
+# text = It is not our goal to export the Revolution to this and that country - not in the conventional political sense of the word "export".
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	goal	goal	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	export	export	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Revolution	Revolution	PROPN	NNP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	not	not	PART	RB	_	17	neg	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	conventional	conventional	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	political	political	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	sense	sense	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	word	word	NOUN	NN	_	26	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	"	"	PUNCT	``	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	export	export	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	"	"	PUNCT	''	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 20
+# text = The Revolution is not something that can be exported through political means or advanced through military and security tools.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Revolution	Revolution	PROPN	NNP	_	3	nsubj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	something	something	PRON	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	exported	export	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	through	through	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	political	political	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	means	mean	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	advanced	advance	VERB	VBN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	through	through	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	military	military	NOUN	NN	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	security	security	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	tools	tool	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 4
+# text = This is wrong.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	wrong	wrong	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 9
+# text = We closed this path since the very beginning.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	closed	close	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	path	path	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	since	since	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	very	very	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	beginning	beginning	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 41
+# text = The aim of the Islamic Republic is to reproduce lofty Islamic teachings so that Muslims feel they have an Islamic identity, so that they become familiar with Islamic teachings which can save humanity, so that they know what Allah
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	aim	aim	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	Republic	Republic	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	reproduce	reproduce	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	lofty	lofty	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islamic	islamic	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	teachings	teaching	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	so	so	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	Muslims	Muslims	PROPN	NNPS	_	16	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	feel	feel	VERB	VBP	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	an	an	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islamic	islamic	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	identity	identity	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	so	so	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+25	they	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	become	become	VERB	VBP	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	familiar	familiar	ADJ	JJ	_	26	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	with	with	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Islamic	islamic	ADJ	JJ	_	30	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+30	teachings	teaching	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	which	which	DET	WDT	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	can	can	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	save	save	VERB	VB	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	humanity	humanity	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	so	so	SCONJ	IN	_	39	mark	_	ent_type=_|ent_id=2|ent_iob=O
+37	that	that	SCONJ	IN	_	39	mark	_	ent_type=_|ent_id=2|ent_iob=O
+38	they	-PRON-	PRON	PRP	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	know	know	VERB	VBP	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+40	what	what	PRON	WP	_	39	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	Allah	Allah	PROPN	NNP	_	40	intj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 26
+# text = the Exalted means when He says He sent a Messenger to remove "from them their burden and the shackles which were upon them".
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	the	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Exalted	exalted	ADJ	JJ	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	when	when	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	He	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	says	say	VERB	VBZ	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	He	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	sent	send	VERB	VBD	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Messenger	Messenger	PROPN	NNP	_	8	dobj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	remove	remove	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	''	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	them	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	burden	burden	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	shackles	shackle	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	which	which	DET	WDT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	were	be	AUX	VBD	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	upon	upon	SCONJ	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	them	-PRON-	PRON	PRP	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 9
+# text = [The Holy Quran, 7: 157]
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	[	[	PUNCT	-LRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	0	ROOT	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	7	7	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	:	:	SYM	SYM	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	157	157	NUM	CD	_	6	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	]	]	PUNCT	-RRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 15
+# text = Due to lack of vigilance, the Islamic Ummah had long forgotten this truth.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Due	due	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	lack	lack	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	vigilance	vigilance	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	Ummah	Ummah	PROPN	NNP	_	12	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	had	have	AUX	VBD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	long	long	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	forgotten	forget	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	truth	truth	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 15
+# text = The Islamic Ummah can be free, advanced, knowledgeable, glorious and powerful.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+3	Ummah	Ummah	PROPN	NNP	_	5	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	free	free	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	advanced	advanced	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	knowledgeable	knowledgeable	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	glorious	glorious	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	powerful	powerful	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 9
+# text = These things are achievable thanks to Islamic teachings.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	things	thing	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	achievable	achievable	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	thanks	thank	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	islamic	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	teachings	teaching	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 21
+# text = For 200 years, the arrogant powers and colonial organizations tried to make Muslims erase this concept from their memory.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	For	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	200	200	NUM	CD	_	3	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	years	year	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	arrogant	arrogant	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	powers	power	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	colonial	colonial	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	organizations	organization	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	tried	try	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	make	make	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	Muslims	Muslims	PROPN	NNPS	_	15	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	erase	erase	VERB	VB	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	concept	concept	NOUN	NN	_	11	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	from	from	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	memory	memory	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 27
+# text = They tried to make Muslims lose sight of their identity so that they could oppressively rule and transgress Muslims' politics, economy and indigenous culture.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	tried	try	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	Muslims	Muslims	PROPN	NNPS	_	6	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	lose	lose	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	sight	sight	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	identity	identity	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	so	so	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	could	could	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	oppressively	oppressively	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	rule	rule	VERB	VB	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	transgress	transgress	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	Muslims	Muslims	PROPN	NNPS	_	21	poss	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	'	'	PART	POS	_	19	case	_	ent_type=_|ent_id=2|ent_iob=O
+21	politics	politic	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	economy	economy	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	indigenous	indigenous	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	culture	culture	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 10
+# text = The Revolution helped the Islamic Ummah remember these things.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Revolution	Revolution	PROPN	NNP	_	3	nsubj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+3	helped	help	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islamic	Islamic	PROPN	NNP	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	Ummah	Ummah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	remember	remember	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	things	thing	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 35
+# text = Today you have this great opportunity to become familiar with these teachings in the Islamic Republic, in the scientific center of Qom, in the auspicious society of "al-Mustafa".
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Today	today	NOUN	NN	_	3	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	opportunity	opportunity	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	become	become	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	familiar	familiar	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	these	these	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	teachings	teaching	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	Islamic	Islamic	PROPN	NNP	_	16	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	Republic	Republic	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	scientific	scientific	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	center	center	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Qom	Qom	PROPN	NNP	_	22	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+24	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	auspicious	auspicious	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	society	society	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	"	"	PUNCT	``	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	al	al	PROPN	NNP	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+32	-	-	PUNCT	HYPH	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	Mustafa	Mustafa	PROPN	NNP	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	"	"	PUNCT	''	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 46
+# text = "Why should not then a company from every party from among them go forth that they may apply themselves to obtain understanding in religion , and that they may warn their people when they come back to them that they may be cautious?"
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	"	"	PUNCT	``	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Why	why	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	then	then	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	company	company	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	every	every	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	party	party	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	among	among	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	them	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	go	go	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	forth	forth	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	may	may	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	apply	apply	VERB	VB	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	themselves	-PRON-	PRON	PRP	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	obtain	obtain	VERB	VB	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	understanding	understanding	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	religion	religion	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+29	they	-PRON-	PRON	PRP	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	may	may	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	warn	warn	VERB	VB	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	their	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	people	people	NOUN	NNS	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	when	when	ADV	WRB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	they	-PRON-	PRON	PRP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	come	come	VERB	VBP	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+37	back	back	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	them	-PRON-	PRON	PRP	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	that	that	SCONJ	IN	_	43	mark	_	ent_type=_|ent_id=2|ent_iob=O
+41	they	-PRON-	PRON	PRP	_	43	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+42	may	may	VERB	MD	_	43	aux	_	ent_type=_|ent_id=2|ent_iob=O
+43	be	be	AUX	VB	_	31	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+44	cautious	cautious	ADJ	JJ	_	43	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+45	?	?	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	"	"	PUNCT	''	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 19
+# text = [The Holy Quran, 9: 122] You have the opportunity to enlighten the general atmosphere.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	[	[	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	11	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	9	9	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	:	:	SYM	SYM	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	122	122	NUM	CD	_	11	meta	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	]	]	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	You	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	opportunity	opportunity	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	enlighten	enlighten	VERB	VB	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	general	general	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	atmosphere	atmosphere	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 11
+# text = Today the world of Islam is in need of this.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	world	world	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islam	Islam	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	need	need	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 11
+# text = Of course you are living in a foreign country now.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	living	live	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	foreign	foreign	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	now	now	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 19
+# text = Although you should feel at home here, you are away from your relatives, friends and family.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Although	although	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	feel	feel	VERB	VB	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	home	home	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	here	here	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	away	away	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	your	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	relatives	relative	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	friends	friend	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	family	family	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 10
+# text = You have to deal with certain hardships and problems.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	deal	deal	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	certain	certain	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	hardships	hardship	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	problems	problem	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 16
+# text = Your wife and your family have to deal with certain problems, but be patient.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Your	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	wife	wife	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	your	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	family	family	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	deal	deal	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	certain	certain	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	problems	problem	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	be	be	AUX	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	patient	patient	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 36
+# text = During the early years of his prophethood, the Holy Prophet (s.w.a.) was given a few essential guidelines by Allah the Exalted so that he could shoulder that heavy and unique responsibility.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	During	during	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	early	early	ADJ	JJ	_	4	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	years	year	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	his	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	prophethood	prophethood	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	Holy	Holy	PROPN	NNP	_	11	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Prophet	Prophet	PROPN	NNP	_	17	nsubjpass	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	(	(	PUNCT	-LRB-	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	s.w.a	s.w.a	NOUN	NN	_	11	appos	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	)	)	PUNCT	-RRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	was	be	AUX	VBD	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	given	give	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	19	quantmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	few	few	ADJ	JJ	_	21	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+20	essential	essential	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	guidelines	guideline	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Allah	Allah	PROPN	NNP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Exalted	Exalted	PROPN	NNP	_	23	appos	_	ent_type=_|ent_id=2|ent_iob=O
+26	so	so	SCONJ	IN	_	30	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	that	that	SCONJ	IN	_	30	mark	_	ent_type=_|ent_id=2|ent_iob=O
+28	he	-PRON-	PRON	PRP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	could	could	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	shoulder	shoulder	VERB	VB	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	that	that	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	heavy	heavy	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	unique	unique	ADJ	JJ	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	responsibility	responsibility	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 8
+# text = Patience was one of these guidelines: "
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Patience	Patience	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	guidelines	guideline	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	:	:	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 11
+# text = In the Name of Allah, the Beneficent, the Merciful
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	In	in	ADP	IN	_	11	prep	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	3	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+3	Name	Name	PROPN	NNP	_	1	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Beneficent	Beneficent	PROPN	NNP	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Merciful	merciful	ADJ	JJ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 10
+# text = O you who are clothed, Arise and warn,
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	O	o	INTJ	UH	_	2	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	clothed	clothe	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Arise	Arise	PROPN	NNP	_	2	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	warn	warn	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 6
+# text = And your Lord do magnify,
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	Lord	Lord	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	magnify	magnify	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 6
+# text = And your garments do purify,
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	garments	garment	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	purify	purify	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 5
+# text = And uncleanness do shun,
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	And	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	uncleanness	uncleanness	NOUN	NN	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	shun	shun	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 12
+# text = And bestow not favors that you may receive again with increase,
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	And	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	bestow	bestow	ADV	RB	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	favors	favor	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	may	may	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	receive	receive	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	again	again	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	increase	increase	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 12
+# text = And for the sake of your Lord, be patient."
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	And	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	sake	sake	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	Lord	Lord	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	patient	patient	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	"	"	PUNCT	''	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 11
+# text = [The Holy Quran, 74: 1-7]
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	[	[	PUNCT	-LRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	0	ROOT	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	74	74	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	:	:	SYM	SYM	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	1	1	NUM	CD	_	6	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	-	-	SYM	SYM	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	7	7	NUM	CD	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	]	]	PUNCT	-RRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 11
+# text = Allah the Exalted provided the Holy Prophet with this guideline.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Allah	Allah	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Exalted	Exalted	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	provided	provide	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Holy	Holy	PROPN	NNP	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	Prophet	Prophet	PROPN	NNP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	guideline	guideline	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 7
+# text = It is necessary to be patient.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	patient	patient	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 5
+# text = Patience means being steadfast.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Patience	patience	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	being	be	AUX	VBG	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	steadfast	steadfast	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 6
+# text = It means not becoming tired.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	becoming	become	VERB	VBG	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	tired	tired	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 8
+# text = It means not being overwhelmed by problems.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	being	be	AUX	VBG	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	overwhelmed	overwhelm	VERB	VBN	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	5	agent	_	ent_type=_|ent_id=2|ent_iob=O
+7	problems	problem	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 9
+# text = We all face different problems on our path.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+3	face	face	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	different	different	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	problems	problem	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	path	path	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 11
+# text = The important point is that we should not be overwhelmed.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	important	important	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	overwhelmed	overwhelmed	ADJ	JJ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 15
+# text = And this was a lesson that our magnanimous Imam taught us through his actions.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	lesson	lesson	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	10	dative	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	magnanimous	magnanimous	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	Imam	Imam	PROPN	NNP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	taught	teach	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	us	-PRON-	PRON	PRP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	through	through	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	his	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	actions	action	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 4
+# text = He was patient.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	patient	patient	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 26
+# text = The day when the Imam let out his yell in this city, there was nobody to support him except for a group of seminarians.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	day	day	NOUN	NN	_	15	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	when	when	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Imam	Imam	PROPN	NNP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	let	let	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	out	out	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	his	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	yell	yell	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	city	city	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	there	there	PRON	EX	_	15	expl	_	ent_type=_|ent_id=2|ent_iob=O
+15	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	nobody	nobody	PRON	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	support	support	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	him	-PRON-	PRON	PRP	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	except	except	SCONJ	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	for	for	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	group	group	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	seminarians	seminarian	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 4
+# text = He was alone.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	alone	alone	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 17
+# text = The Imam was alone in his own homeland and hometown, but he resisted with patience.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Imam	Imam	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	alone	alone	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	own	own	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	homeland	homeland	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	hometown	hometown	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	he	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	resisted	resist	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	patience	patience	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 23
+# text = They put that great man under different kinds of pressure - both spiritual and material - but he resisted with patience. "
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	put	put	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	man	man	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	under	under	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	different	different	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	kinds	kind	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	pressure	pressure	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	both	both	CCONJ	CC	_	13	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+13	spiritual	spiritual	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	material	material	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	he	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	resisted	resist	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	patience	patience	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	"	"	PUNCT	``	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 15
+# text = A believer is like a firm mountain that cannot be shaken by windstorms.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	believer	believer	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	firm	firm	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	mountain	mountain	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	shaken	shake	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+14	windstorms	windstorm	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 13
+# text = " None of these windstorms could shake his steely and firm determination.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	"	"	PUNCT	``	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	None	none	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	windstorms	windstorm	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	could	could	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	shake	shake	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	his	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	steely	steely	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	firm	firm	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	determination	determination	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 3
+# text = He resisted.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	resisted	resist	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 11
+# text = He exuded patience, and others learned patience from him.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	exuded	exude	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	patience	patience	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	others	other	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	learned	learn	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	patience	patience	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	him	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 9
+# text = Thus, other people started to exercise patience.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Thus	thus	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	started	start	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	exercise	exercise	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	patience	patience	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 13
+# text = And the Iranian nation managed to foil all these machinations through patience.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Iranian	iranian	ADJ	JJ	_	4	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+4	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	foil	foil	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	machinations	machination	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	through	through	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	patience	patience	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 36
+# text = You know how many machinations have been designed and how many poisoned daggers have been secretly used against our nation and our government since the victory of the Islamic Republic of Iran up until today.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	how	how	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	many	many	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	machinations	machination	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	designed	design	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	how	how	ADV	WRB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	many	many	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	poisoned	poison	VERB	VBN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	daggers	dagger	NOUN	NNS	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	have	have	AUX	VBP	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	been	be	AUX	VBN	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	secretly	secretly	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	used	use	VERB	VBN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	against	against	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	nation	nation	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	our	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	government	government	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	since	since	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	victory	victory	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+29	Islamic	Islamic	PROPN	NNP	_	30	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+30	Republic	Republic	PROPN	NNP	_	27	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+31	of	of	ADP	IN	_	30	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+32	Iran	Iran	PROPN	NNP	_	31	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+33	up	up	ADP	IN	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	until	until	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	today	today	NOUN	NN	_	34	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+36	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 17
+# text = The eight-year imposed war was one of the machinations that were designed against us.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	eight	eight	NUM	CD	_	4	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	-	-	PUNCT	HYPH	_	4	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	year	year	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	imposed	impose	VERB	VBN	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	war	war	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	one	one	NUM	CD	_	7	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	machinations	machination	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	were	be	AUX	VBD	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	designed	design	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	us	-PRON-	PRON	PRP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 12
+# text = They imposed an eight-year-long war on us.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	imposed	impose	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	eight	eight	NUM	CD	_	6	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	year	year	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	long	long	ADJ	JJ	_	9	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	war	war	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	us	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 15
+# text = Another machination that they used against the Islamic Republic was 30 years of sanctions.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Another	another	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	machination	machination	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	used	use	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	against	against	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	Republic	Republic	PROPN	NNP	_	6	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	30	30	NUM	CD	_	12	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	years	year	NOUN	NNS	_	10	attr	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	sanctions	sanction	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 8
+# text = Today they are creating uproar about sanctions.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	creating	create	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	uproar	uproar	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	about	about	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	sanctions	sanction	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 6
+# text = But sanctions are not new.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	sanctions	sanction	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	new	new	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 12
+# text = The Islamic Republic has been under economic sanctions for 30 years.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	5	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	under	under	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	economic	economic	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	sanctions	sanction	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	30	30	NUM	CD	_	11	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	years	year	NOUN	NNS	_	9	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 19
+# text = The patience and resistance of this nation overcame all those spiteful and hostile actions and all that obstructionism.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	patience	patience	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	resistance	resistance	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	nation	nation	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	overcame	overcome	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	PDT	_	14	predet	_	ent_type=_|ent_id=2|ent_iob=O
+10	those	those	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	spiteful	spiteful	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	hostile	hostile	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	actions	action	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	all	all	DET	PDT	_	18	predet	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	obstructionism	obstructionism	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 21
+# text = Today, by Allah's grace, the Islamic Republic is at the peak of its political and security power.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Today	today	NOUN	NN	_	11	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	by	by	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Allah	Allah	PROPN	NNP	_	6	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	's	's	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	grace	grace	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	11	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	at	at	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	peak	peak	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	its	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	political	political	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	security	security	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	power	power	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 9
+# text = Do not forget patience, steadfastness and resistance.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Do	do	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+3	forget	forget	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	patience	patience	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	steadfastness	steadfastness	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	resistance	resistance	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 21
+# text = This is an important factor that should be taken into consideration by anybody who has plans to achieve lofty goals.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	factor	factor	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	taken	take	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	into	into	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	consideration	consideration	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	anybody	anybody	PRON	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	has	have	AUX	VBZ	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	plans	plan	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	achieve	achieve	VERB	VB	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	lofty	lofty	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	goals	goal	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 7
+# text = You are great assets for Islam.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	great	great	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	assets	asset	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islam	Islam	PROPN	NNP	_	5	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 6
+# text = Study hard and learn well.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Study	study	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	hard	hard	ADV	RB	_	1	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	learn	learn	VERB	VB	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	well	well	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 43
+# text = Live in the atmosphere created by the Revolution and the Islamic Republic, and return to your country at an appropriate time to transfer these realities to your people through the means of knowledge, patience, ethics, humility and love.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Live	live	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	atmosphere	atmosphere	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	created	create	VERB	VBN	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	5	agent	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Revolution	Revolution	PROPN	NNP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	Republic	Republic	PROPN	NNP	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	return	return	VERB	VB	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	your	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	at	at	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	an	an	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	appropriate	appropriate	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	time	time	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	transfer	transfer	VERB	VB	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	these	these	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	realities	reality	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	your	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	people	people	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	through	through	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	means	mean	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	knowledge	knowledge	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	patience	patience	NOUN	NN	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	ethics	ethic	NOUN	NNS	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	humility	humility	NOUN	NN	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	love	love	NOUN	NN	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 12
+# text = Your presence in this country does not have a political purpose.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Your	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	presence	presence	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	country	country	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	does	do	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	political	political	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	purpose	purpose	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 14
+# text = To be perfectly clear and transparent, the purpose is scholarly and educational.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	To	to	PART	TO	_	2	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	perfectly	perfectly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	clear	clear	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	transparent	transparent	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	purpose	purpose	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	scholarly	scholarly	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	educational	educational	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 8
+# text = There is a demand for knowledge everywhere.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	demand	demand	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	knowledge	knowledge	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	everywhere	everywhere	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 12
+# text = There is a demand for benevolent words and clear knowledge everywhere.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	demand	demand	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	benevolent	benevolent	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	words	word	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	clear	clear	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	knowledge	knowledge	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	everywhere	everywhere	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 30
+# text = Imam Ali ibn Musa ar-Ridha (a.s.) told one of his companions, "May God bestow His grace on those who revive our command.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Imam	Imam	PROPN	NNP	_	12	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Ali	Ali	PROPN	NNP	_	3	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	ibn	ibn	PROPN	NNP	_	1	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	Musa	Musa	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	ar	ar	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	-	-	PUNCT	HYPH	_	7	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	Ridha	Ridha	PROPN	NNP	_	3	intj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	(	(	PUNCT	-LRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	a.s	a.s	PROPN	NNP	_	10	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	.	.	PROPN	NNP	_	7	appos	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	)	)	PUNCT	-RRB-	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	told	tell	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	one	one	NUM	CD	_	12	dobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	his	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	companions	companion	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	``	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	May	May	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	God	God	PROPN	NNP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	bestow	bestow	VERB	VB	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	His	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	grace	grace	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	on	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	those	those	DET	DT	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	who	who	PRON	WP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	revive	revive	VERB	VBP	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	our	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	command	command	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 14
+# text = " The man asked, "How can your command be revived?"
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	man	man	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	asked	ask	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	How	how	ADV	WRB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	command	command	NOUN	NN	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	revived	revive	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 15
+# text = He answered, "By learning our knowledge and teaching it to people."
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	answered	answer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	By	by	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	learning	learn	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	knowledge	knowledge	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	teaching	teach	VERB	VBG	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 20
+# text = Then he said, "If people know the virtues of our words, they will obey us."
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Then	then	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	he	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	If	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	know	know	VERB	VBP	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	virtues	virtue	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	words	word	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	obey	obey	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	us	-PRON-	PRON	PRP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 29
+# text = It is not at all necessary for you to work too hard in order to further the teachings of the Holy Prophet's (s.w.a.) household.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	work	work	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	too	too	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	hard	hard	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	order	order	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	further	further	VERB	VB	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	teachings	teaching	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	Holy	Holy	PROPN	NNP	_	22	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	Prophet	Prophet	PROPN	NNP	_	28	poss	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	's	's	PART	POS	_	22	case	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	(	(	PUNCT	-LRB-	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	s.w.a	s.w.a	ADJ	JJ	_	28	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	)	)	PUNCT	-RRB-	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	household	household	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 14
+# text = There is no need to become angry and complain about this and that.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	need	need	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	become	become	VERB	VB	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	angry	angry	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	complain	complain	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	about	about	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	DT	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 25
+# text = It is enough to learn the teachings of the Holy Prophet's (s.w.a.) household appropriately and transfer them to other people.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	enough	enough	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	learn	learn	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	teachings	teaching	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	Holy	Holy	PROPN	NNP	_	11	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Prophet	Prophet	PROPN	NNP	_	14	poss	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	's	's	PART	POS	_	11	case	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	(	(	PUNCT	-LRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	s.w.a	s.w.a	ADJ	JJ	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	)	)	PUNCT	-RRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	household	household	NOUN	NN	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	appropriately	appropriately	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	transfer	transfer	VERB	VB	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	them	-PRON-	PRON	PRP	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	other	other	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	people	people	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 26
+# text = These monotheistic teachings, these teachings about the nature of man, these teachings that encompass different issues of human life are by themselves attractive.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	These	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	monotheistic	monotheistic	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	teachings	teaching	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	teachings	teaching	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	nature	nature	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	man	man	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	these	these	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	teachings	teaching	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	encompass	encompass	VERB	VBP	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	different	different	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	issues	issue	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	human	human	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	life	life	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	by	by	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	themselves	-PRON-	PRON	PRP	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	attractive	attractive	ADJ	JJ	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 13
+# text = They attract hearts and make them follow the path of the Imams.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	attract	attract	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	hearts	heart	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	follow	follow	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	path	path	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Imams	Imams	PROPN	NNPS	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 9
+# text = There is a great opportunity for you here.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	opportunity	opportunity	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	here	here	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 8
+# text = You have gathered here from different countries.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	gathered	gather	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	here	here	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	different	different	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	countries	country	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 19
+# text = Here each of you has the opportunity to become familiar with your Muslim brothers and their indigenous culture.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Here	here	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	each	each	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	opportunity	opportunity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	become	become	VERB	VB	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	familiar	familiar	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	Muslim	muslim	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	brothers	brother	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	indigenous	indigenous	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	culture	culture	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 11
+# text = Those from Europe can communicate with people from East Asia.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Those	those	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	from	from	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	Europe	Europe	PROPN	NNP	_	2	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	communicate	communicate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	East	East	PROPN	NNP	_	10	compound	_	ent_type=LOC|ent_id=3|ent_iob=B
+10	Asia	Asia	PROPN	NNP	_	8	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 12
+# text = Those from Africa can communicate with people from Middle Eastern countries.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Those	those	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	from	from	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	Africa	Africa	PROPN	NNP	_	2	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	communicate	communicate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Middle	middle	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	Eastern	eastern	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=1|ent_iob=I
+11	countries	country	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 7
+# text = There are representatives from different countries.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	representatives	representative	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	different	different	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	countries	country	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 6
+# text = Get to know each other.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	PART	TO	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	1	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	each	each	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	other	other	ADJ	JJ	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 14
+# text = Try to become familiar with each other's culture, wishes and ideals.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	PART	TO	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	become	become	VERB	VB	_	1	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	familiar	familiar	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	each	each	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	other	other	ADJ	JJ	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	's	's	PART	POS	_	7	case	_	ent_type=_|ent_id=2|ent_iob=O
+9	culture	culture	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	wishes	wish	VERB	VBZ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	ideals	ideal	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 9
+# text = You have an opportunity to develop comprehensive knowledge.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	opportunity	opportunity	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	develop	develop	VERB	VB	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	comprehensive	comprehensive	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	knowledge	knowledge	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 15
+# text = This is a very great opportunity, which you cannot find somewhere else.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	opportunity	opportunity	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	can	can	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	find	find	VERB	VB	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	somewhere	somewhere	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	else	else	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 11
+# text = An international center has been formed here for Islamic scholarship.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	An	an	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	international	international	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	center	center	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	formed	form	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	here	here	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	islamic	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	scholarship	scholarship	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 22
+# text = When you gather in a place and become familiar with each other, an international society is formed for Islamic scholarship.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	gather	gather	VERB	VBP	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	place	place	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	become	become	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	familiar	familiar	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	each	each	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	international	international	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	society	society	NOUN	NN	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	formed	form	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islamic	islamic	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	scholarship	scholarship	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 7
+# text = Make the best of this opportunity.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	best	good	ADJ	JJS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	opportunity	opportunity	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 4
+# text = You are young.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	young	young	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 14
+# text = The greatest asset that a youth has is his pure and enlightened heart.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	greatest	great	ADJ	JJS	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	asset	asset	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	youth	youth	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	his	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	pure	pure	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	enlightened	enlightened	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	heart	heart	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 12
+# text = My dear ones, make the best of this enlightened heart.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	My	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	ones	one	NOUN	NNS	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	best	good	ADJ	JJS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	enlightened	enlighten	VERB	VBN	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	heart	heart	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 8
+# text = Strengthen your relationship with Allah the Exalted.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Strengthen	strengthen	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	relationship	relationship	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Exalted	exalted	ADJ	JJ	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 37
+# text = If a youth who is prepared can bring his heart closer to Allah the Exalted through humility, dhikr, solemn prayer and reliance on God, the situation will be the best of the best.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	If	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	prepared	prepared	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	bring	bring	VERB	VB	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	his	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	heart	heart	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	closer	closer	ADV	RBR	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Allah	Allah	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Exalted	exalt	VERB	VBN	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+16	through	through	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	humility	humility	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	dhikr	dhikr	PROPN	NNP	_	17	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	solemn	solemn	PROPN	NNP	_	8	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	prayer	prayer	NOUN	NN	_	21	dobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	reliance	reliance	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	God	God	PROPN	NNP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	situation	situation	NOUN	NN	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	will	will	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	best	good	ADJ	JJS	_	31	attr	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	best	good	ADJ	JJS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 11
+# text = The light of divine knowledge will shine on your hearts.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	light	light	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	divine	divine	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	knowledge	knowledge	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	shine	shine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	hearts	heart	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 18
+# text = Avoiding sins, developing a close relationship with God and appreciating daily prayers are among the priorities.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Avoiding	avoid	VERB	VBG	_	14	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	sins	sin	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	developing	develop	VERB	VBG	_	1	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	close	close	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	relationship	relationship	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	God	God	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	appreciating	appreciate	VERB	VBG	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	daily	daily	ADJ	JJ	_	13	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	prayers	prayer	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	among	among	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	priorities	priority	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 11
+# text = Daily prayers are one of the greatest blessings of God.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Daily	Daily	PROPN	NNP	_	2	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	prayers	prayer	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	greatest	great	ADJ	JJS	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	blessings	blessing	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	God	God	PROPN	NNP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 121
+# sent_len = 16
+# text = Daily prayers give us the opportunity to talk to our God several times a day.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Daily	daily	ADJ	JJ	_	2	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	prayers	prayer	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	give	give	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	us	-PRON-	PRON	PRP	_	3	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	opportunity	opportunity	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	talk	talk	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	God	God	PROPN	NNP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	several	several	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	times	time	NOUN	NNS	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	day	day	NOUN	NN	_	13	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 122
+# sent_len = 33
+# text = They give us the opportunity every day to ask Him for help, to say that we need Him and to strengthen our devotion through supplication and expressing our dependence on Him.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	give	give	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	us	-PRON-	PRON	PRP	_	2	dative	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	opportunity	opportunity	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	every	every	DET	DT	_	7	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	day	day	NOUN	NN	_	2	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	ask	ask	VERB	VB	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	Him	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	help	help	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	say	say	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	we	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	need	need	VERB	VBP	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	Him	-PRON-	PRON	PRP	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	strengthen	strengthen	VERB	VB	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	devotion	devotion	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	through	through	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	supplication	supplication	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	expressing	express	VERB	VBG	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	our	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	dependence	dependence	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	on	on	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	Him	-PRON-	PRON	PRP	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 123
+# sent_len = 13
+# text = Religious luminaries have always attached a lot of importance to daily prayers.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Religious	religious	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	luminaries	luminary	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	always	always	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	attached	attach	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	lot	lot	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	importance	importance	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	daily	daily	ADJ	JJ	_	12	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	prayers	prayer	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 124
+# sent_len = 8
+# text = Everybody can make use of daily prayers.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	use	use	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	daily	daily	ADJ	JJ	_	7	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	prayers	prayer	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 125
+# sent_len = 11
+# text = Oftentimes we fail to appreciate the value of daily prayers.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Oftentimes	oftentime	NOUN	NNS	_	3	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	fail	fail	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	appreciate	appreciate	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	value	value	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	daily	daily	ADJ	JJ	_	10	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	prayers	prayer	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 126
+# sent_len = 17
+# text = The purpose of daily prayers is not just to go through the motions of an obligation.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	purpose	purpose	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	daily	daily	ADJ	JJ	_	5	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	prayers	prayer	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	just	just	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	go	go	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	through	through	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	motions	motion	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	obligation	obligation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 127
+# sent_len = 21
+# text = No, daily prayers provide us with a great opportunity, and it is necessary to make use of them.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	No	no	INTJ	UH	_	5	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	daily	daily	ADJ	JJ	_	4	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	prayers	prayer	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	provide	provide	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	us	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	great	great	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	opportunity	opportunity	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	necessary	necessary	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	make	make	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	use	use	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	them	-PRON-	PRON	PRP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 128
+# sent_len = 23
+# text = According to a narration, daily prayers are like a spring in your home in which you bathe five times a day.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	According	accord	VERB	VBG	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	narration	narration	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	daily	daily	ADJ	JJ	_	7	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	prayers	prayer	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	like	like	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	spring	spring	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	your	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	home	home	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	you	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	bathe	bathe	VERB	VBP	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	five	five	NUM	CD	_	20	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+20	times	time	NOUN	NNS	_	18	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	day	day	NOUN	NN	_	20	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 129
+# sent_len = 10
+# text = This bathing can have permanent effects on young hearts.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	bathing	bathing	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	permanent	permanent	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	effects	effect	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	young	young	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	hearts	heart	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 130
+# sent_len = 22
+# text = It is through purity and piety that we can receive effective and incisive language from Allah the Exalted as a gift.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	through	through	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	purity	purity	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	piety	piety	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	receive	receive	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	effective	effective	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	incisive	incisive	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	language	language	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Allah	Allah	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Exalted	exalt	VERB	VBN	_	16	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	SCONJ	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	gift	gift	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 131
+# sent_len = 55
+# text = Our magnanimous Imam's spirituality, his pure nature, his relationship with God and the tears he shed in prayer in the middle of the night were one reason why a single word by our Imam had amazing effects on the general atmosphere of the country in difficult times and in all conditions.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	magnanimous	magnanimous	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Imam	Imam	PROPN	NNP	_	5	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	's	's	PART	POS	_	3	case	_	ent_type=_|ent_id=2|ent_iob=O
+5	spirituality	spirituality	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	his	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	pure	pure	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	nature	nature	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	his	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	relationship	relationship	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	God	God	PROPN	NNP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	tears	tear	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	he	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	shed	shed	VERB	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	prayer	prayer	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+24	middle	middle	NOUN	NN	_	22	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+25	of	of	ADP	IN	_	24	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+26	the	the	DET	DT	_	27	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	night	night	NOUN	NN	_	25	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+29	one	one	NUM	CD	_	30	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+30	reason	reason	NOUN	NN	_	28	attr	_	ent_type=_|ent_id=2|ent_iob=O
+31	why	why	ADV	WRB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	a	a	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	single	single	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	word	word	NOUN	NN	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	by	by	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	our	-PRON-	DET	PRP$	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	Imam	Imam	PROPN	NNP	_	35	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+38	had	have	AUX	VBD	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	amazing	amazing	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	effects	effect	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	on	on	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	general	general	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	atmosphere	atmosphere	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	of	of	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	country	country	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	difficult	difficult	ADJ	JJ	_	50	amod	_	ent_type=_|ent_id=2|ent_iob=O
+50	times	time	NOUN	NNS	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	and	and	CCONJ	CC	_	48	cc	_	ent_type=_|ent_id=2|ent_iob=O
+52	in	in	ADP	IN	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	all	all	DET	DT	_	54	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	conditions	condition	NOUN	NNS	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	.	.	PUNCT	.	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 132
+# sent_len = 48
+# text = When the Imam was alive, his son - the Late Hajj Sayyid Ahmad - told me, "When the Imam gets up [to pray] in the middle of the night, he cries so much that ordinary tissues cannot wipe his tears.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Imam	Imam	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	37	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	alive	alive	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	son	son	NOUN	NN	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Late	Late	PROPN	NNP	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	Hajj	Hajj	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	Sayyid	Sayyid	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	Ahmad	Ahmad	PROPN	NNP	_	16	npadvmod	_	ent_type=PERSON|ent_id=1|ent_iob=I
+15	-	-	PUNCT	:	_	16	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	told	tell	VERB	VBD	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+17	me	-PRON-	PRON	PRP	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	"	"	PUNCT	``	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	When	when	ADV	WRB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Imam	Imam	PROPN	NNP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	gets	get	VERB	VBZ	_	37	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	up	up	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	[	[	PUNCT	-LRB-	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	pray	pray	VERB	VB	_	23	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	]	]	PUNCT	-RRB-	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+31	middle	middle	NOUN	NN	_	29	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+32	of	of	ADP	IN	_	31	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+33	the	the	DET	DT	_	34	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+34	night	night	NOUN	NN	_	32	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+35	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	he	-PRON-	PRON	PRP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	cries	cry	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+38	so	so	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+39	much	much	ADV	RB	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+40	that	that	SCONJ	IN	_	45	mark	_	ent_type=_|ent_id=2|ent_iob=O
+41	ordinary	ordinary	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	tissues	tissue	NOUN	NNS	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+43	can	can	VERB	MD	_	45	aux	_	ent_type=_|ent_id=2|ent_iob=O
+44	not	not	PART	RB	_	45	neg	_	ent_type=_|ent_id=2|ent_iob=O
+45	wipe	wipe	VERB	VB	_	39	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+46	his	-PRON-	DET	PRP$	_	47	poss	_	ent_type=_|ent_id=2|ent_iob=O
+47	tears	tear	NOUN	NNS	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	.	.	PUNCT	.	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 133
+# sent_len = 10
+# text = He has to wipe his tears with a towel.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	wipe	wipe	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	tears	tear	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	towel	towel	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 134
+# sent_len = 1
+# text = "
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	"	"	PUNCT	''	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 135
+# sent_len = 22
+# text = That man of steel was not shaken by the flood of harms and events that were enough to shake a nation.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	That	that	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	man	man	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	steel	steel	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	shaken	shake	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	flood	flood	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	harms	harm	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	events	event	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	were	be	AUX	VBD	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	enough	enough	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	shake	shake	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	nation	nation	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 136
+# sent_len = 13
+# text = The power and awe of global powers were hollow to that man.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	power	power	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	awe	awe	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	global	global	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	powers	power	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	hollow	hollow	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	man	man	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 137
+# sent_len = 22
+# text = But before the greatness of God, he used to shed tears like that when praying and asking God for help.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	But	but	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	before	before	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	greatness	greatness	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	God	God	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	he	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	shed	shed	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	tears	tear	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	like	like	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	DT	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	when	when	ADV	WRB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	praying	pray	VERB	VBG	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	asking	ask	VERB	VBG	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	God	God	PROPN	NNP	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	for	for	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	help	help	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 138
+# sent_len = 6
+# text = Daily prayers are extremely valuable.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Daily	daily	ADJ	JJ	_	2	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	prayers	prayer	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	extremely	extremely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	valuable	valuable	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 139
+# sent_len = 6
+# text = You should appreciate these opportunities.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	opportunities	opportunity	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 140
+# sent_len = 17
+# text = I would like to reiterate that I am very satisfied to have met you dear people.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	reiterate	reiterate	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	I	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	am	be	AUX	VBP	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	very	very	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	satisfied	satisfied	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VB	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	met	meet	VERB	VBN	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	13	dative	_	ent_type=_|ent_id=2|ent_iob=O
+15	dear	dear	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	people	people	NOUN	NNS	_	13	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 141
+# sent_len = 39
+# text = I deem it necessary to express my sincere gratitude to Mr. A'rafi, the officials in charge of "Jame'at al-Mustafa", the instructors and all those who played a role in this great movement.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	deem	deem	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	necessary	necessary	ADJ	JJ	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	express	express	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	my	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	sincere	sincere	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	gratitude	gratitude	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Mr.	Mr.	PROPN	NNP	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	A'rafi	A'rafi	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	officials	official	NOUN	NNS	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	charge	charge	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	"	"	PUNCT	``	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	Jame'at	Jame'at	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+21	al	al	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+22	-	-	PUNCT	HYPH	_	23	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+23	Mustafa	Mustafa	PROPN	NNP	_	18	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+24	"	"	PUNCT	''	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	instructors	instructor	NOUN	NNS	_	23	appos	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	all	all	DET	PDT	_	30	predet	_	ent_type=_|ent_id=2|ent_iob=O
+30	those	those	DET	DT	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	who	who	PRON	WP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	played	play	VERB	VBD	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	a	a	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	role	role	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	this	this	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	great	great	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	movement	movement	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 142
+# sent_len = 27
+# text = I hope Allah the Exalted will bestow His grace and blessings on all of them, all of you and all those who made a contribution.
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	His	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	grace	grace	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	blessings	blessing	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	all	all	DET	DT	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	them	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	all	all	DET	DT	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	you	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	all	all	DET	PDT	_	22	predet	_	ent_type=_|ent_id=2|ent_iob=O
+22	those	those	DET	DT	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	who	who	PRON	WP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	made	make	VERB	VBD	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	contribution	contribution	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 143
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech to Foreign Seminarians in Qom
+# year = 2010
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

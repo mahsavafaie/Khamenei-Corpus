@@ -1,0 +1,809 @@
+# sent_id = 1
+# sent_len = 26
+# text = First of all, you did a very appropriate and good thing by holding a commemoration congress for Mr. Moshfeq Khashani, our dear poet.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	First	first	ADV	RB	_	6	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	did	do	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	very	very	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	appropriate	appropriate	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	good	good	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	thing	thing	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	holding	hold	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	commemoration	commemoration	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	congress	congress	PROPN	NNP	_	14	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Mr.	Mr.	PROPN	NNP	_	21	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	Moshfeq	Moshfeq	PROPN	NNP	_	21	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+21	Khashani	Khashani	PROPN	NNP	_	18	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	dear	dear	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	poet	poet	NOUN	NN	_	21	appos	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 31
+# text = Appreciating the value of outstanding personalities and bringing them into prominence will definitely help our youth and those people who are talented and who have many capabilities to move forward.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Appreciating	appreciate	VERB	VBG	_	14	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	value	value	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	outstanding	outstanding	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	personalities	personality	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	bringing	bring	VERB	VBG	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	them	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	into	into	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	prominence	prominence	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	definitely	definitely	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	youth	youth	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	those	those	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	talented	talented	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	have	have	AUX	VBP	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	many	many	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	capabilities	capability	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	move	move	VERB	VB	_	27	acl	_	ent_type=_|ent_id=2|ent_iob=O
+30	forward	forward	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 11
+# text = When poets are praised, this will build more poets.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	poets	poet	NOUN	NNS	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	praised	praise	VERB	VBN	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	build	build	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	more	more	ADJ	JJR	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	poets	poet	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 31
+# text = As you can see, when great poets were encouraged and praised by rulers in the past, this led to the emergence of more poets and more literary personalities.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	As	as	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	see	see	VERB	VB	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	when	when	ADV	WRB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	poets	poet	NOUN	NNS	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	encouraged	encourage	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	praised	praise	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+14	rulers	ruler	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	past	past	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	led	lead	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	emergence	emergence	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	more	more	ADJ	JJR	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	poets	poet	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	more	more	ADJ	JJR	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	literary	literary	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	personalities	personality	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 6
+# text = This is a fundamental issue.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	fundamental	fundamental	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	issue	issue	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 20
+# text = Therefore, encouraging great poets and bringing their personality into prominence will help literature and poetry to make progress.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Therefore	therefore	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	encouraging	encourage	VERB	VBG	_	13	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	poets	poet	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	bringing	bring	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	personality	personality	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	into	into	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	prominence	prominence	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	literature	literature	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	poetry	poetry	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	make	make	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	progress	progress	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 10
+# text = Mr. Moshfeq Kashani is one of our good poets.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Mr.	Mr.	PROPN	NNP	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Moshfeq	Moshfeq	PROPN	NNP	_	3	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	Kashani	Kashani	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	one	one	NUM	CD	_	4	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	good	good	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	poets	poet	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 29
+# text = Of course, I have been familiar for a long time with a number of poems composed by him and I used to read his poems in newspapers.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	familiar	familiar	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	long	long	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	time	time	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	number	number	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	poems	poem	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	composed	compose	VERB	VBN	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	17	agent	_	ent_type=_|ent_id=2|ent_iob=O
+19	him	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	I	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	used	use	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	read	read	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	his	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	poems	poem	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	newspapers	newspaper	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 27
+# text = During the early years after the Revolution, I met Mr. Kashani, Mr. Hamid, the late Mr. Shahrokhi and other such personalities many times.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	During	during	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	early	early	ADJ	JJ	_	4	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	years	year	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	after	after	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Revolution	Revolution	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	I	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	met	meet	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	Mr.	Mr.	PROPN	NNP	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	Kashani	Kashani	PROPN	NNP	_	10	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	Mr.	Mr.	PROPN	NNP	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	Hamid	Hamid	PROPN	NNP	_	12	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	late	late	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	Mr.	Mr.	PROPN	NNP	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	Shahrokhi	Shahrokhi	PROPN	NNP	_	15	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	other	other	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	such	such	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	personalities	personality	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	many	many	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	times	time	NOUN	NNS	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 12
+# text = And I used to listen to and benefit from their poems.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	listen	listen	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	benefit	benefit	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	poems	poem	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 14
+# text = His ghazals are sophisticated and meaningful and they benefit from a good style.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	ghazals	ghazal	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	sophisticated	sophisticated	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	meaningful	meaningful	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	benefit	benefit	VERB	VBP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	good	good	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	style	style	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 15
+# text = Mr. Moshfeq Kashani is one of our outstanding personalities in the area of ghazal.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Mr.	Mr.	PROPN	NNP	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Moshfeq	Moshfeq	PROPN	NNP	_	3	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	Kashani	Kashani	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	one	one	NUM	CD	_	4	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	outstanding	outstanding	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	personalities	personality	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	area	area	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	ghazal	ghazal	PROPN	NNP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 24
+# text = His ghazals are often in Iraqi style, they are meaningful and the words that he uses are powerful and to the point.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	ghazals	ghazal	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	often	often	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iraqi	iraqi	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	style	style	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	meaningful	meaningful	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	words	word	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	he	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	uses	use	VERB	VBZ	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	powerful	powerful	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	point	point	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 12
+# text = Of course, he has other kinds of poems as well.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	he	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	other	other	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	kinds	kind	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	poems	poem	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	well	well	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 9
+# text = He has a number of ghasidas and ghetas.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	number	number	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	ghasidas	ghasida	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	ghetas	gheta	NOUN	NNS	_	6	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 8
+# text = However, his ghazals are particularly outstanding.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	However	however	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	ghazals	ghazal	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	particularly	particularly	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	outstanding	outstanding	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 35
+# text = Whenever I managed to be present in such meetings and listen to a number of poems, [I came to realize that] his poems were always particularly sweet, outstanding and beautiful.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Whenever	whenever	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	managed	manage	VERB	VBD	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	present	present	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	meetings	meeting	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	listen	listen	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	number	number	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	poems	poem	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	[	[	PUNCT	-LRB-	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	I	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	came	come	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	realize	realize	VERB	VB	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	DET	DT	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	]	]	PUNCT	-RRB-	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	his	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	poems	poem	NOUN	NNS	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	were	be	AUX	VBD	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	always	always	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	particularly	particularly	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	sweet	sweet	ADJ	JJ	_	27	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	outstanding	outstanding	ADJ	JJ	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	beautiful	beautiful	ADJ	JJ	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 12
+# text = Therefore, it is necessary to truly praise and appreciate him.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	necessary	necessary	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	truly	truly	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	praise	praise	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	appreciate	appreciate	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	him	-PRON-	PRON	PRP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 22
+# text = Besides the issue of form, there are two other characteristics in the poetry of Mr. Moshfeq Kashani which are noteworthy:
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Besides	besides	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	issue	issue	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	form	form	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	there	there	PRON	EX	_	8	expl	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	two	two	NUM	CD	_	11	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+10	other	other	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	characteristics	characteristic	NOUN	NNS	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	poetry	poetry	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Mr.	Mr.	PROPN	NNP	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	Moshfeq	Moshfeq	PROPN	NNP	_	18	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	Kashani	Kashani	PROPN	NNP	_	15	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+19	which	which	DET	WDT	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	noteworthy	noteworthy	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	:	:	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 17
+# text = one is that his poetry is at the service of goals - religious and revolutionary goals.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	one	one	NUM	CD	_	2	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	his	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	poetry	poetry	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	at	at	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	service	service	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	goals	goal	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	religious	religious	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	revolutionary	revolutionary	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	goals	goal	NOUN	NNS	_	11	appos	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 45
+# text = Since the beginning of the Revolution, all his poems - whether the religious and ayini eulogies that he composed in praise of the Imams (a.s.) or the poems that he composed about revolutionary issues - have been valuable and influential.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Since	since	SCONJ	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	beginning	beginning	NOUN	NN	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	the	the	DET	DT	_	6	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	Revolution	Revolution	PROPN	NNP	_	4	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	,	,	PUNCT	,	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	his	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	poems	poem	NOUN	NNS	_	7	intj	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	:	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	whether	whether	SCONJ	IN	_	41	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	religious	religious	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	ayini	ayini	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	eulogies	eulogy	NOUN	NNS	_	41	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	he	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	composed	compose	VERB	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	praise	praise	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Imams	Imams	PROPN	NNP	_	23	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+26	(	(	PUNCT	-LRB-	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	a.s	a.s	PROPN	NNP	_	28	dep	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PROPN	NNP	_	25	appos	_	ent_type=_|ent_id=2|ent_iob=O
+29	)	)	PUNCT	-RRB-	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	or	or	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	poems	poem	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	that	that	SCONJ	IN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	he	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	composed	compose	VERB	VBD	_	32	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	about	about	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	revolutionary	revolutionary	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	issues	issue	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	-	-	PUNCT	:	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	have	have	AUX	VBP	_	41	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+42	valuable	valuable	ADJ	JJ	_	41	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	influential	influential	ADJ	JJ	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 26
+# text = In my opinion, the first couplet of the poem that he recited in this meeting is more valuable than many other poems and writings.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	In	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	my	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	opinion	opinion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	first	first	ADJ	JJ	_	7	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+7	couplet	couplet	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	poem	poem	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	WDT	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	he	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	recited	recite	VERB	VBD	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	meeting	meeting	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	more	more	ADV	RBR	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	valuable	valuable	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	than	than	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	many	many	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	other	other	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	poems	poem	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	writings	writing	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 38
+# text = As such poets say, during a time when the enemy and some ignorant friends try to paint things as dark and gloomy, if there is any vigilance, windows [of wisdom] are open.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	As	as	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	such	such	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	poets	poet	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VBP	_	36	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	during	during	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	time	time	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	when	when	ADV	WRB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	enemy	enemy	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	some	some	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	ignorant	ignorant	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	friends	friend	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	try	try	VERB	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	paint	paint	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	things	thing	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	SCONJ	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	dark	dark	ADJ	JJ	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	gloomy	gloomy	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	if	if	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	there	there	PRON	EX	_	27	expl	_	ent_type=_|ent_id=2|ent_iob=O
+27	is	be	AUX	VBZ	_	36	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	any	any	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	vigilance	vigilance	NOUN	NN	_	27	attr	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	windows	window	NOUN	NNS	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	[	[	PUNCT	-LRB-	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	wisdom	wisdom	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	]	]	PUNCT	-RRB-	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+37	open	open	ADJ	JJ	_	36	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 6
+# text = These are very important points.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	points	point	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 13
+# text = One can always see such points in the poetry of Mr. Kashani.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	One	one	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	always	always	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	such	such	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	points	point	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	poetry	poetry	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Mr.	Mr.	PROPN	NNP	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	Kashani	Kashani	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 8
+# text = The second characteristic is his own personality.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	second	second	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	characteristic	characteristic	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	own	own	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	personality	personality	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 16
+# text = He is viewed as an honorable person who behaves in a moral and appropriate way.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	He	-PRON-	PRON	PRP	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	viewed	view	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	as	as	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	honorable	honorable	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	person	person	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	behaves	behave	VERB	VBZ	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	moral	moral	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	appropriate	appropriate	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	way	way	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 33
+# text = We - who are familiar with him, who have been in contact with him and who have sometimes socialized with him - have always seen this behavior in Mr. Moshfeq Kashani.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	We	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	-	-	PUNCT	:	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	familiar	familiar	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	him	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	been	be	AUX	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	contact	contact	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	him	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	who	who	PRON	WP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	sometimes	sometimes	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	socialized	socialize	VERB	VBN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	with	with	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	him	-PRON-	PRON	PRP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	:	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	have	have	AUX	VBP	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	always	always	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	seen	see	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+27	this	this	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	behavior	behavior	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	Mr.	Mr.	PROPN	NNP	_	32	compound	_	ent_type=_|ent_id=2|ent_iob=O
+31	Moshfeq	Moshfeq	PROPN	NNP	_	32	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+32	Kashani	Kashani	PROPN	NNP	_	29	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+33	.	.	PUNCT	.	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 12
+# text = I hope that God will bestow a long life on him.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	bestow	bestow	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	long	long	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	life	life	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	him	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 22
+# text = We should appreciate the value of Mr. Kashani and Mr. Hamid - who are the veteran poets of our contemporary poetry.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	value	value	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Mr.	Mr.	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Kashani	Kashani	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	Mr.	Mr.	PROPN	NNP	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	Hamid	Hamid	PROPN	NNP	_	8	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	veteran	veteran	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	poets	poet	NOUN	NNS	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	contemporary	contemporary	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	poetry	poetry	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 18
+# text = By Allah's favor, the future of Persian literature and poetry will witness as much progress.
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	By	by	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	favor	favor	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	future	future	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Persian	persian	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	literature	literature	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	poetry	poetry	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	witness	witness	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	much	much	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	progress	progress	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech in Meeting with Officials of Moshfeq Kashani Commemoration Congress
+# year = 2013
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

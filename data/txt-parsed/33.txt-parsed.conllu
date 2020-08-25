@@ -1,0 +1,856 @@
+# sent_id = 1
+# sent_len = 8
+# text = Ayatollah Khamenei further told the Chinese President:
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	told	tell	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Chinese	chinese	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	President	President	PROPN	NNP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 18
+# text = "I was briefed on your talks with the president and other officials of the Islamic Republic.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	briefed	brief	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	talks	talk	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	president	president	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	officials	official	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	Republic	Republic	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 40
+# text = The talks have been very constructive, and I hope that the mutual cooperation in various fields, which was discussed during the talks, will soon materialize and get under way in earnest through determination on both sides.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	talks	talk	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	very	very	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	constructive	constructive	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	I	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	hope	hope	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	mutual	mutual	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	cooperation	cooperation	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	various	various	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	fields	field	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	which	which	DET	WDT	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	was	be	AUX	VBD	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	discussed	discuss	VERB	VBN	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	during	during	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	talks	talk	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	will	will	VERB	MD	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	soon	soon	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	materialize	materialize	VERB	VB	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	get	get	AUX	VB	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	under	under	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	way	way	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	in	in	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	earnest	earnest	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	through	through	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	determination	determination	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	on	on	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	both	both	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	sides	side	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 25
+# text = "As regards the bilateral relations, I believe that Iran and China have ample potential for the expansion of their relations and cooperation.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	As	as	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	regards	regard	VERB	VBZ	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	bilateral	bilateral	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	relations	relation	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	I	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iran	Iran	PROPN	NNP	_	14	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	China	China	PROPN	NNP	_	11	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	have	have	AUX	VBP	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	ample	ample	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	potential	potential	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	expansion	expansion	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	relations	relation	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	cooperation	cooperation	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 26
+# text = Presently, the bilateral trade and mutual cooperation are at a satisfactory level, and they seem to have grown considerably compared with the past.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	Presently	presently	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	bilateral	bilateral	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	trade	trade	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	mutual	mutual	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	cooperation	cooperation	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	at	at	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	satisfactory	satisfactory	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	level	level	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	they	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	seem	seem	VERB	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	have	have	AUX	VB	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	grown	grow	VERB	VBN	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	considerably	considerably	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	compared	compare	VERB	VBN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	with	with	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	past	past	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 18
+# text = But they still could be much better, considering the great potential of the two countries."
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	still	still	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	could	could	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	much	much	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	better	well	ADJ	JJR	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	considering	consider	VERB	VBG	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	great	great	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	potential	potential	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	two	two	NUM	CD	_	16	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+16	countries	country	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	''	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 27
+# text = The Leader stressed that the Iranian officials hold a positive attitude toward China, since it has a great nation that is determined to remain independent.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	stressed	stress	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	officials	official	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	hold	hold	VERB	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	positive	positive	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	attitude	attitude	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	toward	toward	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	China	China	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	since	since	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	has	have	AUX	VBZ	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	great	great	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	nation	nation	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	WDT	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	determined	determined	ADJ	JJ	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	remain	remain	VERB	VB	_	23	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	independent	independent	ADJ	JJ	_	25	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 29
+# text = "When the former Soviet Union was disintegrated, the United States and certain other Western countries very much liked to see the same thing happen to China.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	"	"	PUNCT	``	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	When	when	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	former	former	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	Soviet	Soviet	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	Union	Union	PROPN	NNP	_	8	nsubjpass	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	was	be	AUX	VBD	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	disintegrated	disintegrate	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	United	United	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	States	States	PROPN	NNP	_	20	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	certain	certain	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	other	other	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	Western	western	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	countries	country	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	very	very	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	much	much	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	liked	like	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	see	see	VERB	VB	_	20	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	same	same	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	thing	thing	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	happen	happen	VERB	VB	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	China	China	PROPN	NNP	_	27	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+29	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 17
+# text = However, by adopting a wise policy, China managed to preserve its independence and identity.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	However	however	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	by	by	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	adopting	adopt	VERB	VBG	_	3	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	wise	wise	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	policy	policy	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	China	China	PROPN	NNP	_	10	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	preserve	preserve	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	its	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	independence	independence	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	identity	identity	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 17
+# text = We are also determined to safeguard our independence, identity and values," he noted.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	determined	determined	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	safeguard	safeguard	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	independence	independence	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	identity	identity	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	values	value	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	''	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	he	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 24
+# text = Elsewhere in his statements, Leader of the Islamic Republic pointed out that Tehran and Beijing hold similar views on many international issues.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	Elsewhere	elsewhere	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	statements	statement	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Leader	leader	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	out	out	ADP	RP	_	11	prt	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	Tehran	Tehran	PROPN	NNP	_	17	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	Beijing	Beijing	PROPN	NNP	_	14	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	hold	hold	VERB	VBP	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	similar	similar	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	views	view	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	many	many	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	international	international	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	issues	issue	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 60
+# text = Concerning the issue of Palestine and the Palestinian Intifada, he stated: "The issue of Palestine, as you pointed out, is a major issue of the world, since the defenseless Palestinian people are currently being massacred by the armed-to-the-teeth Zionist forces, who are fully supported by Washington.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	Concerning	concern	VERB	VBG	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	issue	issue	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Palestine	Palestine	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	Palestinian	Palestinian	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	Intifada	Intifada	PROPN	NNP	_	5	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	he	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	:	:	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	``	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	The	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	issue	issue	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Palestine	Palestine	PROPN	NNP	_	18	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	you	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	pointed	point	VERB	VBD	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	out	out	ADP	RP	_	23	prt	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	is	be	AUX	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	major	major	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	issue	issue	NOUN	NN	_	26	attr	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	world	world	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	since	since	SCONJ	IN	_	42	mark	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	defenseless	defenseless	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	Palestinian	palestinian	ADJ	JJ	_	38	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+37	people	people	NOUN	NNS	_	42	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+38	are	be	AUX	VBP	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	currently	currently	ADV	RB	_	42	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+40	being	be	AUX	VBG	_	42	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+41	massacred	massacre	VERB	VBN	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+42	by	by	ADP	IN	_	42	agent	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	53	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	armed	arm	VERB	VBN	_	53	amod	_	ent_type=_|ent_id=2|ent_iob=O
+45	-	-	PUNCT	HYPH	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	to	to	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	-	-	PUNCT	HYPH	_	47	punct	_	ent_type=_|ent_id=2|ent_iob=O
+48	the	the	DET	DT	_	51	det	_	ent_type=_|ent_id=2|ent_iob=O
+49	-	-	PUNCT	HYPH	_	51	punct	_	ent_type=_|ent_id=2|ent_iob=O
+50	teeth	tooth	NOUN	NNS	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	Zionist	zionist	ADJ	JJ	_	53	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+52	forces	force	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	,	,	PUNCT	,	_	53	punct	_	ent_type=_|ent_id=2|ent_iob=O
+54	who	who	PRON	WP	_	58	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+55	are	be	AUX	VBP	_	58	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+56	fully	fully	ADV	RB	_	58	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+57	supported	support	VERB	VBN	_	53	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+58	by	by	ADP	IN	_	58	agent	_	ent_type=_|ent_id=2|ent_iob=O
+59	Washington	Washington	PROPN	NNP	_	59	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+60	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 13
+# text = Indeed, a human catastrophe is taking place in the occupied territories.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	Indeed	indeed	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	human	human	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	catastrophe	catastrophe	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	taking	take	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	place	place	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	occupied	occupy	VERB	VBN	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	territories	territory	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 29
+# text = "The Intifada of the Palestinians is the resistance of an oppressed nation to occupation and aggression, and it is only an act of self-defense.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	"	"	PUNCT	``	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	3	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Intifada	Intifada	PROPN	NNP	_	7	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	the	the	DET	DT	_	6	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+6	Palestinians	Palestinians	PROPN	NNPS	_	4	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	resistance	resistance	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	an	an	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	oppressed	oppress	VERB	VBN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	nation	nation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	occupation	occupation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	aggression	aggression	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	it	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	only	only	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	an	an	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	act	act	NOUN	NN	_	21	attr	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	self	self	NOUN	NN	_	28	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	-	-	PUNCT	HYPH	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	defense	defense	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 14
+# text = But the United States is describing this resistance as an act of terrorism!
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	But	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	United	United	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	States	States	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	is	be	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	describing	describe	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	resistance	resistance	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	as	as	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	an	an	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	act	act	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	terrorism	terrorism	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	!	!	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 54
+# text = "This is the most illogical remark that is often repeated by the U.S. officials, but the same officials in Washington are turning a blind eye to the heinous crimes and atrocities that are being committed by the Zionist regime against Palestinians and that constitute a flagrant instance of state terrorism."
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	most	most	ADV	RBS	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	illogical	illogical	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	remark	remark	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	often	often	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	repeated	repeat	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	U.S.	U.S.	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	officials	official	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	same	same	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	officials	official	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Washington	Washington	PROPN	NNP	_	21	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+23	are	be	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	turning	turn	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	blind	blind	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	eye	eye	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	heinous	heinous	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	crimes	crime	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	atrocities	atrocity	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	that	that	DET	WDT	_	37	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+35	are	be	AUX	VBP	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	being	be	AUX	VBG	_	37	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+37	committed	commit	VERB	VBN	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+38	by	by	ADP	IN	_	37	agent	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	Zionist	zionist	ADJ	JJ	_	41	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+41	regime	regime	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	against	against	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	Palestinians	Palestinians	PROPN	NNPS	_	42	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+44	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	that	that	DET	WDT	_	46	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+46	constitute	constitute	VERB	VBP	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	a	a	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	flagrant	flagrant	ADJ	JJ	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	instance	instance	NOUN	NN	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	of	of	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	state	state	NOUN	NN	_	52	compound	_	ent_type=_|ent_id=2|ent_iob=O
+52	terrorism	terrorism	NOUN	NN	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+54	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 50
+# text = As regards the position of the Islamic Republic on the issue of Palestine, Ayatollah Khamenei noted: "We believe that the Zionist regime is an occupier and usurper entity, and we consider it our duty to give our moral support to the oppressed Palestinian nation."
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	position	position	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	issue	issue	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Palestine	Palestine	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	Ayatollah	Ayatollah	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	Khamenei	Khamenei	PROPN	NNP	_	17	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	:	:	PUNCT	:	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	"	"	PUNCT	``	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	We	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	believe	believe	VERB	VBP	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Zionist	zionist	ADJ	JJ	_	26	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	regime	regime	NOUN	NN	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	is	be	AUX	VBZ	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	an	an	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	occupier	occupier	NOUN	NN	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	usurper	usurper	ADJ	JJ	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	entity	entity	NOUN	NN	_	27	attr	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	we	-PRON-	PRON	PRP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	consider	consider	VERB	VBP	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	it	-PRON-	PRON	PRP	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	our	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	duty	duty	NOUN	NN	_	36	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	to	to	PART	TO	_	41	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	give	give	VERB	VB	_	39	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+41	our	-PRON-	DET	PRP$	_	44	poss	_	ent_type=_|ent_id=2|ent_iob=O
+42	moral	moral	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	support	support	NOUN	NN	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	to	to	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	oppressed	oppress	VERB	VBN	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	Palestinian	palestinian	ADJ	JJ	_	49	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+48	nation	nation	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+50	"	"	PUNCT	''	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 18
+# text = Further in his remarks, the Leader referred to the expansionist objectives pursued by the United States:
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	Further	further	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Leader	leader	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	referred	refer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	expansionist	expansionist	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	objectives	objective	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	pursued	pursue	VERB	VBN	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	by	by	ADP	IN	_	13	agent	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	United	United	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	States	States	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	:	:	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 35
+# text = "Today, the United States is trying to impose its own will on other nations in the ugliest manner, and this is posing a serious threat to the world peace and stability.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	"	"	PUNCT	''	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	United	United	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	States	States	PROPN	NNP	_	8	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	impose	impose	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	own	own	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	will	will	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	other	other	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	nations	nation	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	ugliest	ugly	ADJ	JJS	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	manner	manner	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	posing	pose	VERB	VBG	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	serious	serious	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	threat	threat	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	world	world	NOUN	NN	_	32	compound	_	ent_type=_|ent_id=2|ent_iob=O
+32	peace	peace	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	stability	stability	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 47
+# text = Therefore, it is the responsibility of different nations to take a firm stance against the domineering and hegemonic attitude of the White House officials, and any nation that submits to U.S. hegemony and expansionism will in fact contribute to a gloomy future for mankind.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	responsibility	responsibility	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	different	different	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	nations	nation	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	take	take	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	firm	firm	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	stance	stance	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	domineering	domineering	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	hegemonic	hegemonic	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	attitude	attitude	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	White	White	PROPN	NNP	_	24	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+24	House	House	PROPN	NNP	_	25	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+25	officials	official	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	any	any	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	nation	nation	NOUN	NN	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	that	that	DET	WDT	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	submits	submit	VERB	VBZ	_	29	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	U.S.	U.S.	PROPN	NNP	_	34	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+34	hegemony	hegemony	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	expansionism	expansionism	NOUN	NN	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	will	will	VERB	MD	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	in	in	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	fact	fact	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	contribute	contribute	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	to	to	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	a	a	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	gloomy	gloomy	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	future	future	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	for	for	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	mankind	mankind	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 24
+# text = "We believe that the independent states should face up to their responsibilities and play a more effective role in the international arena.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	independent	independent	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	states	state	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	face	face	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	up	up	ADP	RP	_	9	prt	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	responsibilities	responsibility	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	play	play	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	more	more	ADV	RBR	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	effective	effective	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	role	role	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	international	international	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	arena	arena	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 16
+# text = The U.S. military power does not mean that Washington can do whatever it wishes to.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	4	nmod	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	military	military	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	power	power	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	does	do	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	mean	mean	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	Washington	Washington	PROPN	NNP	_	11	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	do	do	AUX	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	whatever	whatever	PRON	WP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	wishes	wish	VERB	VBZ	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 23
+# text = As a matter of fact, the United States has on several occasions been foiled in its attempts to achieve certain objectives.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	As	as	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	matter	matter	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	fact	fact	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	United	United	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	States	States	PROPN	NNP	_	15	nsubjpass	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	has	have	AUX	VBZ	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	several	several	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	occasions	occasion	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	been	be	AUX	VBN	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	foiled	foil	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	its	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	attempts	attempt	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	achieve	achieve	VERB	VB	_	18	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	certain	certain	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	objectives	objective	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 28
+# text = "Fortunately, the stance adopted by Europe is different from that of the United States, and Washington is receiving no support for its policies."
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Fortunately	fortunately	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	stance	stance	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	adopted	adopt	VERB	VBN	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	Europe	Europe	PROPN	NNP	_	7	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	different	different	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	DT	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	United	United	PROPN	NNP	_	16	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	States	States	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	Washington	Washington	PROPN	NNP	_	21	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	is	be	AUX	VBZ	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	receiving	receive	VERB	VBG	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	no	no	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	support	support	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	its	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	policies	policy	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	"	"	PUNCT	''	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 27
+# text = In conclusion, Ayatollah Khamenei stressed that Tehran and Beijing should expand their mutual cooperation in various areas, including in the economic and technological spheres.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Ayatollah	Ayatollah	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Khamenei	Khamenei	PROPN	NNP	_	6	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	stressed	stress	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	Tehran	Tehran	PROPN	NNP	_	12	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	Beijing	Beijing	PROPN	NNP	_	8	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	should	should	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	expand	expand	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	mutual	mutual	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	cooperation	cooperation	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	various	various	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	areas	area	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	including	include	VERB	VBG	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	economic	economic	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	technological	technological	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	spheres	sphere	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 14
+# text = He also hoped for further consolidation of cordial ties between the two nations.
+# title = Leader's Statements in a Meeting with Chinese President
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	hoped	hope	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	further	further	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	consolidation	consolidation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	cordial	cordial	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	ties	tie	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	between	between	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	two	two	NUM	CD	_	13	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+13	nations	nation	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O

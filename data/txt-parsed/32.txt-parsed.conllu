@@ -1,0 +1,761 @@
+# sent_id = 1
+# sent_len = 28
+# text = Ayatollah Khamenei further referred to the talks between the Iranian President, Mohammad Khatami, and his Azerbaijani counterpart and described the talks as comprehensive and constructive.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	referred	refer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	talks	talk	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	between	between	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iranian	iranian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	President	President	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	Mohammad	Mohammad	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+14	Khatami	Khatami	PROPN	NNP	_	11	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	his	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	Azerbaijani	azerbaijani	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	counterpart	counterpart	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	described	describe	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	talks	talk	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	as	as	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	comprehensive	comprehensive	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	constructive	constructive	ADJ	JJ	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 17
+# text = He also hoped that the two sides would follow through on the agreements reached with determination.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	hoped	hope	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	two	two	NUM	CD	_	7	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	sides	side	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	would	would	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	follow	follow	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	through	through	ADP	RP	_	9	prt	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	agreements	agreement	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	reached	reach	VERB	VBN	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	determination	determination	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 29
+# text = Elsewhere in his remarks, the Leader pointed out that there are many religious, historical and cultural affinities between the two neighboring Iranian and the Azerbaijani nations.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	Elsewhere	elsewhere	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Leader	leader	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	out	out	ADP	RP	_	8	prt	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	there	there	PRON	EX	_	12	expl	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	many	many	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	religious	religious	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	historical	historical	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	cultural	cultural	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	affinities	affinity	NOUN	NNS	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	between	between	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	two	two	NUM	CD	_	24	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+23	neighboring	neighbor	VERB	VBG	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	Iranian	Iranian	PROPN	NNP	_	20	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Azerbaijani	azerbaijani	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	nations	nation	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 28
+# text = "Therefore, the consolidation and expansion of relations between the Islamic Republic of Iran and the Republic of Azerbaijan will serve the interests of both nations.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	"	"	PUNCT	''	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Therefore	therefore	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	consolidation	consolidation	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	expansion	expansion	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	relations	relation	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	between	between	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	Republic	Republic	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	of	of	ADP	IN	_	13	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	Iran	Iran	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	Republic	Republic	PROPN	NNP	_	13	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	of	of	ADP	IN	_	18	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	Azerbaijan	Azerbaijan	PROPN	NNP	_	19	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	will	will	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	serve	serve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	interests	interest	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	both	both	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	nations	nation	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 34
+# text = Furthermore, we attach great importance to the stability in Azerbaijan, since any instability in you country will be harmful to us as well," the Leader told the Azerbaijani president.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	Furthermore	furthermore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	attach	attach	VERB	VBP	_	30	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	importance	importance	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	stability	stability	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Azerbaijan	Azerbaijan	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	since	since	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	any	any	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	instability	instability	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	you	-PRON-	PRON	PRP	_	18	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	will	will	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	harmful	harmful	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	us	-PRON-	PRON	PRP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	as	as	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	well	well	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	"	"	PUNCT	''	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	Leader	leader	NOUN	NN	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	told	tell	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	Azerbaijani	azerbaijani	ADJ	JJ	_	33	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	president	president	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 14
+# text = As regards the issue of the Caspian Sea, Ayatollah Khamenei stated: "
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	issue	issue	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+7	Caspian	Caspian	PROPN	NNP	_	8	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+8	Sea	Sea	PROPN	NNP	_	5	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	Ayatollah	Ayatollah	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	Khamenei	Khamenei	PROPN	NNP	_	12	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	:	:	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	``	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 26
+# text = We believe that all major issues, including the issue of the Caspian Sea, could be solved through cooperation and the exchange of views.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	major	major	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	issues	issue	NOUN	NNS	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	including	include	VERB	VBG	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	issue	issue	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+13	Caspian	Caspian	PROPN	NNP	_	14	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+14	Sea	Sea	PROPN	NNP	_	11	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	could	could	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	solved	solve	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	through	through	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	cooperation	cooperation	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	exchange	exchange	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	views	view	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 26
+# text = Besides, the Caspian Sea issue should be resolved by the littoral states themselves, and foreign powers should not be allowed to interfere."
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	Besides	besides	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Caspian	Caspian	PROPN	NNP	_	5	compound	_	ent_type=LOC|ent_id=3|ent_iob=B
+5	Sea	Sea	PROPN	NNP	_	6	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+6	issue	issue	NOUN	NN	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	resolved	resolve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	littoral	littoral	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	states	state	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	themselves	-PRON-	PRON	PRP	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	foreign	foreign	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	powers	power	NOUN	NNS	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	not	not	PART	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	allowed	allow	VERB	VBN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	interfere	interfere	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	"	"	PUNCT	''	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 28
+# text = Referring to the dispute between Armenia and Azerbaijan, the Leader noted: "We believe this dispute should be and can be settled through peaceful means.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	Referring	refer	VERB	VBG	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	dispute	dispute	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	between	between	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Armenia	Armenia	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	Azerbaijan	Azerbaijan	PROPN	NNP	_	6	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Leader	leader	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	:	:	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	``	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	We	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	believe	believe	VERB	VBP	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	dispute	dispute	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	can	can	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	settled	settle	VERB	VBN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	through	through	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	peaceful	peaceful	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	means	mean	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 16
+# text = However, some outside powers would not like the regional disputes to be settled peacefully.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	However	however	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	outside	outside	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	powers	power	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	would	would	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	regional	regional	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	disputes	dispute	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	settled	settle	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	peacefully	peacefully	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 18
+# text = Thus, the parties involved in the conflict had better seek the mediation of other regional counties.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	Thus	thus	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	parties	party	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	involved	involve	VERB	VBN	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	conflict	conflict	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	had	have	AUX	VBD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	better	better	ADV	RBR	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	seek	seek	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	mediation	mediation	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	other	other	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	regional	regional	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	counties	county	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 31
+# text = "The Islamic Republic of Iran is ready to do all it can in order to find a peaceful solution to the conflict between Armenia and the Republic of Azerbaijan.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	"	"	PUNCT	``	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	Islamic	Islamic	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	Republic	Republic	PROPN	NNP	_	7	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	of	of	ADP	IN	_	4	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	Iran	Iran	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	ready	ready	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	do	do	AUX	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	can	can	VERB	MD	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	order	order	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	find	find	VERB	VB	_	15	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	peaceful	peaceful	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	solution	solution	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	conflict	conflict	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	between	between	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Armenia	Armenia	PROPN	NNP	_	24	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+28	Republic	Republic	PROPN	NNP	_	25	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+29	of	of	ADP	IN	_	28	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+30	Azerbaijan	Azerbaijan	PROPN	NNP	_	29	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+31	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 31
+# text = We pray to Almighty Allah to help the regional nations achieve unity and harmony and solve their problems themselves through cooperation without inviting the interference of the outside powers."
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	help	help	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	regional	regional	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	nations	nation	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	achieve	achieve	VERB	VBP	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	unity	unity	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	harmony	harmony	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	solve	solve	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	problems	problem	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	themselves	-PRON-	PRON	PRP	_	18	appos	_	ent_type=_|ent_id=2|ent_iob=O
+20	through	through	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	cooperation	cooperation	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	without	without	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	inviting	invite	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	interference	interference	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	outside	outside	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	powers	power	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 28
+# text = Further in his statements, Ayatollah Khamenei referred to the covetous attitude of some countries like the Untied States and the Zionist regime toward the Caspian region.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	Further	further	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	statements	statement	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Ayatollah	Ayatollah	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	Khamenei	Khamenei	PROPN	NNP	_	8	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	referred	refer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	covetous	covetous	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	attitude	attitude	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	some	some	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	countries	country	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	like	like	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	Untied	Untied	PROPN	NNP	_	19	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	States	States	PROPN	NNP	_	16	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Zionist	zionist	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	regime	regime	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	toward	toward	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Caspian	Caspian	PROPN	NNP	_	27	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+27	region	region	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 30
+# text = "We feel that the United States and the Zionist regime are pursuing certain objectives in the Caspian region which run counter to the interests of the regional nations.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	feel	feel	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	United	United	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	States	States	PROPN	NNP	_	13	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Zionist	zionist	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	regime	regime	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	pursuing	pursue	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	certain	certain	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	objectives	objective	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Caspian	Caspian	PROPN	NNP	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	region	region	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	which	which	DET	WDT	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	run	run	VERB	VBP	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	counter	counter	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	interests	interest	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	regional	regional	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	nations	nation	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 18
+# text = "Unfortunately, the Muslim nations have long experienced great sufferings at the hands of these powers.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Unfortunately	unfortunately	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Muslim	muslim	ADJ	JJ	_	6	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nations	nation	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	long	long	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	experienced	experience	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	great	great	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	sufferings	suffering	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	at	at	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	hands	hand	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	these	these	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	powers	power	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 60
+# text = Presently the Zionists, enjoying the full support of the United States, are committing all sorts of crimes and atrocities against the innocent Palestinians in the occupied territories, and a real human catastrophe is currently being witnessed in the occupied Palestine, but no action is being taken to alleviate the plight of the oppressed Palestinian nation.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	Presently	presently	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Zionists	Zionists	PROPN	NNPS	_	15	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+4	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	enjoying	enjoy	VERB	VBG	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	full	full	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	support	support	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	United	United	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	States	States	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	committing	commit	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	all	all	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	sorts	sort	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	crimes	crime	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	atrocities	atrocity	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	against	against	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	innocent	innocent	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	Palestinians	Palestinians	PROPN	NNPS	_	22	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	occupied	occupy	VERB	VBN	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	territories	territory	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	a	a	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	real	real	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	human	human	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	catastrophe	catastrophe	NOUN	NN	_	39	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+36	is	be	AUX	VBZ	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	currently	currently	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	being	be	AUX	VBG	_	39	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+39	witnessed	witness	VERB	VBN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	occupied	occupy	VERB	VBN	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	Palestine	Palestine	PROPN	NNP	_	40	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+44	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	but	but	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	no	no	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	action	action	NOUN	NN	_	50	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+48	is	be	AUX	VBZ	_	50	aux	_	ent_type=_|ent_id=2|ent_iob=O
+49	being	be	AUX	VBG	_	50	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+50	taken	take	VERB	VBN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	to	to	PART	TO	_	52	aux	_	ent_type=_|ent_id=2|ent_iob=O
+52	alleviate	alleviate	VERB	VB	_	50	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+53	the	the	DET	DT	_	54	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	plight	plight	NOUN	NN	_	52	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	of	of	ADP	IN	_	54	prep	_	ent_type=_|ent_id=2|ent_iob=O
+56	the	the	DET	DT	_	59	det	_	ent_type=_|ent_id=2|ent_iob=O
+57	oppressed	oppress	VERB	VBN	_	59	amod	_	ent_type=_|ent_id=2|ent_iob=O
+58	Palestinian	palestinian	ADJ	JJ	_	59	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+59	nation	nation	NOUN	NN	_	55	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+60	.	.	PUNCT	.	_	50	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 45
+# text = "We believe that if the Muslim nations and countries, which share many commonalities, close ranks and get closer to each other, they will be able to protect and promote their interests with more strength and to a greater extent."
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Muslim	muslim	ADJ	JJ	_	8	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	nations	nation	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	countries	country	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	share	share	VERB	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	many	many	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	commonalities	commonality	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	close	close	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	ranks	rank	NOUN	NNS	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	get	get	AUX	VB	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	closer	close	ADJ	JJR	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	each	each	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	other	other	ADJ	JJ	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	they	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	will	will	VERB	MD	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	be	be	AUX	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	able	able	ADJ	JJ	_	28	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	protect	protect	VERB	VB	_	29	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	promote	promote	VERB	VB	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	their	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	interests	interest	NOUN	NNS	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	with	with	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	more	more	ADJ	JJR	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	strength	strength	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	to	to	ADP	IN	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	a	a	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	greater	great	ADJ	JJR	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	extent	extent	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 10
+# text = In conclusion, Leader of the Islamic Republic stated:
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Leader	leader	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	:	:	PUNCT	:	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 21
+# text = "I pray to Almighty Allah to bestow on us the success in consolidating and expanding our relations and cooperation.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Almighty	Almighty	PROPN	NNP	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	bestow	bestow	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	us	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	success	success	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	consolidating	consolidate	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	expanding	expand	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	relations	relation	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	cooperation	cooperation	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 19
+# text = As you pointed out, the mutual cooperation in the area of transportation is of very great significance.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	As	as	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	pointed	point	VERB	VBD	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	out	out	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	mutual	mutual	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	cooperation	cooperation	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	area	area	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	transportation	transportation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	very	very	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	great	great	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	significance	significance	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 20
+# text = The Islamic Republic of Iran will make every effort to provide you with the access to the high seas.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	7	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Iran	Iran	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	every	every	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	effort	effort	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	provide	provide	VERB	VB	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	you	-PRON-	PRON	PRP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	access	access	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	high	high	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	seas	sea	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 21
+# text = If the railroad that you mentioned is constructed, it will help to link two major regions of the world.
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	If	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	railroad	railroad	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	mentioned	mention	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	constructed	construct	VERB	VBN	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	link	link	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	two	two	NUM	CD	_	17	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+16	major	major	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	regions	region	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	world	world	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 20
+# text = "I hope more efforts will be made to expand cooperation between our countries in all possible areas."
+# title = Leader's Statements in a Meeting with Haidar Aliyev
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	more	more	ADJ	JJR	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	efforts	effort	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	made	make	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	expand	expand	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	cooperation	cooperation	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	between	between	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	countries	country	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	all	all	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	possible	possible	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	areas	area	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O

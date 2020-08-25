@@ -1,0 +1,3342 @@
+# sent_id = 1
+# sent_len = 12
+# text = First of all, I should apologize for my hoarse voice.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	First	first	ADV	RB	_	7	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	apologize	apologize	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	my	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	hoarse	hoarse	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	voice	voice	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 25
+# text = It is two or three days now that I have been suffering from this hoarse voice due to a cold or some other reason.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	two	two	NUM	CD	_	6	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	or	or	CCONJ	CC	_	3	cc	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	three	three	NUM	CD	_	3	conj	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	days	day	NOUN	NNS	_	2	attr	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	now	now	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	been	be	AUX	VBN	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	suffering	suffer	VERB	VBG	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	hoarse	hoarse	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	voice	voice	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	due	due	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	17	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	cold	cold	ADJ	JJ	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	some	some	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	other	other	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	reason	reason	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 70
+# text = The essential point that I would like to raise with all the friends who are present in this meeting - both the representatives of the honorable candidates' campaign offices and the representatives of the organizations in charge [of holding the presidential election] - is that the elections in our country, unlike some other countries, have constantly been the manifestation of national unity and grandeur.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	essential	essential	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	47	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	would	would	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	like	like	VERB	VB	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	raise	raise	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	PDT	_	13	predet	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	friends	friend	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	present	present	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	meeting	meeting	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	:	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	both	both	CCONJ	CC	_	23	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	representatives	representative	NOUN	NNS	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	honorable	honorable	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	candidates	candidate	NOUN	NNS	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	'	'	PART	POS	_	27	case	_	ent_type=_|ent_id=2|ent_iob=O
+29	campaign	campaign	NOUN	NN	_	30	compound	_	ent_type=_|ent_id=2|ent_iob=O
+30	offices	office	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	representatives	representative	NOUN	NNS	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	organizations	organization	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	in	in	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	charge	charge	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	[	[	PUNCT	-LRB-	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	holding	hold	VERB	VBG	_	40	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	presidential	presidential	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	election	election	NOUN	NN	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	]	]	PUNCT	-RRB-	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	-	-	PUNCT	,	_	47	punct	_	ent_type=_|ent_id=2|ent_iob=O
+47	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+48	that	that	SCONJ	IN	_	62	mark	_	ent_type=_|ent_id=2|ent_iob=O
+49	the	the	DET	DT	_	50	det	_	ent_type=_|ent_id=2|ent_iob=O
+50	elections	election	NOUN	NNS	_	62	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+51	in	in	ADP	IN	_	50	prep	_	ent_type=_|ent_id=2|ent_iob=O
+52	our	-PRON-	DET	PRP$	_	53	poss	_	ent_type=_|ent_id=2|ent_iob=O
+53	country	country	NOUN	NN	_	51	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	,	,	PUNCT	,	_	62	punct	_	ent_type=_|ent_id=2|ent_iob=O
+55	unlike	unlike	ADP	IN	_	62	prep	_	ent_type=_|ent_id=2|ent_iob=O
+56	some	some	DET	DT	_	58	det	_	ent_type=_|ent_id=2|ent_iob=O
+57	other	other	ADJ	JJ	_	58	amod	_	ent_type=_|ent_id=2|ent_iob=O
+58	countries	country	NOUN	NNS	_	55	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	,	,	PUNCT	,	_	62	punct	_	ent_type=_|ent_id=2|ent_iob=O
+60	have	have	AUX	VBP	_	62	aux	_	ent_type=_|ent_id=2|ent_iob=O
+61	constantly	constantly	ADV	RB	_	62	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+62	been	be	AUX	VBN	_	47	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+63	the	the	DET	DT	_	64	det	_	ent_type=_|ent_id=2|ent_iob=O
+64	manifestation	manifestation	NOUN	NN	_	62	attr	_	ent_type=_|ent_id=2|ent_iob=O
+65	of	of	ADP	IN	_	64	prep	_	ent_type=_|ent_id=2|ent_iob=O
+66	national	national	ADJ	JJ	_	67	amod	_	ent_type=_|ent_id=2|ent_iob=O
+67	unity	unity	NOUN	NN	_	65	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+68	and	and	CCONJ	CC	_	67	cc	_	ent_type=_|ent_id=2|ent_iob=O
+69	grandeur	grandeur	NOUN	NN	_	67	conj	_	ent_type=_|ent_id=2|ent_iob=O
+70	.	.	PUNCT	.	_	47	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 34
+# text = That is because everybody who goes to a ballot box and casts his or her ballot into the ballot box is, in fact, voting for the Islamic Republic and Islamic government.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	everybody	everybody	PRON	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	goes	go	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	ballot	ballot	NOUN	NN	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	box	box	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	casts	cast	VERB	VBZ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	his	-PRON-	DET	PRP$	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	or	or	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	her	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	ballot	ballot	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	into	into	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	ballot	ballot	NOUN	NN	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	box	box	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	fact	fact	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	voting	vote	VERB	VBG	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	for	for	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	33	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+29	Islamic	Islamic	PROPN	NNP	_	30	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+30	Republic	Republic	PROPN	NNP	_	33	nmod	_	ent_type=GPE|ent_id=1|ent_iob=I
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	Islamic	islamic	ADJ	JJ	_	30	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	government	government	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 22
+# text = Therefore, as you have observed, government officials and I have constantly insisted on an increasing turnout in the elections.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Therefore	therefore	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	observed	observe	VERB	VBN	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	government	government	NOUN	NN	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	officials	official	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	I	-PRON-	PRON	PRP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	constantly	constantly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	insisted	insist	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	increasing	increase	VERB	VBG	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	turnout	turnout	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	elections	election	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 8
+# text = We have encouraged the people to vote.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	encouraged	encourage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	vote	vote	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 13
+# text = And the public have vigilantly engaged in the elections on momentous occasions.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	And	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	public	public	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	vigilantly	vigilantly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	engaged	engage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	elections	election	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	momentous	momentous	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	occasions	occasion	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 29
+# text = The people went to the ballot boxes and cast their votes when the country needed to strongly voice its position against the enemies and the ill-wishers.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	ballot	ballot	NOUN	NN	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	boxes	box	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	cast	cast	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	votes	vote	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	when	when	ADV	WRB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	needed	need	VERB	VBD	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	strongly	strongly	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	voice	voice	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	its	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	position	position	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	against	against	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	enemies	enemy	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	ill	ill	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	-	-	PUNCT	HYPH	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	wishers	wisher	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 32
+# text = In a number of my congratulatory messages regarding our elections, I have repeatedly used the phrase "the intelligent people who are aware of the requirements of the time".
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	In	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	number	number	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	my	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	congratulatory	congratulatory	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	messages	message	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	regarding	regard	VERB	VBG	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	elections	election	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	I	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	have	have	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	repeatedly	repeatedly	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	phrase	phrase	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	``	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	intelligent	intelligent	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	people	people	NOUN	NNS	_	17	appos	_	ent_type=_|ent_id=2|ent_iob=O
+22	who	who	PRON	WP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	are	be	AUX	VBP	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	aware	aware	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	requirements	requirement	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	time	time	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	"	"	PUNCT	''	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 10
+# text = I used the same phrase this time as well.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	same	same	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	phrase	phrase	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	time	time	NOUN	NN	_	2	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	as	as	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	well	well	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 12
+# text = I had previously used it on a number of other occasions.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	had	have	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	previously	previously	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	number	number	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	other	other	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	occasions	occasion	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 43
+# text = The reason is that the presence of the people at the polling stations is always a sign of their vigilance and presence on the scene, and it has always been considered as a sign of their vote for the Islamic Republic.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	reason	reason	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	presence	presence	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	at	at	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	polling	polling	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	stations	station	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	always	always	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	sign	sign	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	vigilance	vigilance	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	presence	presence	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	scene	scene	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	it	-PRON-	PRON	PRP	_	32	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+29	has	have	AUX	VBZ	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	always	always	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	been	be	AUX	VBN	_	32	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	considered	consider	VERB	VBN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	as	as	SCONJ	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	a	a	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	sign	sign	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	their	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	vote	vote	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	for	for	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+41	Islamic	Islamic	PROPN	NNP	_	42	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+42	Republic	Republic	PROPN	NNP	_	39	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+43	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 21
+# text = Therefore, from this point of view, our elections have always been a manifestation of national unity and grandeur.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Therefore	therefore	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	from	from	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	point	point	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	view	view	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	elections	election	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	always	always	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	manifestation	manifestation	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	national	national	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	unity	unity	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	grandeur	grandeur	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 14
+# text = We must take care not to let elections become a source of discord.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	care	care	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	let	let	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	elections	election	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	become	become	VERB	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	source	source	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	discord	discord	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 11
+# text = That is the main point that I want to raise.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	main	main	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	point	point	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	I	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	want	want	VERB	VBP	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	raise	raise	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 33
+# text = I think it is a huge mistake to imagine that there are two opposing groups, with 24 million people on the one side and 14 million people on the other side.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	think	think	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	huge	huge	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	mistake	mistake	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	imagine	imagine	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	there	there	PRON	EX	_	12	expl	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	two	two	NUM	CD	_	15	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	opposing	oppose	VERB	VBG	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	groups	group	NOUN	NNS	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	24	24	NUM	CD	_	19	compound	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	million	million	NUM	CD	_	20	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+20	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	one	one	NUM	CD	_	24	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+24	side	side	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	14	14	NUM	CD	_	27	compound	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+27	million	million	NUM	CD	_	28	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+28	people	people	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	on	on	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	other	other	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	side	side	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 6
+# text = That is not the case.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 8
+# text = All people are on the same side.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	same	same	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	side	side	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 32
+# text = Those who voted for the president-elect in the recent election are as committed to the Revolution and the Islamic Republic as the people who did not vote for him.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Those	those	DET	DT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	voted	vote	VERB	VBD	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	president	president	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	elect	elect	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	recent	recent	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	election	election	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	committed	commit	VERB	VBN	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Revolution	Revolution	PROPN	NNP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+21	Islamic	Islamic	PROPN	NNP	_	22	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+22	Republic	Republic	PROPN	NNP	_	18	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+23	as	as	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	people	people	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	who	who	PRON	WP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	did	do	AUX	VBD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	not	not	PART	RB	_	29	neg	_	ent_type=_|ent_id=2|ent_iob=O
+29	vote	vote	VERB	VB	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	for	for	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	him	-PRON-	PRON	PRP	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 15
+# text = All groups of the people are the children of this country and this nation.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	groups	group	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	children	child	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	nation	nation	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 30
+# text = It is a mistake to think of the people who voted for a particular candidate and those who did not vote for him as two opposing and hostile sides.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	mistake	mistake	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	think	think	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	voted	vote	VERB	VBD	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	particular	particular	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	candidate	candidate	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	those	those	DET	DT	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	did	do	AUX	VBD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	not	not	PART	RB	_	21	neg	_	ent_type=_|ent_id=2|ent_iob=O
+21	vote	vote	VERB	VB	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	for	for	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	him	-PRON-	PRON	PRP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	as	as	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	two	two	NUM	CD	_	29	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+26	opposing	opposing	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	hostile	hostile	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	sides	side	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 6
+# text = That is not the case.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 15
+# text = They just did not have the same tendency towards a particular issue or option.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	just	just	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	did	do	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	same	same	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	tendency	tendency	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	towards	towards	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	particular	particular	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	issue	issue	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	or	or	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	option	option	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 21
+# text = However, they have the same opinion regarding their belief in the government and their support for the Islamic Republic.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	However	however	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	same	same	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	opinion	opinion	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	regarding	regard	VERB	VBG	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	belief	belief	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	government	government	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	support	support	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	Islamic	Islamic	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	Republic	Republic	PROPN	NNP	_	17	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 12
+# text = We must look at the 40-million turnout rate in this election.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	look	look	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	40-million	40-million	NUM	CD	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	turnout	turnout	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	rate	rate	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	election	election	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 6
+# text = That is the important point.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	point	point	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 11
+# text = Of course I personally trust the officials of the country.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	personally	personally	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	trust	trust	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	officials	official	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 21
+# text = Like the past elections, I trust the government officials, the Ministry of Interior, and the Guardian Council.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Like	like	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	past	past	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	elections	election	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	trust	trust	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	government	government	NOUN	NN	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	officials	official	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	Ministry	Ministry	PROPN	NNP	_	10	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	of	of	ADP	IN	_	13	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Interior	Interior	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	Guardian	Guardian	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	Council	Council	PROPN	NNP	_	13	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 18
+# text = All of you are, or used to be, government officials, and you know me.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	All	all	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	or	or	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	used	use	VERB	VBN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	government	government	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	officials	official	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	you	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	know	know	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	me	-PRON-	PRON	PRP	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 35
+# text = As you know, in many cases, government officials had different tendencies, but I trust the officials when I know them well and when I know the principles that guide their work.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	As	as	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VBP	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	many	many	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	cases	case	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	government	government	NOUN	NN	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	officials	official	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	different	different	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	tendencies	tendency	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	I	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	trust	trust	VERB	VBP	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	officials	official	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	when	when	ADV	WRB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	I	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	know	know	VERB	VBP	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	well	well	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	when	when	ADV	WRB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	I	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	know	know	VERB	VBP	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	principles	principle	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	that	that	DET	WDT	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	guide	guide	VERB	VBP	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	their	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	work	work	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 7
+# text = The situation is the same now.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	situation	situation	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	same	same	ADJ	JJ	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	now	now	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 11
+# text = I trust the officials in charge of the recent election.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	trust	trust	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	officials	official	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	charge	charge	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	recent	recent	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	election	election	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 13
+# text = However, this trust would not prevent the investigation of possible concerns.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	However	however	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	trust	trust	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	would	would	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	prevent	prevent	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	investigation	investigation	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	possible	possible	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	concerns	concern	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 8
+# text = This trust would not suppress the truth.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	trust	trust	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	would	would	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	suppress	suppress	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	truth	truth	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 10
+# text = On the contrary, you must remove the doubts.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	On	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	contrary	contrary	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	must	must	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	remove	remove	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	doubts	doubt	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 16
+# text = What is most important of all is that you should try to preserve national unity.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	What	what	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	most	most	ADV	RBS	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	try	try	VERB	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	preserve	preserve	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	national	national	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	unity	unity	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 8
+# text = Each person has a responsibility to fulfill.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Each	each	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	person	person	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	responsibility	responsibility	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	fulfill	fulfill	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 9
+# text = Elections are a source of honor for us.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Elections	election	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	source	source	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	honor	honor	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	us	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 7
+# text = 40 million votes are no joke.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	40	40	NUM	CD	_	2	compound	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	million	million	NUM	CD	_	3	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+3	votes	vote	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	no	no	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	joke	joke	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 10
+# text = This number is significantly greater than our record turnout.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	number	number	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	significantly	significantly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	greater	great	ADJ	JJR	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	than	than	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	record	record	NOUN	NN	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	turnout	turnout	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 5
+# text = That is very important.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 23
+# text = After the passage of 30 years, our nation's commitment to the Islamic Republic is so strong that they enter the arena
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	After	after	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	passage	passage	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	30	30	NUM	CD	_	6	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	years	year	NOUN	NNS	_	4	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	nation	nation	NOUN	NN	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	's	's	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	commitment	commitment	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	Republic	Republic	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	so	so	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	strong	strong	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	enter	enter	VERB	VBP	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	arena	arena	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 3
+# text = so enthusiastically.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	so	so	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	enthusiastically	enthusiastically	ADV	RB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 32
+# text = Our people's commitment to the Islamic Republic is so strong that foreign news agencies unanimously announced during the early hours of the election that the turnout rate would be extraordinary.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	commitment	commitment	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	so	so	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	strong	strong	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	foreign	foreign	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	news	news	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	agencies	agency	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	unanimously	unanimously	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	announced	announce	VERB	VBN	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	during	during	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=TIME|ent_id=3|ent_iob=B
+20	early	early	ADJ	JJ	_	21	amod	_	ent_type=TIME|ent_id=1|ent_iob=I
+21	hours	hour	NOUN	NNS	_	18	pobj	_	ent_type=TIME|ent_id=1|ent_iob=I
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	election	election	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	that	that	DET	WDT	_	30	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	turnout	turnout	NOUN	NN	_	28	compound	_	ent_type=_|ent_id=2|ent_iob=O
+28	rate	rate	NOUN	NN	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	would	would	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	be	be	AUX	VB	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	extraordinary	extraordinary	ADJ	JJ	_	30	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 6
+# text = They all said that unanimously.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+3	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	DT	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	unanimously	unanimously	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 6
+# text = I was following the news.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	following	follow	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	news	news	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 45
+# text = Apart from the personal observations that were reported to me by the people who had cast their votes, different news agencies and a number of foreign TV channels announced that the turnout was very high and that the voters were active and serious.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Apart	apart	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	from	from	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	personal	personal	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	observations	observation	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	were	be	AUX	VBD	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	reported	report	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	me	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	had	have	AUX	VBD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	cast	cast	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	votes	vote	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	different	different	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	news	news	NOUN	NN	_	22	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	agencies	agency	NOUN	NNS	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	number	number	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	foreign	foreign	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	TV	tv	NOUN	NN	_	29	compound	_	ent_type=_|ent_id=2|ent_iob=O
+29	channels	channel	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	announced	announce	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	that	that	SCONJ	IN	_	34	mark	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	turnout	turnout	NOUN	NN	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	was	be	AUX	VBD	_	30	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	very	very	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	high	high	ADJ	JJ	_	34	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	that	that	SCONJ	IN	_	41	mark	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	voters	voter	NOUN	NNS	_	41	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+41	were	be	AUX	VBD	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	active	active	ADJ	JJ	_	41	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	serious	serious	ADJ	JJ	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 15
+# text = Some foreign TV channels showed a large number of people standing in a line.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Some	some	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	foreign	foreign	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	TV	tv	NOUN	NN	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	channels	channel	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	showed	show	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	large	large	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	number	number	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	standing	stand	VERB	VBG	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	line	line	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 8
+# text = That is an honor for the country.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	honor	honor	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	country	country	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 9
+# text = We must not undermine or ruin this honor.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	undermine	undermine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	or	or	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	ruin	ruin	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	honor	honor	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 6
+# text = It belongs to the people.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	belongs	belong	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 38
+# text = The voters supporting the winning or losing sides - both the people who voted for the president-elect and those who voted for the other candidates - all played a role in creating this great epic.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	voters	voter	NOUN	NNS	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	supporting	support	VERB	VBG	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	winning	win	VERB	VBG	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	or	or	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	losing	lose	VERB	VBG	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	sides	side	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	both	both	CCONJ	CC	_	12	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	people	people	NOUN	NNS	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	voted	vote	VERB	VBD	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	president	president	PROPN	NNP	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	HYPH	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	elect	elect	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	those	those	DET	DT	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	who	who	PRON	WP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	voted	vote	VERB	VBD	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	other	other	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	candidates	candidate	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	all	all	DET	DT	_	12	appos	_	ent_type=_|ent_id=2|ent_iob=O
+30	played	play	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	a	a	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	role	role	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	in	in	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	creating	create	VERB	VBG	_	33	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	this	this	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	great	great	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	epic	epic	NOUN	NN	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 16
+# text = We must not disregard this unity, this comprehensive outlook, and this common view.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	disregard	disregard	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	unity	unity	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	comprehensive	comprehensive	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	outlook	outlook	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	common	common	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	view	view	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 9
+# text = We must not strip the nation of this.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	strip	strip	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 6
+# text = All people played a role.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	played	play	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	role	role	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 35
+# text = All of those who voted for Mr. Ahmadinejad, Mr. Mousavi, Mr. Karroubi, and Mr. Rezai played a role in creating this great epic, and the country is indebted to them.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	All	all	DET	DT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	those	those	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	voted	vote	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Mr.	Mr.	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Ahmadinejad	Ahmadinejad	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	Mr.	Mr.	PROPN	NNP	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	Mousavi	Mousavi	PROPN	NNP	_	1	appos	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	Mr.	Mr.	PROPN	NNP	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	Karroubi	Karroubi	PROPN	NNP	_	11	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	Mr.	Mr.	PROPN	NNP	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	Rezai	Rezai	PROPN	NNP	_	11	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	played	play	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	role	role	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	creating	create	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	great	great	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	epic	epic	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	country	country	NOUN	NN	_	32	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	is	be	AUX	VBZ	_	32	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	indebted	indebted	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	them	-PRON-	PRON	PRP	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 37
+# text = The Islamic Republic is truly indebted to the epic presence of the people in the election, the people who came and protected the Islamic Republic and the Revolution which both belong to the people themselves.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	6	nsubjpass	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	truly	truly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	indebted	indebted	ADJ	JJ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	epic	epic	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	presence	presence	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	election	election	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	6	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	came	come	VERB	VBD	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	protected	protect	VERB	VBD	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	Islamic	Islamic	PROPN	NNP	_	26	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+26	Republic	Republic	PROPN	NNP	_	23	dobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	Revolution	revolution	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	which	which	DET	WDT	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	both	both	DET	DT	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	belong	belong	VERB	VBP	_	26	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	people	people	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	themselves	-PRON-	PRON	PRP	_	35	appos	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 8
+# text = That is the view we must adopt.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	view	view	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	must	must	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	adopt	adopt	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 16
+# text = Of course I would admit both the winning and losing sides have to be considerate.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	admit	admit	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	both	both	CCONJ	CC	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	winning	win	VERB	VBG	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	losing	lose	VERB	VBG	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	sides	side	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VBP	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	be	be	AUX	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	considerate	considerate	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 26
+# text = The winning side that managed to win the majority of the votes has to take certain things into consideration and watch its moves and behavior.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	winning	win	VERB	VBG	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	side	side	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	managed	manage	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	win	win	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	majority	majority	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	votes	vote	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	take	take	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	certain	certain	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	things	thing	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	into	into	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	consideration	consideration	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	watch	watch	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	its	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	moves	move	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	behavior	behavior	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 18
+# text = Similarly, the side that did not win the majority of the votes has to be careful.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Similarly	similarly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	side	side	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	did	do	AUX	VBD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	win	win	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	majority	majority	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	votes	vote	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	careful	careful	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 5
+# text = Everybody must exercise patience.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	exercise	exercise	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	patience	patience	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 11
+# text = Islamic patience means the ability and capacity to bear something.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Islamic	islamic	ADJ	JJ	_	2	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+2	patience	patience	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	ability	ability	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	capacity	capacity	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	bear	bear	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	something	something	PRON	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 6
+# text = Everybody must have this capacity.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	capacity	capacity	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 28
+# text = It is not easy to develop the capacity to contain the joy of victory, and neither is it easy to develop the capacity to bear defeat.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	easy	easy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	develop	develop	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	capacity	capacity	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	contain	contain	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	joy	joy	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	victory	victory	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	neither	neither	CCONJ	CC	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	it	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	easy	easy	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	develop	develop	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	capacity	capacity	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	bear	bear	VERB	VB	_	24	acl	_	ent_type=_|ent_id=2|ent_iob=O
+27	defeat	defeat	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 17
+# text = Patience and the capacity to bear defeat and contain the joy of victory are human virtues.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Patience	patience	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	capacity	capacity	NOUN	NN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	bear	bear	VERB	VB	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	defeat	defeat	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	contain	contain	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	joy	joy	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	victory	victory	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	human	human	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	virtues	virtue	NOUN	NNS	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 15
+# text = We must promote this idea both among our elites and among the general public.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	promote	promote	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	idea	idea	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	both	both	DET	DT	_	7	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+7	among	among	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	elites	elite	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	among	among	ADP	IN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	general	general	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	public	public	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 22
+# text = Of course you, like me, have no doubt that there are some people who do not want this unity.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	me	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	no	no	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	doubt	doubt	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	there	there	PRON	EX	_	13	expl	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	some	some	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	do	do	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	want	want	VERB	VB	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	unity	unity	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 15
+# text = Some incidents happened here and there which were not related to a particular group.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Some	some	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	incidents	incident	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	happened	happen	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	here	here	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	there	there	PRON	EX	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	related	relate	VERB	VBN	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	particular	particular	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	group	group	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 21
+# text = Rather, these incidents were related to the individuals who are opposed to this unity and this show of grandeur.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Rather	rather	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	incidents	incident	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	were	be	AUX	VBD	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	related	relate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	individuals	individual	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	opposed	oppose	VERB	VBN	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	unity	unity	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	show	show	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	grandeur	grandeur	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 19
+# text = God willing, if I find the opportunity, I will talk more in this regard on Friday.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	God	God	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	willing	willing	ADJ	JJ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	find	find	VERB	VBP	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	opportunity	opportunity	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	talk	talk	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	more	more	ADV	RBR	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	regard	regard	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Friday	Friday	PROPN	NNP	_	17	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 15
+# text = There are some people who do not want to see these achievements of yours.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	do	do	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	want	want	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	see	see	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	these	these	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	achievements	achievement	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	yours	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 19
+# text = You all achieved success and victory in the recent election because you managed to strengthen your favorite government.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+3	achieved	achieve	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	success	success	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	victory	victory	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	recent	recent	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	election	election	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	because	because	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	you	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	managed	manage	VERB	VBD	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	strengthen	strengthen	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	favorite	favorite	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	government	government	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 5
+# text = All people are victorious.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	victorious	victorious	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 11
+# text = That is because they managed to manifest grandeur and dignity.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	managed	manage	VERB	VBD	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	manifest	manifest	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	grandeur	grandeur	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	dignity	dignity	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 13
+# text = There are some individuals who are dissatisfied with this state of affairs.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	individuals	individual	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	dissatisfied	dissatisfy	VERB	VBN	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	state	state	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	affairs	affair	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 12
+# text = Naturally, they tend to engage in vandalism and create problems.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Naturally	naturally	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	tend	tend	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	engage	engage	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	vandalism	vandalism	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	create	create	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	problems	problem	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 15
+# text = They act as a go-between among different people and often tell lies.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	act	act	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	go	go	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	between	between	NOUN	NN	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	among	among	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	different	different	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	often	often	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	tell	tell	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	lies	lie	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 30
+# text = As I receive reports from different places, I can see that some of the criticisms leveled at, or by, the incumbent administration go against the truth.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	As	as	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	receive	receive	VERB	VBP	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	reports	report	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	different	different	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	places	place	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	I	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	some	some	DET	DT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	criticisms	criticism	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	leveled	level	VERB	VBD	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	at	at	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	or	or	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADV	RB	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	incumbent	incumbent	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	administration	administration	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	go	go	VERB	VBP	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	against	against	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	truth	truth	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 22
+# text = It goes without saying that there are some people who do not want this unity to be promoted in the country.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	goes	go	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	without	without	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	saying	say	VERB	VBG	_	3	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	there	there	PRON	EX	_	7	expl	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	some	some	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	do	do	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	want	want	VERB	VB	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	unity	unity	NOUN	NN	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	promoted	promote	VERB	VBN	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	country	country	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 11
+# text = Of course these were the least malevolent of their actions.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	least	least	ADJ	JJS	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	malevolent	malevolent	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	actions	action	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 7
+# text = The vandalism you observed was worse.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	vandalism	vandalism	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	observed	observe	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	worse	bad	ADJ	JJR	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 18
+# text = Of course everybody must stand against these acts of vandalism and clarify their position in this regard.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	everybody	everybody	PRON	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	must	must	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	stand	stand	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	against	against	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	acts	act	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	vandalism	vandalism	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	clarify	clarify	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	position	position	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	regard	regard	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 6
+# text = Everybody must state their position.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	state	state	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	position	position	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 21
+# text = The people who gather in the streets to support one candidate or another are all part of the Iranian nation.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	gather	gather	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	streets	street	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	support	support	VERB	VB	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	one	one	NUM	CD	_	11	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	candidate	candidate	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	or	or	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	another	another	DET	DT	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	all	all	DET	DT	_	14	dep	_	ent_type=_|ent_id=2|ent_iob=O
+16	part	part	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Iranian	iranian	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	nation	nation	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 8
+# text = That is the view we must adopt.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	view	view	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	must	must	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	adopt	adopt	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 8
+# text = All people have the right to vote.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	right	right	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	vote	vote	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 18
+# text = Some people decide to vote for a particular candidate and some others vote for a different candidate.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Some	some	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	decide	decide	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	vote	vote	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	particular	particular	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	candidate	candidate	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	some	some	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	others	other	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	vote	vote	VERB	VBP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	different	different	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	candidate	candidate	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 17
+# text = Of course the rules of democracy stipulate that the majority should be preferred to the minority.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	rules	rule	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	democracy	democracy	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	stipulate	stipulate	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	majority	majority	NOUN	NN	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	preferred	prefer	VERB	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	minority	minority	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 17
+# text = That is to say, the person who receives the majority of the votes takes charge.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	person	person	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	receives	receive	VERB	VBZ	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	majority	majority	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	votes	vote	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	takes	take	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	charge	charge	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 9
+# text = That is what the rules of democracy stipulate.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	rules	rule	NOUN	NNS	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	democracy	democracy	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	stipulate	stipulate	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 10
+# text = However, this does not mean confrontation and enmity.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	does	do	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	mean	mean	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	confrontation	confrontation	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	enmity	enmity	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 11
+# text = You must all stand against the efforts to create enmity.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	stand	stand	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	against	against	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	efforts	effort	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	create	create	VERB	VB	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	enmity	enmity	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 15
+# text = That is not peculiar to a particular candidate, campaign office, or group.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	peculiar	peculiar	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	particular	particular	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	candidate	candidate	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	campaign	campaign	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	office	office	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	or	or	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	group	group	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 17
+# text = It is the duty of all people to oppose the efforts to create enmity and spite.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	duty	duty	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	oppose	oppose	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	efforts	effort	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	create	create	VERB	VB	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	enmity	enmity	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	spite	spite	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 16
+# text = Of course as you said, there may be some complaints regarding the electoral procedures.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	said	say	VERB	VBD	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	there	there	PRON	EX	_	9	expl	_	ent_type=_|ent_id=2|ent_iob=O
+8	may	may	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	some	some	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	complaints	complaint	NOUN	NNS	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	regarding	regard	VERB	VBG	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	electoral	electoral	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	procedures	procedure	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 11
+# text = Naturally, there are legal ways to settle such problems.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Naturally	naturally	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	legal	legal	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	ways	way	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	settle	settle	VERB	VB	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	such	such	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	problems	problem	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 7
+# text = These complaints must definitely be investigated.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	complaints	complaint	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	must	must	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	definitely	definitely	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	investigated	investigate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 7
+# text = You mentioned some of your complaints.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	mentioned	mention	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	complaints	complaint	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 19
+# text = I ask the officials at the Ministry of Interior and the Guardian Council to thoroughly investigate these complaints.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	ask	ask	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	officials	official	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	at	at	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	Ministry	Ministry	PROPN	NNP	_	5	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	of	of	ADP	IN	_	7	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	Interior	Interior	PROPN	NNP	_	8	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	Guardian	Guardian	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Council	Council	PROPN	NNP	_	7	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	thoroughly	thoroughly	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	investigate	investigate	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	these	these	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	complaints	complaint	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 17
+# text = It is alright if some of the complaints necessitate recounting a number of the ballot boxes.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	alright	alright	VERB	VBN	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	if	if	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	complaints	complaint	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	necessitate	necessitate	VERB	VBP	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	recounting	recount	VERB	VBG	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	number	number	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	ballot	ballot	NOUN	NN	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	boxes	box	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 32
+# text = The gentlemen pointed out that a particular person had announced a candidate had won a certain number of votes, but that after counting the votes a different number was announced.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	gentlemen	gentleman	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	out	out	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	particular	particular	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	person	person	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	had	have	AUX	VBD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	announced	announce	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	candidate	candidate	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	had	have	AUX	VBD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	won	win	VERB	VBN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	certain	certain	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	number	number	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	votes	vote	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	but	but	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	after	after	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	counting	count	VERB	VBG	_	23	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	votes	vote	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	different	different	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	number	number	NOUN	NN	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	was	be	AUX	VBD	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	announced	announce	VERB	VBN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 5
+# text = That is no problem.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	problem	problem	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 8
+# text = The problematic ballot boxes can be recounted.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	problematic	problematic	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	ballot	ballot	NOUN	NN	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	boxes	box	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	recounted	recount	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 25
+# text = Or a random recount could be conducted in the presence of the representatives of the campaign offices to remove all doubts about the results.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	random	random	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	recount	recount	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	could	could	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	conducted	conduct	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	presence	presence	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	representatives	representative	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	campaign	campaign	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	offices	office	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	remove	remove	VERB	VB	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	all	all	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	doubts	doubt	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	about	about	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	results	result	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 38
+# text = The acts of vandalism that are being carried out, the unacceptable things that are being done, and the crimes that are being committed on some occasions are not related to the winning or losing sides.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	acts	act	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	vandalism	vandalism	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	being	be	AUX	VBG	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	carried	carry	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	out	out	ADP	RP	_	8	prt	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	unacceptable	unacceptable	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	things	thing	NOUN	NNS	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	being	be	AUX	VBG	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	done	do	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	crimes	crime	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	DET	WDT	_	25	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	are	be	AUX	VBP	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	being	be	AUX	VBG	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	committed	commit	VERB	VBN	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	on	on	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	some	some	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	occasions	occasion	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	are	be	AUX	VBP	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	not	not	PART	RB	_	31	neg	_	ent_type=_|ent_id=2|ent_iob=O
+31	related	relate	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	winning	win	VERB	VBG	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	or	or	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	losing	lose	VERB	VBG	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	sides	side	NOUN	NNS	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 8
+# text = They are not related to the people.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	related	relate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 8
+# text = They are not related to the candidates.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	related	relate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	candidates	candidate	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 11
+# text = They are related to the vandals, to the rioters.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	related	relate	VERB	VBN	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	vandals	vandal	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	rioters	rioter	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 20
+# text = It is a big mistake to imagine that these acts are related to the supports of a particular candidate.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	big	big	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	mistake	mistake	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	imagine	imagine	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	acts	act	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	related	relate	VERB	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	supports	support	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	particular	particular	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	candidate	candidate	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 6
+# text = That is not the case.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 14
+# text = These people are like the people who create conflicts between Shia and Sunni.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	create	create	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	conflicts	conflict	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	between	between	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Shia	Shia	PROPN	NNP	_	10	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	Sunni	Sunni	PROPN	NNP	_	11	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 13
+# text = And I have constantly said that they are neither Sunni nor Shia.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	constantly	constantly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	said	say	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	neither	neither	DET	DT	_	10	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+10	Sunni	Sunni	PROPN	NNP	_	8	attr	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	nor	nor	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	Shia	Shia	PROPN	NNP	_	10	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 10
+# text = They provoke Shia against Sunni and Sunni against Shia.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	provoke	provoke	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Shia	Shia	PROPN	NNP	_	2	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+4	against	against	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Sunni	Sunni	PROPN	NNP	_	4	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	Sunni	Sunni	PROPN	NNP	_	5	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	against	against	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Shia	Shia	PROPN	NNP	_	8	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 15
+# text = And regarding the unity of our great society, the situation is the same.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	And	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	regarding	regard	VERB	VBG	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	unity	unity	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	society	society	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	situation	situation	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	same	same	ADJ	JJ	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 20
+# text = Those who pitch the winning and losing sides of the election against each other support none of these sides.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Those	those	DET	DT	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	pitch	pitch	VERB	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	winning	win	VERB	VBG	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	losing	lose	VERB	VBG	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	sides	side	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	election	election	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	against	against	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	each	each	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	other	other	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	support	support	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	none	none	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	these	these	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	sides	side	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 20
+# text = They do certain things to make it appear they support a particular candidate while they actually support no one.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	certain	certain	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	things	thing	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	make	make	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	it	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	appear	appear	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	support	support	VERB	VBP	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	particular	particular	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	candidate	candidate	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	while	while	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	actually	actually	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	support	support	VERB	VBP	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	no	no	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	one	one	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 12
+# text = These people are opposed to the Islamic Republic and national peace.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	opposed	oppose	VERB	VBN	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	national	national	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	peace	peace	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 9
+# text = They support vandalism and want to destroy peace.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	support	support	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	vandalism	vandalism	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	want	want	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	destroy	destroy	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	peace	peace	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 37
+# text = If the result of the election had been different and if someone else had been elected, I would say with certainty that such events would still have been planned in order to destroy national peace.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	If	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	result	result	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	election	election	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	had	have	AUX	VBD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	different	different	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	if	if	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	someone	someone	PRON	NN	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	else	else	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	had	have	AUX	VBD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	been	be	AUX	VBN	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	elected	elect	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	I	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	would	would	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	say	say	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	with	with	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	certainty	certainty	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	30	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	such	such	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	events	event	NOUN	NNS	_	30	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	would	would	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	still	still	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	have	have	AUX	VB	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	been	be	AUX	VBN	_	30	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	planned	plan	VERB	VBN	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	in	in	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	order	order	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	destroy	destroy	VERB	VB	_	32	acl	_	ent_type=_|ent_id=2|ent_iob=O
+35	national	national	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	peace	peace	NOUN	NN	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 121
+# sent_len = 8
+# text = They have targeted national peace and security.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	targeted	target	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	national	national	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	peace	peace	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	security	security	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 122
+# sent_len = 8
+# text = These are what they want to destroy.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	want	want	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	destroy	destroy	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 123
+# sent_len = 15
+# text = Nobody must help increase this vandalism, and everybody must explicitly express their position.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Nobody	nobody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	increase	increase	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	vandalism	vandalism	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	everybody	everybody	PRON	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	must	must	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	explicitly	explicitly	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	express	express	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	position	position	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 124
+# sent_len = 13
+# text = Certainly, your real position is not in line with this vandalism.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Certainly	certainly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	your	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	real	real	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	position	position	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	line	line	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	vandalism	vandalism	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 125
+# sent_len = 6
+# text = Everybody must clarify their position.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	clarify	clarify	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	position	position	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 126
+# sent_len = 12
+# text = Everybody must clearly state that this is not what they want.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Everybody	everybody	PRON	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	clearly	clearly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	state	state	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	what	what	PRON	WP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	want	want	VERB	VBP	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 127
+# sent_len = 10
+# text = Everybody must avoid doing anything that may cause turbulence.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	avoid	avoid	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	doing	do	VERB	VBG	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	anything	anything	PRON	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	may	may	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	cause	cause	VERB	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	turbulence	turbulence	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 128
+# sent_len = 12
+# text = That is to say, we must not enrage each other.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	must	must	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	enrage	enrage	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	each	each	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 129
+# sent_len = 20
+# text = Now I would like to take this opportunity to address the people who are not among you dear brothers.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Now	now	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	take	take	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	opportunity	opportunity	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	address	address	VERB	VB	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	people	people	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	among	among	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	you	-PRON-	PRON	PRP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	dear	dear	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	brothers	brother	NOUN	NNS	_	14	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 130
+# sent_len = 18
+# text = I would like to address them as well - if my speech is broadcast to them later.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	address	address	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	well	well	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	if	if	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	my	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	speech	speech	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	broadcast	broadcast	VERB	VBN	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	them	-PRON-	PRON	PRP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	later	later	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 131
+# sent_len = 17
+# text = I would advise the supporters of the winning and losing sides not to enrage each other.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	advise	advise	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	supporters	supporter	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	winning	win	VERB	VBG	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	losing	lose	VERB	VBG	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	sides	side	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	enrage	enrage	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	each	each	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	other	other	ADJ	JJ	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 132
+# sent_len = 29
+# text = The people whose candidate has won must not make the supporters of the losing candidates angry and hurt their feelings by acting or talking in a particular way.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	whose	whose	DET	WP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	candidate	candidate	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	won	win	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	must	must	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	supporters	supporter	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	losing	lose	VERB	VBG	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	candidates	candidate	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	angry	angry	ADJ	JJ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	hurt	hurt	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	feelings	feeling	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	acting	act	VERB	VBG	_	21	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	or	or	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	talking	talk	VERB	VBG	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	particular	particular	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	way	way	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 133
+# sent_len = 30
+# text = Similarly, the people whose candidate has not won enough number of votes must not talk or act in a way to enrage the supporters of the other side.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Similarly	similarly	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	whose	whose	DET	WP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	candidate	candidate	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	won	win	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	enough	enough	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	number	number	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	votes	vote	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	must	must	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	talk	talk	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	or	or	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	act	act	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	way	way	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	enrage	enrage	VERB	VB	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	supporters	supporter	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	other	other	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	side	side	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 134
+# sent_len = 20
+# text = You are all moving in the same direction: Presence in the election and protection of the Islamic Republic.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	moving	move	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	same	same	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	direction	direction	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	Presence	presence	NOUN	NN	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	election	election	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	protection	protection	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	Islamic	Islamic	PROPN	NNP	_	19	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	Republic	Republic	PROPN	NNP	_	16	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 135
+# sent_len = 8
+# text = That is the essence of the issue.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	essence	essence	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	issue	issue	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 136
+# sent_len = 21
+# text = That is what will please the Imam of the Age (may our souls be sacrificed for his sake).
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	please	please	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	Imam	Imam	PROPN	NNP	_	5	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	of	of	ADP	IN	_	7	prep	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	the	the	DET	DT	_	10	det	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	Age	Age	PROPN	NNP	_	8	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	(	(	PUNCT	-LRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	may	may	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	souls	soul	NOUN	NNS	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	be	be	AUX	VB	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	sacrificed	sacrifice	VERB	VBN	_	2	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	his	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	sake	sake	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	)	)	PUNCT	-RRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 137
+# sent_len = 13
+# text = That is what will hopefully result in divine grace for this country.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	hopefully	hopefully	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	result	result	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	divine	divine	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	grace	grace	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 138
+# sent_len = 10
+# text = I think that is the right thing to do.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	think	think	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	right	right	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	thing	thing	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	do	do	AUX	VB	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 139
+# sent_len = 9
+# text = I hope Allah the Exalted will help us.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	help	help	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	us	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 140
+# sent_len = 12
+# text = I feel it was my duty to tell you these things.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	feel	feel	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	my	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	duty	duty	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	tell	tell	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	8	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	things	thing	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 141
+# sent_len = 18
+# text = As I said, I personally know almost all of you, and I know your record.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	As	as	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	said	say	VERB	VBD	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	personally	personally	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	almost	almost	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	DT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	I	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	know	know	VERB	VBP	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	record	record	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 142
+# sent_len = 23
+# text = It occurred to me that it was good to talk to you like this and that it was necessary to meet you.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	occurred	occur	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	me	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	it	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	good	good	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	talk	talk	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	you	-PRON-	PRON	PRP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	like	like	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	it	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	was	be	AUX	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	necessary	necessary	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	meet	meet	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	you	-PRON-	PRON	PRP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 143
+# sent_len = 10
+# text = It was my duty to tell you these things.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	my	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	duty	duty	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	tell	tell	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	6	dative	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	things	thing	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 144
+# sent_len = 20
+# text = I feel today we all have a responsibility to defend the collective identity of this country and this nation.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	feel	feel	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	today	today	NOUN	NN	_	2	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	DET	DT	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	responsibility	responsibility	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	defend	defend	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	collective	collective	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	identity	identity	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	country	country	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	nation	nation	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 145
+# sent_len = 30
+# text = A very large group of people [the Iranian nation] have taken on this heavy responsibility and continued this great and brave movement throughout the last 30 years.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	A	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	very	very	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	large	large	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	group	group	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	[	[	PUNCT	-LRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iranian	iranian	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	nation	nation	NOUN	NN	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+11	]	]	PUNCT	-RRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	taken	take	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	RP	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	heavy	heavy	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	responsibility	responsibility	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	continued	continue	VERB	VBD	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	great	great	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	brave	brave	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	movement	movement	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	throughout	throughout	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	29	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+27	last	last	ADJ	JJ	_	29	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	30	30	NUM	CD	_	29	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+29	years	year	NOUN	NNS	_	25	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+30	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 146
+# sent_len = 11
+# text = You must not allow this group to lose its unity.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	group	group	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	lose	lose	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	its	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	unity	unity	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 147
+# sent_len = 14
+# text = You must not let the members of this group turn against one another.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	members	member	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	group	group	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	turn	turn	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	against	against	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	another	another	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 148
+# sent_len = 14
+# text = Each and every one of you will do this in a particular way.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Each	each	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	every	every	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	1	conj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	do	do	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	particular	particular	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	way	way	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 149
+# sent_len = 5
+# text = May God help you.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	May	May	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 150
+# sent_len = 18
+# text = May God guide us all so that we can fulfill this responsibility in the best possible way.
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	May	May	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	guide	guide	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	us	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	DET	DT	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+6	so	so	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	fulfill	fulfill	VERB	VB	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	responsibility	responsibility	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	best	good	ADJ	JJS	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	possible	possible	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	way	way	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 151
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address to Presidential Candidates' Representatives
+# year = 2009
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

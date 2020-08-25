@@ -1,0 +1,969 @@
+# sent_id = 1
+# sent_len = 34
+# text = This meeting and presence among athletes and champions, who are the symbol of strength, liveliness and perseverance of our young generation, is a very pleasant and special occasion for me.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	meeting	meeting	NOUN	NN	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	presence	presence	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	among	among	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	athletes	athlete	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	champions	champion	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	symbol	symbol	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	strength	strength	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	liveliness	liveliness	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	perseverance	perseverance	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	young	young	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	generation	generation	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	very	very	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	pleasant	pleasant	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	special	special	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	occasion	occasion	NOUN	NN	_	25	attr	_	ent_type=_|ent_id=2|ent_iob=O
+32	for	for	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	me	-PRON-	PRON	PRP	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 23
+# text = I like athletes who are active in all fields of sports, but I have a special liking for the sports champions.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	like	like	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	athletes	athlete	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	active	active	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	fields	field	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	sports	sport	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	I	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	special	special	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	liking	liking	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	sports	sport	NOUN	NNS	_	22	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	champions	champion	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 16
+# text = One reason for this special liking is that their victory reflects honor on our nation.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	One	one	NUM	CD	_	2	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	reason	reason	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	special	special	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	liking	liking	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	victory	victory	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	reflects	reflect	VERB	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	honor	honor	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	nation	nation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 8
+# text = But there are also other reasons involved.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	there	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	other	other	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	reasons	reason	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	involved	involve	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 42
+# text = The fact is that physical strength by itself is not enough for an athlete to achieve success and win the title in a sporting competition, but that there are also other factors that play a significant role in this victory.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	DT	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	physical	physical	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	strength	strength	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	itself	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	enough	enough	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	an	an	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	athlete	athlete	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	achieve	achieve	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	success	success	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	win	win	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	title	title	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	sporting	sporting	NOUN	NN	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	competition	competition	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	but	but	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	SCONJ	IN	_	30	mark	_	ent_type=_|ent_id=2|ent_iob=O
+29	there	there	PRON	EX	_	30	expl	_	ent_type=_|ent_id=2|ent_iob=O
+30	are	be	AUX	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	also	also	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	other	other	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	factors	factor	NOUN	NNS	_	30	attr	_	ent_type=_|ent_id=2|ent_iob=O
+34	that	that	DET	WDT	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	play	play	VERB	VBP	_	33	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	a	a	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	significant	significant	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	role	role	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	in	in	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	this	this	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	victory	victory	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 10
+# text = Among these factors is a strong will and determination.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Among	among	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	factors	factor	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	strong	strong	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	determination	determination	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 12
+# text = Doing physical exercise and persevering with it in itself needs determination.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Doing	do	VERB	VBG	_	10	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	physical	physical	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	exercise	exercise	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	persevering	persevere	VERB	VBG	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	it	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	itself	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	needs	need	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	determination	determination	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 25
+# text = Besides, if an athlete aims to become a champion, his will and determination should be much stronger than that of his rivals.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Besides	besides	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	athlete	athlete	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	aims	aim	VERB	VBZ	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	become	become	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	champion	champion	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	his	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	will	will	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	determination	determination	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	should	should	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	much	much	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	stronger	strong	ADJ	JJR	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	than	than	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	DT	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	his	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	rivals	rival	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 33
+# text = Therefore, the role of will and resolve in becoming a champion should not be disregarded, and a champion is respected and held in high esteem because of his superior determination.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	role	role	NOUN	NN	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	resolve	resolve	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	becoming	become	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	champion	champion	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	should	should	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	be	be	AUX	VB	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	disregarded	disregard	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	champion	champion	NOUN	NN	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	respected	respect	VERB	VBN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	held	hold	VERB	VBN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	high	high	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	esteem	esteem	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	because	because	SCONJ	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	his	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	superior	superior	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	determination	determination	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 38
+# text = In general, having a strong will is a great privilege, because it is what makes nations achieve progress and development, and it is what paves the way for the advance of science and technology.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	general	general	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	having	have	VERB	VBG	_	8	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	strong	strong	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	NOUN	NN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	great	great	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	privilege	privilege	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	because	because	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	it	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	what	what	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	makes	make	VERB	VBZ	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	nations	nation	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	achieve	achieve	VERB	VB	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	progress	progress	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	development	development	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	it	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	is	be	AUX	VBZ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	what	what	PRON	WP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	paves	pave	VERB	VBZ	_	26	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	way	way	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	for	for	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	advance	advance	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	science	science	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	technology	technology	NOUN	NN	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 14
+# text = Another prominent feature of a champion is his intelligence and quickness of response.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Another	another	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	prominent	prominent	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	feature	feature	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	champion	champion	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	his	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	intelligence	intelligence	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	quickness	quickness	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	response	response	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 15
+# text = Surely, without this feature no athlete would be able to win the title.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Surely	surely	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	without	without	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	feature	feature	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	no	no	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	athlete	athlete	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	would	would	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	able	able	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	win	win	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	title	title	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 24
+# text = Fortunately, the Iranian athletes and champions are also characterized by one more major characteristic, namely spirituality and reliance on Almighty Allah.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Fortunately	fortunately	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iranian	iranian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	athletes	athlete	NOUN	NNS	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	champions	champion	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	also	also	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	characterized	characterize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NUM	CD	_	15	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+13	more	more	ADJ	JJR	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	major	major	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	characteristic	characteristic	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	namely	namely	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	spirituality	spirituality	NOUN	NN	_	15	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	reliance	reliance	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Almighty	Almighty	PROPN	NNP	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	Allah	Allah	PROPN	NNP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 22
+# text = This outstanding feature is unique to our athletes, and it is the characteristic that makes them distinguished in the world.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	outstanding	outstanding	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	feature	feature	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	unique	unique	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	athletes	athlete	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	characteristic	characteristic	ADJ	JJ	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	makes	make	VERB	VBZ	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	them	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	distinguished	distinguish	VERB	VBN	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	world	world	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 39
+# text = Indeed, adherence to spiritual values and religious beliefs infuses a person with vitality and lofty aspirations and helps him to attain proximity to the Almighty in all areas of life, including in the field of sports.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Indeed	indeed	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	adherence	adherence	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	spiritual	spiritual	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	values	value	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	religious	religious	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	beliefs	belief	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	infuses	infuse	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	person	person	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	vitality	vitality	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	lofty	lofty	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	aspirations	aspiration	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	helps	help	VERB	VBZ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	him	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	attain	attain	VERB	VB	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	proximity	proximity	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Almighty	Almighty	PROPN	NNP	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	all	all	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	areas	area	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	life	life	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	including	include	VERB	VBG	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	field	field	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	sports	sport	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 4
+# text = My dear ones!
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	My	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	ones	one	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 8
+# text = Try to keep these spiritual values alive.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	PART	TO	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	keep	keep	VERB	VB	_	1	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	spiritual	spiritual	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	values	value	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	alive	alive	ADJ	JJ	_	3	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 38
+# text = You just heard this lady, who said that the proper Islamic covering and dignity of the female Iranian athletes has also encouraged female athletes from other Islamic countries to observe Islamic dress code in sporting competitions.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	just	just	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	heard	hear	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	lady	lady	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	said	say	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	proper	proper	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islamic	islamic	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	covering	covering	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	dignity	dignity	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	female	female	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	Iranian	iranian	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	athletes	athlete	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	has	have	AUX	VBZ	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	also	also	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	encouraged	encourage	VERB	VBN	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	female	female	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	athletes	athlete	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	other	other	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	Islamic	islamic	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	countries	country	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	observe	observe	VERB	VB	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	Islamic	islamic	ADJ	JJ	_	34	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	dress	dress	NOUN	NN	_	34	compound	_	ent_type=_|ent_id=2|ent_iob=O
+34	code	code	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	sporting	sporting	NOUN	NN	_	35	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	competitions	competition	NOUN	NNS	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 46
+# text = As regards the participation of Iranian women in different sports activities, I believe more sports facilities should be provided for women, and the relevant officials should make more efforts to pave the way for the participation of women in different fields of sports.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	participation	participation	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	women	woman	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	different	different	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	sports	sport	NOUN	NNS	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	activities	activity	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	I	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	more	more	ADJ	JJR	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	sports	sport	NOUN	NNS	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	facilities	facility	NOUN	NNS	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	should	should	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	be	be	AUX	VB	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	provided	provide	VERB	VBN	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	for	for	ADP	IN	_	20	dative	_	ent_type=_|ent_id=2|ent_iob=O
+22	women	woman	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	relevant	relevant	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	officials	official	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	should	should	VERB	MD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	make	make	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	more	more	ADJ	JJR	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	efforts	effort	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	PART	TO	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	pave	pave	VERB	VB	_	31	acl	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	way	way	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	for	for	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	participation	participation	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	women	woman	NOUN	NNS	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	different	different	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	fields	field	NOUN	NNS	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	of	of	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	sports	sport	NOUN	NNS	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 25
+# text = Taking physical exercise and engagement in sports activities are conducive to physical health, and they also make a person feel lively and cheerful.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Taking	take	VERB	VBG	_	9	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	physical	physical	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	exercise	exercise	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	engagement	engagement	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	sports	sport	NOUN	NNS	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	activities	activity	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	conducive	conducive	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	physical	physical	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	health	health	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	also	also	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	make	make	VERB	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	person	person	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	feel	feel	VERB	VB	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	lively	lively	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	cheerful	cheerful	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 16
+# text = Therefore, they should be promoted among the public, including both men and women.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	promoted	promote	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	among	among	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	public	public	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	including	include	VERB	VBG	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	both	both	CCONJ	CC	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	men	man	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	women	woman	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 22
+# text = Besides popularizing sports activities, the government should also allocate the necessary budget for this purpose and remove the related obstacles.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Besides	besides	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	popularizing	popularize	VERB	VBG	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	sports	sport	NOUN	NNS	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	activities	activity	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	government	government	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	also	also	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	allocate	allocate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	necessary	necessary	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	budget	budget	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	purpose	purpose	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	remove	remove	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	related	related	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	obstacles	obstacle	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 23
+# text = Finally, it should be noted that the champions shoulder a heavy responsibility, since they are role models for our youngsters.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Finally	finally	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	noted	note	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	champions	champion	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	shoulder	shoulder	VERB	VBP	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	heavy	heavy	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	responsibility	responsibility	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	since	since	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	they	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	role	role	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	models	model	NOUN	NNS	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	for	for	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	youngsters	youngster	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 25
+# text = Thus, they should act and behave in such a manner that the youngsters who imitate them would be led on the right path.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Thus	thus	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	act	act	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	behave	behave	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	such	such	DET	PDT	_	11	predet	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	manner	manner	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	youngsters	youngster	NOUN	NNS	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	imitate	imitate	VERB	VBP	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	them	-PRON-	PRON	PRP	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	would	would	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	be	be	AUX	VB	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	led	lead	VERB	VBN	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	right	right	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	path	path	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 15
+# text = Indeed, some qualities and characteristics of our champions are really of great value.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Indeed	indeed	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	qualities	quality	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	characteristics	characteristic	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	champions	champion	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	really	really	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	great	great	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	value	value	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 46
+# text = For instance, when our champions reject the invitation of foreign countries, which are willing to pay them considerable amounts of money, and refuse to turn their back on their own country, I believe this is worthy of great praise and admiration.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	For	for	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	instance	instance	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	when	when	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	champions	champion	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	reject	reject	VERB	VBP	_	37	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	invitation	invitation	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	foreign	foreign	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	countries	country	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	willing	willing	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	pay	pay	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	them	-PRON-	PRON	PRP	_	18	dative	_	ent_type=_|ent_id=2|ent_iob=O
+20	considerable	considerable	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	amounts	amount	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	money	money	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	refuse	refuse	VERB	VBP	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	turn	turn	VERB	VB	_	26	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	back	back	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	on	on	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	their	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	own	own	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	country	country	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	I	-PRON-	PRON	PRP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+38	this	this	DET	DT	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	is	be	AUX	VBZ	_	37	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	worthy	worthy	ADJ	JJ	_	39	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	great	great	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	praise	praise	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	admiration	admiration	NOUN	NN	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 41
+# text = Thank God our champions not only adhere to spiritual values and religious beliefs, not only have remarkable physical strength and intelligence as well as a strong will and determination, but they also have a praiseworthy sense of patriotism.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	champions	champion	NOUN	NNS	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	7	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+6	only	only	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	adhere	adhere	VERB	VBD	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	spiritual	spiritual	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	values	value	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	religious	religious	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	beliefs	belief	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	only	only	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VBP	_	7	dep	_	ent_type=_|ent_id=2|ent_iob=O
+18	remarkable	remarkable	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	physical	physical	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	strength	strength	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	intelligence	intelligence	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	as	as	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	well	well	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	as	as	SCONJ	IN	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	strong	strong	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	will	will	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	determination	determination	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	but	but	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	they	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	also	also	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	have	have	AUX	VBP	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	a	a	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	praiseworthy	praiseworthy	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	sense	sense	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	patriotism	patriotism	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 17
+# text = It is these qualities that make us express a deep and special liking for our champions.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	qualities	quality	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	make	make	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	us	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	express	express	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	deep	deep	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	special	special	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	liking	liking	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	champions	champion	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 9
+# text = Well, we had a very pleasant meeting.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Well	well	INTJ	UH	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	very	very	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	pleasant	pleasant	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	meeting	meeting	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 16
+# text = It also gave me great pleasure to meet many of you here at this gathering.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	gave	give	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	me	-PRON-	PRON	PRP	_	3	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	pleasure	pleasure	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	meet	meet	VERB	VB	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	many	many	ADJ	JJ	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	here	here	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	at	at	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	gathering	gathering	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 21
+# text = I pray to Almighty Allah to bestow on you His grace and guidance as well as further achievements and success.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	His	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	grace	grace	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	guidance	guidance	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	well	well	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	as	as	SCONJ	IN	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	further	further	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	achievements	achievement	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	success	success	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 35
+# text = I also pray that the Commander of the Faithful (greetings be upon him) and other immaculate Imams will assist you in all areas of life, including in the field of sports.
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Commander	Commander	PROPN	NNP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Faithful	faithful	ADJ	JJ	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	(	(	PUNCT	-LRB-	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	greetings	greeting	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	6	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+13	upon	upon	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	him	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	)	)	PUNCT	-RRB-	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	other	other	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	immaculate	immaculate	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	Imams	Imams	PROPN	NNP	_	6	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	assist	assist	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	you	-PRON-	PRON	PRP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	all	all	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	areas	area	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	life	life	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	including	include	VERB	VBG	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	field	field	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	sports	sport	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address to Sports Champions
+# year = 2003
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

@@ -1,0 +1,1519 @@
+# sent_id = 1
+# sent_len = 50
+# text = I express my felicitations over the Week of Law Enforcement Force to every member of the LEF staff, especially to you, the dear cadets who have just graduated, and to your honorable instructors and commanding officers of different ranks, and to the esteemed LEF Commander.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	express	express	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	my	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	felicitations	felicitation	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	over	over	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	Week	Week	PROPN	NNP	_	5	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	of	of	ADP	IN	_	7	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	Law	Law	PROPN	NNP	_	11	compound	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	Enforcement	Enforcement	PROPN	NNP	_	11	compound	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	Force	Force	PROPN	NNP	_	8	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	every	every	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	member	member	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	LEF	LEF	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	staff	staff	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	especially	especially	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	you	-PRON-	PRON	PRP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	dear	dear	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	cadets	cadet	NOUN	NNS	_	22	appos	_	ent_type=_|ent_id=2|ent_iob=O
+27	who	who	PRON	WP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	have	have	AUX	VBP	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	just	just	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	graduated	graduate	VERB	VBN	_	26	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	ADP	IN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	your	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	honorable	honorable	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	instructors	instructor	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	commanding	command	VERB	VBG	_	33	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	officers	officer	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	different	different	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	ranks	rank	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	to	to	ADP	IN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	esteemed	esteem	VERB	VBN	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	LEF	LEF	PROPN	NNP	_	49	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+49	Commander	Commander	PROPN	NNP	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 16
+# text = I hope the week and the occasion will also prove auspicious for the Iranian nation.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	week	week	NOUN	NN	_	2	dobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	occasion	occasion	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	also	also	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	prove	prove	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	auspicious	auspicious	ADJ	JJ	_	10	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iranian	iranian	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	nation	nation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 30
+# text = One of the major duties of the LEF personnel is to maintain order and security in society, which are quite essential for the ordinary life of every citizen.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	One	one	NUM	CD	_	10	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	major	major	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	duties	duty	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	LEF	LEF	PROPN	NNP	_	9	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	personnel	personnel	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	maintain	maintain	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	order	order	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	security	security	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	society	society	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	which	which	DET	WDT	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	quite	quite	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	essential	essential	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	ordinary	ordinary	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	life	life	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	every	every	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	citizen	citizen	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 33
+# text = As regards the great divine blessings bestowed on the people, Almighty Allah says in the Holy Qur'an: "Who feeds them against hunger and gives them security against fear."
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	divine	divine	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	blessings	blessing	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestowed	bestow	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Almighty	Almighty	PROPN	NNP	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	Allah	Allah	PROPN	NNP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	says	say	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Holy	Holy	PROPN	NNP	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	Qur'an	Qur'an	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	:	:	PUNCT	:	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	``	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	Who	who	PRON	WP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	feeds	feed	VERB	VBZ	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	against	against	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	hunger	hunger	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	gives	give	VERB	VBZ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	them	-PRON-	PRON	PRP	_	27	dative	_	ent_type=_|ent_id=2|ent_iob=O
+29	security	security	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	against	against	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	fear	fear	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	"	"	PUNCT	''	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 5
+# text = (106: 4)
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	(	(	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	106	106	NUM	CD	_	0	ROOT	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	:	:	SYM	SYM	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	4	4	X	LS	_	2	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+5	)	)	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 30
+# text = It is clear from this verse that hunger and insecurity are harmful to society, and that efforts should be made to maintain security and eradiate hunger from society.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	clear	clear	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	verse	verse	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	DT	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	hunger	hunger	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	insecurity	insecurity	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	harmful	harmful	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	society	society	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	efforts	effort	NOUN	NNS	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	made	make	VERB	VBN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	maintain	maintain	VERB	VB	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	security	security	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	eradiate	eradiate	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	hunger	hunger	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	from	from	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	society	society	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 42
+# text = Fortunately, the Law Enforcement Force has made considerable progress with respect to organization and discipline, applying modern methods, establishing cordial ties with the public and deciding on its priorities, and this progress is a cause of pleasure.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Fortunately	fortunately	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	Law	Law	PROPN	NNP	_	6	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+5	Enforcement	Enforcement	PROPN	NNP	_	6	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	Force	Force	PROPN	NNP	_	8	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	considerable	considerable	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	progress	progress	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	respect	respect	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	organization	organization	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	discipline	discipline	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	applying	apply	VERB	VBG	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	modern	modern	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	methods	method	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	establishing	establish	VERB	VBG	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	cordial	cordial	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	ties	tie	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	with	with	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	public	public	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	deciding	decide	VERB	VBG	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	on	on	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	its	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	priorities	priority	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	this	this	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	progress	progress	NOUN	NN	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	is	be	AUX	VBZ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	a	a	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	cause	cause	NOUN	NN	_	37	attr	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	pleasure	pleasure	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 49
+# text = Indeed, when there is a correct attitude toward the issue of order and security and when this attitude is accompanied by strong management, appropriate scientific planning and incessant efforts, the outcome will be pleasant for the nation and bring honor to the Law Enforcement Force.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Indeed	indeed	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	when	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	there	there	PRON	EX	_	5	expl	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	36	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	correct	correct	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	attitude	attitude	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	toward	toward	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	issue	issue	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	order	order	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	security	security	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	when	when	ADV	WRB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	attitude	attitude	NOUN	NN	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	accompanied	accompany	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	21	agent	_	ent_type=_|ent_id=2|ent_iob=O
+23	strong	strong	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	management	management	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	appropriate	appropriate	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	scientific	scientific	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	planning	planning	NOUN	NN	_	31	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	incessant	incessant	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	efforts	effort	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	outcome	outcome	NOUN	NN	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	will	will	VERB	MD	_	36	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+37	pleasant	pleasant	ADJ	JJ	_	36	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	for	for	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	nation	nation	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	bring	bring	VERB	VB	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	honor	honor	NOUN	NN	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	to	to	ADP	IN	_	42	dative	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	48	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+46	Law	Law	PROPN	NNP	_	48	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+47	Enforcement	Enforcement	PROPN	NNP	_	48	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+48	Force	Force	PROPN	NNP	_	44	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+49	.	.	PUNCT	.	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 18
+# text = Fortunately, today we can see that the LEF is observing these important criteria in its performance.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Fortunately	fortunately	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	LEF	LEF	PROPN	NNP	_	11	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	is	be	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	observing	observe	VERB	VBG	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	these	these	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	important	important	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	criteria	criterion	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	its	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	performance	performance	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 30
+# text = Although the progress that has already been made by the force is quite encouraging, we believe that the LEF is capable of making further progress and greater improvement.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Although	although	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	progress	progress	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	already	already	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	made	make	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	force	force	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	quite	quite	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	encouraging	encouraging	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	we	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	LEF	LEF	PROPN	NNP	_	21	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	is	be	AUX	VBZ	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	capable	capable	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	making	make	VERB	VBG	_	23	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	further	further	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	progress	progress	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	greater	great	ADJ	JJR	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	improvement	improvement	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 36
+# text = We are grateful to the Almighty that the Iranian people are talented, creative, dynamic and capable of making great progress, as they have proved this in different areas and spheres of activities.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	grateful	grateful	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Almighty	Almighty	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iranian	iranian	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	people	people	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	talented	talented	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	creative	creative	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	dynamic	dynamic	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	capable	capable	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	making	make	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	great	great	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	progress	progress	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	as	as	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+25	they	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	have	have	AUX	VBP	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	proved	prove	VERB	VBN	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	this	this	DET	DT	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	different	different	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	areas	area	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	spheres	sphere	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	activities	activity	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 18
+# text = The present condition of the LEF is by no means comparable with its condition in the past.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	present	present	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	condition	condition	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	LEF	LEF	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	no	no	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	means	mean	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	comparable	comparable	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	its	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	condition	condition	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	past	past	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 9
+# text = This indicates the progress that has been made.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	indicates	indicate	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	progress	progress	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	made	make	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 9
+# text = It also shows that further progress is possible.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	further	further	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	progress	progress	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	possible	possible	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 28
+# text = What should be done is to pinpoint flaws and shortcomings carefully and take effective measures to rectify them in order to bring about further improvement and progress.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	What	what	PRON	WP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	done	do	VERB	VBN	_	5	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	pinpoint	pinpoint	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	flaws	flaw	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	shortcomings	shortcoming	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	carefully	carefully	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	take	take	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	effective	effective	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	measures	measure	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	rectify	rectify	VERB	VB	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	them	-PRON-	PRON	PRP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	order	order	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	bring	bring	VERB	VB	_	20	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	about	about	ADP	RP	_	22	prt	_	ent_type=_|ent_id=2|ent_iob=O
+24	further	further	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	improvement	improvement	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	progress	progress	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 11
+# text = What do the people expect of the Law Enforcement Force?
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	What	what	PRON	WP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	expect	expect	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	10	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	Law	Law	PROPN	NNP	_	10	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	Enforcement	Enforcement	PROPN	NNP	_	10	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Force	Force	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	?	?	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 24
+# text = They expect the LEF to be firm, powerful, alert, honest, trustworthy, quick-acting, polite and understanding.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	expect	expect	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	LEF	LEF	PROPN	NNP	_	6	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	firm	firm	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	powerful	powerful	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	alert	alert	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	honest	honest	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	trustworthy	trustworthy	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	quick	quick	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	HYPH	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	acting	act	VERB	VBG	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	polite	polite	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	understanding	understanding	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 14
+# text = You have already shown that you possess these qualities to a great extent.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	already	already	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	shown	show	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	possess	possess	VERB	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	qualities	quality	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	great	great	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	extent	extent	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 57
+# text = I would like to advise every one of you, the dear youngsters, and your teachers and instructors as well as every member of the LEF staff to highly value your opportunity to serve the public and to maintain and promote security, which is one of the greatest blessings that a society may enjoy.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	advise	advise	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	every	every	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	one	one	NUM	CD	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	dear	dear	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	youngsters	youngster	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	teachers	teacher	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	instructors	instructor	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	well	well	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	SCONJ	IN	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	every	every	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	member	member	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	LEF	LEF	PROPN	NNP	_	28	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	staff	staff	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	highly	highly	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	value	value	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	your	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	opportunity	opportunity	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	PART	TO	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+35	serve	serve	VERB	VB	_	33	acl	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	public	public	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	to	to	PART	TO	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	maintain	maintain	VERB	VB	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	promote	promote	VERB	VB	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	security	security	NOUN	NN	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	,	,	PUNCT	,	_	43	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	which	which	DET	WDT	_	46	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+46	is	be	AUX	VBZ	_	43	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+47	one	one	NUM	CD	_	46	attr	_	ent_type=_|ent_id=2|ent_iob=O
+48	of	of	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	the	the	DET	DT	_	51	det	_	ent_type=_|ent_id=2|ent_iob=O
+50	greatest	great	ADJ	JJS	_	51	amod	_	ent_type=_|ent_id=2|ent_iob=O
+51	blessings	blessing	NOUN	NNS	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	that	that	DET	WDT	_	56	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	a	a	DET	DT	_	54	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	society	society	NOUN	NN	_	56	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+55	may	may	VERB	MD	_	56	aux	_	ent_type=_|ent_id=2|ent_iob=O
+56	enjoy	enjoy	VERB	VB	_	51	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+57	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 17
+# text = Thank God, today our country is one of the most secure countries in the world.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Thank	thank	VERB	VBP	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	1	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	one	one	NUM	CD	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	most	most	ADV	RBS	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	secure	secure	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	countries	country	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	world	world	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 22
+# text = The policy followed by the arrogant and interventionist powers is to foment political, moral and cultural insecurity in other countries.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	policy	policy	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	followed	follow	VERB	VBN	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	3	agent	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	arrogant	arrogant	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	interventionist	interventionist	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	powers	power	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	foment	foment	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	moral	moral	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	cultural	cultural	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	insecurity	insecurity	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	other	other	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	countries	country	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 20
+# text = In fact, the mere presence of alien powers in other countries is a cause of insecurity and unrest.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	In	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	mere	mere	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	presence	presence	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	alien	alien	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	powers	power	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	countries	country	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	cause	cause	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	insecurity	insecurity	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	unrest	unrest	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 29
+# text = The Iranian nation has decided with firm intention and determination to prevent the interference of the arrogant powers in its internal affairs and instead enforce its own will.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	decided	decide	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	firm	firm	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	intention	intention	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	determination	determination	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	prevent	prevent	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	interference	interference	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	arrogant	arrogant	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	powers	power	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	its	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	internal	internal	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	affairs	affair	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	instead	instead	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	enforce	enforce	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	its	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	own	own	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	will	will	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 12
+# text = Every state organ is actively performing its duties in this regard.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Every	every	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	state	state	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	organ	organ	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	actively	actively	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	performing	perform	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	its	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	duties	duty	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	regard	regard	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 22
+# text = You are also familiar with your responsibilities, and you are expected to carry them out in the best possible manner.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	familiar	familiar	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	responsibilities	responsibility	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	expected	expect	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	carry	carry	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	them	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	out	out	ADP	RP	_	14	prt	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	best	good	ADJ	JJS	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	possible	possible	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	manner	manner	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 22
+# text = Our nation is known in the world to be opposed to oppression, domination and an unequal footing in international relations.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	known	know	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	world	world	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	opposed	oppose	VERB	VBN	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	oppression	oppression	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	domination	domination	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	unequal	unequal	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	footing	footing	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	international	international	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	relations	relation	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 24
+# text = It should also become known as a creative, innovative and dynamic nation with initiative in all areas, including the military area.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	It	-PRON-	PRON	PRP	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	become	become	VERB	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	known	know	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	as	as	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	creative	creative	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	innovative	innovative	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	dynamic	dynamic	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	nation	nation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	initiative	initiative	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	all	all	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	areas	area	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	including	include	VERB	VBG	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	military	military	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	area	area	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 13
+# text = Today, you have the opportunity to display your creativity and initiative.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	opportunity	opportunity	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	display	display	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	creativity	creativity	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	initiative	initiative	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 18
+# text = We are pleased that we are noticing signs of innovation, dynamism and progress in various fields.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	pleased	pleased	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	noticing	notice	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	signs	sign	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	innovation	innovation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	dynamism	dynamism	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	progress	progress	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	various	various	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	fields	field	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 20
+# text = However, the Iranian people feel sorrow over the unfortunate and deplorable situation in some regional and neighboring countries.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iranian	iranian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	feel	feel	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	sorrow	sorrow	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	over	over	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	unfortunate	unfortunate	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	deplorable	deplorable	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	situation	situation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	some	some	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	regional	regional	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	neighboring	neighboring	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	countries	country	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 17
+# text = Today, you can see how the occupying forces are treating the ordinary people in Iraq.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	how	how	ADV	WRB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	occupying	occupy	VERB	VBG	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	forces	force	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	treating	treat	VERB	VBG	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	ordinary	ordinary	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iraq	Iraq	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 14
+# text = While claiming to be pursuing terrorists, they are massacring the innocent people.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	While	while	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	claiming	claim	VERB	VBG	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	pursuing	pursue	VERB	VBG	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	terrorists	terrorist	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	massacring	massacre	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	innocent	innocent	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 27
+# text = How can the frequent bombing of the Iraqi cities of Falluja, Samarra, al-Sadr Township and other cities be justified as targeting terrorists?
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	How	how	ADV	WRB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	frequent	frequent	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	bombing	bombing	NOUN	NN	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iraqi	iraqi	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	cities	city	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Falluja	Falluja	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Samarra	Samarra	PROPN	NNP	_	11	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	al	al	PROPN	NNP	_	17	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	-	-	PUNCT	HYPH	_	17	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	Sadr	Sadr	PROPN	NNP	_	18	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+18	Township	Township	PROPN	NNP	_	13	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	other	other	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	cities	city	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	be	be	AUX	VB	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	justified	justify	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	as	as	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	targeting	target	VERB	VBG	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	terrorists	terrorist	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	?	?	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 8
+# text = Is this the meaning of fighting terrorism?
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	1	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	meaning	meaning	NOUN	NN	_	1	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	fighting	fight	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	terrorism	terrorism	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	?	?	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 21
+# text = Are the innocent and defenseless children, women and other individuals who are being killed in these blind bombings terrorists?
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	innocent	innocent	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	defenseless	defenseless	ADJ	JJ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	children	child	NOUN	NNS	_	1	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	women	woman	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	other	other	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	individuals	individual	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	who	who	PRON	WP	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	being	be	AUX	VBG	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	killed	kill	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	these	these	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	blind	blind	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	bombings	bombing	NOUN	NNS	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	terrorists	terrorist	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	?	?	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 11
+# text = Has terrorism been uprooted or fomented through this indiscriminate massacre?
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	terrorism	terrorism	NOUN	NN	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	uprooted	uproot	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	or	or	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	fomented	foment	VERB	VBN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	through	through	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	indiscriminate	indiscriminate	NOUN	NN	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	massacre	massacre	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 77
+# text = Even if the known terrorist organizations are not under the influence of U.S. and Israeli intelligence services - although if someone claims that they are, it cannot be said that he is absolutely wrong - at least it is quite clear that aggression, intimidation and bullying, bloodshed and disregarding the rights of nations in their own countries would only encourage popular resistance and foment an inclination toward terrorism among these same nations.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Even	even	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	if	if	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	known	know	VERB	VBN	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	terrorist	terrorist	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	organizations	organization	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	under	under	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	influence	influence	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	U.S.	U.S.	PROPN	NNP	_	17	nmod	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	Israeli	israeli	ADJ	JJ	_	13	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	intelligence	intelligence	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	services	service	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	:	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	although	although	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	if	if	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	someone	someone	PRON	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	claims	claim	VERB	VBZ	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	they	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	are	be	AUX	VBP	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	it	-PRON-	PRON	PRP	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	can	can	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	not	not	PART	RB	_	31	neg	_	ent_type=_|ent_id=2|ent_iob=O
+30	be	be	AUX	VB	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	said	say	VERB	VBN	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	that	that	SCONJ	IN	_	34	mark	_	ent_type=_|ent_id=2|ent_iob=O
+33	he	-PRON-	PRON	PRP	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	is	be	AUX	VBZ	_	41	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	absolutely	absolutely	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	wrong	wrong	ADJ	JJ	_	34	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	-	-	PUNCT	HYPH	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	at	at	ADP	IN	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+39	least	least	ADJ	JJS	_	41	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+40	it	-PRON-	PRON	PRP	_	41	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+41	is	be	AUX	VBZ	_	31	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+42	quite	quite	ADV	RB	_	43	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+43	clear	clear	ADJ	JJ	_	41	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+44	that	that	SCONJ	IN	_	64	mark	_	ent_type=_|ent_id=2|ent_iob=O
+45	aggression	aggression	NOUN	NN	_	64	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+46	,	,	PUNCT	,	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+47	intimidation	intimidation	NOUN	NN	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	47	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	bullying	bullying	NOUN	NN	_	47	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	,	,	PUNCT	,	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+51	bloodshed	bloodshed	NOUN	NN	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+52	and	and	CCONJ	CC	_	51	cc	_	ent_type=_|ent_id=2|ent_iob=O
+53	disregarding	disregard	VERB	VBG	_	51	conj	_	ent_type=_|ent_id=2|ent_iob=O
+54	the	the	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+55	rights	right	NOUN	NNS	_	53	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	of	of	ADP	IN	_	55	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	nations	nation	NOUN	NNS	_	56	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+58	in	in	ADP	IN	_	53	prep	_	ent_type=_|ent_id=2|ent_iob=O
+59	their	-PRON-	DET	PRP$	_	61	poss	_	ent_type=_|ent_id=2|ent_iob=O
+60	own	own	ADJ	JJ	_	61	amod	_	ent_type=_|ent_id=2|ent_iob=O
+61	countries	country	NOUN	NNS	_	58	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+62	would	would	VERB	MD	_	64	aux	_	ent_type=_|ent_id=2|ent_iob=O
+63	only	only	ADV	RB	_	64	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+64	encourage	encourage	VERB	VB	_	41	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+65	popular	popular	ADJ	JJ	_	66	amod	_	ent_type=_|ent_id=2|ent_iob=O
+66	resistance	resistance	NOUN	NN	_	64	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+67	and	and	CCONJ	CC	_	64	cc	_	ent_type=_|ent_id=2|ent_iob=O
+68	foment	foment	VERB	VB	_	64	conj	_	ent_type=_|ent_id=2|ent_iob=O
+69	an	an	DET	DT	_	70	det	_	ent_type=_|ent_id=2|ent_iob=O
+70	inclination	inclination	NOUN	NN	_	68	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+71	toward	toward	ADP	IN	_	70	prep	_	ent_type=_|ent_id=2|ent_iob=O
+72	terrorism	terrorism	NOUN	NN	_	71	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+73	among	among	ADP	IN	_	68	prep	_	ent_type=_|ent_id=2|ent_iob=O
+74	these	these	DET	DT	_	76	det	_	ent_type=_|ent_id=2|ent_iob=O
+75	same	same	ADJ	JJ	_	76	amod	_	ent_type=_|ent_id=2|ent_iob=O
+76	nations	nation	NOUN	NNS	_	73	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+77	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 15
+# text = The ugly treatment of the Iraqi people has a duplicate in the occupied Palestine.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	ugly	ugly	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	treatment	treatment	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iraqi	iraqi	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	people	people	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	duplicate	duplicate	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	occupied	occupy	VERB	VBN	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	Palestine	Palestine	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 12
+# text = You can see how the Zionists are treating the Palestinian people.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	how	how	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Zionists	Zionists	PROPN	NNPS	_	8	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	are	be	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	treating	treat	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Palestinian	palestinian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	people	people	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 41
+# text = They bomb the Palestinian refugee camps, pound the homes of Palestinians with artillery fire, destroy their farms and shed the blood of tens of defenseless Palestinian men, women and children on the pretext of chasing Palestinian activists.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	bomb	bomb	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Palestinian	palestinian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	refugee	refugee	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	camps	camp	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	pound	pound	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	homes	home	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Palestinians	Palestinians	PROPN	NNPS	_	11	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	artillery	artillery	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	fire	fire	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	destroy	destroy	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	farms	farm	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	shed	shed	VERB	VB	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	blood	blood	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	tens	ten	NOUN	NNS	_	24	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	defenseless	defenseless	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	Palestinian	palestinian	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	men	man	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	women	woman	NOUN	NNS	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	children	child	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	on	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	pretext	pretext	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	chasing	chase	VERB	VBG	_	37	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	Palestinian	palestinian	ADJ	JJ	_	40	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+40	activists	activist	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 24
+# text = Those in the world who are turning a blind eye to all these outrageous crimes cannot claim that they support human rights.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Those	those	DET	DT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	world	world	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	turning	turn	VERB	VBG	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	blind	blind	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	eye	eye	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	DET	PDT	_	15	predet	_	ent_type=_|ent_id=2|ent_iob=O
+13	these	these	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	outrageous	outrageous	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	crimes	crime	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	can	can	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	not	not	PART	RB	_	18	neg	_	ent_type=_|ent_id=2|ent_iob=O
+18	claim	claim	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	support	support	VERB	VBP	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	human	human	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	rights	right	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 22
+# text = Besides, they cannot be hopeful of countering rising terrorism in the world, as they themselves are fomenting terrorism.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Besides	besides	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	hopeful	hopeful	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	countering	counter	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	rising	rise	VERB	VBG	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	terrorism	terrorism	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	as	as	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	themselves	-PRON-	PRON	PRP	_	17	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	fomenting	foment	VERB	VBG	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	terrorism	terrorism	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 33
+# text = The wrong behavior of the arrogant and bullying powers conveys the lesson to the philanthropic individuals that power should be combined with morality; a strong arm and compassion are both needed.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	wrong	wrong	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	behavior	behavior	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	arrogant	arrogant	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	bullying	bullying	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	powers	power	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	conveys	convey	VERB	VBZ	_	32	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	lesson	lesson	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	philanthropic	philanthropic	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	individuals	individual	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	WDT	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	power	power	NOUN	NN	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	combined	combine	VERB	VBN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	with	with	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	morality	morality	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	;	;	PUNCT	:	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	strong	strong	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	arm	arm	NOUN	NN	_	32	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	compassion	compassion	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	are	be	AUX	VBP	_	32	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	both	both	DET	DT	_	32	dep	_	ent_type=_|ent_id=2|ent_iob=O
+32	needed	need	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 32
+# text = There should be enforcement of the law with regard to law-breakers and kindness and benevolence toward those whose rights have been violated and who need legal support and security.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	There	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	enforcement	enforcement	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	law	law	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	regard	regard	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	law	law	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	HYPH	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	breakers	breaker	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	kindness	kindness	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	benevolence	benevolence	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	toward	toward	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	those	those	DET	DT	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	whose	whose	DET	WP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	rights	right	NOUN	NNS	_	24	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	have	have	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	been	be	AUX	VBN	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	violated	violate	VERB	VBN	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	who	who	PRON	WP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	need	need	VERB	VBP	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	legal	legal	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	support	support	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	security	security	NOUN	NN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 17
+# text = The great, honorable and brave Iranian nation favors pious deeds and advocates law and order.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	The	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	honorable	honorable	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	brave	brave	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranian	iranian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	nation	nation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	favors	favor	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	pious	pious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	deeds	deed	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	advocates	advocate	VERB	VBZ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	law	law	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	order	order	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 12
+# text = The law-breakers and violators are few in our society.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	law	law	NOUN	NN	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	HYPH	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	breakers	breaker	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	violators	violator	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	few	few	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	society	society	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 26
+# text = Those violating the law and criminals, who can be compared to malignant cells in the body of society, should be firmly dealt with.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Those	those	DET	DT	_	24	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	violating	violate	VERB	VBG	_	1	acl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	law	law	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	criminals	criminal	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	compared	compare	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	malignant	malignant	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	cells	cell	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	body	body	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	society	society	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	should	should	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	be	be	AUX	VB	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	firmly	firmly	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	dealt	deal	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	with	with	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 29
+# text = But the Law Enforcement Force should be kind and compassionate toward the great majority of the population who are faithful and dedicated and who fully observe the law.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	But	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	5	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	Law	Law	PROPN	NNP	_	5	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	Enforcement	Enforcement	PROPN	NNP	_	5	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+5	Force	Force	PROPN	NNP	_	7	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	kind	kind	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	compassionate	compassionate	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	toward	toward	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	great	great	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	majority	majority	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	population	population	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	faithful	faithful	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	dedicated	dedicated	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	fully	fully	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	observe	observe	VERB	VBP	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	law	law	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 44
+# text = I pray to Almighty Allah to bestow His grace and favor on our dear youngsters, make the Law Enforcement Force more efficient and more successful in performing its duties and grant our nation further honor, dignity and success in all arenas.
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	His	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	grace	grace	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	favor	favor	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	dear	dear	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	youngsters	youngster	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	make	make	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	Law	Law	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	Enforcement	Enforcement	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Force	Force	PROPN	NNP	_	23	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	more	more	ADV	RBR	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	efficient	efficient	ADJ	JJ	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	more	more	ADV	RBR	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	successful	successful	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	performing	perform	VERB	VBG	_	27	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	its	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	duties	duty	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	grant	grant	VERB	VB	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	our	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	nation	nation	NOUN	NN	_	32	dative	_	ent_type=_|ent_id=2|ent_iob=O
+35	further	further	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	honor	honor	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	dignity	dignity	NOUN	NN	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	success	success	NOUN	NN	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	all	all	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	arenas	arena	NOUN	NNS	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address at LEF Military Academy
+# year = 2004
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

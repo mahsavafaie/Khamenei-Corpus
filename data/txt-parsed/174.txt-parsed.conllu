@@ -1,0 +1,2514 @@
+# sent_id = 1
+# sent_len = 10
+# text = Today was a very sweet and memorable day for me
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Today	today	NOUN	NN	_	2	nsubj	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	sweet	sweet	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	memorable	memorable	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	day	day	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	me	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 9
+# text = and I will not forget this meeting with you
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	forget	forget	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	meeting	meeting	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 19
+# text = dear youth of this country who have accomplished a very important and valuable feat with your great determination.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	country	country	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	accomplished	accomplish	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	very	very	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	important	important	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	valuable	valuable	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	feat	feat	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	great	great	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	determination	determination	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 13
+# text = I see and feel that you decide to continue this glorious path.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	feel	feel	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	decide	decide	VERB	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	continue	continue	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	glorious	glorious	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	path	path	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 15
+# text = For me, this is the sweetest thing that can happen in this regard.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	For	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	me	-PRON-	PRON	PRP	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	sweetest	sweetest	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	thing	thing	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	happen	happen	VERB	VB	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	regard	regard	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 23
+# text = It is very important for a country to correctly identify its real and basic needs and to decide to meet these needs.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	country	country	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	correctly	correctly	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	identify	identify	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	its	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	real	real	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	basic	basic	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	needs	need	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	decide	decide	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	meet	meet	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	these	these	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	needs	need	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 17
+# text = Second, it is very important for it to have the tools to meet these needs.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Second	second	ADV	RB	_	4	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	very	very	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	important	important	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VB	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	tools	tool	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	meet	meet	VERB	VB	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	these	these	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	needs	need	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 9
+# text = Primarily, these tools are wisdom and manpower.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Primarily	primarily	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	tools	tool	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	wisdom	wisdom	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	manpower	manpower	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 10
+# text = This is very important and fateful for a country.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	fateful	fateful	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 4
+# text = This builds civilizations.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	builds	build	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	civilizations	civilization	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 44
+# text = This is the difference between those countries that can determine their own fate and the fate of part of the world, and those countries that waver and tremble - like a thin feather - in different directions amid waves of global polices.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	difference	difference	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	between	between	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	those	those	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	countries	country	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	determine	determine	VERB	VB	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	own	own	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	fate	fate	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	fate	fate	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	part	part	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	world	world	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	those	those	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	countries	country	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	waver	waver	NOUN	NN	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	tremble	tremble	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	-	-	PUNCT	HYPH	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	like	like	SCONJ	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	a	a	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	thin	thin	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	feather	feather	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	-	-	PUNCT	HYPH	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	different	different	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	directions	direction	NOUN	NNS	_	25	appos	_	ent_type=_|ent_id=2|ent_iob=O
+39	amid	amid	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	waves	wave	NOUN	NNS	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	global	global	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	polices	police	NOUN	NNS	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 11
+# text = The main key is science and - accordingly - technology.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	main	main	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	key	key	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	science	science	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	accordingly	accordingly	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	technology	technology	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 19
+# text = The country and people that decide to determine their own fate and achieve happiness should find this key.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	country	country	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	decide	decide	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	determine	determine	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	own	own	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	fate	fate	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	achieve	achieve	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	happiness	happiness	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	should	should	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	find	find	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	key	key	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 32
+# text = In the speech that I delivered in Mashhad in the beginning of the year - it was on the occasion of "The Year of the Holy Prophet (s.w.a.)
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	In	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	speech	speech	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	delivered	deliver	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Mashhad	Mashhad	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	beginning	beginning	NOUN	NN	_	9	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	of	of	ADP	IN	_	11	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	the	the	DET	DT	_	14	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	year	year	NOUN	NN	_	12	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	-	-	PUNCT	:	_	17	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	it	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	occasion	occasion	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	"	"	PUNCT	``	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	The	the	DET	DT	_	24	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+24	Year	Year	PROPN	NNP	_	21	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+25	of	of	ADP	IN	_	24	prep	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+26	the	the	DET	DT	_	28	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+27	Holy	Holy	PROPN	NNP	_	28	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+28	Prophet	Prophet	PROPN	NNP	_	25	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+29	(	(	PUNCT	-LRB-	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	s.w.a	s.w.a	NOUN	NN	_	28	appos	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	)	)	PUNCT	-RRB-	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 23
+# text = " - I narrated a short hadith from the Commander of the Faithful (a.s.): "Knowledge is power.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	narrated	narrate	VERB	VBD	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	short	short	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	hadith	hadith	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Commander	Commander	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Faithful	faithful	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	(	(	PUNCT	-LRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	a.s	a.s	PROPN	NNP	_	16	dep	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	)	)	PUNCT	-RRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	:	:	PUNCT	:	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	"	"	PUNCT	``	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	Knowledge	knowledge	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	power	power	NOUN	NN	_	21	attr	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 13
+# text = Anybody who has knowledge will be able to dominate those around him.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Anybody	anybody	PRON	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	knowledge	knowledge	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	able	able	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	dominate	dominate	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	those	those	DET	DT	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	around	around	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	him	-PRON-	PRON	PRP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 11
+# text = Anybody who fails to gain knowledge will be ruled".
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Anybody	anybody	PRON	NN	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	fails	fail	VERB	VBZ	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	gain	gain	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	knowledge	knowledge	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	ruled	rule	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	''	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 4
+# text = Knowledge is power.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Knowledge	knowledge	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	power	power	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 12
+# text = It is either of these two conditions mentioned in this hadith.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	either	either	DET	DT	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	two	two	NUM	CD	_	7	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	conditions	condition	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	mentioned	mention	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	hadith	hadith	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 13
+# text = Anyone who acquires knowledge can be powerful and show off their power.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Anyone	anyone	PRON	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	acquires	acquire	VERB	VBZ	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	knowledge	knowledge	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	powerful	powerful	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	show	show	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	off	off	ADP	RP	_	9	prt	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	power	power	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 17
+# text = Anyone who fails to do this will be subject to this show-off of power.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Anyone	anyone	PRON	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	fails	fail	VERB	VBZ	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	subject	subject	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	show	show	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	HYPH	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	off	off	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	power	power	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 60
+# text = The greatest act of betrayal which has been committed against our country during the past 150, 200 years - when knowledge was developing in the world on a daily basis - was that they did not allow our people or they did not prepare the ground for them to find their true position in the world of knowledge.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	greatest	great	ADJ	JJS	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	act	act	NOUN	NN	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	betrayal	betrayal	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	which	which	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	committed	commit	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	against	against	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	during	during	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	past	past	ADJ	JJ	_	16	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	150	150	NUM	CD	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	200	200	NUM	CD	_	19	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	years	year	NOUN	NNS	_	3	appos	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	when	when	ADV	WRB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	knowledge	knowledge	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	was	be	AUX	VBD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	developing	develop	VERB	VBG	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	world	world	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	on	on	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	a	a	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	daily	daily	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	basis	basis	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+34	that	that	SCONJ	IN	_	38	mark	_	ent_type=_|ent_id=2|ent_iob=O
+35	they	-PRON-	PRON	PRP	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	did	do	AUX	VBD	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	not	not	PART	RB	_	38	neg	_	ent_type=_|ent_id=2|ent_iob=O
+38	allow	allow	VERB	VB	_	33	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	our	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	people	people	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	or	or	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	they	-PRON-	PRON	PRP	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+43	did	do	AUX	VBD	_	45	aux	_	ent_type=_|ent_id=2|ent_iob=O
+44	not	not	PART	RB	_	45	neg	_	ent_type=_|ent_id=2|ent_iob=O
+45	prepare	prepare	VERB	VB	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	ground	ground	NOUN	NN	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	for	for	ADP	IN	_	51	mark	_	ent_type=_|ent_id=2|ent_iob=O
+49	them	-PRON-	PRON	PRP	_	51	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+50	to	to	PART	TO	_	51	aux	_	ent_type=_|ent_id=2|ent_iob=O
+51	find	find	VERB	VB	_	45	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+52	their	-PRON-	DET	PRP$	_	54	poss	_	ent_type=_|ent_id=2|ent_iob=O
+53	true	true	ADJ	JJ	_	54	amod	_	ent_type=_|ent_id=2|ent_iob=O
+54	position	position	NOUN	NN	_	51	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	in	in	ADP	IN	_	54	prep	_	ent_type=_|ent_id=2|ent_iob=O
+56	the	the	DET	DT	_	57	det	_	ent_type=_|ent_id=2|ent_iob=O
+57	world	world	NOUN	NN	_	55	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+58	of	of	ADP	IN	_	57	prep	_	ent_type=_|ent_id=2|ent_iob=O
+59	knowledge	knowledge	NOUN	NN	_	58	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+60	.	.	PUNCT	.	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 27
+# text = This happened despite the fact that our people were a talented people who benefited from individuals like Ibn Sina, Farabi and Razi in their history.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	happened	happen	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	despite	despite	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	fact	fact	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	talented	talented	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	people	people	NOUN	NNS	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	benefited	benefit	VERB	VBD	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	from	from	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	individuals	individual	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	like	like	SCONJ	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Ibn	Ibn	PROPN	NNP	_	19	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	Sina	Sina	PROPN	NNP	_	17	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	Farabi	Farabi	PROPN	NNP	_	19	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	Razi	Razi	PROPN	NNP	_	21	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+24	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	history	history	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 28
+# text = You can say that they did not allow us - this is a pessimistic outlook - or you can say that they did not prepare the ground.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	say	say	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	did	do	AUX	VBD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	allow	allow	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	us	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	pessimistic	pessimistic	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	outlook	outlook	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	or	or	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	you	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	can	can	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	say	say	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	they	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	did	do	AUX	VBD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	not	not	PART	RB	_	25	neg	_	ent_type=_|ent_id=2|ent_iob=O
+25	prepare	prepare	VERB	VB	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	ground	ground	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 14
+# text = This is the least that they did and this is an optimistic outlook.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	least	least	ADJ	JJS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	an	an	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	optimistic	optimistic	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	outlook	outlook	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 18
+# text = During Qajar and Pahlavi eras, they committed the great sin of refusing to prepare the ground.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	During	during	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Qajar	Qajar	PROPN	NNP	_	1	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	Pahlavi	Pahlavi	PROPN	NNP	_	5	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	eras	era	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	committed	commit	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	great	great	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	sin	sin	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	refusing	refuse	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	prepare	prepare	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	ground	ground	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 27
+# text = When the ground is not prepared, the talent that exists in our people and our youth will take one of the following two, three paths
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	ground	ground	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	prepared	prepared	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	talent	talent	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	exists	exist	VERB	VBZ	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	youth	youth	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	will	will	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	one	one	NUM	CD	_	19	dobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	following	follow	VERB	VBG	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	two	two	NUM	CD	_	27	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+25	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	three	three	NUM	CD	_	27	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+27	paths	path	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 13
+# text = : one is that their talents will not be displayed at all.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	:	:	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	NUM	CD	_	3	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	talents	talent	NOUN	NNS	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	displayed	display	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	at	at	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 42
+# text = No matter how physically strong you are and no matter how talented your body is for physical growth, when you do not exercise and move your muscles, you will not grow and your talent will be wasted and buried.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	No	no	ADV	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+2	matter	matter	ADV	RB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	how	how	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	physically	physically	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	strong	strong	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	no	no	ADV	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	matter	matter	ADV	RB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	how	how	ADV	WRB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	talented	talented	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	your	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	body	body	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	physical	physical	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	growth	growth	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	when	when	ADV	WRB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	you	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	do	do	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	not	not	PART	RB	_	24	neg	_	ent_type=_|ent_id=2|ent_iob=O
+24	exercise	exercise	VERB	VB	_	33	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	move	move	VERB	VB	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	your	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	muscles	muscle	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	you	-PRON-	PRON	PRP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	will	will	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	not	not	PART	RB	_	33	neg	_	ent_type=_|ent_id=2|ent_iob=O
+33	grow	grow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	your	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	talent	talent	NOUN	NN	_	39	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+37	will	will	VERB	MD	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	be	be	AUX	VB	_	39	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+39	wasted	waste	VERB	VBN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	buried	bury	VERB	VBN	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 26
+# text = The second path is: someone who is talented and who sees that there is no way for their talent to develop will go abroad.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	second	second	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	path	path	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	someone	someone	PRON	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	talented	talented	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	sees	see	VERB	VBZ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	there	there	PRON	EX	_	15	expl	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	no	no	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	way	way	NOUN	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	talent	talent	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	develop	develop	VERB	VB	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	go	go	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	abroad	abroad	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 15
+# text = This is the same as brain drain which happens in the course of many years
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	same	same	ADJ	JJ	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	as	as	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	brain	brain	NOUN	NN	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	drain	drain	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	happens	happen	VERB	VBZ	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	course	course	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	many	many	ADJ	JJ	_	15	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	years	year	NOUN	NNS	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+
+# sent_id = 32
+# sent_len = 9
+# text = and it is not confined to recent years.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	confined	confine	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	recent	recent	ADJ	JJ	_	8	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	years	year	NOUN	NNS	_	6	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 9
+# text = This is the disaster of our past history.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	disaster	disaster	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	past	past	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	history	history	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 16
+# text = Talented and competent individuals went to a corner of the world and engaged in work.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Talented	talented	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	competent	competent	ADJ	JJ	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+4	individuals	individual	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	corner	corner	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	engaged	engage	VERB	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	work	work	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 15
+# text = The third path is: their talent will be used in the wrong way.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	third	third	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	path	path	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	talent	talent	NOUN	NN	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	used	use	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	wrong	wrong	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	way	way	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 15
+# text = This is because the arena has not been opened for the cultivation of talents.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	arena	arena	NOUN	NN	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	opened	open	VERB	VBN	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	cultivation	cultivation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	talents	talent	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 11
+# text = Today, this task has been carried out in Iran.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	task	task	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	carried	carry	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iran	Iran	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 23
+# text = Today, the arena is open in our country for cultivating talents, achieving scientific growth and acquiring technical and technological expertise.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	arena	arena	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	open	open	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	cultivating	cultivate	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	talents	talent	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	achieving	achieve	VERB	VBG	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	scientific	scientific	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	growth	growth	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	acquiring	acquire	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	technical	technical	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	technological	technological	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	expertise	expertise	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 16
+# text = You are among the best examples of those people who have managed to do this.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	among	among	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	best	good	ADJ	JJS	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	examples	example	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	those	those	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	managed	manage	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	do	do	AUX	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 27
+# text = In today's exhibition - which is, in fact, a miniature of the great feats that you have accomplished - I saw astonishing cases.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	In	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	4	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	exhibition	exhibition	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	which	which	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	fact	fact	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	miniature	miniature	NOUN	NN	_	11	intj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	great	great	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	feats	feat	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	DET	WDT	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	you	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	have	have	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	accomplished	accomplish	VERB	VBN	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	-	-	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	I	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	saw	see	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	astonishing	astonishing	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	cases	case	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 49
+# text = They explained to me that our young scientists - in fact, we should say, our young artists - have managed to carry out a great task and accomplish an astonishing feat by relying on their minds and experience and without having any models at their disposal.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	explained	explain	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	me	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	young	young	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	scientists	scientist	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	fact	fact	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	we	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	say	say	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	young	young	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	artists	artist	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	:	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	have	have	AUX	VBP	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	managed	manage	VERB	VBN	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	carry	carry	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	out	out	ADP	RP	_	24	prt	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	great	great	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	task	task	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	accomplish	accomplish	VERB	VB	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	an	an	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	astonishing	astonishing	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	feat	feat	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	by	by	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	relying	rely	VERB	VBG	_	34	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	on	on	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	their	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	minds	mind	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	experience	experience	NOUN	NN	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	without	without	ADP	IN	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	having	have	VERB	VBG	_	42	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+44	any	any	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	models	model	NOUN	NNS	_	43	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	at	at	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	their	-PRON-	DET	PRP$	_	48	poss	_	ent_type=_|ent_id=2|ent_iob=O
+48	disposal	disposal	NOUN	NN	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 8
+# text = We are witnessing this in many cases.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	witnessing	witness	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	many	many	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	cases	case	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 14
+# text = In your group too, we can see very complex and detailed subtleties.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	group	group	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	too	too	ADV	RB	_	1	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	very	very	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	complex	complex	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	detailed	detailed	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	subtleties	subtlety	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 17
+# text = We can see the power of management that a complex and well-connected group enjoys.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	power	power	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	management	management	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	complex	complex	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	well	well	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	HYPH	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	connected	connect	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	group	group	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	enjoys	enjoy	VERB	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 5
+# text = This is very important.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 15
+# text = Managing large and complex groups and leading them simultaneously is among very great tasks.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Managing	manage	VERB	VBG	_	10	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	large	large	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	complex	complex	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	groups	group	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	leading	lead	VERB	VBG	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	them	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	simultaneously	simultaneously	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	among	among	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	very	very	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	great	great	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	tasks	task	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 11
+# text = We can see this in different parts of your organization.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	different	different	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	parts	part	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	organization	organization	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 52
+# text = This is what I think: for our people, there is no Eid which is greater than the one when they feel that their youth are self-confident, that they believe in their capability to accomplish great feats and that they are determined to carry out great tasks.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	think	think	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	:	:	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	there	there	PRON	EX	_	12	expl	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	1	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	no	no	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Eid	Eid	PROPN	NNP	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	which	which	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	greater	great	ADJ	JJR	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	than	than	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	one	one	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	when	when	ADV	WRB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	they	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	feel	feel	VERB	VBP	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+25	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	youth	youth	NOUN	NN	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	are	be	AUX	VBP	_	23	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	self	self	NOUN	NN	_	30	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	-	-	PUNCT	HYPH	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	confident	confident	ADJ	JJ	_	27	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	that	that	SCONJ	IN	_	34	mark	_	ent_type=_|ent_id=2|ent_iob=O
+33	they	-PRON-	PRON	PRP	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	believe	believe	VERB	VBP	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	their	-PRON-	DET	PRP$	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	capability	capability	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	accomplish	accomplish	VERB	VB	_	37	acl	_	ent_type=_|ent_id=2|ent_iob=O
+40	great	great	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	feats	feat	NOUN	NNS	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+43	that	that	SCONJ	IN	_	46	mark	_	ent_type=_|ent_id=2|ent_iob=O
+44	they	-PRON-	PRON	PRP	_	46	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+45	are	be	AUX	VBP	_	46	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+46	determined	determined	ADJ	JJ	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	to	to	PART	TO	_	48	aux	_	ent_type=_|ent_id=2|ent_iob=O
+48	carry	carry	VERB	VB	_	46	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+49	out	out	ADP	RP	_	48	prt	_	ent_type=_|ent_id=2|ent_iob=O
+50	great	great	ADJ	JJ	_	51	amod	_	ent_type=_|ent_id=2|ent_iob=O
+51	tasks	task	NOUN	NNS	_	48	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 10
+# text = Dear ones, you should carry out this task.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	ones	one	NOUN	NNS	_	6	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	carry	carry	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	out	out	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	task	task	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 7
+# text = This arena is a vast arena.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	arena	arena	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	vast	vast	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	arena	arena	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 25
+# text = Mr. Aghazadeh explained the significance of this advanced and leading technology and its influence on the lives of our people and on the future.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Mr.	Mr.	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Aghazadeh	Aghazadeh	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	explained	explain	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	significance	significance	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	advanced	advanced	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	leading	leading	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	technology	technology	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	its	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	influence	influence	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	lives	life	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	people	people	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	on	on	ADP	IN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	future	future	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 14
+# text = You know better than me how important this industry is for our country.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	better	better	ADV	RBR	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	than	than	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	me	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	how	how	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	important	important	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	industry	industry	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 16
+# text = Imagine that you have a fertile piece of land in which a bubbling spring flows.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Imagine	imagine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	fertile	fertile	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	piece	piece	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	land	land	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	which	which	DET	WDT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	bubbling	bubble	VERB	VBG	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	spring	spring	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	flows	flow	NOUN	NNS	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 22
+# text = You can water and keep alive the entire land with this spring which constantly bubbles and which may increase in amount.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	water	water	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	keep	keep	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	alive	alive	ADJ	JJ	_	5	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	entire	entire	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	land	land	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	spring	spring	NOUN	NN	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	which	which	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	constantly	constantly	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	bubbles	bubble	VERB	VBZ	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	which	which	DET	WDT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	may	may	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	increase	increase	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	amount	amount	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 39
+# text = Then, they come to you and say, "You should block this spring with asphalt and in return, we will give you a three-inch pipe so that you can water your farm".
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Then	then	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	come	come	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	say	say	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	``	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	You	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	block	block	VERB	VB	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	spring	spring	NOUN	NN	_	13	dobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	asphalt	asphalt	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	return	return	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	we	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	give	give	VERB	VB	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	you	-PRON-	PRON	PRP	_	24	dative	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	three	three	NUM	CD	_	29	nummod	_	ent_type=QUANTITY|ent_id=3|ent_iob=B
+28	-	-	PUNCT	HYPH	_	29	punct	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+29	inch	inch	NOUN	NN	_	30	compound	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+30	pipe	pipe	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	so	so	SCONJ	IN	_	35	mark	_	ent_type=_|ent_id=2|ent_iob=O
+32	that	that	SCONJ	IN	_	35	mark	_	ent_type=_|ent_id=2|ent_iob=O
+33	you	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	can	can	VERB	MD	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+35	water	water	VERB	VB	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	your	-PRON-	DET	PRP$	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	farm	farm	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	"	"	PUNCT	''	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 13
+# text = The uproar and political hullabaloo that they have created is like this.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	uproar	uproar	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	political	political	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	hullabaloo	hullabaloo	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	created	create	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	like	like	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 7
+# text = This is what the Europeans say.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Europeans	Europeans	PROPN	NNPS	_	6	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	say	say	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 17
+# text = Unfortunately, they say this with the support of the Atomic Energy Agency and the Americans.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Unfortunately	unfortunately	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	support	support	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	Atomic	Atomic	PROPN	NNP	_	12	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	Energy	Energy	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Agency	Agency	PROPN	NNP	_	9	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Americans	Americans	PROPN	NNPS	_	13	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 24
+# text = They say, "You should destroy this bubbling spring of human talents so that we give you a three-inch pipe.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	say	say	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	You	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	destroy	destroy	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	bubbling	bubble	VERB	VBG	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	spring	spring	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	human	human	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	talents	talent	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	so	so	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	we	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	give	give	VERB	VBP	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	you	-PRON-	PRON	PRP	_	17	dative	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	three	three	NUM	CD	_	22	nummod	_	ent_type=QUANTITY|ent_id=3|ent_iob=B
+21	-	-	PUNCT	HYPH	_	22	punct	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+22	inch	inch	NOUN	NN	_	23	compound	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+23	pipe	pipe	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 11
+# text = But whenever we want, we will block this pipe and
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	But	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	whenever	whenever	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	want	want	VERB	VBP	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	block	block	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	pipe	pipe	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 21
+# text = whenever we want, we will sell this water to you in exchange for your national pride and dignity".
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	whenever	whenever	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	want	want	VERB	VBP	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	sell	sell	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	water	water	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	7	dative	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	exchange	exchange	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	your	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	national	national	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	pride	pride	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	dignity	dignity	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	''	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 6
+# text = This is what they mean.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	mean	mean	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 8
+# text = Which person gives in to this bullying?
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Which	which	DET	WDT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	person	person	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	gives	give	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	bullying	bullying	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	?	?	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 9
+# text = We will not give in to this bullying.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	give	give	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	RP	_	4	prt	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	bullying	bullying	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 16
+# text = We regard the continuation and development of this movement as one of our main goals.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	regard	regard	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	continuation	continuation	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	development	development	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	movement	movement	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	one	one	NUM	CD	_	10	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	main	main	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	goals	goal	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 9
+# text = You are the people who do the work.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	do	do	AUX	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	work	work	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 10
+# text = Thankfully, you have determination, talent and enthusiasm.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Thankfully	thankfully	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	determination	determination	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	talent	talent	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	enthusiasm	enthusiasm	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 11
+# text = And the source of support for your movement is faith.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	And	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	source	source	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	support	support	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	your	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	movement	movement	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	faith	faith	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 26
+# text = You should know that the scientific key that - as I said - can transform a people is achieved, preserved and employed with faith.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	scientific	scientific	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	key	key	NOUN	NN	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	said	say	VERB	VBD	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	can	can	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	transform	transform	VERB	VB	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	people	people	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	achieved	achieve	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	preserved	preserve	VERB	VBN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	employed	employ	VERB	VBN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	with	with	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	faith	faith	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 8
+# text = Strong faith can play such a role.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Strong	strong	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	faith	faith	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	play	play	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	such	such	DET	PDT	_	7	predet	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	role	role	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 14
+# text = With faith, all tasks are carried out more easily than without faith.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	With	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	faith	faith	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	tasks	task	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	carried	carry	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	more	more	ADV	RBR	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	easily	easily	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	than	than	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	without	without	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	faith	faith	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 21
+# text = Thankfully, you have faith, firm motivation, determination and willpower, and the talent and capability to think.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Thankfully	thankfully	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	faith	faith	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	firm	firm	NOUN	NN	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	motivation	motivation	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	determination	determination	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	willpower	willpower	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	talent	talent	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	capability	capability	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	think	think	VERB	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 7
+# text = You should carry out this task.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	carry	carry	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	out	out	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	task	task	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 6
+# text = This task should move forward.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	task	task	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	move	move	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	forward	forward	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 17
+# text = Today, fourth-generation and fifth-generation centrifuges have been produced in the world.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Today	today	NOUN	NN	_	13	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	fourth	fourth	ADJ	JJ	_	5	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+4	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	generation	generation	NOUN	NN	_	10	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	fifth	fifth	ADJ	JJ	_	9	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	generation	generation	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	centrifuges	centrifuge	NOUN	NNS	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	been	be	AUX	VBN	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	produced	produce	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	world	world	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 16
+# text = By Allah's favor, you will manage to produce better ones and move forward.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	By	by	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	favor	favor	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	manage	manage	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	produce	produce	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	better	well	ADJ	JJR	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	ones	one	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	move	move	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	forward	forward	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 25
+# text = It is possible that there are better ways and better shortcuts for producing these substances - whether mineral substances, UF6 or their enrichment -
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	possible	possible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	there	there	PRON	EX	_	6	expl	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	better	well	ADJ	JJR	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	ways	way	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	better	well	ADJ	JJR	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	shortcuts	shortcut	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	producing	produce	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	these	these	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	substances	substance	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	whether	whether	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	mineral	mineral	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	substances	substance	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	UF6	uf6	NOUN	NN	_	19	appos	_	ent_type=_|ent_id=2|ent_iob=O
+22	or	or	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	enrichment	enrichment	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	-	-	PUNCT	:	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 7
+# text = and you can discover these ways.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	discover	discover	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	ways	way	NOUN	NNS	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 27
+# text = I have no doubts that you can carry out your tasks and that you can do the work in a faster, easier and better way.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	doubts	doubt	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	carry	carry	VERB	VB	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	out	out	ADP	RP	_	8	prt	_	ent_type=_|ent_id=2|ent_iob=O
+10	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	tasks	task	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	can	can	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	do	do	AUX	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	work	work	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	faster	faster	ADV	RBR	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	easier	easy	ADJ	JJR	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	better	well	ADJ	JJR	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	way	way	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 47
+# text = I should add that every move that you make and every moment of your work - which is done with such a motivation and in this direction - will be followed by a divine and spiritual reward, one that has no equivalent in material rewards.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	add	add	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	every	every	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	move	move	NOUN	NN	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	make	make	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	every	every	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	moment	moment	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	your	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	work	work	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	which	which	DET	WDT	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	done	do	VERB	VBN	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	such	such	DET	PDT	_	23	predet	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	motivation	motivation	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	direction	direction	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	-	-	PUNCT	:	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	will	will	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	be	be	AUX	VB	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	followed	follow	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	by	by	ADP	IN	_	31	agent	_	ent_type=_|ent_id=2|ent_iob=O
+33	a	a	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	divine	divine	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	spiritual	spiritual	ADJ	JJ	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	reward	reward	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	one	one	NUM	CD	_	37	appos	_	ent_type=_|ent_id=2|ent_iob=O
+40	that	that	DET	WDT	_	41	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+41	has	have	AUX	VBZ	_	39	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+42	no	no	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	equivalent	equivalent	NOUN	NN	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	in	in	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	material	material	ADJ	JJ	_	46	compound	_	ent_type=_|ent_id=2|ent_iob=O
+46	rewards	reward	NOUN	NNS	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 23
+# text = That is to say, no material value and reward can match the divine reward which is recorded in your performance sheet.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	no	no	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	material	material	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	value	value	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	reward	reward	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	can	can	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	match	match	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	divine	divine	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	reward	reward	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	recorded	record	VERB	VBN	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	your	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	performance	performance	NOUN	NN	_	22	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	sheet	sheet	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 32
+# text = First, this is because the task is valuable in itself and second, it is because you are preparing the ground for the independence and perpetual dignity of a people.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	First	first	ADV	RB	_	4	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	because	because	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	task	task	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	valuable	valuable	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	itself	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	second	second	X	LS	_	8	conj	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+14	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	it	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	because	because	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	you	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	preparing	prepare	VERB	VBG	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	ground	ground	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	independence	independence	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	perpetual	perpetual	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	dignity	dignity	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	a	a	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	people	people	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 38
+# text = I will tell you that utilizing nuclear energy and achieving nuclear technology in our country is more important than discovering and extracting oil - the day when it was extracted in our country for the first time.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	tell	tell	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	utilizing	utilize	VERB	VBG	_	16	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	nuclear	nuclear	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	energy	energy	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	achieving	achieve	VERB	VBG	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	nuclear	nuclear	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	technology	technology	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	more	more	ADV	RBR	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	important	important	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	than	than	SCONJ	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	discovering	discover	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	extracting	extract	VERB	VBG	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	oil	oil	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	-	-	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+26	day	day	NOUN	NN	_	16	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	when	when	ADV	WRB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	it	-PRON-	PRON	PRP	_	30	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+29	was	be	AUX	VBD	_	30	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	extracted	extract	VERB	VBN	_	26	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	in	in	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	our	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	country	country	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	for	for	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	first	first	ADJ	JJ	_	37	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+37	time	time	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 12
+# text = Notice how important oil is in the fate of a country.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Notice	notice	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	how	how	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	oil	oil	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	fate	fate	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 19
+# text = Discovering and extracting oil means extracting a substance from under the ground and wasting it in one sense.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Discovering	discover	VERB	VBG	_	5	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	extracting	extract	VERB	VBG	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+4	oil	oil	NOUN	NN	_	1	dep	_	ent_type=_|ent_id=2|ent_iob=O
+5	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	extracting	extract	VERB	VBG	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	substance	substance	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	under	under	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	ground	ground	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	wasting	waste	VERB	VBG	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	it	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	one	one	NUM	CD	_	18	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+18	sense	sense	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 16
+# text = The disaster that we are bringing to oil today is a waste of this substance.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	disaster	disaster	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	bringing	bring	VERB	VBG	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	oil	oil	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	waste	waste	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	substance	substance	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 29
+# text = Otherwise, the material and non-material advantages of using this substance in the right way can be thousands of times more than what we have today.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Otherwise	otherwise	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	material	material	ADJ	JJ	_	9	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	non	non	ADJ	JJ	_	7	dep	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	ADJ	JJ	_	8	dep	_	ent_type=_|ent_id=2|ent_iob=O
+8	material	material	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	advantages	advantage	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	using	use	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	substance	substance	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	right	right	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	way	way	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	can	can	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	thousands	thousand	NOUN	NNS	_	23	npadvmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	times	time	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	more	more	ADJ	JJR	_	19	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	than	than	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	what	what	PRON	WP	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	we	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	have	have	AUX	VBP	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	today	today	NOUN	NN	_	27	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+29	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 24
+# text = But what you are doing means extracting the hidden truth in one's mind, which is invisible to us in this world.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	But	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	what	what	PRON	WP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	doing	do	VERB	VBG	_	6	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	means	mean	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	extracting	extract	VERB	VBG	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	hidden	hide	VERB	VBN	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	truth	truth	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	PRON	PRP	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	's	's	PART	POS	_	12	case	_	ent_type=_|ent_id=2|ent_iob=O
+14	mind	mind	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	invisible	invisible	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	us	-PRON-	PRON	PRP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	world	world	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 5
+# text = You discover this truth.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	discover	discover	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	truth	truth	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 13
+# text = This is the way all advanced sciences are discovered in the world.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	way	way	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	advanced	advanced	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	sciences	science	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	discovered	discover	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	world	world	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 23
+# text = We do not see many truths in the world, but someone discovers them and utilizes them for the good of humanity.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	many	many	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	truths	truth	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	world	world	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	someone	someone	PRON	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	discovers	discover	VERB	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	them	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	utilizes	utilize	VERB	VBZ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	them	-PRON-	PRON	PRP	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	good	good	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	humanity	humanity	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 24
+# text = You do this and the value of your work is much more than discovering, extracting and utilizing oil and the oil industry.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	value	value	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	your	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	work	work	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	much	much	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	more	more	ADJ	JJR	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	than	than	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	discovering	discover	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	extracting	extract	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	utilizing	utilize	VERB	VBG	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	oil	oil	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	oil	oil	NOUN	NN	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	industry	industry	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 7
+# text = Therefore, your work makes history.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	your	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	work	work	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	makes	make	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	history	history	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 27
+# text = For this reason, every moment of your work - when it is done with this great motivation and attention - will be rewarded by God.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	For	for	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	reason	reason	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	every	every	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	moment	moment	NOUN	NN	_	24	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	your	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	work	work	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	when	when	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	done	do	VERB	VBN	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	great	great	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	motivation	motivation	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	attention	attention	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	-	-	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	rewarded	reward	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	by	by	ADP	IN	_	24	agent	_	ent_type=_|ent_id=2|ent_iob=O
+26	God	God	PROPN	NNP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 20
+# text = This divine reward is superior to all the encouragements and praise that we offer and to all material equivalents.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	divine	divine	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	reward	reward	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	superior	superior	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	PDT	_	9	predet	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	encouragements	encouragement	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	praise	praise	VERB	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	we	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	offer	offer	VERB	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	all	all	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	material	material	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	equivalents	equivalent	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 9
+# text = You should appreciate the value of your work.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	value	value	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	your	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	work	work	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 36
+# text = During, before and after your work, you should always remember that Allah the Exalted sees what you are doing and that God's great angels will record your work as a good deed.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	During	during	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	before	before	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	after	after	ADP	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	work	work	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	always	always	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	remember	remember	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	Allah	Allah	PROPN	NNP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Exalted	exalted	ADJ	JJ	_	14	appos	_	ent_type=_|ent_id=2|ent_iob=O
+17	sees	see	VERB	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	what	what	PRON	WP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	you	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	doing	do	VERB	VBG	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	God	God	PROPN	NNP	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	's	's	PART	POS	_	24	case	_	ent_type=_|ent_id=2|ent_iob=O
+26	great	great	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	angels	angel	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	will	will	VERB	MD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	record	record	VERB	VB	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	your	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	work	work	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	as	as	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	a	a	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	good	good	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	deed	deed	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 25
+# text = I am happy that I met you today, that I listened to your reports and that I took a look at your work.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	happy	happy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	met	meet	VERB	VBD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	listened	listen	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	your	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	reports	report	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	I	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	took	take	VERB	VBD	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	look	look	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	at	at	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	your	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	work	work	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 14
+# text = I am happy because of the good meeting that was held in this place
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	happy	happy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	because	because	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	good	good	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	meeting	meeting	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	held	hold	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	place	place	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 11
+# text = and I hope that God will bestow success on you.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	God	God	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	success	success	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 16
+# text = Send my greetings to other friends and colleagues in Isfahan, Natanz and other places.
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Send	send	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	my	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	greetings	greeting	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	1	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	other	other	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	friends	friend	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	colleagues	colleague	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Isfahan	Isfahan	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Natanz	Natanz	PROPN	NNP	_	10	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	other	other	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	places	place	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 38
+# text = I hope that by Allah's favor, your work, your efforts and your services will benefit from the attention of the Imam of the Age (may our souls be sacrificed for his sake).
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	7	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	favor	favor	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	work	work	NOUN	NN	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	efforts	effort	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	your	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	services	service	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	benefit	benefit	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	from	from	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	attention	attention	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+24	Imam	Imam	PROPN	NNP	_	22	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+25	of	of	ADP	IN	_	24	prep	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+26	the	the	DET	DT	_	27	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+27	Age	Age	PROPN	NNP	_	25	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+28	(	(	PUNCT	-LRB-	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	may	may	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	our	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	souls	soul	NOUN	NNS	_	33	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	be	be	AUX	VB	_	33	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	sacrificed	sacrifice	VERB	VBN	_	18	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+34	for	for	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	his	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	sake	sake	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	)	)	PUNCT	-RRB-	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech in Meeting with Officials of Atomic Energy Organization
+# year = 2006
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

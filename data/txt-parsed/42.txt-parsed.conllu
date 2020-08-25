@@ -1,0 +1,990 @@
+# sent_id = 1
+# sent_len = 11
+# text = In the Name of Allah, the Merciful, the Compassionate
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	In	in	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Name	Name	PROPN	NNP	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Merciful	merciful	ADJ	JJ	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Compassionate	Compassionate	PROPN	NNP	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 16
+# text = I praise the Almighty that our nation has dedicated and resolute young people like you.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	praise	praise	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	nation	nation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	dedicated	dedicate	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	resolute	resolute	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	young	young	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	like	like	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	you	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 16
+# text = Among the most precious possessions of any nation are faithful, motivated and persevering individuals.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Among	among	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	most	most	ADV	RBS	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	precious	precious	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	possessions	possession	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	any	any	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	faithful	faithful	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	motivated	motivated	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	persevering	persevere	VERB	VBG	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	individuals	individual	NOUN	NNS	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 14
+# text = Today I am addressing a gathering that is made up of such individuals.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	am	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	addressing	address	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	gathering	gathering	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	made	make	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	up	up	ADP	RP	_	9	prt	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	such	such	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	individuals	individual	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 29
+# text = I would like to express my gratitude to all the esteemed commanders and servicemen of the Islamic Revolution Guard Corps Air Force for their great efforts and endeavors.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	express	express	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	my	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	gratitude	gratitude	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	PDT	_	12	predet	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	esteemed	esteem	VERB	VBN	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	commanders	commander	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	servicemen	serviceman	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	22	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Revolution	Revolution	PROPN	NNP	_	19	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	Guard	Guard	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	Corps	Corps	PROPN	NNP	_	22	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Air	Air	PROPN	NNP	_	22	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	Force	Force	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	great	great	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	efforts	effort	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	endeavors	endeavor	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 35
+# text = Fortunately, over the past years, the IRGC Air Force has developed into a military force with capabilities worthy of praise and admiration, for which we should give thanks to Almighty Allah.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Fortunately	fortunately	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	over	over	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	past	past	ADJ	JJ	_	6	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	years	year	NOUN	NNS	_	3	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	IRGC	IRGC	PROPN	NNP	_	11	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Air	Air	PROPN	NNP	_	11	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Force	Force	PROPN	NNP	_	13	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	has	have	AUX	VBZ	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	developed	develop	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	into	into	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	military	military	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	force	force	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	capabilities	capability	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	worthy	worthy	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	praise	praise	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	admiration	admiration	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	for	for	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	which	which	DET	WDT	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	we	-PRON-	PRON	PRP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	should	should	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	give	give	VERB	VB	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	thanks	thank	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	Almighty	Almighty	PROPN	NNP	_	34	compound	_	ent_type=_|ent_id=2|ent_iob=O
+34	Allah	Allah	PROPN	NNP	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 19
+# text = In order to defend its lofty ideals, any nation needs to strengthen itself and increase its power.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	In	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	order	order	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	defend	defend	VERB	VB	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	its	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	lofty	lofty	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	ideals	ideal	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	any	any	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	needs	need	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	strengthen	strengthen	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	itself	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	increase	increase	VERB	VB	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	its	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	power	power	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 17
+# text = However, power defined by religion is quite different from power seen from a material perspective.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	However	however	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	power	power	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	defined	define	VERB	VBN	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	religion	religion	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	quite	quite	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	different	different	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	power	power	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	seen	see	VERB	VBN	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	material	material	ADJ	JJ	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	perspective	perspective	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 28
+# text = From a material viewpoint, power lies in military force, advanced and sophisticated equipment and weapons of mass destruction like nuclear, chemical and biological weapons.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	From	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	material	material	NOUN	NN	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	viewpoint	viewpoint	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	power	power	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	lies	lie	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	military	military	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	force	force	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	advanced	advanced	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	sophisticated	sophisticated	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	equipment	equipment	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	weapons	weapon	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	mass	mass	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	destruction	destruction	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	like	like	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	nuclear	nuclear	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	chemical	chemical	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	biological	biological	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	weapons	weapon	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 35
+# text = But the real power lies in those people who strive to restore their rights and accomplish their noble ideals, those who are ready to make every kind of sacrifice to achieve their goals.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	real	real	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	power	power	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	lies	lie	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	those	those	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	strive	strive	VERB	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	restore	restore	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	rights	right	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	accomplish	accomplish	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	noble	noble	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	ideals	ideal	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	those	those	DET	DT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	who	who	PRON	WP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	are	be	AUX	VBP	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	ready	ready	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	make	make	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	every	every	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	kind	kind	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	sacrifice	sacrifice	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	achieve	achieve	VERB	VB	_	28	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	their	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	goals	goal	NOUN	NNS	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 51
+# text = Those trying to promote righteousness, justice and equity never use power in a brutal and unjust manner; they never humiliate or oppress others or act in an arrogant way; they never attack other nations' territories with an eye to plundering their national wealth and natural resources.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Those	those	DET	DT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	trying	try	VERB	VBG	_	1	acl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	promote	promote	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	righteousness	righteousness	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	justice	justice	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	equity	equity	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	never	never	ADV	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	use	use	VERB	VBP	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	power	power	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	brutal	brutal	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	unjust	unjust	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	manner	manner	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	;	;	PUNCT	:	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	never	never	ADV	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+22	humiliate	humiliate	VERB	VBP	_	35	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	or	or	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	oppress	oppress	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	others	other	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	or	or	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	act	act	VERB	VB	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	an	an	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	arrogant	arrogant	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	way	way	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	;	;	PUNCT	:	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	they	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	never	never	ADV	RB	_	35	neg	_	ent_type=_|ent_id=2|ent_iob=O
+35	attack	attack	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+36	other	other	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	nations	nation	NOUN	NNS	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	'	'	PART	POS	_	37	case	_	ent_type=_|ent_id=2|ent_iob=O
+39	territories	territory	NOUN	NNS	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	with	with	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	an	an	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	eye	eye	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	to	to	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	plundering	plunder	VERB	VBG	_	43	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+45	their	-PRON-	DET	PRP$	_	47	poss	_	ent_type=_|ent_id=2|ent_iob=O
+46	national	national	ADJ	JJ	_	47	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	wealth	wealth	NOUN	NN	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	47	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	natural	natural	ADJ	JJ	_	50	amod	_	ent_type=_|ent_id=2|ent_iob=O
+50	resources	resource	NOUN	NNS	_	47	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	.	.	PUNCT	.	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 31
+# text = However, those relying on material power have no respect for the rights of others or for moral and spiritual values, as they follow the law of the jungle.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	However	however	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	those	those	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	relying	rely	VERB	VBG	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	material	material	ADJ	JJ	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	no	no	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	respect	respect	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	rights	right	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	others	other	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	or	or	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	moral	moral	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	spiritual	spiritual	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	values	value	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	as	as	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	they	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	follow	follow	VERB	VBP	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	law	law	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	jungle	jungle	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 10
+# text = They consider themselves rightful only because they are powerful.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	consider	consider	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	themselves	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	rightful	rightful	ADJ	JJ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	only	only	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	because	because	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	powerful	powerful	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 25
+# text = You can see how arrogantly U.S. government, whose true face has been exposed to world, is presently acting on the global scene!
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	how	how	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	arrogantly	arrogantly	ADV	RB	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	U.S.	U.S.	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	government	government	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	whose	whose	DET	WP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	true	true	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	face	face	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	has	have	AUX	VBZ	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	been	be	AUX	VBN	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	exposed	expose	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	world	world	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	presently	presently	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	acting	act	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	global	global	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	scene	scene	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 20
+# text = What U.S. officials do not think of is respect for the rights of other nations or for moral values.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	What	what	PRON	WP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	officials	official	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	think	think	VERB	VB	_	8	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	respect	respect	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	rights	right	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	other	other	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	nations	nation	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	or	or	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	moral	moral	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	values	value	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 18
+# text = What is of the utmost importance to the United States is the furtherance of its illegitimate interests.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	What	what	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	11	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	utmost	utmost	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	importance	importance	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	United	United	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	States	States	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	furtherance	furtherance	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	its	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	illegitimate	illegitimate	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	interests	interest	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 39
+# text = Nonetheless, when power is combined with moral and spiritual values, it will never be used to infringe the rights of others; instead, it will be used to defend human rights and promote noble values.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Nonetheless	nonetheless	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	when	when	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	power	power	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	combined	combine	VERB	VBN	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	moral	moral	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	spiritual	spiritual	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	values	value	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	never	never	ADV	RB	_	17	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	used	use	VERB	VBN	_	30	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	infringe	infringe	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	rights	right	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	others	other	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	;	;	PUNCT	:	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	instead	instead	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	it	-PRON-	PRON	PRP	_	30	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	will	will	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	be	be	AUX	VB	_	30	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	defend	defend	VERB	VB	_	30	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	human	human	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	rights	right	NOUN	NNS	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	promote	promote	VERB	VB	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	noble	noble	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	values	value	NOUN	NNS	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 22
+# text = We have witnessed instances of such power in our country, in Lebanon and in Palestine over the past 24 years.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	witnessed	witness	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	instances	instance	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	such	such	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Lebanon	Lebanon	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	Palestine	Palestine	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	over	over	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	past	past	ADJ	JJ	_	21	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	24	24	NUM	CD	_	21	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	years	year	NOUN	NNS	_	17	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 29
+# text = When the United States attacked Iraq to topple Saddam's regime, U.S. forces faced Iraqi soldiers who were weaker than them and, therefore, achieved victory.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	United	United	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	States	States	PROPN	NNP	_	5	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	attacked	attack	VERB	VBD	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iraq	Iraq	PROPN	NNP	_	5	dobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	topple	topple	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	Saddam	Saddam	PROPN	NNP	_	11	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	's	's	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	regime	regime	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	U.S.	U.S.	PROPN	NNP	_	14	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	forces	force	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	faced	face	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iraqi	iraqi	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	soldiers	soldier	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	were	be	AUX	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	weaker	weak	ADJ	JJR	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	than	than	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	them	-PRON-	PRON	PRP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	therefore	therefore	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	achieved	achieve	VERB	VBD	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	victory	victory	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 46
+# text = However, they are now feeling helpless in the face of strong will and brave resistance of Iraqi people, who are opposed to the domination of their country and natural resources by occupiers and who are determined to defend their national and religious identity.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	now	now	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	feeling	feel	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	helpless	helpless	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	face	face	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	strong	strong	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	will	will	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	brave	brave	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	resistance	resistance	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iraqi	iraqi	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	who	who	PRON	WP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	are	be	AUX	VBP	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	opposed	oppose	VERB	VBN	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	domination	domination	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	their	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	country	country	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	natural	natural	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	resources	resource	NOUN	NNS	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	by	by	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	occupiers	occupier	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	who	who	PRON	WP	_	38	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+37	are	be	AUX	VBP	_	38	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+38	determined	determined	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	to	to	PART	TO	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	defend	defend	VERB	VB	_	38	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	their	-PRON-	DET	PRP$	_	45	poss	_	ent_type=_|ent_id=2|ent_iob=O
+42	national	national	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	religious	religious	ADJ	JJ	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	identity	identity	NOUN	NN	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 19
+# text = Thus, if nations possess the will and determination to resist, no outside power can dominate them.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Thus	thus	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	nations	nation	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	possess	possess	VERB	VBP	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	determination	determination	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	resist	resist	VERB	VB	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	no	no	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	outside	outside	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	power	power	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	can	can	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	dominate	dominate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	them	-PRON-	PRON	PRP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 24
+# text = The Islamic Republic promotes justice, respects human rights and defends the national and Islamic identity and honor and dignity of its nation.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	promotes	promote	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	justice	justice	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	respects	respect	VERB	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	human	human	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	rights	right	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	defends	defend	VERB	VBZ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	national	national	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	13	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	identity	identity	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	honor	honor	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	dignity	dignity	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	its	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	nation	nation	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 14
+# text = It would never withdraw in the face of bullying, intimidation and coercion.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	never	never	ADV	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	withdraw	withdraw	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	face	face	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	bullying	bullying	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	intimidation	intimidation	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	coercion	coercion	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 24
+# text = It would never submit to the illegitimate demands of the arrogant powers, nor would it renounce its lofty ideals and noble objectives.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	never	never	ADV	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	submit	submit	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	illegitimate	illegitimate	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	demands	demand	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	arrogant	arrogant	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	powers	power	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	nor	nor	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	would	would	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	renounce	renounce	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	its	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	lofty	lofty	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	ideals	ideal	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	noble	noble	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	objectives	objective	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 14
+# text = The reason is that it relies on the spiritual power of its nation.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	reason	reason	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	relies	rely	VERB	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	spiritual	spiritual	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	power	power	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	nation	nation	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 22
+# text = Our nation has displayed this power for the past 24 years, especially in the course of the Iraqi imposed war.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	displayed	display	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	power	power	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	past	past	ADJ	JJ	_	11	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	24	24	NUM	CD	_	11	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	years	year	NOUN	NNS	_	7	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	especially	especially	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	course	course	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Iraqi	iraqi	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	imposed	impose	VERB	VBN	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	war	war	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 59
+# text = Today, the Iranian people and the Armed Forces of the Islamic Republic, including the Army, the Islamic Revolution Guard Corps and the Basij, are prepared to utilize their capabilities, which are further strengthened by their spiritual power, deep religious faith and strong resolve, to defend their homeland and repulse any aggressor.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Today	today	NOUN	NN	_	28	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iranian	iranian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	people	people	NOUN	NNS	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	Armed	Armed	PROPN	NNP	_	9	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	Forces	Forces	PROPN	NNPS	_	5	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	of	of	ADP	IN	_	5	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Republic	Republic	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	including	include	VERB	VBG	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Army	Army	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	23	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	Islamic	Islamic	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Revolution	Revolution	PROPN	NNP	_	22	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	Guard	Guard	PROPN	NNP	_	23	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	Corps	Corps	PROPN	NNP	_	17	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Basij	Basij	PROPN	NNP	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+29	prepared	prepared	ADJ	JJ	_	28	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	utilize	utilize	VERB	VB	_	29	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	their	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	capabilities	capability	NOUN	NNS	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	which	which	DET	WDT	_	38	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+36	are	be	AUX	VBP	_	38	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+37	further	further	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	strengthened	strengthen	VERB	VBN	_	33	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	by	by	ADP	IN	_	38	agent	_	ent_type=_|ent_id=2|ent_iob=O
+40	their	-PRON-	DET	PRP$	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+41	spiritual	spiritual	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	power	power	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	deep	deep	ADJ	JJ	_	46	amod	_	ent_type=_|ent_id=2|ent_iob=O
+45	religious	religious	ADJ	JJ	_	46	amod	_	ent_type=_|ent_id=2|ent_iob=O
+46	faith	faith	NOUN	NN	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	and	and	CCONJ	CC	_	46	cc	_	ent_type=_|ent_id=2|ent_iob=O
+48	strong	strong	ADJ	JJ	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	resolve	resolve	NOUN	NN	_	46	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+51	to	to	PART	TO	_	52	aux	_	ent_type=_|ent_id=2|ent_iob=O
+52	defend	defend	VERB	VB	_	29	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+53	their	-PRON-	DET	PRP$	_	54	poss	_	ent_type=_|ent_id=2|ent_iob=O
+54	homeland	homeland	NOUN	NN	_	52	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	and	and	CCONJ	CC	_	52	cc	_	ent_type=_|ent_id=2|ent_iob=O
+56	repulse	repulse	VERB	VB	_	52	conj	_	ent_type=_|ent_id=2|ent_iob=O
+57	any	any	DET	DT	_	58	det	_	ent_type=_|ent_id=2|ent_iob=O
+58	aggressor	aggressor	NOUN	NN	_	56	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	.	.	PUNCT	.	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 6
+# text = Victory belongs to spiritual power.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Victory	victory	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	belongs	belong	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	spiritual	spiritual	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	power	power	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 27
+# text = Considering the crucial role of the air force in military confrontations, the honorable personnel of the IRGC Air Force should try to boost their capacities.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Considering	consider	VERB	VBG	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	crucial	crucial	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	role	role	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	air	air	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	force	force	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	military	military	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	confrontations	confrontation	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	honorable	honorable	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	personnel	personnel	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	IRGC	IRGC	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	Air	Air	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	Force	Force	PROPN	NNP	_	16	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	should	should	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	boost	boost	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	capacities	capacity	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 22
+# text = It is true that the force has already made considerable progress, but it still has potential for advancement and development.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	true	true	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	force	force	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	already	already	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	made	make	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	considerable	considerable	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	progress	progress	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	it	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	still	still	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	has	have	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	potential	potential	ADJ	JJ	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	advancement	advancement	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	development	development	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 22
+# text = Therefore, you should try to fulfill this potential through increased efforts, innovation and creativity based on expertise and spirituality.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	fulfill	fulfill	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	potential	potential	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	through	through	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	increased	increase	VERB	VBN	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	efforts	effort	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	innovation	innovation	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	creativity	creativity	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	based	base	VERB	VBN	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	expertise	expertise	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	spirituality	spirituality	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 19
+# text = I pray to Almighty Allah to assist you all in performing your duties and accomplishing your noble objectives.
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	assist	assist	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	DT	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	performing	perform	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	duties	duty	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	accomplishing	accomplish	VERB	VBG	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	noble	noble	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	objectives	objective	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech at IRGC Air Force Base
+# year = 2003
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

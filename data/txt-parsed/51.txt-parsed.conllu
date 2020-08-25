@@ -1,0 +1,1593 @@
+# sent_id = 1
+# sent_len = 42
+# text = I would prefer to begin by answering questions posed by the dear students, who are thirsty for knowledge and eager for progress, since it gives one great pleasure to answer the young people's questions and remove their ambiguities.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	prefer	prefer	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	begin	begin	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	answering	answer	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	questions	question	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	posed	pose	VERB	VBN	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	dear	dear	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	students	student	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	thirsty	thirsty	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	knowledge	knowledge	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	eager	eager	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	progress	progress	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	since	since	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	it	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	gives	give	VERB	VBZ	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	one	one	NUM	CD	_	30	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+29	great	great	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	pleasure	pleasure	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	answer	answer	VERB	VB	_	27	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	young	young	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	people	people	NOUN	NNS	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	's	's	PART	POS	_	35	case	_	ent_type=_|ent_id=2|ent_iob=O
+37	questions	question	NOUN	NNS	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	remove	remove	VERB	VB	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	their	-PRON-	DET	PRP$	_	41	poss	_	ent_type=_|ent_id=2|ent_iob=O
+41	ambiguities	ambiguity	NOUN	NNS	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 36
+# text = Besides, considering that creating ambiguities in the minds of our young people is the main policy of the circles that are opposed to the Islamic Republic, removing these ambiguities is of great significance.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Besides	besides	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	considering	consider	VERB	VBG	_	32	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	creating	create	VERB	VBG	_	14	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	ambiguities	ambiguity	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	minds	mind	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	young	young	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	main	main	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	policy	policy	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	circles	circle	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	WDT	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	are	be	AUX	VBP	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	opposed	oppose	VERB	VBN	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	Islamic	Islamic	PROPN	NNP	_	27	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	Republic	Republic	PROPN	NNP	_	24	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+28	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	removing	remove	VERB	VBG	_	32	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	these	these	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	ambiguities	ambiguity	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	great	great	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	significance	significance	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 33
+# text = However, there are a couple of important issues that I would like to mention first, and I am sure these issues are also of interest to our dear young people.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	However	however	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	couple	couple	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	important	important	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	issues	issue	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	I	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	would	would	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	like	like	VERB	VB	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	mention	mention	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	first	first	ADV	RB	_	15	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+17	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	I	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	am	be	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	sure	sure	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	these	these	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	issues	issue	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	also	also	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	interest	interest	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	our	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	dear	dear	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	young	young	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	people	people	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 20
+# text = Therefore, I will talk about these subjects first, and then I will proceed to answer the questions.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	talk	talk	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	about	about	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	subjects	subject	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	first	first	ADV	RB	_	5	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	then	then	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	I	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	proceed	proceed	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	answer	answer	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	questions	question	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 21
+# text = The first issue concerns the current U.S. adventurism in the world and its direct or indirect threats against other nations.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	first	first	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	issue	issue	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	concerns	concern	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	current	current	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	U.S.	U.S.	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	adventurism	adventurism	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	its	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	direct	direct	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	or	or	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	indirect	indirect	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	threats	threat	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	against	against	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	other	other	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	nations	nation	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 32
+# text = The fact is that ever since the collapse of the former Soviet Union, the United States has been trying to portray itself as the only superpower in a unipolar world.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	ever	ever	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	since	since	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	collapse	collapse	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	former	former	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	Soviet	Soviet	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	Union	Union	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	United	United	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	States	States	PROPN	NNP	_	20	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	has	have	AUX	VBZ	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	been	be	AUX	VBN	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	trying	try	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	portray	portray	VERB	VB	_	20	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	itself	-PRON-	PRON	PRP	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	as	as	SCONJ	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	only	only	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	superpower	superpower	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	a	a	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	unipolar	unipolar	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	world	world	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 56
+# text = But with the election of the incumbent U.S. president, who is the right person for adventurism and aggression, the domination-seeking attitude of the United States has intensified, and this country is presently trying to impose its hegemony on other nations, forcing them to make concessions and fulfill its demands.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	But	but	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	with	with	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	election	election	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	incumbent	incumbent	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	U.S.	U.S.	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	president	president	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	right	right	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	person	person	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	adventurism	adventurism	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	aggression	aggression	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	domination	domination	NOUN	NN	_	24	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	HYPH	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	seeking	seek	VERB	VBG	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	attitude	attitude	NOUN	NN	_	9	appos	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+28	United	United	PROPN	NNP	_	29	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+29	States	States	PROPN	NNP	_	26	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+30	has	have	AUX	VBZ	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	intensified	intensify	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	this	this	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	country	country	NOUN	NN	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	is	be	AUX	VBZ	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	presently	presently	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	trying	try	VERB	VBG	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	to	to	PART	TO	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	impose	impose	VERB	VB	_	38	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	its	-PRON-	DET	PRP$	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+42	hegemony	hegemony	NOUN	NN	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	on	on	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	other	other	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+45	nations	nation	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+47	forcing	force	VERB	VBG	_	38	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+48	them	-PRON-	PRON	PRP	_	47	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	to	to	PART	TO	_	50	aux	_	ent_type=_|ent_id=2|ent_iob=O
+50	make	make	VERB	VB	_	47	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+51	concessions	concession	NOUN	NNS	_	50	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	and	and	CCONJ	CC	_	50	cc	_	ent_type=_|ent_id=2|ent_iob=O
+53	fulfill	fulfill	VERB	VB	_	50	conj	_	ent_type=_|ent_id=2|ent_iob=O
+54	its	-PRON-	DET	PRP$	_	55	poss	_	ent_type=_|ent_id=2|ent_iob=O
+55	demands	demand	NOUN	NNS	_	53	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	.	.	PUNCT	.	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 30
+# text = The United States is, in particular, casting covetous eyes on the Middle East, because this region is rich in oil and other natural and mineral resources.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	United	United	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	particular	particular	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	casting	cast	VERB	VBG	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	covetous	covetous	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	eyes	eye	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+14	Middle	Middle	PROPN	NNP	_	15	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+15	East	East	PROPN	NNP	_	12	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+16	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	because	because	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	region	region	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	rich	rich	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	oil	oil	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	other	other	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	natural	natural	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	mineral	mineral	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	resources	resource	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 25
+# text = Our country, which is located in this region, is also attracting the attention of this arrogant and aggressor power for several reasons.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	country	country	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	located	locate	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	region	region	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	also	also	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	attracting	attract	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	attention	attention	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	arrogant	arrogant	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	aggressor	aggressor	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	power	power	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	several	several	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	reasons	reason	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 17
+# text = First of all, Iran is a country rich in natural resources like oil and gas.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	First	first	ADV	RB	_	6	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iran	Iran	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	rich	rich	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	natural	natural	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	resources	resource	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	like	like	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	oil	oil	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	gas	gas	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 18
+# text = It is worthy of mention that our country possesses the second largest gas reserves in the world.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	worthy	worthy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	mention	mention	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	possesses	possess	VERB	VBZ	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	second	second	ADV	RB	_	12	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+12	largest	large	ADJ	JJS	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	gas	gas	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	reserves	reserve	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	world	world	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 26
+# text = Second, Iran's geographical location is of considerable importance, since it has long coasts in the Persian Gulf and the Sea of Oman.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Second	second	ADV	RB	_	7	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	Iran	Iran	PROPN	NNP	_	6	poss	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	's	's	PART	POS	_	3	case	_	ent_type=_|ent_id=2|ent_iob=O
+5	geographical	geographical	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	location	location	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	considerable	considerable	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	importance	importance	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	since	since	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	has	have	AUX	VBZ	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	long	long	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	coasts	coast	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+19	Persian	Persian	PROPN	NNP	_	20	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+20	Gulf	Gulf	PROPN	NNP	_	17	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+23	Sea	Sea	PROPN	NNP	_	20	conj	_	ent_type=LOC|ent_id=1|ent_iob=I
+24	of	of	ADP	IN	_	23	prep	_	ent_type=LOC|ent_id=1|ent_iob=I
+25	Oman	Oman	PROPN	NNP	_	24	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+26	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 15
+# text = Besides, our country is the West's major gateway to the Central Asia.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Besides	besides	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	country	country	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	West	West	PROPN	NNP	_	10	poss	_	ent_type=LOC|ent_id=3|ent_iob=B
+8	's	's	PART	POS	_	7	case	_	ent_type=_|ent_id=2|ent_iob=O
+9	major	major	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	gateway	gateway	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+13	Central	Central	PROPN	NNP	_	14	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+14	Asia	Asia	PROPN	NNP	_	11	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 43
+# text = Nevertheless, the primary reason for U.S. hostility toward our country is the Islamic identity of our system and the fact that our Islamic system is opposed to oppression, domination, dictatorship and political, economic or cultural dependence on others.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Nevertheless	nevertheless	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	primary	primary	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	reason	reason	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	U.S.	U.S.	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	hostility	hostility	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	toward	toward	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	identity	identity	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	system	system	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	fact	fact	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islamic	islamic	ADJ	JJ	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	system	system	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	is	be	AUX	VBZ	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+27	opposed	oppose	VERB	VBN	_	26	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	oppression	oppression	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	domination	domination	NOUN	NN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	dictatorship	dictatorship	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	political	political	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	economic	economic	ADJ	JJ	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	or	or	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	cultural	cultural	ADJ	JJ	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	dependence	dependence	NOUN	NN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	on	on	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	others	other	NOUN	NNS	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 17
+# text = This opposition stems from the religious beliefs and tenets on which our Islamic system is based.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	opposition	opposition	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	stems	stem	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	religious	religious	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	beliefs	belief	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	tenets	tenet	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	which	which	DET	WDT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islamic	islamic	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	system	system	NOUN	NN	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	based	base	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 15
+# text = Furthermore, our system is religious democracy, which is different from Western democracy.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Furthermore	furthermore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	system	system	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	religious	religious	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	democracy	democracy	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	different	different	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Western	western	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	democracy	democracy	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 22
+# text = The main difference between the two is that religious democracy originates in religious beliefs but Western democracy is based on liberalism.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	main	main	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	difference	difference	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	between	between	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	two	two	NUM	CD	_	4	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	DT	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	religious	religious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	democracy	democracy	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	originates	originate	NOUN	NNS	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	religious	religious	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	beliefs	belief	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	Western	western	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	democracy	democracy	NOUN	NN	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	based	base	VERB	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	liberalism	liberalism	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 27
+# text = In the former no one has the right to manipulate public opinion to win an election, but in the latter this practice is quite common.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	former	former	ADJ	JJ	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	no	no	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	one	one	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	right	right	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	manipulate	manipulate	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	public	public	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	opinion	opinion	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	win	win	VERB	VB	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	election	election	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	latter	latter	ADJ	JJ	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	practice	practice	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	quite	quite	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	common	common	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 53
+# text = It is natural that an Islamic system with these characteristics should be viewed as an enemy and an intolerable rival by such an oppressive power as the United States, which is trying to establish a global dictatorship and further its own interests by dominating other nations and trampling on their rights.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	natural	natural	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islamic	islamic	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	system	system	NOUN	NN	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	characteristics	characteristic	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	viewed	view	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	enemy	enemy	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	an	an	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	intolerable	intolerable	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	rival	rival	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	such	such	DET	PDT	_	25	predet	_	ent_type=_|ent_id=2|ent_iob=O
+23	an	an	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	oppressive	oppressive	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	power	power	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	as	as	SCONJ	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+28	United	United	PROPN	NNP	_	29	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+29	States	States	PROPN	NNP	_	26	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	which	which	DET	WDT	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	is	be	AUX	VBZ	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	trying	try	VERB	VBG	_	29	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	PART	TO	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+35	establish	establish	VERB	VB	_	33	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	a	a	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	global	global	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	dictatorship	dictatorship	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	further	further	VERB	VB	_	43	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+41	its	-PRON-	DET	PRP$	_	43	poss	_	ent_type=_|ent_id=2|ent_iob=O
+42	own	own	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	interests	interest	NOUN	NNS	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	by	by	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	dominating	dominate	VERB	VBG	_	44	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+46	other	other	ADJ	JJ	_	47	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	nations	nation	NOUN	NNS	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	45	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	trampling	trample	VERB	VBG	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	on	on	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	their	-PRON-	DET	PRP$	_	52	poss	_	ent_type=_|ent_id=2|ent_iob=O
+52	rights	right	NOUN	NNS	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 18
+# text = It is also clear that the conflict and confrontation between the two is something natural and unavoidable.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	clear	clear	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	conflict	conflict	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	confrontation	confrontation	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	between	between	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	two	two	NUM	CD	_	10	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+13	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	something	something	PRON	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	natural	natural	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	unavoidable	unavoidable	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 31
+# text = This confrontation has existed ever since the victory of the Islamic Revolution, and the United States has been taking hostile measures against the Islamic Republic ever since its establishment.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	confrontation	confrontation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	existed	exist	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	ever	ever	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	since	since	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	victory	victory	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+12	Revolution	Revolution	PROPN	NNP	_	9	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	United	United	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	States	States	PROPN	NNP	_	20	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	has	have	AUX	VBZ	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	been	be	AUX	VBN	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	taking	take	VERB	VBG	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	hostile	hostile	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	measures	measure	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	against	against	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Islamic	Islamic	PROPN	NNP	_	26	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	Republic	Republic	PROPN	NNP	_	23	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	ever	ever	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	since	since	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	its	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	establishment	establishment	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 26
+# text = These measures began with a resolution issued by the U.S. Senate against our country some three or four months after the victory of our revolution.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	measures	measure	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	began	begin	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	resolution	resolution	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	issued	issue	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	U.S.	U.S.	PROPN	NNP	_	11	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Senate	Senate	PROPN	NNP	_	8	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	against	against	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	some	some	DET	DT	_	19	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+16	three	three	NUM	CD	_	19	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	or	or	CCONJ	CC	_	16	cc	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	four	four	NUM	CD	_	16	conj	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	months	month	NOUN	NNS	_	20	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	after	after	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	victory	victory	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	revolution	revolution	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 19
+# text = Then the United States engineered a military coup against our Islamic system, but the coup was thwarted.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Then	then	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	United	United	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	States	States	PROPN	NNP	_	5	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	engineered	engineer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	military	military	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	coup	coup	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	against	against	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islamic	islamic	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	system	system	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	coup	coup	NOUN	NN	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	was	be	AUX	VBD	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	thwarted	thwart	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 18
+# text = Next, Washington froze Iran's assets in U.S. banks and imposed economic sanctions on our country.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Next	next	ADV	RB	_	4	advmod	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	Washington	Washington	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	froze	freeze	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iran	Iran	PROPN	NNP	_	7	poss	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	assets	asset	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	U.S.	U.S.	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	banks	bank	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	imposed	impose	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	economic	economic	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	sanctions	sanction	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	country	country	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 18
+# text = The United States also instigated all the counterrevolutionary groups to take subversive action against our Islamic system.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	United	United	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNP	_	5	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	also	also	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	instigated	instigate	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	PDT	_	9	predet	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	counterrevolutionary	counterrevolutionary	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	groups	group	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	take	take	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	subversive	subversive	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	action	action	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	against	against	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islamic	islamic	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	system	system	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 47
+# text = Even in the case of Iraq's military aggression against our country, the evidence and documents that have since surfaced show that the United States had extended full support to Iraq and encouraged it to wage its full-scale war on the Islamic Republic.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Even	even	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	case	case	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iraq	Iraq	PROPN	NNP	_	9	poss	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	military	military	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	aggression	aggression	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	against	against	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	evidence	evidence	NOUN	NN	_	9	appos	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	documents	document	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	DET	WDT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	have	have	AUX	VBP	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	since	since	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	surfaced	surface	VERB	VBN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	show	show	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	United	United	PROPN	NNP	_	26	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+26	States	States	PROPN	NNP	_	28	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	had	have	AUX	VBD	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	extended	extend	VERB	VBN	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	full	full	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	support	support	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	ADP	IN	_	28	dative	_	ent_type=_|ent_id=2|ent_iob=O
+32	Iraq	Iraq	PROPN	NNP	_	31	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+33	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	encouraged	encourage	VERB	VBD	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	it	-PRON-	PRON	PRP	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	PART	TO	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	wage	wage	VERB	VB	_	34	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	its	-PRON-	DET	PRP$	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	full	full	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	-	-	PUNCT	HYPH	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	scale	scale	NOUN	NN	_	42	compound	_	ent_type=_|ent_id=2|ent_iob=O
+42	war	war	NOUN	NN	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	on	on	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	46	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+45	Islamic	Islamic	PROPN	NNP	_	46	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+46	Republic	Republic	PROPN	NNP	_	43	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+47	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 37
+# text = Among other hostile measures taken by the United States against our country was the downing of an Iranian airliner flying over the Persian Gulf, which resulted in the death of almost 300 passengers and crew.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Among	among	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	hostile	hostile	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	measures	measure	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	taken	take	VERB	VBN	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	5	agent	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	United	United	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	States	States	PROPN	NNP	_	6	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	against	against	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	downing	downing	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	an	an	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	airliner	airliner	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	flying	fly	VERB	VBG	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	over	over	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+23	Persian	Persian	PROPN	NNP	_	24	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+24	Gulf	Gulf	PROPN	NNP	_	21	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	which	which	DET	WDT	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	resulted	result	VERB	VBD	_	24	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	death	death	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	almost	almost	ADV	RB	_	33	advmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+33	300	300	NUM	CD	_	34	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+34	passengers	passenger	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	crew	crew	NOUN	NN	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 13
+# text = The U.S. forces also attacked our oil platforms in the Persian Gulf.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	forces	force	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	attacked	attack	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	oil	oil	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	platforms	platform	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+11	Persian	Persian	PROPN	NNP	_	12	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+12	Gulf	Gulf	PROPN	NNP	_	9	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 22
+# text = When I was president, I visited the United Nations and made a very informative speech at the UN General Assembly.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	president	president	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	visited	visit	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	United	United	PROPN	NNP	_	10	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Nations	Nations	PROPN	NNP	_	7	dobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	made	make	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	very	very	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	informative	informative	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	speech	speech	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	at	at	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	UN	UN	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	General	General	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Assembly	Assembly	PROPN	NNP	_	17	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 24
+# text = The speech, which was broadcast live by several European television channels, was bound to have a strong influence on public opinion.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	speech	speech	NOUN	NN	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	broadcast	broadcast	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	live	live	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	several	several	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	European	european	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	television	television	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	channels	channel	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	was	be	AUX	VBD	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	bound	bind	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	strong	strong	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	influence	influence	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	public	public	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	opinion	opinion	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 52
+# text = On the same day that I made the speech or on the next day, U.S. forces intercepted the Iranian ship Iran-Arj in the Persian Gulf, and the U.S. media in a concerted and coordinated move claimed that the ship was assigned to plant mines in the sea!
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	On	on	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	same	same	ADJ	JJ	_	4	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	day	day	NOUN	NN	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	that	that	DET	WDT	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	made	make	VERB	VBD	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	speech	speech	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	next	next	ADJ	JJ	_	14	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	day	day	NOUN	NN	_	11	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	U.S.	U.S.	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	forces	force	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	intercepted	intercept	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iranian	iranian	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	ship	ship	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	Iran	Iran	PROPN	NNP	_	24	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+23	-	-	PUNCT	HYPH	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	Arj	Arj	PROPN	NNP	_	21	appos	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+27	Persian	Persian	PROPN	NNP	_	28	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+28	Gulf	Gulf	PROPN	NNP	_	25	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+29	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	U.S.	U.S.	PROPN	NNP	_	33	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+33	media	medium	NOUN	NNS	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	a	a	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	concerted	concerted	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	coordinated	coordinated	ADJ	JJ	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	move	move	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	claimed	claim	VERB	VBD	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	that	that	SCONJ	IN	_	45	mark	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	ship	ship	NOUN	NN	_	45	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+44	was	be	AUX	VBD	_	45	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+45	assigned	assign	VERB	VBN	_	40	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+46	to	to	PART	TO	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	plant	plant	VERB	VB	_	48	compound	_	ent_type=_|ent_id=2|ent_iob=O
+48	mines	mine	NOUN	NNS	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	in	in	ADP	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+50	the	the	DET	DT	_	51	det	_	ent_type=_|ent_id=2|ent_iob=O
+51	sea	sea	NOUN	NN	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	!	!	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 15
+# text = This propaganda campaign was clearly intended to overshadow the speech and offset its influence.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	propaganda	propaganda	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	campaign	campaign	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	clearly	clearly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	intended	intend	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	overshadow	overshadow	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	speech	speech	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	offset	offset	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	its	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	influence	influence	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 36
+# text = The United States took all kinds of hostile measures, including political, economic and even military measures, against our country, but could not achieve much in its confrontation with the Islamic Republic.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	United	United	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	took	take	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	kinds	kind	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	hostile	hostile	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	measures	measure	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	including	include	VERB	VBG	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	political	political	ADJ	JJ	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	economic	economic	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	even	even	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	military	military	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	measures	measure	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	against	against	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	country	country	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	could	could	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	not	not	PART	RB	_	27	neg	_	ent_type=_|ent_id=2|ent_iob=O
+27	achieve	achieve	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	much	much	ADJ	JJ	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	its	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	confrontation	confrontation	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	with	with	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+34	Islamic	Islamic	PROPN	NNP	_	35	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+35	Republic	Republic	PROPN	NNP	_	32	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+36	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 29
+# text = U.S. officials realized that as long as the Iranian people remained loyal to their religion and cultural and moral values, those hostile measures were doomed to failure.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	U.S.	U.S.	PROPN	NNP	_	2	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	officials	official	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	realized	realize	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	as	as	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	long	long	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iranian	iranian	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	people	people	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	remained	remain	VERB	VBD	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	loyal	loyal	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	religion	religion	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	cultural	cultural	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	moral	moral	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	values	value	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	those	those	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	hostile	hostile	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	measures	measure	NOUN	NNS	_	26	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	were	be	AUX	VBD	_	26	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	doomed	doom	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	failure	failure	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 27
+# text = Consequently, they came to the conclusion that they had to focus more on the religious beliefs and cultural and moral values of the Iranian nation.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Consequently	consequently	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	came	come	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	conclusion	conclusion	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	had	have	AUX	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	focus	focus	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	more	more	ADV	RBR	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	religious	religious	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	beliefs	belief	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	cultural	cultural	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	moral	moral	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	values	value	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Iranian	iranian	ADJ	JJ	_	26	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	nation	nation	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 29
+# text = This is why the United States has intensified its cultural onslaught and subversive measures against our religious beliefs and moral values for the past eight or nine years.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	United	United	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	States	States	PROPN	NNP	_	8	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	intensified	intensify	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	its	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	cultural	cultural	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	onslaught	onslaught	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	subversive	subversive	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	measures	measure	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	religious	religious	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	beliefs	belief	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	moral	moral	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	values	value	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	for	for	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	28	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+24	past	past	ADJ	JJ	_	28	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+25	eight	eight	NUM	CD	_	28	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+26	or	or	CCONJ	CC	_	25	cc	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	nine	nine	NUM	CD	_	25	conj	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	years	year	NOUN	NNS	_	22	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+29	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 27
+# text = However, despite all this, U.S. officials know very well that it is not easy for them to achieve their goals with regard to Iran.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	However	however	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	despite	despite	SCONJ	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	PDT	_	5	predet	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	U.S.	U.S.	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	officials	official	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	very	very	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	well	well	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	easy	easy	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	them	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	achieve	achieve	VERB	VB	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	goals	goal	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	with	with	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	regard	regard	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Iran	Iran	PROPN	NNP	_	25	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+27	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 23
+# text = The reason is that unlike Iraq or Afghanistan, the Islamic Republic is a democratic system that relies on the Iranian nation.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	reason	reason	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	unlike	unlike	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iraq	Iraq	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	or	or	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	Afghanistan	Afghanistan	PROPN	NNP	_	6	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	13	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	democratic	democratic	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	system	system	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	WDT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	relies	rely	VERB	VBZ	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	Iranian	iranian	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+22	nation	nation	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 22
+# text = It is a system that has been established by our nation and is now being protected by the Iranian people themselves.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	system	system	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	established	establish	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	nation	nation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	now	now	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	being	be	AUX	VBG	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	protected	protect	VERB	VBN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Iranian	iranian	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	themselves	-PRON-	PRON	PRP	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 21
+# text = Besides, our young people who constitute the majority of our population are the main pillars of our Islamic system.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Besides	besides	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	young	young	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	constitute	constitute	VERB	VBP	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	majority	majority	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	population	population	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	main	main	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	pillars	pillar	NOUN	NNS	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	Islamic	islamic	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	system	system	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 14
+# text = These are the realities that our enemies are also very well aware of.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	realities	reality	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemies	enemy	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	also	also	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	very	very	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	well	well	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	aware	aware	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 4
+# text = My dear ones!
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	My	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	ones	one	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 26
+# text = The major factor in the protection of your country in the face of any aggression, adventurism or crisis is your national unity and solidarity.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	major	major	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	factor	factor	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	protection	protection	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	your	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	face	face	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	any	any	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	aggression	aggression	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	adventurism	adventurism	NOUN	NN	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+18	or	or	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	crisis	crisis	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	your	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	national	national	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	unity	unity	NOUN	NN	_	20	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	solidarity	solidarity	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 43
+# text = Today, the arrogant powers have found out that they cannot dominate a nation through bombs and missiles as long as that nation adheres to its religious beliefs and is determined to defend its country and safeguard its dignity and independence.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	arrogant	arrogant	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	powers	power	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	found	find	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	can	can	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	dominate	dominate	VERB	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	nation	nation	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	through	through	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	bombs	bomb	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	missiles	missile	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	long	long	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	nation	nation	NOUN	NN	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	adheres	adhere	VERB	VBZ	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	its	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	religious	religious	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	beliefs	belief	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	is	be	AUX	VBZ	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	determined	determine	VERB	VBN	_	31	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	defend	defend	VERB	VB	_	32	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	its	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	country	country	NOUN	NN	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	safeguard	safeguard	VERB	VB	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	its	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	dignity	dignity	NOUN	NN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	independence	independence	NOUN	NN	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 38
+# text = Finally, what I would like to stress is that you should take the issue of raising the scientific level of our universities seriously and bear in mind that achieving this objective is possible only through research.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	Finally	finally	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	VERB	VB	_	9	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	stress	stress	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	take	take	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	issue	issue	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	raising	raise	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	scientific	scientific	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	level	level	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	our	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	universities	university	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	seriously	seriously	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	bear	bear	VERB	VBP	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	mind	mind	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	that	that	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+30	achieving	achieve	VERB	VBG	_	33	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	this	this	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	objective	objective	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	is	be	AUX	VBZ	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	possible	possible	ADJ	JJ	_	33	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	only	only	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	through	through	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	research	research	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 20
+# text = I was very pleased when one of the students said that a larger budget should be allocated for research.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	pleased	pleased	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	when	when	ADV	WRB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	one	one	NUM	CD	_	10	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	students	student	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	said	say	VERB	VBD	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	larger	large	ADJ	JJR	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	budget	budget	NOUN	NN	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	should	should	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	allocated	allocate	VERB	VBN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	research	research	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 19
+# text = At a previous meeting that I had with the university professors, they also made the same request.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	At	at	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	previous	previous	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	meeting	meeting	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	had	have	AUX	VBD	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	university	university	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	professors	professor	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	also	also	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	same	same	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	request	request	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 40
+# text = It is very encouraging that both our students and professors are interested in the promotion of science and technology in our country, which is the key to our progress and development and the accomplishment of our lofty objectives.
+# title = Leader's Address to Students at Shahid Beheshti University
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	encouraging	encouraging	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	both	both	CCONJ	CC	_	8	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	students	student	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	professors	professor	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	interested	interested	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	promotion	promotion	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	science	science	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	technology	technology	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	country	country	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	which	which	DET	WDT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	is	be	AUX	VBZ	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	key	key	NOUN	NN	_	25	attr	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	our	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	progress	progress	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	development	development	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	accomplishment	accomplishment	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	our	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	lofty	lofty	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	objectives	objective	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O

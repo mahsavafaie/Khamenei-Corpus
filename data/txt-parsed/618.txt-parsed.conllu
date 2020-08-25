@@ -1,0 +1,3098 @@
+# sent_id = 1
+# sent_len = 54
+# text = God's greetings be upon Muhammad (s.w.a.) and his immaculate household I would like to congratulate you dear youth and promising children of the people of Iran - both the youth who entered the holy profession of military today and those who received their epaulets and entered this glorious stage.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	God	God	PROPN	NNP	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	's	's	PART	POS	_	1	case	_	ent_type=_|ent_id=2|ent_iob=O
+3	greetings	greeting	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	upon	upon	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Muhammad	Muhammad	PROPN	NNP	_	5	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	(	(	PUNCT	-LRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	s.w.a	s.w.a	NOUN	NN	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	)	)	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	his	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	immaculate	immaculate	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	household	household	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	I	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	would	would	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	congratulate	congratulate	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	you	-PRON-	PRON	PRP	_	20	dative	_	ent_type=_|ent_id=2|ent_iob=O
+21	dear	dear	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	youth	youth	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	promising	promise	VERB	VBG	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	children	child	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	people	people	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	Iran	Iran	PROPN	NNP	_	30	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+31	-	-	PUNCT	:	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	both	both	CCONJ	CC	_	35	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	youth	youth	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	who	who	PRON	WP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	entered	enter	VERB	VBD	_	35	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	holy	holy	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	profession	profession	NOUN	NN	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	military	military	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	today	today	NOUN	NN	_	37	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+43	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	those	those	DET	DT	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	who	who	PRON	WP	_	47	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+46	received	receive	VERB	VBD	_	45	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+47	their	-PRON-	DET	PRP$	_	49	poss	_	ent_type=_|ent_id=2|ent_iob=O
+48	epaulets	epaulet	NOUN	NNS	_	47	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	47	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	entered	enter	VERB	VBD	_	47	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	this	this	DET	DT	_	54	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	glorious	glorious	ADJ	JJ	_	54	amod	_	ent_type=_|ent_id=2|ent_iob=O
+53	stage	stage	NOUN	NN	_	51	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 17
+# text = I express my gratitude for the innovative, beautiful and meaningful programs displayed in the arena.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	express	express	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	my	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	gratitude	gratitude	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	innovative	innovative	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	beautiful	beautiful	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	meaningful	meaningful	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	programs	program	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	displayed	display	VERB	VBN	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	arena	arena	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 16
+# text = The military formation and the programs were beautiful, meaningful, and new and innovative.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	military	military	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	formation	formation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	programs	program	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	beautiful	beautiful	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	meaningful	meaningful	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	new	new	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	innovative	innovative	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 34
+# text = In all areas of life - in knowledge, in management, in lifestyle, in preserving revolutionary values and in all other important matters - these factors are both necessary and possible.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	In	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	areas	area	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	life	life	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	-	-	PUNCT	HYPH	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	RP	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	knowledge	knowledge	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	management	management	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	lifestyle	lifestyle	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	preserving	preserve	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	revolutionary	revolutionary	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	values	value	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	all	all	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	other	other	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	important	important	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	matters	matter	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	-	-	PUNCT	:	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	these	these	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	factors	factor	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+30	both	both	DET	DT	_	29	dep	_	ent_type=_|ent_id=2|ent_iob=O
+31	necessary	necessary	ADJ	JJ	_	29	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	possible	possible	ADJ	JJ	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 26
+# text = That is to say, in all tasks, we should pay serious attention to innovation and novelty, beauty and exquisiteness, and meaningfulness.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	tasks	task	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	we	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	serious	serious	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	attention	attention	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	innovation	innovation	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	novelty	novelty	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	beauty	beauty	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	exquisiteness	exquisiteness	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	meaningfulness	meaningfulness	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 12
+# text = We should avoid superficial tasks on all important issues of life.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	avoid	avoid	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	superficial	superficial	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	tasks	task	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	important	important	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	issues	issue	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	life	life	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 14
+# text = Instead, we should pay attention to deep, meaningful and permanent issues.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Instead	instead	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	attention	attention	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	deep	deep	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	meaningful	meaningful	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	permanent	permanent	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	issues	issue	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 32
+# text = I thank God that today, this good tree - the Islamic Revolutionary Guards Corps - has reached an acceptable level of capabilities, progress, and intellectual and practical growth.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	today	today	NOUN	NN	_	18	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	good	good	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	tree	tree	NOUN	NN	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	:	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	15	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Revolutionary	Revolutionary	PROPN	NNP	_	14	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	Guards	Guards	PROPN	NNPS	_	15	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Corps	Corps	PROPN	NNP	_	9	appos	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	-	-	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	has	have	AUX	VBZ	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	reached	reach	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	an	an	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	acceptable	acceptable	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	level	level	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	capabilities	capability	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	progress	progress	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	intellectual	intellectual	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	practical	practical	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	growth	growth	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 13
+# text = Thankfully, you have managed to move forward on a daily basis.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Thankfully	thankfully	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	managed	manage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	move	move	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	forward	forward	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	daily	daily	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	basis	basis	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 13
+# text = You have perfected your inner and outer selves on a daily basis.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	perfected	perfect	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	your	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	inner	inner	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	outer	outer	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	selves	self	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	daily	daily	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	basis	basis	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 19
+# text = This university itself is one of the signs of the forward movement of the Islamic Revolutionary Guards Corps.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	university	university	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	itself	-PRON-	PRON	PRP	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	one	one	NUM	CD	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	signs	sign	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	forward	forward	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	movement	movement	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	18	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	Revolutionary	Revolutionary	PROPN	NNP	_	17	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	Guards	Guards	PROPN	NNPS	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Corps	Corps	PROPN	NNP	_	13	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 30
+# text = Dear youth, my dear children, you should pay attention that the hard-earned fruits of your university are the liberation of Khorramshahr and Operations Fath-ul
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	my	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	dear	dear	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	children	child	NOUN	NNS	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	attention	attention	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	hard	hard	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	HYPH	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	earned	earn	VERB	VBN	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	fruits	fruit	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	your	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	university	university	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	liberation	liberation	NOUN	NN	_	21	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Khorramshahr	Khorramshahr	PROPN	NNP	_	24	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	Operations	Operations	PROPN	NNP	_	30	compound	_	ent_type=_|ent_id=2|ent_iob=O
+28	Fath	Fath	PROPN	NNP	_	30	compound	_	ent_type=_|ent_id=2|ent_iob=O
+29	-	-	PUNCT	HYPH	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	ul	ul	PROPN	NNP	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 6
+# text = Mubin, Faw, and Karbala-5
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Mubin	Mubin	PROPN	NNP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	Faw	Faw	PROPN	NNP	_	1	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Karbala-5	Karbala-5	PROPN	NNP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 1
+# text = .
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	.	.	PUNCT	.	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 33
+# text = You should pay attention that the ground for your achievements was prepared by the efforts and sacrifices of your predecessors and the beacons of light that they carried in the front lines.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	attention	attention	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	ground	ground	NOUN	NN	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	achievements	achievement	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	prepared	prepare	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	efforts	effort	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	sacrifices	sacrifice	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	your	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	predecessors	predecessor	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	beacons	beacon	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	light	light	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	they	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	carried	carry	VERB	VBD	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	front	front	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	lines	line	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 30
+# text = Their efforts dazzled eyes, moved the country forward and turned the living environment of the Islamic Republic of Iran into a suitable environment for pursuing goals and ideals.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Their	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	efforts	effort	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	dazzled	dazzle	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	eyes	eye	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	moved	move	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	forward	forward	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	turned	turn	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	living	live	VERB	VBG	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	environment	environment	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	Republic	Republic	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	of	of	ADP	IN	_	18	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	Iran	Iran	PROPN	NNP	_	19	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	into	into	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	suitable	suitable	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	environment	environment	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	for	for	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	pursuing	pursue	VERB	VBG	_	25	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	goals	goal	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	ideals	ideal	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 18
+# text = Today, after the movement of the great Islamic Revolution, the flag is in your hands.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Today	today	NOUN	NN	_	14	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	after	after	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	movement	movement	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	great	great	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=EVENT|ent_id=3|ent_iob=B
+10	Revolution	Revolution	PROPN	NNP	_	6	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+11	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	flag	flag	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	hands	hand	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 3
+# text = Which flag?
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Which	which	DET	WDT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	flag	flag	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 21
+# text = The flag of the "New Islamic Discourse" which is useful and valuable for the happiness of human beings.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	flag	flag	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	8	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	"	"	PUNCT	``	_	8	punct	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	New	New	PROPN	NNP	_	8	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	Islamic	Islamic	PROPN	NNP	_	8	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	Discourse	Discourse	PROPN	NNP	_	3	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	"	"	PUNCT	''	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	useful	useful	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	valuable	valuable	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	happiness	happiness	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	human	human	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	beings	being	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 18
+# text = Everyone should know this: Islamic discourse is valuable for all humans and for the entire humanity.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Everyone	everyone	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	:	:	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islamic	islamic	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	discourse	discourse	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	valuable	valuable	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	humans	human	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	entire	entire	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	humanity	humanity	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 9
+# text = This flag is available to today's youth.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	flag	flag	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	available	available	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	today	today	NOUN	NN	_	8	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	youth	youth	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 26
+# text = This new, attractive and magnetic discourse was created by the Islamic Revolution and with the leadership of our magnanimous Imam (r.a.).
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	new	new	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	attractive	attractive	ADJ	JJ	_	3	intj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	magnetic	magnetic	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	discourse	discourse	NOUN	NN	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	was	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	created	create	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	Revolution	Revolution	PROPN	NNP	_	10	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+14	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	leadership	leadership	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	magnanimous	magnanimous	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	Imam	Imam	PROPN	NNP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	(	(	PUNCT	-LRB-	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	r.a	r.a	PROPN	NNP	_	24	dep	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	)	)	PUNCT	-RRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 28
+# text = The Islamic Revolution offered this discourse and our intelligent, vigilant and appreciative people took it, placed great value on it and protected it until today.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	3	det	_	ent_type=LAW|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=LAW|ent_id=1|ent_iob=I
+3	Revolution	Revolution	PROPN	NNP	_	4	nsubj	_	ent_type=LAW|ent_id=1|ent_iob=I
+4	offered	offer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	discourse	discourse	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	intelligent	intelligent	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	vigilant	vigilant	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	appreciative	appreciative	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	took	take	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	placed	place	VERB	VBN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	great	great	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	value	value	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	it	-PRON-	PRON	PRP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	protected	protect	VERB	VBD	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	it	-PRON-	PRON	PRP	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	until	until	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	today	today	NOUN	NN	_	26	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+28	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 30
+# text = The sacrifice of the people of Iran - one of the manifestations of which was the Sacred Defense Era - managed to raise this flag in the present time.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	sacrifice	sacrifice	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iran	Iran	PROPN	NNP	_	6	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	one	one	NUM	CD	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	manifestations	manifestation	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	21	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	Sacred	Sacred	PROPN	NNP	_	19	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Defense	Defense	PROPN	NNP	_	19	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	Era	Era	PROPN	NNP	_	21	npadvmod	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	-	-	PUNCT	HYPH	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	managed	manage	VERB	VBD	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	raise	raise	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	flag	flag	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	present	present	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	time	time	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 14
+# text = Today, this flag and discourse is faced with "jahiliyya" discourse.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	flag	flag	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	discourse	discourse	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	faced	face	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	``	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	jahiliyya	jahiliyya	PROPN	NNP	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	"	"	PUNCT	''	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	discourse	discourse	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 17
+# text = Islamic discourse advocates justice, freedom of human beings and destruction of arrogant and colonialist elements.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Islamic	islamic	ADJ	JJ	_	2	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+2	discourse	discourse	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	advocates	advocate	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	justice	justice	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	freedom	freedom	NOUN	NN	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	human	human	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	beings	being	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	destruction	destruction	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	arrogant	arrogant	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	colonialist	colonialist	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	elements	element	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 11
+# text = It advocates the destruction of global arrogance throughout the world.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	advocates	advocate	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	destruction	destruction	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	global	global	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	arrogance	arrogance	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	throughout	throughout	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	world	world	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 26
+# text = In other words, Islamic discourse does not want a system which is based on the oppressor and the oppressed to exist in the world.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islamic	islamic	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	discourse	discourse	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	does	do	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	want	want	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	system	system	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	based	base	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	oppressor	oppressor	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	oppressed	oppress	VERB	VBN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	exist	exist	VERB	VB	_	20	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	world	world	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 9
+# text = This is the discourse of the Islamic government.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	discourse	discourse	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	islamic	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	government	government	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 11
+# text = This is the same flag which is in your hands.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	same	same	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	flag	flag	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	which	which	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	hands	hand	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 29
+# text = At the opposite extreme, there is the discourse of oppression, bullying, arrogance and selfishness which is advocated by totalitarian and imperialist powers in the world.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	At	at	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	opposite	opposite	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	extreme	extreme	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	there	there	PRON	EX	_	7	expl	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	discourse	discourse	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	oppression	oppression	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	bullying	bullying	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	arrogance	arrogance	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	selfishness	selfishness	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	which	which	DET	WDT	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	advocated	advocate	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	20	agent	_	ent_type=_|ent_id=2|ent_iob=O
+22	totalitarian	totalitarian	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	imperialist	imperialist	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	powers	power	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	world	world	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 9
+# text = These powers are dependent on great economic cartels.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	powers	power	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	dependent	dependent	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	economic	economic	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	cartels	cartel	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 14
+# text = They have always existed and they exist in the present time as well.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	always	always	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	existed	exist	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	exist	exist	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	present	present	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	time	time	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	well	well	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 42
+# text = In the past, they revealed their nature with visible and verbal shamelessness and impudence, but today they further their goals in a hypocritical way and by hiding themselves behind beautiful slogans such as human rights and hatred of violence.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	past	past	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	revealed	reveal	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	nature	nature	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	visible	visible	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	verbal	verbal	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	shamelessness	shamelessness	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	impudence	impudence	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	today	today	NOUN	NN	_	20	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	further	further	VERB	VBP	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	goals	goal	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	hypocritical	hypocritical	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	way	way	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	by	by	ADP	IN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	hiding	hide	VERB	VBG	_	28	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	themselves	-PRON-	PRON	PRP	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	behind	behind	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	beautiful	beautiful	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	slogans	slogan	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	such	such	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	as	as	SCONJ	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	human	human	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	rights	right	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	hatred	hatred	NOUN	NN	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	violence	violence	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 11
+# text = Nonetheless, the sharp eyes of peoples can recognize them.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Nonetheless	nonetheless	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	sharp	sharp	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	eyes	eye	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	peoples	people	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	recognize	recognize	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	them	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 8
+# text = They can differentiate between these two discourses.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	differentiate	differentiate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	between	between	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	two	two	NUM	CD	_	7	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	discourses	discourse	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 11
+# text = These two discourses do not make up with each other.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	These	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	two	two	NUM	CD	_	3	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	discourses	discourse	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	up	up	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	each	each	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	other	other	ADJ	JJ	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 18
+# text = They do not get close to each other and they cannot be reconciled with each other.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	close	close	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	each	each	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	other	other	ADJ	JJ	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	can	can	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	reconciled	reconcile	VERB	VBN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	each	each	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	other	other	ADJ	JJ	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 17
+# text = One discourse is the discourse of oppression and hostility towards the oppressed and nations in general.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	One	one	NUM	CD	_	2	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	discourse	discourse	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	discourse	discourse	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	oppression	oppression	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	hostility	hostility	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	towards	towards	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	oppressed	oppress	VERB	VBN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	nations	nation	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	general	general	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 14
+# text = Another discourse is the discourse of supporting the oppressed and confronting the oppressor.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Another	another	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	discourse	discourse	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	discourse	discourse	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	supporting	support	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	oppressed	oppress	VERB	VBN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	confronting	confront	VERB	VBG	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	oppressor	oppressor	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 8
+# text = How can these two discourses shake hands?
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	How	how	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	two	two	NUM	CD	_	5	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+5	discourses	discourse	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	shake	shake	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	hands	hand	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	?	?	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 9
+# text = How can they get close to each other?
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	How	how	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	close	close	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	each	each	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	other	other	ADJ	JJ	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 10
+# text = And today, the world knows and understands this.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	And	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	world	world	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	knows	know	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	understands	understand	VERB	VBZ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 24
+# text = In their propaganda, our enemies try to pretend that the Islamic Republic is isolated, but the Islamic Republic is not isolated.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	In	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	their	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	propaganda	propaganda	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	enemies	enemy	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	try	try	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	pretend	pretend	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	Republic	Republic	PROPN	NNP	_	15	nsubjpass	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	is	be	AUX	VBZ	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	isolated	isolate	VERB	VBN	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	but	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	Islamic	Islamic	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	Republic	Republic	PROPN	NNP	_	23	nsubjpass	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	is	be	AUX	VBZ	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	not	not	PART	RB	_	23	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	isolated	isolate	VERB	VBN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 25
+# text = From the beginning of its creation until today, the Islamic Republic has held a place in the hearts of peoples throughout the world.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	From	from	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	beginning	beginning	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	its	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	creation	creation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	until	until	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	today	today	NOUN	NN	_	7	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	14	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	has	have	AUX	VBZ	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	held	hold	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	place	place	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	hearts	heart	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	peoples	people	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	throughout	throughout	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	world	world	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 39
+# text = Of course, if there is false propaganda anywhere in the world and if events are painted in a dark and magnified way, truths may be concealed, but they will remain concealed for a short time.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	there	there	PRON	EX	_	6	expl	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	3	intj	_	ent_type=_|ent_id=2|ent_iob=O
+7	false	false	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	propaganda	propaganda	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	anywhere	anywhere	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	world	world	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	if	if	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	events	event	NOUN	NNS	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	painted	paint	VERB	VBN	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	dark	dark	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	magnified	magnify	VERB	VBN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	way	way	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	truths	truth	NOUN	NNS	_	28	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	may	may	VERB	MD	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	be	be	AUX	VB	_	28	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	concealed	conceal	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	they	-PRON-	PRON	PRP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	will	will	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	remain	remain	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	concealed	conceal	VERB	VBN	_	33	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	for	for	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	a	a	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	short	short	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	time	time	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 32
+# text = Notice that from the beginning of the Revolution until today, whenever a president of Iran travelled to other countries, the people showed their love in their behavior and words.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Notice	notice	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	from	from	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	beginning	beginning	NOUN	NN	_	3	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	of	of	ADP	IN	_	5	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	the	the	DET	DT	_	8	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	Revolution	Revolution	PROPN	NNP	_	6	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	until	until	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	today	today	NOUN	NN	_	9	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	whenever	whenever	ADV	WRB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	president	president	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iran	Iran	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	travelled	travel	VERB	VBD	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	other	other	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	countries	country	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	people	people	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	showed	show	VERB	VBD	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	love	love	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	their	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	behavior	behavior	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	words	word	NOUN	NNS	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 11
+# text = Such a phenomenon was not particular to one era only.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Such	such	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	phenomenon	phenomenon	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	particular	particular	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	one	one	NUM	CD	_	9	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	era	era	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	only	only	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 14
+# text = This has been the case from the beginning of the Revolution until today.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	from	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	beginning	beginning	NOUN	NN	_	6	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	of	of	ADP	IN	_	8	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	the	the	DET	DT	_	11	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	Revolution	Revolution	PROPN	NNP	_	9	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	until	until	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	today	today	NOUN	NN	_	12	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 47
+# text = It has been the case in North Africa, in Central Africa, in West Asia - which westerners like to call "the Middle East" - in East Asia, in the subcontinent and even in those countries which are located near European countries.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	North	North	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	Africa	Africa	PROPN	NNP	_	6	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Central	Central	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	Africa	Africa	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	West	West	PROPN	NNP	_	16	compound	_	ent_type=LOC|ent_id=3|ent_iob=B
+16	Asia	Asia	PROPN	NNP	_	14	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+17	-	-	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	which	which	DET	WDT	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	westerners	westerner	VERB	VBZ	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	like	like	VERB	VBP	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	call	call	VERB	VB	_	20	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	"	"	PUNCT	``	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+25	Middle	Middle	PROPN	NNP	_	26	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+26	East	East	PROPN	NNP	_	22	oprd	_	ent_type=LOC|ent_id=1|ent_iob=I
+27	"	"	PUNCT	''	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	-	-	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	East	East	PROPN	NNP	_	31	compound	_	ent_type=LOC|ent_id=3|ent_iob=B
+31	Asia	Asia	PROPN	NNP	_	29	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+32	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	subcontinent	subcontinent	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	even	even	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	in	in	ADP	IN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	those	those	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	countries	country	NOUN	NNS	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	which	which	DET	WDT	_	43	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+42	are	be	AUX	VBP	_	43	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+43	located	locate	VERB	VBN	_	40	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+44	near	near	SCONJ	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	European	european	ADJ	JJ	_	46	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+46	countries	country	NOUN	NNS	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 23
+# text = Wherever our presidents went and whenever they were allowed to face the people, the people of those countries expressed their love.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Wherever	wherever	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	presidents	president	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	went	go	VERB	VBD	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	whenever	whenever	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	allowed	allow	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	face	face	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	people	people	NOUN	NNS	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	those	those	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	countries	country	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	expressed	express	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	love	love	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 11
+# text = Today, this is the case all over the world.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	case	case	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	over	over	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	world	world	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 27
+# text = Today, your name and the name of the people of Iran is a lofty and glorious name among nations and liberated individuals throughout the world.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Today	today	NOUN	NN	_	13	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	your	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	name	name	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	name	name	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iran	Iran	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	lofty	lofty	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	glorious	glorious	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	name	name	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	among	among	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	nations	nation	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	liberated	liberate	VERB	VBN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	individuals	individual	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	throughout	throughout	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	world	world	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 4
+# text = What about governments?
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	What	what	PRON	WP	_	2	dep	_	ent_type=_|ent_id=2|ent_iob=O
+2	about	about	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	governments	government	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 12
+# text = The same is true of governments because governments are from people.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	same	same	ADJ	JJ	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	true	true	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	governments	government	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	because	because	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	governments	government	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 66
+# text = Those who are not very evil, dark-hearted and malicious, those who are not drowned in lust, those who do not like to be the servants of arrogance from the bottom of their hearts acknowledge and admit to the greatness of the people of Iran and the system that has managed to move them forward in a such a magnificent way.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Those	those	DET	DT	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	very	very	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	evil	evil	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	dark	dark	ADJ	JJ	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	hearted	hearted	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	malicious	malicious	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	those	those	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	not	not	PART	RB	_	18	neg	_	ent_type=_|ent_id=2|ent_iob=O
+18	drowned	drown	VERB	VBN	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	lust	lust	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	those	those	DET	DT	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	who	who	PRON	WP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	do	do	AUX	VBP	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	not	not	PART	RB	_	26	neg	_	ent_type=_|ent_id=2|ent_iob=O
+26	like	like	VERB	VB	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	be	be	AUX	VB	_	26	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	servants	servant	NOUN	NNS	_	28	attr	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	arrogance	arrogance	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	from	from	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	bottom	bottom	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	their	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	hearts	heart	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	acknowledge	acknowledge	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	admit	admit	VERB	VB	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	to	to	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	greatness	greatness	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	of	of	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	people	people	NOUN	NNS	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	of	of	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	Iran	Iran	PROPN	NNP	_	48	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+50	and	and	CCONJ	CC	_	47	cc	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	system	system	NOUN	NN	_	47	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	that	that	DET	WDT	_	55	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+54	has	have	AUX	VBZ	_	55	aux	_	ent_type=_|ent_id=2|ent_iob=O
+55	managed	manage	VERB	VBN	_	52	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+56	to	to	PART	TO	_	57	aux	_	ent_type=_|ent_id=2|ent_iob=O
+57	move	move	VERB	VB	_	55	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+58	them	-PRON-	PRON	PRP	_	57	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	forward	forward	ADV	RB	_	57	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+60	in	in	ADP	IN	_	57	prep	_	ent_type=_|ent_id=2|ent_iob=O
+61	a	a	DET	DT	_	65	det	_	ent_type=_|ent_id=2|ent_iob=O
+62	such	such	ADJ	JJ	_	65	amod	_	ent_type=_|ent_id=2|ent_iob=O
+63	a	a	DET	DT	_	65	det	_	ent_type=_|ent_id=2|ent_iob=O
+64	magnificent	magnificent	ADJ	JJ	_	65	amod	_	ent_type=_|ent_id=2|ent_iob=O
+65	way	way	NOUN	NN	_	60	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+66	.	.	PUNCT	.	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 42
+# text = In the congresses that have been held in our country - whether in the Islamic conferences or in the summit of non-aligned countries - most heads of countries and outstanding officials gathered here and expressed their respect and interest.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	In	in	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	congresses	congress	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	held	hold	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	whether	whether	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	conferences	conference	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	or	or	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	summit	summit	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	non	non	ADJ	JJ	_	23	dep	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	ADJ	JJ	_	24	dep	_	ent_type=_|ent_id=2|ent_iob=O
+24	aligned	aligned	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	countries	country	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	-	-	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	most	most	ADJ	JJS	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	heads	head	NOUN	NNS	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	countries	country	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	outstanding	outstanding	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	officials	official	NOUN	NNS	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	gathered	gather	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+35	here	here	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	expressed	express	VERB	VBD	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	their	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	respect	respect	NOUN	NN	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	interest	interest	NOUN	NN	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 8
+# text = It is said that Iran is isolated.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	said	say	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iran	Iran	PROPN	NNP	_	7	nsubjpass	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	isolated	isolate	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 18
+# text = The isolated are those people who can attract a few hearts with bullying, money and dollars.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	isolated	isolated	ADJ	JJ	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	those	those	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	attract	attract	VERB	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	few	few	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	hearts	heart	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	bullying	bullying	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	money	money	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	dollars	dollar	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 15
+# text = Neither their messages and statements nor their actions attract any hearts in the world.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Neither	neither	CCONJ	CC	_	3	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+2	their	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	messages	message	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	statements	statement	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	nor	nor	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	actions	action	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	attract	attract	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	any	any	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	hearts	heart	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 19
+# text = My dear youth, dear people of Iran, it is you who are holding this glorious flag.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	My	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	11	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	dear	dear	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iran	Iran	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	you	-PRON-	PRON	PRP	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	holding	hold	VERB	VBG	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	glorious	glorious	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	flag	flag	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 22
+# text = Our youth in this university and in all areas of the country are moving on this path in a pious way.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	university	university	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	areas	area	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	moving	move	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	path	path	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	pious	pious	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	way	way	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 25
+# text = We will not lose our dignity which has been achieved by Islam, the Islamic government and the revolutionary movement, outlook and ideals.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	lose	lose	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	dignity	dignity	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	been	be	AUX	VBN	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	achieved	achieve	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islam	Islam	PROPN	NNP	_	11	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	government	government	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	revolutionary	revolutionary	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	movement	movement	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	outlook	outlook	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	ideals	ideal	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 9
+# text = Today, the enemies are busy creating challenges.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enemies	enemy	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	busy	busy	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	creating	create	VERB	VBG	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	challenges	challenge	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 21
+# text = Every day, they pose a new challenge for the Islamic Republic of Iran, but we are not afraid.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Every	every	DET	DT	_	2	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	day	day	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	pose	pose	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	new	new	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	challenge	challenge	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	of	of	ADP	IN	_	12	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	Iran	Iran	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	we	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	not	not	PART	RB	_	18	neg	_	ent_type=_|ent_id=2|ent_iob=O
+20	afraid	afraid	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 18
+# text = If we were a dead and inactive body, there would be no challenge ahead of us.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	dead	dead	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	inactive	inactive	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	body	body	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	there	there	PRON	EX	_	12	expl	_	ent_type=_|ent_id=2|ent_iob=O
+11	would	would	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	no	no	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	challenge	challenge	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	ahead	ahead	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	us	-PRON-	PRON	PRP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 16
+# text = We are dynamic, we are alive, we are growing and we are active.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	dynamic	dynamic	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	alive	alive	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	growing	grow	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	we	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	active	active	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 37
+# text = Therefore, we should expect such challenges to exist, but we will overcome them with power, with reliance on Allah the Exalted, with trust in His divine promises and with self-confidence.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	expect	expect	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	such	such	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	challenges	challenge	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	exist	exist	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	we	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	overcome	overcome	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	them	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	power	power	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	reliance	reliance	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Allah	Allah	PROPN	NNP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Exalted	Exalted	PROPN	NNP	_	22	appos	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	trust	trust	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	His	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	divine	divine	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	promises	promise	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	with	with	ADP	IN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	self	self	NOUN	NN	_	36	compound	_	ent_type=_|ent_id=2|ent_iob=O
+35	-	-	PUNCT	HYPH	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	confidence	confidence	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 12
+# text = Our enemies have a wrong understanding of the people of Iran.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	wrong	wrong	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	understanding	understanding	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iran	Iran	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 11
+# text = They do not know the officials of the Islamic Republic.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 10
+# text = This is why they behave in a bullying manner.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	behave	behave	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	bullying	bullying	NOUN	NN	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	manner	manner	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 14
+# text = They behave in a bullying manner on the issue of the nuclear negotiations.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	behave	behave	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	bullying	bullying	NOUN	NN	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	manner	manner	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	issue	issue	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	nuclear	nuclear	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	negotiations	negotiation	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 12
+# text = This shows that they do not know the people of Iran.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	know	know	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iran	Iran	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 10
+# text = It shows that they do not know our administration.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	know	know	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	administration	administration	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 14
+# text = Our administration will not give in because they are from among the people.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	administration	administration	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	give	give	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	RP	_	5	prt	_	ent_type=_|ent_id=2|ent_iob=O
+7	because	because	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	among	among	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 24
+# text = They come from the people and they have moved forward and achieved growth with the same ideals that the people of Iran have.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	come	come	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	from	from	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	moved	move	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	forward	forward	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	achieved	achieve	VERB	VBD	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	growth	growth	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	same	same	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	ideals	ideal	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	DET	WDT	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	people	people	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Iran	Iran	PROPN	NNP	_	21	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+23	have	have	AUX	VBP	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 26
+# text = The more a government and people, and the officials of a country retreat in the face of this enemy, the more he advances.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	more	more	ADV	RBR	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	government	government	NOUN	NN	_	25	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	officials	official	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	retreat	retreat	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	face	face	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	enemy	enemy	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	more	more	ADV	RBR	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	he	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	advances	advance	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 4
+# text = He is greedy.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	greedy	greedy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 17
+# text = He does not become satisfied with anything other than arrogance, colonialism and domination over nations.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	He	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	does	do	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	satisfied	satisfied	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	anything	anything	PRON	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	other	other	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	than	than	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	arrogance	arrogance	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	colonialism	colonialism	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	domination	domination	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	over	over	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	nations	nation	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 9
+# text = He will advance as far as he can.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	advance	advance	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	as	as	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	far	far	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	as	as	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	he	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 28
+# text = Therefore, we should create a solid wall - which is formed with determination, reliance on God, and national power - in front of him.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	create	create	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	solid	solid	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	wall	wall	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	formed	form	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	determination	determination	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	reliance	reliance	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	on	on	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	God	God	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	national	national	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	power	power	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	HYPH	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	front	front	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	him	-PRON-	PRON	PRP	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 10
+# text = They are saying new things in the nuclear negotiations.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	saying	say	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	new	new	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	things	thing	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nuclear	nuclear	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	negotiations	negotiation	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 12
+# text = For example, they speak about visiting and examining our centers.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	For	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	example	example	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	speak	speak	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	about	about	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	visiting	visit	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	examining	examine	VERB	VBG	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	centers	center	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 18
+# text = As we said before, we will not allow any military center to be examined by foreigners.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	As	as	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	said	say	VERB	VBD	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	before	before	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	any	any	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	military	military	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	center	center	NOUN	NN	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	be	be	AUX	VB	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	examined	examine	VERB	VBN	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+17	foreigners	foreigner	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 9
+# text = They say that they should interview our scientists.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	say	say	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	interview	interview	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	scientists	scientist	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 10
+# text = In other words, they want to interrogate them.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	want	want	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	interrogate	interrogate	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	them	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 21
+# text = We do not allow our nuclear scientists and scientists in any sensitive and important area to endure the slightest insult.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	nuclear	nuclear	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	scientists	scientist	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	scientists	scientist	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	any	any	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	sensitive	sensitive	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	important	important	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	area	area	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	endure	endure	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	slightest	slight	ADJ	JJS	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	insult	insult	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 32
+# text = I do not allow foreigners to speak to our scientists and the outstanding and dear children of the people of Iran who have helped this vast science reach the current point.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	foreigners	foreigner	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	speak	speak	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	scientists	scientist	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	outstanding	outstanding	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	dear	dear	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	children	child	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Iran	Iran	PROPN	NNP	_	20	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	who	who	PRON	WP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	have	have	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	helped	help	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	vast	vast	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	science	science	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	reach	reach	VERB	VB	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	current	current	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	point	point	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 12
+# text = No wise person and government in the world gives such permission.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	No	no	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	wise	wise	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	person	person	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	government	government	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	world	world	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	gives	give	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	such	such	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	permission	permission	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 15
+# text = They hide their scientists and they do not even let their names be disclosed.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hide	hide	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	their	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	scientists	scientist	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	do	do	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	even	even	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	let	let	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	names	name	NOUN	NNS	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	disclosed	disclose	VERB	VBN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 30
+# text = This brazen and shameless enemy expects us to allow this and to open the path for him to speak to and negotiate with our scientists, professors and researchers.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	brazen	brazen	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	shameless	shameless	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemy	enemy	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	expects	expect	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	us	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	allow	allow	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	open	open	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	path	path	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	him	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	speak	speak	VERB	VB	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	negotiate	negotiate	VERB	VB	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	with	with	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	scientists	scientist	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	professors	professor	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	researchers	researcher	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 6
+# text = What should they negotiate about?
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	What	what	PRON	WP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	negotiate	negotiate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 18
+# text = They want to negotiate about a fundamental, domestic and scientific achievement that our country has made.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	want	want	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	negotiate	negotiate	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	fundamental	fundamental	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	domestic	domestic	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	scientific	scientific	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	achievement	achievement	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	has	have	AUX	VBZ	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	made	make	VERB	VBN	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 10
+# text = This permission will not be granted in any way.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	permission	permission	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	granted	grant	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	any	any	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	way	way	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 19
+# text = Both our enemies and those who are waiting for the decision of the Islamic Republic should know this.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Both	both	CCONJ	CC	_	3	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	enemies	enemy	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	waiting	wait	VERB	VBG	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	decision	decision	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	Republic	Republic	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	should	should	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 38
+# text = Our dear officials - who move in this arena in a courageous way - should know that the only way to confront this shameless enemy is to have firm determination and to avoid adopting a passive outlook.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	officials	official	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	move	move	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	arena	arena	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	courageous	courageous	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	way	way	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	should	should	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	only	only	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	way	way	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	confront	confront	VERB	VB	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	shameless	shameless	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	enemy	enemy	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	is	be	AUX	VBZ	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	have	have	AUX	VB	_	26	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	firm	firm	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	determination	determination	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	PART	TO	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	avoid	avoid	VERB	VB	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	adopting	adopt	VERB	VBG	_	33	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	a	a	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	passive	passive	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	outlook	outlook	NOUN	NN	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 19
+# text = They should be able to show the message and greatness of the people of Iran in the negotiations.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	able	able	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	show	show	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	message	message	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	greatness	greatness	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iran	Iran	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	negotiations	negotiation	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 24
+# text = All of us wherever we are, are people who have managed to occupy a position in the shade of the Islamic Revolution.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	All	all	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	us	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	wherever	wherever	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	1	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	managed	manage	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	occupy	occupy	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	position	position	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	shade	shade	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+22	Islamic	Islamic	PROPN	NNP	_	23	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+23	Revolution	Revolution	PROPN	NNP	_	20	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+24	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 7
+# text = All the veteran teachers that you -
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	All	all	DET	PDT	_	4	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	veteran	veteran	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	teachers	teacher	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	intj	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 37
+# text = I mean you young and studious students who have lofty goals - have in different areas enjoy the honor of making efforts and rendering services for the Islamic government and for reaching lofty goals and ideals.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	mean	mean	VERB	VBP	_	17	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	7	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	young	young	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	studious	studious	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	students	student	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	lofty	lofty	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	goals	goal	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	have	have	AUX	VBP	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	different	different	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	areas	area	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	enjoy	enjoy	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	honor	honor	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	making	make	VERB	VBG	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	efforts	effort	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	rendering	render	VERB	VBG	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	services	service	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	for	for	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	Islamic	islamic	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	government	government	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	for	for	ADP	IN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	reaching	reach	VERB	VBG	_	31	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	lofty	lofty	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	goals	goal	NOUN	NNS	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	ideals	ideal	NOUN	NNS	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 6
+# text = All of us are servants.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	All	all	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	us	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	servants	servant	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 12
+# text = This humble person too is the servant of all of you.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	humble	humble	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	person	person	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	too	too	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	servant	servant	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	DT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 27
+# text = All of us have the responsibility to stand up against the enemy's bullying, shamelessness, wrong expectations and plots with complete power and resistance.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	All	all	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	us	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	responsibility	responsibility	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	stand	stand	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	up	up	ADP	RP	_	8	prt	_	ent_type=_|ent_id=2|ent_iob=O
+10	against	against	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	enemy	enemy	NOUN	NN	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	's	's	PART	POS	_	12	case	_	ent_type=_|ent_id=2|ent_iob=O
+14	bullying	bullying	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	shamelessness	shamelessness	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	wrong	wrong	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	expectations	expectation	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	plots	plot	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	complete	complete	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	power	power	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	resistance	resistance	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 36
+# text = I have received news that our enemies have decided to draw proxy wars to Iran's borders in collaboration with some mindless officials in the Persian Gulf region - some, not all of them.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	received	receive	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	news	news	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemies	enemy	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	decided	decide	VERB	VBN	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	draw	draw	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	proxy	proxy	NOUN	NN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	wars	war	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iran	Iran	PROPN	NNP	_	17	poss	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	's	's	PART	POS	_	15	case	_	ent_type=_|ent_id=2|ent_iob=O
+17	borders	border	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	collaboration	collaboration	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	some	some	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	mindless	mindless	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	officials	official	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+26	Persian	Persian	PROPN	NNP	_	27	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+27	Gulf	Gulf	PROPN	NNP	_	28	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+28	region	region	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	-	-	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	some	some	DET	DT	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	not	not	PART	RB	_	33	neg	_	ent_type=_|ent_id=2|ent_iob=O
+33	all	all	DET	DT	_	30	appos	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	them	-PRON-	PRON	PRP	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 21
+# text = The guardians of the Islamic Revolution and all the guardians of national security in different organizations are awake and vigilant.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	guardians	guardian	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+6	Revolution	Revolution	PROPN	NNP	_	3	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+7	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	guardians	guardian	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	national	national	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	security	security	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	different	different	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	organizations	organization	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	awake	awake	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	vigilant	vigilant	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 20
+# text = They should know: if they do some mischief, the Islamic Republic's response will be very harsh.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	:	:	PUNCT	:	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	do	do	AUX	VBP	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	some	some	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	mischief	mischief	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	Republic	Republic	PROPN	NNP	_	15	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	's	's	PART	POS	_	13	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	response	response	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	very	very	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	harsh	harsh	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 8
+# text = This is a clear and open path.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	clear	clear	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	open	open	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	path	path	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 12
+# text = This is a clear horizon ahead of the people of Iran.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	clear	clear	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	horizon	horizon	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	ahead	ahead	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iran	Iran	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 13
+# text = The people of Iran are thankfully taking this path with complete hope.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iran	Iran	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	thankfully	thankfully	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	taking	take	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	path	path	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	complete	complete	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	hope	hope	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 15
+# text = Of course, taking paths towards great goals involves tiredness, costs and difficulties.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	taking	take	VERB	VBG	_	9	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	paths	path	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	towards	towards	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	goals	goal	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	involves	involve	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	tiredness	tiredness	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	costs	cost	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	difficulties	difficulty	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 80
+# text = Those who are considered to be competent individuals throughout history and those nations who received the medal of competence from history were people who did not become tired of problems, who did not kneel before challenges, who did not retreat in the face of bullying enemies and who put up the solid wall of determination and national willpower against any transgression - including verbal, practical, hard and soft, and all other kinds of transgression.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Those	those	DET	DT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	considered	consider	VERB	VBN	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	competent	competent	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	individuals	individual	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	throughout	throughout	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	history	history	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	those	those	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	nations	nation	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	received	receive	VERB	VBD	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	medal	medal	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	competence	competence	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	from	from	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	history	history	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	people	people	NOUN	NNS	_	22	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	did	do	AUX	VBD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	not	not	PART	RB	_	27	neg	_	ent_type=_|ent_id=2|ent_iob=O
+27	become	become	VERB	VB	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	tired	tired	ADJ	JJ	_	27	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	problems	problem	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	who	who	PRON	WP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	did	do	AUX	VBD	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	not	not	PART	RB	_	35	neg	_	ent_type=_|ent_id=2|ent_iob=O
+35	kneel	kneel	VERB	VB	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	before	before	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	challenges	challenge	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	who	who	PRON	WP	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	did	do	AUX	VBD	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	not	not	PART	RB	_	42	neg	_	ent_type=_|ent_id=2|ent_iob=O
+42	retreat	retreat	VERB	VB	_	37	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+43	in	in	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	face	face	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	of	of	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	bullying	bully	VERB	VBG	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	enemies	enemy	NOUN	NNS	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	who	who	PRON	WP	_	51	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+51	put	put	VERB	VBD	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+52	up	up	ADP	RP	_	51	prt	_	ent_type=_|ent_id=2|ent_iob=O
+53	the	the	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	solid	solid	ADJ	JJ	_	55	amod	_	ent_type=_|ent_id=2|ent_iob=O
+55	wall	wall	NOUN	NN	_	51	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	of	of	ADP	IN	_	55	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	determination	determination	NOUN	NN	_	56	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+58	and	and	CCONJ	CC	_	57	cc	_	ent_type=_|ent_id=2|ent_iob=O
+59	national	national	ADJ	JJ	_	60	amod	_	ent_type=_|ent_id=2|ent_iob=O
+60	willpower	willpower	NOUN	NN	_	55	conj	_	ent_type=_|ent_id=2|ent_iob=O
+61	against	against	ADP	IN	_	51	prep	_	ent_type=_|ent_id=2|ent_iob=O
+62	any	any	DET	DT	_	63	det	_	ent_type=_|ent_id=2|ent_iob=O
+63	transgression	transgression	NOUN	NN	_	61	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+64	-	-	PUNCT	,	_	63	punct	_	ent_type=_|ent_id=2|ent_iob=O
+65	including	include	VERB	VBG	_	63	prep	_	ent_type=_|ent_id=2|ent_iob=O
+66	verbal	verbal	ADJ	JJ	_	65	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+67	,	,	PUNCT	,	_	66	punct	_	ent_type=_|ent_id=2|ent_iob=O
+68	practical	practical	ADJ	JJ	_	66	conj	_	ent_type=_|ent_id=2|ent_iob=O
+69	,	,	PUNCT	,	_	68	punct	_	ent_type=_|ent_id=2|ent_iob=O
+70	hard	hard	ADJ	JJ	_	68	conj	_	ent_type=_|ent_id=2|ent_iob=O
+71	and	and	CCONJ	CC	_	70	cc	_	ent_type=_|ent_id=2|ent_iob=O
+72	soft	soft	ADJ	JJ	_	70	conj	_	ent_type=_|ent_id=2|ent_iob=O
+73	,	,	PUNCT	,	_	66	punct	_	ent_type=_|ent_id=2|ent_iob=O
+74	and	and	CCONJ	CC	_	66	cc	_	ent_type=_|ent_id=2|ent_iob=O
+75	all	all	DET	DT	_	77	det	_	ent_type=_|ent_id=2|ent_iob=O
+76	other	other	ADJ	JJ	_	77	amod	_	ent_type=_|ent_id=2|ent_iob=O
+77	kinds	kind	NOUN	NNS	_	66	conj	_	ent_type=_|ent_id=2|ent_iob=O
+78	of	of	ADP	IN	_	77	prep	_	ent_type=_|ent_id=2|ent_iob=O
+79	transgression	transgression	NOUN	NN	_	78	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+80	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 10
+# text = The people of Iran are one of those peoples.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iran	Iran	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	one	one	NUM	CD	_	5	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	those	those	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	peoples	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 16
+# text = It is 35 years now that the people of Iran have been taking this path.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	35	35	NUM	CD	_	4	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	years	year	NOUN	NNS	_	5	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	now	now	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iran	Iran	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	been	be	AUX	VBN	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	taking	take	VERB	VBG	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	path	path	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 15
+# text = Today, you dear youth are the newly-ripened fruits of this arena.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	dear	dear	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	youth	youth	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	newly	newly	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	ripened	ripen	VERB	VBN	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	fruits	fruit	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	arena	arena	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 31
+# text = I hope that by Allah's favor, you and the other youth who are busy studying and pursuing their education all over the country will carry this heavy load.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	7	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	favor	favor	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	youth	youth	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	busy	busy	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	studying	study	VERB	VBG	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	pursuing	pursue	VERB	VBG	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	education	education	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	all	all	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	over	over	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	country	country	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	will	will	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	carry	carry	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	this	this	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	heavy	heavy	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	load	load	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 36
+# text = I hope that God willing, you will carry this load better than us and the generation before you and that you will make our dear and great martyrs feel proud before Allah the Exalted.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	willing	willing	ADJ	JJ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	carry	carry	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	load	load	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	better	better	ADV	RBR	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	than	than	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	us	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	generation	generation	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	before	before	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	you	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	you	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	make	make	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	dear	dear	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	great	great	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	martyrs	martyr	NOUN	NNS	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	feel	feel	VERB	VBP	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	proud	proud	ADJ	JJ	_	30	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	before	before	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	Allah	Allah	PROPN	NNP	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	Exalted	Exalted	PROPN	NNP	_	33	appos	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 47
+# text = Dear God, by the blessedness of Muhammad (s.w.a.) and his household (a.s.), shower Your mercy and blessings on the pure souls of our precious martyrs and on the immaculate soul of our magnanimous Imam (r.a.).
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Dear	dear	ADJ	JJ	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	21	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	blessedness	blessedness	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Muhammad	Muhammad	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	(	(	PUNCT	-LRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	s.w.a	s.w.a	NOUN	NN	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	his	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	household	household	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	(	(	PUNCT	-LRB-	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	a.s	a.s	PROPN	NNP	_	18	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	.	.	PROPN	NNP	_	15	appos	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	)	)	PUNCT	-RRB-	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	shower	shower	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	Your	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	mercy	mercy	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	blessings	blessing	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	on	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	pure	pure	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	souls	soul	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	our	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	precious	precious	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	martyrs	martyr	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	on	on	ADP	IN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	immaculate	immaculate	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	soul	soul	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	our	-PRON-	DET	PRP$	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+41	magnanimous	magnanimous	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	Imam	Imam	PROPN	NNP	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	(	(	PUNCT	-LRB-	_	44	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	r.a	r.a	PROPN	NNP	_	45	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+45	.	.	PUNCT	.	_	42	punct	_	ent_type=GPE|ent_id=1|ent_iob=I
+46	)	)	PUNCT	-RRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 13
+# text = Shower Your mercy and blessings on these young hearts and pure individuals.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Shower	shower	VERB	VB	_	0	ROOT	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	mercy	mercy	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	blessings	blessing	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	young	young	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	hearts	heart	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	pure	pure	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	individuals	individual	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 37
+# text = Dear God, in this month of Sha'ban and in the month of Ramadan - which is imminent - bestow on these youth the blessing of serving and getting close to You on a daily basis.
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Dear	dear	ADJ	JJ	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	God	God	PROPN	NNP	_	0	ROOT	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	intj	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	month	month	NOUN	NN	_	4	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Sha'ban	Sha'ban	PROPN	NNP	_	7	pobj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	month	month	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Ramadan	Ramadan	PROPN	NNP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	imminent	imminent	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	HYPH	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	bestow	bestow	NOUN	NN	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	these	these	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	youth	youth	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	blessing	blessing	NOUN	NN	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	serving	serve	VERB	VBG	_	26	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	getting	get	VERB	VBG	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	close	close	ADJ	JJ	_	29	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	You	-PRON-	PRON	PRP	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	on	on	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	a	a	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	daily	daily	ADJ	JJ	_	36	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+36	basis	basis	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech at Imam Hussein (a.s.) University
+# year = 2015
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

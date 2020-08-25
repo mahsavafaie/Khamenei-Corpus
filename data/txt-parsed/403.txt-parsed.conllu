@@ -1,0 +1,3029 @@
+# sent_id = 1
+# sent_len = 10
+# text = Dear book-loving brothers and sisters, welcome.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Dear	dear	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	book	book	NOUN	NN	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	HYPH	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	loving	love	VERB	VBG	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	brothers	brother	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	sisters	sister	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	welcome	welcome	INTJ	UH	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 8
+# text = This meeting is a purely cultural meeting.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	meeting	meeting	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	purely	purely	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	cultural	cultural	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	meeting	meeting	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 11
+# text = The main purpose for which I arranged this meeting with you
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	main	main	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	purpose	purpose	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	arranged	arrange	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	meeting	meeting	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 30
+# text = dear brothers and sisters was to thank our librarians and library officials across the country for their efforts and for the great and important responsibility that they are shouldering.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	brothers	brother	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	sisters	sister	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	thank	thank	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	librarians	librarian	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	library	library	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	officials	official	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	across	across	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	efforts	effort	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	for	for	ADP	IN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	great	great	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	important	important	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	responsibility	responsibility	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	they	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	are	be	AUX	VBP	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	shouldering	shoulder	VERB	VBG	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 22
+# text = The other purpose was to show respect for books and reading books and to underline the importance of books in society.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	purpose	purpose	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	show	show	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	respect	respect	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	books	book	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	reading	read	VERB	VBG	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	books	book	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	underline	underline	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	importance	importance	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	books	book	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	society	society	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 13
+# text = The more we move ahead, the more we will need books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	more	more	ADV	RBR	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	move	move	VERB	VBP	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	ahead	ahead	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	more	more	ADV	RBR	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	need	need	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	books	book	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 18
+# text = It is wrong to think that books will be sidelined after the emergence of new communication equipment.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	wrong	wrong	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	think	think	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	books	book	NOUN	NNS	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	sidelined	sideline	VERB	VBN	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	after	after	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	emergence	emergence	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	new	new	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	communication	communication	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	equipment	equipment	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 9
+# text = Books will gain increasing importance in human communities.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Books	book	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	gain	gain	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	increasing	increase	VERB	VBG	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	importance	importance	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	human	human	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	communities	community	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 7
+# text = The best new communication technologies can do
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	best	good	ADJ	JJS	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	new	new	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	communication	communication	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	technologies	technology	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	do	do	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 12
+# text = is facilitate availability of books and conveying the content of books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	facilitate	facilitate	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	availability	availability	NOUN	NN	_	1	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	books	book	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	conveying	convey	VERB	VBG	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	content	content	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	books	book	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 5
+# text = Nothing will replace books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Nothing	nothing	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	replace	replace	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	books	book	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 31
+# text = One point is that if we are after increasing cooperation among our people in terms of thought, experience and artistic talent, we should increase our contact with books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	One	one	NUM	CD	_	2	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	point	point	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	after	after	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	increasing	increase	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	cooperation	cooperation	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	among	among	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	terms	term	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	thought	thought	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	experience	experience	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	artistic	artistic	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	talent	talent	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	we	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	should	should	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	increase	increase	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	our	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	contact	contact	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	with	with	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	books	book	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 22
+# text = A book is a collection of intellectual and artistic products, a collection of the knowledge of one or several people.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	book	book	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	collection	collection	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	intellectual	intellectual	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	artistic	artistic	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	products	product	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	collection	collection	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	knowledge	knowledge	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	one	one	NUM	CD	_	21	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	or	or	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	several	several	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 23
+# text = We should truly appreciate the opportunity to use the intellectual products by different people and this is what books can give us.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	truly	truly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	opportunity	opportunity	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	use	use	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	intellectual	intellectual	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	products	product	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	different	different	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	what	what	PRON	WP	_	21	dative	_	ent_type=_|ent_id=2|ent_iob=O
+19	books	book	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	can	can	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	give	give	VERB	VB	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	us	-PRON-	PRON	PRP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 12
+# text = Therefore, books are a valuable phenomenon and a precious entity.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	books	book	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	valuable	valuable	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	phenomenon	phenomenon	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	precious	precious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	entity	entity	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 14
+# text = This has always been the case and the future will be no different.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	always	always	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	case	case	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	future	future	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	no	no	ADV	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	different	different	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 17
+# text = Therefore, it is necessary to pay serious attention to books, particularly to reading books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	necessary	necessary	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	pay	pay	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	serious	serious	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	attention	attention	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	books	book	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	particularly	particularly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	reading	read	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	books	book	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 10
+# text = It is necessary to promote book reading in society.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	promote	promote	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	book	book	NOUN	NN	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	reading	read	VERB	VBG	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	society	society	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 8
+# text = This is the benefit of teaching literacy.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	benefit	benefit	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	teaching	teaching	NOUN	NN	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	literacy	literacy	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 37
+# text = The effect of the movement that is carried out in different countries in order to root out illiteracy is to enable people to make use of the collection of other people's thoughts and artistic talents.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	effect	effect	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	movement	movement	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	carried	carry	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	out	out	ADP	RP	_	8	prt	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	different	different	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	countries	country	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	order	order	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	root	root	VERB	VB	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	out	out	ADP	RP	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	illiteracy	illiteracy	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	enable	enable	VERB	VB	_	19	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	people	people	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	make	make	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	use	use	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	collection	collection	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	other	other	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	people	people	NOUN	NNS	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	's	's	PART	POS	_	31	case	_	ent_type=_|ent_id=2|ent_iob=O
+33	thoughts	thought	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	artistic	artistic	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	talents	talent	NOUN	NNS	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 8
+# text = This is not possible without reading books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	possible	possible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	without	without	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	reading	read	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	books	book	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 21
+# text = I believe one of the worst and most harmful kinds of laziness is the lack of energy to read books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	13	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	worst	bad	ADJ	JJS	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	most	most	ADV	RBS	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	harmful	harmful	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	kinds	kind	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	laziness	laziness	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	lack	lack	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	energy	energy	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	read	read	VERB	VB	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	books	book	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 15
+# text = And if you do not do anything about this laziness, it will increase.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	And	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	do	do	AUX	VB	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	anything	anything	PRON	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	about	about	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	laziness	laziness	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	increase	increase	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 42
+# text = Reading books should be promoted in society and this is a duty that should be shouldered by all the organizations which are responsible in this regard, ranging from primary schools to mass media, the IRIB and public relations systems.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Reading	reading	NOUN	NN	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	books	book	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	promoted	promote	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	society	society	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	duty	duty	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	should	should	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	be	be	AUX	VB	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	shouldered	shoulder	VERB	VBN	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+18	all	all	DET	PDT	_	20	predet	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	organizations	organization	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	which	which	DET	WDT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	are	be	AUX	VBP	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	responsible	responsible	ADJ	JJ	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	regard	regard	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	ranging	range	VERB	VBG	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	from	from	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	primary	primary	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	schools	school	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	mass	mass	NOUN	NN	_	34	compound	_	ent_type=_|ent_id=2|ent_iob=O
+34	media	medium	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	IRIB	irib	ADJ	JJ	_	41	nmod	_	ent_type=ORG|ent_id=3|ent_iob=B
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	public	public	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	relations	relation	NOUN	NNS	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	systems	system	NOUN	NNS	_	34	appos	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 19
+# text = There should be certain programs to make our children used to close and careful reading since early childhood.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	There	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	certain	certain	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	programs	program	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	make	make	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	children	child	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	used	use	VERB	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	close	close	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	careful	careful	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	reading	reading	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	since	since	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	early	early	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	childhood	childhood	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 25
+# text = One of the great and important things that could be done in society is to promote reading books and make it a prevalent reality.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	One	one	NUM	CD	_	14	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	important	important	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	things	thing	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	could	could	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	done	do	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	society	society	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	promote	promote	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	reading	read	VERB	VBG	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	books	book	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	make	make	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	it	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	prevalent	prevalent	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	reality	reality	NOUN	NN	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 29
+# text = We see today that owners of unimportant products, which have little effect on the lives of people, use various forms of advertisement to promote their products.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	today	today	NOUN	NN	_	2	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	owners	owner	NOUN	NNS	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	unimportant	unimportant	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	products	product	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	little	little	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	effect	effect	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	lives	life	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	use	use	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	various	various	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	forms	form	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	advertisement	advertisement	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	promote	promote	VERB	VB	_	20	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	their	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	products	product	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 42
+# text = They use mass media, the press and the IRIB while their products are not at all necessary in life: sometimes they are beneficial and sometimes they are not even beneficial or they may even prove harmful in certain cases.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	use	use	VERB	VBP	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	mass	mass	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	media	medium	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	press	press	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	IRIB	IRIB	PROPN	NNP	_	7	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	while	while	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	products	product	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	at	at	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	all	all	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	necessary	necessary	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	life	life	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	:	:	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	sometimes	sometimes	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	they	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	beneficial	beneficial	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	sometimes	sometimes	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	they	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	are	be	AUX	VBP	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	not	not	PART	RB	_	29	neg	_	ent_type=_|ent_id=2|ent_iob=O
+31	even	even	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	beneficial	beneficial	ADJ	JJ	_	29	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	or	or	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	they	-PRON-	PRON	PRP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	may	may	VERB	MD	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	even	even	ADV	RB	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	prove	prove	VERB	VB	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	harmful	harmful	ADJ	JJ	_	37	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+39	in	in	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	certain	certain	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	cases	case	NOUN	NNS	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 13
+# text = A product as great and valuable as books deserves to be advertised.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	product	product	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	ADV	RB	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	valuable	valuable	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	books	book	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	deserves	deserve	VERB	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	advertised	advertise	VERB	VBN	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 11
+# text = Those who can read should be encouraged to read books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Those	those	DET	DT	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	read	read	VERB	VB	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	encouraged	encourage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	read	read	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	books	book	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 8
+# text = We should turn this into a habit.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	turn	turn	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	into	into	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	habit	habit	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 17
+# text = I would say I am not satisfied with the situation of our society in this regard.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	say	say	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	am	be	AUX	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	satisfied	satisfied	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	situation	situation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	society	society	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	regard	regard	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 18
+# text = Yes, today the number of books that are published is a lot more than the past.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Yes	yes	INTJ	UH	_	11	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	today	today	NOUN	NN	_	11	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	number	number	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	books	book	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	published	publish	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	lot	lot	NOUN	NN	_	14	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	more	more	ADJ	JJR	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	than	than	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	past	past	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 5
+# text = This is a fact.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	fact	fact	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 24
+# text = Sometimes the number of books that are published or the copies that are printed each time is several times more than the past.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Sometimes	sometimes	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	number	number	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	books	book	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	published	publish	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	or	or	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	copies	copy	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	printed	print	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	each	each	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	time	time	NOUN	NN	_	14	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	several	several	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	times	time	NOUN	NNS	_	20	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	more	more	ADJ	JJR	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	than	than	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	past	past	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 9
+# text = But this is not enough for our country.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	enough	enough	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 13
+# text = An acceptable portion of families' income should be spent on books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	An	an	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	acceptable	acceptable	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	portion	portion	NOUN	NN	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	families	family	NOUN	NNS	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	'	'	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	income	income	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	spent	spend	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	books	book	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 20
+# text = They should buy books to read, not to decorate their bookshelves and show them off to different people.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	buy	buy	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	books	book	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	read	read	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	decorate	decorate	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	bookshelves	bookshelf	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	show	show	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	them	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	off	off	ADP	RP	_	14	prt	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	different	different	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 13
+# text = Therefore, one point is the issue of reading books in society.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	4	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	point	point	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	issue	issue	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	reading	read	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	books	book	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	society	society	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 9
+# text = The issue related to libraries is another issue.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	issue	issue	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	related	relate	VERB	VBN	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	libraries	library	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	another	another	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	issue	issue	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 16
+# text = Our honorable librarians make major efforts in this regard and they take on major responsibilities.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	honorable	honorable	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	librarians	librarian	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	major	major	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	efforts	effort	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	regard	regard	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	take	take	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	RP	_	12	prt	_	ent_type=_|ent_id=2|ent_iob=O
+14	major	major	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	responsibilities	responsibility	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 17
+# text = Since my youth, I have noticed the role of librarians whenever I went to libraries.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Since	since	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	my	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	noticed	notice	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	role	role	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	librarians	librarian	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	whenever	whenever	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	I	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	went	go	VERB	VBD	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	libraries	library	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 16
+# text = I used to go to the library at Imam Ridha's (a.s.) shrine
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	go	go	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	library	library	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Imam	Imam	PROPN	NNP	_	10	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	Ridha	Ridha	PROPN	NNP	_	16	poss	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	's	's	PART	POS	_	10	case	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	(	(	PUNCT	-LRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	a.s	a.s	PROPN	NNP	_	14	dep	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	16	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	)	)	PUNCT	-RRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	shrine	shrine	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 13
+# text = and I used to see what important role the librarians played there.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	see	see	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	what	what	PRON	WP	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	important	important	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	role	role	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	librarians	librarian	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	played	play	VERB	VBD	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	there	there	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 12
+# text = I saw how hard they worked and how empathetic they were.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	saw	see	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	how	how	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	hard	hard	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	worked	work	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	how	how	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	empathetic	empathetic	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	were	be	AUX	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 7
+# text = Librarianship is a prominent cultural endeavor.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Librarianship	librarianship	NOUN	NN	_	2	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	prominent	prominent	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	cultural	cultural	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	endeavor	endeavor	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 16
+# text = But the role of a librarian is not limited to finding and handing out books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	But	but	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	role	role	NOUN	NN	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	librarian	librarian	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	limited	limit	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	finding	find	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	handing	hand	VERB	VBG	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	out	out	ADP	RP	_	13	prt	_	ent_type=_|ent_id=2|ent_iob=O
+15	books	book	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 16
+# text = A librarian can act as a guide for those who refer to him or her.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	librarian	librarian	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	act	act	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	as	as	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	guide	guide	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	those	those	DET	DT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	refer	refer	VERB	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	him	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	or	or	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	her	-PRON-	PRON	PRP	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 17
+# text = One of the important things is that we should make our minds used to disciplined studying.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	One	one	NUM	CD	_	6	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	things	thing	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	make	make	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	minds	mind	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	used	use	VERB	VBN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	disciplined	discipline	VERB	VBN	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	studying	study	VERB	VBG	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 25
+# text = Sometimes referring to a book at the right time is far more effective than referring to the same book without having read related books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Sometimes	sometimes	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	referring	refer	VERB	VBG	_	10	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	book	book	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	at	at	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	right	right	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	time	time	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	far	far	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	more	more	ADV	RBR	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	effective	effective	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	than	than	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	referring	refer	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	same	same	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	book	book	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	without	without	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	having	have	VERB	VBG	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	read	read	VERB	VBN	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	related	related	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	books	book	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 25
+# text = That is to say, if a book is read after similar books have been studied, the reading will be far more effective.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	if	if	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	book	book	NOUN	NN	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	read	read	VERB	VBN	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	after	after	ADP	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	similar	similar	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	books	book	NOUN	NNS	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	have	have	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	been	be	AUX	VBN	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	studied	study	VERB	VBN	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	reading	reading	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	far	far	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	more	more	ADV	RBR	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	effective	effective	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 6
+# text = Well, this requires guidance.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Well	well	INTJ	UH	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	requires	require	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	guidance	guidance	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 16
+# text = Certain people are used to reading books, but books that do not require thinking.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Certain	certain	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	reading	read	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	books	book	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	books	book	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	do	do	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	require	require	VERB	VB	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	thinking	thinking	NOUN	NN	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 6
+# text = Nothing is wrong with this.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Nothing	nothing	PRON	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	wrong	wrong	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 10
+# text = After all, this is a kind of reading.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	After	after	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	kind	kind	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	reading	reading	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 6
+# text = I would not deny this.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	deny	deny	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 32
+# text = But it is better to combine recreational reading - like reading novels, autobiographies and easy historical books - with reading serious books, books that require thinking and careful studying.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	better	well	ADJ	JJR	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	combine	combine	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	recreational	recreational	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	reading	reading	NOUN	NN	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	like	like	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	reading	reading	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	novels	novel	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	autobiographies	autobiography	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	easy	easy	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	historical	historical	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	books	book	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	reading	read	VERB	VBG	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	serious	serious	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	books	book	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	books	book	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	require	require	VERB	VBP	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	thinking	thinking	NOUN	NN	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	careful	careful	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	studying	studying	NOUN	NN	_	27	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 9
+# text = It is necessary to promote reading such books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	promote	promote	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	reading	read	VERB	VBG	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	such	such	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	books	book	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 12
+# text = We should make our minds used to careful thinking and reflection.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	minds	mind	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	used	use	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	careful	careful	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	thinking	thinking	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	reflection	reflection	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 11
+# text = Our minds should be actively engaged when reading a book.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	minds	mind	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	actively	actively	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	engaged	engage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	when	when	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	reading	read	VERB	VBG	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	book	book	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 4
+# text = This requires guidance.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	requires	require	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	guidance	guidance	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 20
+# text = One of the things that we need today is a list of books for people from different social backgrounds.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	One	one	NUM	CD	_	9	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	things	thing	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	need	need	VERB	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	list	list	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	books	book	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	from	from	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	different	different	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	social	social	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	backgrounds	background	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 22
+# text = Often when I encourage our youth to read books, they come to me and ask which books they should read.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Often	often	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	when	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	encourage	encourage	VERB	VBP	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	youth	youth	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	read	read	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	books	book	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	come	come	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	me	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	ask	ask	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	which	which	DET	WDT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	books	book	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	should	should	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	read	read	VERB	VB	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 9
+# text = There is no fixed answer to this question.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	fixed	fix	VERB	VBN	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	answer	answer	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	question	question	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 7
+# text = Probably there are many different answers.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Probably	probably	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	there	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	many	many	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	different	different	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	answers	answer	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 26
+# text = Those who are responsible - both in the Ministry of Culture and Islamic Guidance and in our libraries - should work seriously on this issue.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Those	those	DET	DT	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	responsible	responsible	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	:	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	both	both	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	Ministry	Ministry	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	of	of	ADP	IN	_	9	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Culture	Culture	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Islamic	Islamic	PROPN	NNP	_	14	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	Guidance	Guidance	PROPN	NNP	_	11	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	libraries	library	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	:	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	should	should	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	work	work	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	seriously	seriously	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	on	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	issue	issue	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 22
+# text = In different areas and for people from various social backgrounds, they should recommend a series of books with acceptable variety.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	In	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	different	different	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	areas	area	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	various	various	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	social	social	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	backgrounds	background	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	recommend	recommend	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	series	series	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	books	book	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	with	with	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	acceptable	acceptable	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	variety	variety	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 11
+# text = They should tell people which books to read before others.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	tell	tell	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	books	book	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	read	read	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	before	before	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	others	other	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 38
+# text = When a youth or somebody who is not used to reading books is encouraged to start studying and to move ahead, he or she will often find a way that is appropriate for him or her.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	When	when	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	or	or	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	somebody	somebody	PRON	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	used	use	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	reading	read	VERB	VBG	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	books	book	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	encouraged	encourage	VERB	VBN	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	start	start	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	studying	study	VERB	VBG	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	move	move	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	ahead	ahead	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	he	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	or	or	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	she	-PRON-	PRON	PRP	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	will	will	VERB	MD	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	often	often	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	find	find	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+29	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	way	way	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	that	that	DET	WDT	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	is	be	AUX	VBZ	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	appropriate	appropriate	ADJ	JJ	_	32	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	for	for	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	him	-PRON-	PRON	PRP	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	or	or	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	her	-PRON-	PRON	PRP	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 5
+# text = This is another point.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	another	another	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	point	point	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 9
+# text = The next point is selecting books for reading.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	next	next	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	selecting	select	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	books	book	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	reading	reading	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 23
+# text = A book is the outcome of the thought, experience or art of the people who have prepared and produced that book.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	book	book	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	outcome	outcome	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	thought	thought	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	experience	experience	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	or	or	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	art	art	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	who	who	PRON	WP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VBP	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	prepared	prepare	VERB	VBN	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	produced	produce	VERB	VBN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	book	book	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 6
+# text = Not every book is beneficial.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+2	every	every	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	book	book	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	beneficial	beneficial	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 6
+# text = Not every book is harmless.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+2	every	every	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	book	book	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	harmless	harmless	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 5
+# text = Certain books are harmful.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Certain	certain	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	books	book	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	harmful	harmful	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 58
+# text = Just as health officials warn people and do not allow poisonous drugs, dangerous drugs and habit-forming drugs to be available to everybody, so those who are responsible for the affairs related to books should not argue that people are free to choose which book to read and let every harmful book be read.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Just	just	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	as	as	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	health	health	NOUN	NN	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	officials	official	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	warn	warn	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	do	do	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	allow	allow	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	poisonous	poisonous	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	drugs	drug	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	dangerous	dangerous	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	drugs	drug	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	habit	habit	NOUN	NN	_	19	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	HYPH	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	forming	form	VERB	VBG	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	drugs	drug	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	be	be	AUX	VB	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	available	available	ADJ	JJ	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	everybody	everybody	PRON	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	so	so	SCONJ	IN	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	those	those	DET	DT	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	who	who	PRON	WP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	are	be	AUX	VBP	_	28	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	responsible	responsible	ADJ	JJ	_	30	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	for	for	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	affairs	affair	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	related	relate	VERB	VBN	_	34	acl	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	books	book	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	should	should	VERB	MD	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	not	not	PART	RB	_	40	neg	_	ent_type=_|ent_id=2|ent_iob=O
+40	argue	argue	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	that	that	SCONJ	IN	_	43	mark	_	ent_type=_|ent_id=2|ent_iob=O
+42	people	people	NOUN	NNS	_	43	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+43	are	be	AUX	VBP	_	40	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+44	free	free	ADJ	JJ	_	43	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+45	to	to	PART	TO	_	46	aux	_	ent_type=_|ent_id=2|ent_iob=O
+46	choose	choose	VERB	VB	_	44	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+47	which	which	DET	WDT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	book	book	NOUN	NN	_	50	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	to	to	PART	TO	_	50	aux	_	ent_type=_|ent_id=2|ent_iob=O
+50	read	read	VERB	VB	_	46	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+51	and	and	CCONJ	CC	_	50	cc	_	ent_type=_|ent_id=2|ent_iob=O
+52	let	let	VERB	VB	_	50	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	every	every	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	harmful	harmful	ADJ	JJ	_	55	amod	_	ent_type=_|ent_id=2|ent_iob=O
+55	book	book	NOUN	NN	_	57	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+56	be	be	AUX	VB	_	57	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+57	read	read	VERB	VBN	_	52	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+58	.	.	PUNCT	.	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 5
+# text = Books are spiritual food.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Books	book	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	spiritual	spiritual	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	food	food	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 36
+# text = If they are corrupt, poisoned and harmful, publishers, librarians, library officials, those in charge of distribution and others do not have the right to make them available to unsuspecting people.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	corrupt	corrupt	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	poisoned	poisoned	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	harmful	harmful	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	publishers	publisher	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	librarians	librarian	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	library	library	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	officials	official	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	those	those	DET	DT	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	charge	charge	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	distribution	distribution	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	others	other	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	do	do	AUX	VBP	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	not	not	PART	RB	_	26	neg	_	ent_type=_|ent_id=2|ent_iob=O
+26	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	right	right	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	make	make	VERB	VB	_	28	acl	_	ent_type=_|ent_id=2|ent_iob=O
+31	them	-PRON-	PRON	PRP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	available	available	ADJ	JJ	_	30	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	unsuspecting	unsuspecting	ADJ	JJ	_	33	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	people	people	NOUN	NNS	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 8
+# text = This is a topic in Islamic fiqh.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	topic	topic	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islamic	islamic	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	fiqh	fiqh	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 9
+# text = Therefore, it is necessary to be careful.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	necessary	necessary	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	careful	careful	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 11
+# text = It is necessary to make good and wholesome books available.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	good	good	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	wholesome	wholesome	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	books	book	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	available	available	ADJ	JJ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 21
+# text = Attention should be mainly focused on whether a particular book will provide intellectual nourishment and point out the right path.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Attention	attention	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	mainly	mainly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	focused	focus	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	whether	whether	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	particular	particular	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	book	book	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	provide	provide	VERB	VB	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	intellectual	intellectual	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	nourishment	nourishment	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	point	point	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	out	out	ADP	RP	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	right	right	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	path	path	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 20
+# text = Therefore, it is necessary to pay attention to this point besides providing a list of books to read.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	necessary	necessary	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	pay	pay	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	attention	attention	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	point	point	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	besides	besides	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	providing	provide	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	list	list	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	books	book	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	read	read	VERB	VB	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 22
+# text = As Iranians and a Muslim nation, we have had a fundamental, deep and long-lasting relationship with books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	As	as	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranians	Iranians	PROPN	NNPS	_	1	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Muslim	muslim	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nation	nation	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	had	have	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	fundamental	fundamental	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	deep	deep	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	long	long	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	HYPH	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	lasting	last	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	relationship	relationship	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	books	book	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 10
+# text = Books have not been recently introduced into our society.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Books	book	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	recently	recently	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	introduced	introduce	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	into	into	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	society	society	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 23
+# text = Big libraries, scholarly communities and valuable writings have a long history in our country, especially after the spread of Islam.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Big	big	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	libraries	library	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	scholarly	scholarly	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	communities	community	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	valuable	valuable	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	writings	writing	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	long	long	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	history	history	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	especially	especially	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	after	after	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	spread	spread	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islam	Islam	PROPN	NNP	_	21	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+23	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 13
+# text = We have a long historical background as far as books are concerned.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	long	long	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	historical	historical	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	background	background	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	far	far	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	as	as	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	books	book	NOUN	NNS	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	concerned	concerned	ADJ	JJ	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 10
+# text = We have been familiar with books for many centuries.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	familiar	familiar	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	books	book	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	many	many	ADJ	JJ	_	9	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	centuries	century	NOUN	NNS	_	7	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 14
+# text = Of course those days it was not easy to have access to books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	those	those	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	days	day	NOUN	NNS	_	6	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	easy	easy	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	access	access	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	books	book	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 21
+# text = Copying books was difficult, but people who loved and needed books made a lot of efforts in this regard.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Copying	copy	VERB	VBG	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	books	book	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	difficult	difficult	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	loved	love	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	needed	need	VERB	VBD	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	books	book	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	made	make	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	lot	lot	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	efforts	effort	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	regard	regard	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 25
+# text = We have read or heard many stories about people who owned a particular book and were not prepared to lend it to other people.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	read	read	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	or	or	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	heard	hear	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	many	many	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	stories	story	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	about	about	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	owned	own	VERB	VBD	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	particular	particular	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	book	book	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	were	be	AUX	VBD	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+18	prepared	prepared	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	lend	lend	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	it	-PRON-	PRON	PRP	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	20	dative	_	ent_type=_|ent_id=2|ent_iob=O
+23	other	other	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	people	people	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 21
+# text = The people who needed the book had to beg the owner to lend it to them for a couple of days
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	needed	need	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	book	book	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	beg	beg	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	owner	owner	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	lend	lend	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	it	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	13	dative	_	ent_type=_|ent_id=2|ent_iob=O
+16	them	-PRON-	PRON	PRP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	19	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	couple	couple	NOUN	NN	_	17	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	of	of	ADP	IN	_	19	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	days	day	NOUN	NNS	_	20	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+
+# sent_id = 93
+# sent_len = 10
+# text = and then they had to stay up day and night
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	then	then	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	stay	stay	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	up	up	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	day	day	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	night	night	NOUN	NN	_	8	conj	_	ent_type=TIME|ent_id=3|ent_iob=B
+
+# sent_id = 94
+# sent_len = 19
+# text = to hand-copy the book without resting so that they could have a copy of the book.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	hand	hand	NOUN	NN	_	4	dep	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	HYPH	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	copy	copy	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	book	book	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	without	without	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	resting	rest	VERB	VBG	_	7	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	so	so	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	could	could	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	have	have	AUX	VB	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	copy	copy	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	book	book	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 6
+# text = There are many such stories.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	such	such	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	stories	story	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 7
+# text = Today these obstacles have been removed.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	obstacles	obstacle	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	removed	remove	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 16
+# text = The progress of science has facilitated the process of producing, copying and publishing books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	progress	progress	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	science	science	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	facilitated	facilitate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	process	process	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	producing	produce	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	copying	copy	VERB	VBG	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	publishing	publishing	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	books	book	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 22
+# text = Today we should take this long historical background into consideration and try to improve our position in publishing and reading books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	long	long	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	historical	historical	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	background	background	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	into	into	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	consideration	consideration	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	try	try	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	improve	improve	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	position	position	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	publishing	publishing	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	reading	reading	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	books	book	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 12
+# text = Those who produce books should also pay attention to this point.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Those	those	DET	DT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	produce	produce	VERB	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	books	book	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	also	also	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	attention	attention	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	point	point	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 36
+# text = When producing books - in the sense of producing copies of books, translating them or making them available to people - it is necessary to pay attention to the needs and shortcomings in society.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	When	when	ADV	WRB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	producing	produce	VERB	VBG	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	books	book	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	sense	sense	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	producing	produce	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	copies	copy	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	books	book	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	translating	translate	VERB	VBG	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	them	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	or	or	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	making	make	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	them	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	available	available	ADJ	JJ	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	people	people	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	-	-	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	it	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	necessary	necessary	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	pay	pay	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	attention	attention	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	needs	need	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	shortcomings	shortcoming	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	society	society	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 10
+# text = They should identify and eliminate intellectual shortcomings and needs.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	identify	identify	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	eliminate	eliminate	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	intellectual	intellectual	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	shortcomings	shortcoming	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	needs	need	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 13
+# text = We see that they sometimes provide misleading advice in the book market.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	sometimes	sometimes	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	provide	provide	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	misleading	misleading	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	advice	advice	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	book	book	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	market	market	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 25
+# text = In particular, they go after issues that are harmful to the country's mentality in moral, religious, ideological or political matters.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	In	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	particular	particular	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	go	go	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	after	after	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	issues	issue	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	harmful	harmful	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	's	's	PART	POS	_	13	case	_	ent_type=_|ent_id=2|ent_iob=O
+15	mentality	mentality	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	moral	moral	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	religious	religious	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	ideological	ideological	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	or	or	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	political	political	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	matters	matter	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 29
+# text = One can clearly see that there are certain hands in the book market that try to promote certain ideas and have certain things translated with ulterior political motives.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	One	one	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	clearly	clearly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	there	there	PRON	EX	_	7	expl	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	certain	certain	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	hands	hand	NOUN	NNS	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	book	book	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	market	market	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	try	try	VERB	VBP	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	promote	promote	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	certain	certain	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	ideas	idea	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	have	have	AUX	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	certain	certain	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	things	thing	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	translated	translate	VERB	VBN	_	23	acl	_	ent_type=_|ent_id=2|ent_iob=O
+25	with	with	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	ulterior	ulterior	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	political	political	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	motives	motive	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 16
+# text = Their activities are disguised as a cultural endeavor, but they are political in nature.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Their	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	activities	activity	NOUN	NNS	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	disguised	disguise	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	as	as	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	cultural	cultural	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	endeavor	endeavor	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	nature	nature	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 45
+# text = I would say that as far as cultural matters are concerned many of the activities that are promoted in our country by foreigners and by the enemies of Islam and the Islamic Republic appear to be cultural, but they are political in nature.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	say	say	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	34	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	as	as	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	far	far	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	cultural	cultural	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	matters	matter	NOUN	NNS	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	concerned	concern	VERB	VBN	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	many	many	ADJ	JJ	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	activities	activity	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	DET	WDT	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	promoted	promote	VERB	VBN	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	country	country	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	18	agent	_	ent_type=_|ent_id=2|ent_iob=O
+23	foreigners	foreigner	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	by	by	ADP	IN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	enemies	enemy	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Islam	Islam	PROPN	NNP	_	28	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+32	Islamic	Islamic	PROPN	NNP	_	33	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+33	Republic	Republic	PROPN	NNP	_	29	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+34	appear	appear	VERB	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	to	to	PART	TO	_	36	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	be	be	AUX	VB	_	34	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	cultural	cultural	ADJ	JJ	_	36	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	they	-PRON-	PRON	PRP	_	41	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+41	are	be	AUX	VBP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	political	political	ADJ	JJ	_	41	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	in	in	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	nature	nature	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 6
+# text = One can see these things.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	One	one	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	things	thing	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 51
+# text = Those who are in charge of the affairs related to books - including librarians, library managers, officials working for the Ministry of Culture and Islamic Guidance and publishers - should pay attention to the point that they should promote healthy, beneficial and nutritious spiritual nourishment in society.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Those	those	DET	DT	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	charge	charge	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	affairs	affair	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	related	relate	VERB	VBN	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	books	book	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	HYPH	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	including	include	VERB	VBG	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	librarians	librarian	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	library	library	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	managers	manager	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	officials	official	NOUN	NNS	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	working	work	VERB	VBG	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	for	for	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+23	Ministry	Ministry	PROPN	NNP	_	21	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	of	of	ADP	IN	_	23	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+25	Culture	Culture	PROPN	NNP	_	24	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=ORG|ent_id=1|ent_iob=I
+27	Islamic	Islamic	PROPN	NNP	_	28	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+28	Guidance	Guidance	PROPN	NNP	_	25	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	publishers	publisher	NOUN	NNS	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	-	-	PUNCT	:	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	should	should	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+34	attention	attention	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	to	to	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	point	point	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	that	that	SCONJ	IN	_	41	mark	_	ent_type=_|ent_id=2|ent_iob=O
+39	they	-PRON-	PRON	PRP	_	41	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	should	should	VERB	MD	_	41	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	promote	promote	VERB	VB	_	37	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+42	healthy	healthy	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	beneficial	beneficial	ADJ	JJ	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	44	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	nutritious	nutritious	ADJ	JJ	_	44	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	spiritual	spiritual	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	nourishment	nourishment	NOUN	NN	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	in	in	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+50	society	society	NOUN	NN	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	.	.	PUNCT	.	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 21
+# text = Fortunately literacy has been widely promoted in our society and it is possible for people to make use of books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Fortunately	fortunately	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	literacy	literacy	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	widely	widely	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	promoted	promote	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	society	society	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	possible	possible	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	make	make	VERB	VB	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	use	use	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	books	book	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 8
+# text = We should make use of this opportunity.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	use	use	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	opportunity	opportunity	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 28
+# text = I would like to take this opportunity to ask our government officials to review the matters related to books, reading books and good and beneficial books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	take	take	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	opportunity	opportunity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	ask	ask	VERB	VB	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	government	government	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	officials	official	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	review	review	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	matters	matter	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	related	relate	VERB	VBN	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	books	book	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	reading	read	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	books	book	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	good	good	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	beneficial	beneficial	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	books	book	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 14
+# text = I would like to ask them to start a movement in the country.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	ask	ask	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	start	start	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	movement	movement	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 36
+# text = A new perspective should be adopted by those who make plans, those who produce books, those who are in charge of advertisement and those who read books - including our youth and others.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	A	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	new	new	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	perspective	perspective	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	adopted	adopt	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	those	those	DET	DT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	make	make	VERB	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	plans	plan	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	those	those	DET	DT	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	produce	produce	VERB	VBP	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	books	book	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	those	those	DET	DT	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	who	who	PRON	WP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	charge	charge	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	advertisement	advertisement	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	those	those	DET	DT	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	who	who	PRON	WP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	read	read	VERB	VBP	_	26	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	books	book	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	-	-	PUNCT	:	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	including	include	VERB	VBG	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	our	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	youth	youth	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	others	other	NOUN	NNS	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 23
+# text = Printing 1000-3000 copies is not good for a country with 75 million people and with so many highly motivated youth.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Printing	print	VERB	VBG	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	1000	1000	NUM	CD	_	5	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	-	-	SYM	SYM	_	4	punct	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+4	3000	3000	NUM	CD	_	2	prep	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+5	copies	copy	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	good	good	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	75	75	NUM	CD	_	14	compound	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	million	million	NUM	CD	_	15	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+15	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	so	so	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	many	many	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	highly	highly	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	motivated	motivated	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	youth	youth	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 11
+# text = We should be able to print a lot more copies.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	able	able	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	print	print	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	lot	lot	NOUN	NN	_	9	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	more	more	ADJ	JJR	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	copies	copy	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 17
+# text = Fortunately certain books are published many times, but in general the situation is not satisfactory.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Fortunately	fortunately	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	certain	certain	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	books	book	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	published	publish	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	many	many	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	times	time	NOUN	NNS	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	general	general	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	situation	situation	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	satisfactory	satisfactory	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 8
+# text = It is necessary to start a movement.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	start	start	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	movement	movement	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 19
+# text = In any case I would like to thank the officials in charge of the affairs related to books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	any	any	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	case	case	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	thank	thank	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	officials	official	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	charge	charge	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	affairs	affair	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	related	relate	VERB	VBN	_	15	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	books	book	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 19
+# text = I would also like to ask them to adopt a new perspective on the affairs related to books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	ask	ask	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	them	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	adopt	adopt	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	new	new	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	perspective	perspective	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	affairs	affair	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	related	relate	VERB	VBN	_	15	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	books	book	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 22
+# text = Let us do something that reading books is turned into a prevalent phenomenon and our youth do not put books aside.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	us	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VB	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	something	something	PRON	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	reading	read	VERB	VBG	_	5	intj	_	ent_type=_|ent_id=2|ent_iob=O
+7	books	book	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	turned	turn	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	into	into	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	prevalent	prevalent	NOUN	NN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	phenomenon	phenomenon	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	youth	youth	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	do	do	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	put	put	VERB	VB	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	books	book	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	aside	aside	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 121
+# sent_len = 21
+# text = The statistics about the average amount of time that our people spend on reading books are not a pleasant picture.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	statistics	statistic	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	about	about	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	average	average	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	amount	amount	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	time	time	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	spend	spend	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	reading	read	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	books	book	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	pleasant	pleasant	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	picture	picture	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 122
+# sent_len = 12
+# text = This average amount of time should be far more than this.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	average	average	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	amount	amount	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	time	time	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	far	far	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	more	more	ADJ	JJR	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	than	than	SCONJ	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 123
+# sent_len = 9
+# text = The need for books will never be eliminated.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	books	book	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	never	never	ADV	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	eliminated	eliminate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 124
+# sent_len = 20
+# text = People need books from early adolescence and from early years of learning literacy to the end of their life.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	People	People	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	books	book	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	early	early	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	adolescence	adolescence	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	early	early	ADJ	JJ	_	10	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	years	year	NOUN	NNS	_	8	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	learning	learn	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	literacy	literacy	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	end	end	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	life	life	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 125
+# sent_len = 16
+# text = They need to understand different matters and absorb the spiritual and intellectual nutrients in books.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	understand	understand	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	different	different	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	matters	matter	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	absorb	absorb	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	spiritual	spiritual	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	intellectual	intellectual	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	nutrients	nutrient	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	books	book	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 126
+# sent_len = 16
+# text = This is a matter that should be understood and followed up by the entire society.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	matter	matter	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	understood	understand	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	followed	follow	VERB	VBN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	up	up	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	entire	entire	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	society	society	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 127
+# sent_len = 10
+# text = I hope Allah the Exalted will make you successful.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	make	make	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	successful	successful	ADJ	JJ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 128
+# sent_len = 9
+# text = I am grateful to you for your efforts.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	grateful	grateful	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	your	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	efforts	effort	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 129
+# sent_len = 10
+# text = I am happy about what has been done so far
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	happy	happy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	about	about	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	done	do	VERB	VBN	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	so	so	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	far	far	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 130
+# sent_len = 9
+# text = and I expect you to intensify your efforts.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	expect	expect	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	intensify	intensify	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	your	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	efforts	effort	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 131
+# sent_len = 5
+# text = May God help you.
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	May	May	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 132
+# sent_len = 28
+# text = By Allah's favor, you will benefit from the prayers of the Imam of the Age (may our souls be sacrificed for his sake).
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	By	by	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	favor	favor	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	benefit	benefit	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	prayers	prayer	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Imam	Imam	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Age	Age	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	(	(	PUNCT	-LRB-	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	may	may	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	souls	soul	NOUN	NNS	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	be	be	AUX	VB	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	sacrificed	sacrifice	VERB	VBN	_	8	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	his	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	sake	sake	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	)	)	PUNCT	-RRB-	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 133
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech to Librarians and Library Officials
+# year = 2011
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

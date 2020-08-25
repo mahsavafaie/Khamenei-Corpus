@@ -1,0 +1,365 @@
+# sent_id = 1
+# sent_len = 13
+# text = As usual, you are among the first to cast your ballot.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	As	as	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	usual	usual	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	among	among	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	first	first	ADJ	JJ	_	6	pobj	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	cast	cast	VERB	VB	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	your	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	ballot	ballot	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 28
+# text = The Iranian nation is ready to hear your advice and recommendations regarding the importance of this round of the election and the people's role in it.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	ready	ready	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	hear	hear	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	your	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	advice	advice	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	recommendations	recommendation	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	regarding	regard	VERB	VBG	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	importance	importance	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	round	round	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	election	election	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	people	people	NOUN	NNS	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	's	's	PART	POS	_	23	case	_	ent_type=_|ent_id=2|ent_iob=O
+25	role	role	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	it	-PRON-	PRON	PRP	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 11
+# text = In the Name of Allah, the Beneficent, the Merciful
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	In	in	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Name	Name	PROPN	NNP	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Beneficent	Beneficent	PROPN	NNP	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Merciful	merciful	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 16
+# text = The importance of this round of the election is the same as the previous round.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	importance	importance	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	round	round	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	election	election	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	same	same	ADJ	JJ	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	previous	previous	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	round	round	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 20
+# text = In terms of its importance, the second round of the election is no different from the first round.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	In	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	terms	term	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	its	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	importance	importance	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	second	second	ADJ	JJ	_	9	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+9	round	round	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	election	election	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	no	no	ADV	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	different	different	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	from	from	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	first	first	ADJ	JJ	_	19	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+19	round	round	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 33
+# text = The same sentiments and the same sense of responsibility that caused us to go to polling stations are calling on us now to go to the ballot boxes and cast our votes.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	same	same	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	sentiments	sentiment	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	same	same	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	sense	sense	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	responsibility	responsibility	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	caused	cause	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	us	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	go	go	VERB	VB	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	polling	polling	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	stations	station	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	calling	call	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	us	-PRON-	PRON	PRP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	now	now	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	go	go	VERB	VB	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	ballot	ballot	NOUN	NN	_	28	compound	_	ent_type=_|ent_id=2|ent_iob=O
+28	boxes	box	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	cast	cast	VERB	VB	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	our	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	votes	vote	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 15
+# text = There is an old Persian adage in this regard that is well known: "
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	old	old	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	Persian	persian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	adage	adage	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	regard	regard	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	well	well	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	known	know	VERB	VBN	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	:	:	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 8
+# text = 'Who did the job?' '
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	'	'	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	did	do	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	job	job	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	?	?	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	'	'	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	'	'	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 8
+# text = The one who finished it.'"
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	finished	finish	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	'	'	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 46
+# text = By Allah's Favor, our esteemed nation will go to polling stations in constituencies where the election has gone into the second round so that a good number of ballots are collected and, by Allah's grace, a good parliament is formed.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	By	by	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	Favor	Favor	PROPN	NNP	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	esteemed	esteemed	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	go	go	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	polling	polling	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	stations	station	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	constituencies	constituency	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	where	where	ADV	WRB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	election	election	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	has	have	AUX	VBZ	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	gone	go	VERB	VBN	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	into	into	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	second	second	ADJ	JJ	_	24	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+24	round	round	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	so	so	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	good	good	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	number	number	NOUN	NN	_	33	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	ballots	ballot	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	are	be	AUX	VBP	_	33	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	collected	collect	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	by	by	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	Allah	Allah	PROPN	NNP	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	's	's	PART	POS	_	37	case	_	ent_type=_|ent_id=2|ent_iob=O
+39	grace	grace	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	,	,	PUNCT	,	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	a	a	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	good	good	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	parliament	parliament	NOUN	NN	_	45	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+44	is	be	AUX	VBZ	_	45	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+45	formed	form	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 9
+# text = Thank you very much indeed. Thank you.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	Thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	much	much	ADV	RB	_	1	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	indeed	indeed	ADV	RB	_	1	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Thank	thank	VERB	VBP	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 15
+# text = May Allah accept these efforts from all of you and bestow success on you.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	May	May	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	accept	accept	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	efforts	effort	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	from	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	bestow	bestow	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	success	success	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 14
+# text = I hope that you will find many more opportunities to do this responsibility.[1]
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	find	find	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	many	many	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	more	more	ADJ	JJR	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	opportunities	opportunity	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	do	do	AUX	VB	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	responsibility.[1	responsibility.[1	PROPN	NNP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	]	]	PUNCT	-RRB-	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 1
+# text = *
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	*	*	PUNCT	NFP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 1
+# text = *
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	*	*	PUNCT	NFP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 1
+# text = *
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	*	*	PUNCT	NFP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 25
+# text = [1] In response to a prayer by one of the officials in charge of the polling station in which the Leader voted.
+# title = Leader Interviewed After Voting 
+# year = 2008
+1	[	[	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	1	1	NUM	CD	_	4	meta	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	]	]	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	In	in	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	response	response	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	prayer	prayer	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	one	one	NUM	CD	_	9	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	officials	official	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	charge	charge	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	polling	polling	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	station	station	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	which	which	DET	WDT	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Leader	Leader	PROPN	NNP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	voted	vote	VERB	VBD	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O

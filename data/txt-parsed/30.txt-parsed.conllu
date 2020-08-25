@@ -1,0 +1,2947 @@
+# sent_id = 1
+# sent_len = 50
+# text = Regarding the role that Friday prayers play in raising political awareness and vigilance of Muslims, Ayatollah Khamenei stated that the Friday prayer leaders every week inform the worshippers of the latest developments in the Islamic world and also in other parts of the world that affect Muslim nations.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Regarding	regard	VERB	VBG	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	role	role	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	Friday	Friday	PROPN	NNP	_	6	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	prayers	prayer	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	play	play	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	raising	raise	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	political	political	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	awareness	awareness	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	vigilance	vigilance	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Muslims	Muslims	PROPN	NNPS	_	14	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	Ayatollah	Ayatollah	PROPN	NNP	_	18	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	Khamenei	Khamenei	PROPN	NNP	_	19	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+19	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Friday	Friday	PROPN	NNP	_	24	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+23	prayer	prayer	NOUN	NN	_	24	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	leaders	leader	NOUN	NNS	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	every	every	DET	DT	_	26	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+26	week	week	NOUN	NN	_	27	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	inform	inform	VERB	VB	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	worshippers	worshipper	NOUN	NNS	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	latest	late	ADJ	JJS	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	developments	development	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	Islamic	islamic	ADJ	JJ	_	37	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+37	world	world	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	also	also	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	other	other	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	parts	part	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	world	world	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	that	that	DET	WDT	_	47	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+47	affect	affect	VERB	VBP	_	42	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+48	Muslim	muslim	ADJ	JJ	_	49	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+49	nations	nation	NOUN	NNS	_	47	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 32
+# text = The Leader also noted that today, thanks to the Islamic Revolution and great awareness of late Imam Khomeini, Friday prayers have turned into a lasting tradition in this country.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	today	today	NOUN	NN	_	24	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	thanks	thank	NOUN	NNS	_	24	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+12	Revolution	Revolution	PROPN	NNP	_	9	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	awareness	awareness	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	late	late	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	Imam	Imam	PROPN	NNP	_	19	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	Khomeini	Khomeini	PROPN	NNP	_	16	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+20	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	Friday	Friday	PROPN	NNP	_	22	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+22	prayers	prayer	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	have	have	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	turned	turn	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	into	into	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	lasting	last	VERB	VBG	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	tradition	tradition	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	this	this	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	country	country	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 26
+# text = He said before the establishment of the Islamic system, the Iranian people were not familiar with the meaning and the purpose behind Friday prayers.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	before	before	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	establishment	establishment	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	islamic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	system	system	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iranian	iranian	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	people	people	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	were	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	familiar	familiar	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	meaning	meaning	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	purpose	purpose	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	behind	behind	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Friday	Friday	PROPN	NNP	_	25	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+25	prayers	prayer	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 33
+# text = Thus, the Leader stressed, the holding of Friday prayers in this country today is due to the grace of Allah and one of the positive results of the Islamic Revolution.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Thus	thus	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Leader	leader	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	stressed	stress	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	holding	holding	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Friday	Friday	PROPN	NNP	_	11	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	prayers	prayer	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	today	today	NOUN	NN	_	16	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+16	is	be	AUX	VBZ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	due	due	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	grace	grace	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Allah	Allah	PROPN	NNP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	one	one	NUM	CD	_	22	conj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	positive	positive	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	results	result	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+31	Islamic	Islamic	PROPN	NNP	_	32	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+32	Revolution	Revolution	PROPN	NNP	_	29	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+33	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 34
+# text = Ayatollah Khamenei underlined that the young generation has a great thirst for knowledge, awareness and enlightenment, and that the Friday prayer leaders should try to fulfill the need of the youth.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	underlined	underline	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	young	young	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	generation	generation	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	great	great	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	thirst	thirst	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	knowledge	knowledge	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	awareness	awareness	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	enlightenment	enlightenment	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Friday	Friday	PROPN	NNP	_	24	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+23	prayer	prayer	NOUN	NN	_	24	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	leaders	leader	NOUN	NNS	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	should	should	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	try	try	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	fulfill	fulfill	VERB	VB	_	26	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	need	need	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	youth	youth	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 15
+# text = The Leader further touched on the personal, political and economic aspects of piety:
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	touched	touch	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	personal	personal	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	political	political	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	economic	economic	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	aspects	aspect	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	piety	piety	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 18
+# text = "Personal piety means that one should follow the path of righteousness and not violate divine commandments.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Personal	personal	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	piety	piety	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	one	one	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	follow	follow	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	path	path	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	righteousness	righteousness	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	violate	violate	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	divine	divine	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	commandments	commandment	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 19
+# text = "Political piety means that those who are active in the political sphere should be truthful to people.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Political	political	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	piety	piety	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	those	those	DET	DT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	active	active	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	political	political	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	sphere	sphere	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	be	be	AUX	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	truthful	truthful	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 17
+# text = Politics defined as deceiving or lying to the public is by no means approved by Islam!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Politics	politic	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	defined	define	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	deceiving	deceive	VERB	VBG	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	or	or	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	lying	lie	VERB	VBG	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	public	public	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	no	no	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	means	mean	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	approved	approve	VERB	VBN	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	by	by	ADP	IN	_	14	agent	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islam	Islam	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 7
+# text = Politics means proper administration of society.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Politics	politics	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	proper	proper	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	administration	administration	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	society	society	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 6
+# text = This is part of religion.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	part	part	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	religion	religion	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 15
+# text = Political piety requires that one should act with sincerity in the field of politics.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Political	political	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	piety	piety	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	requires	require	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	one	one	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	act	act	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	sincerity	sincerity	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	field	field	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	politics	politic	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 20
+# text = "What is meant by economic piety is that one should follow a virtuous path in making a living.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	What	what	PRON	WP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	meant	mean	VERB	VBN	_	8	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	economic	economic	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	piety	piety	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	one	one	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	follow	follow	VERB	VB	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	virtuous	virtuous	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	path	path	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	making	make	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	living	living	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 58
+# text = Usurping the possessions of others, especially what belongs to the public treasury, making a fortune through profiteering, even if it seems to be within a legal framework but one knows how corrupt it is in its nature, and earning or accepting money that is religiously unclean all run counter to economic piety."
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Usurping	usurp	VERB	VBG	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	possessions	possession	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	others	other	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	especially	especially	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	what	what	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	belongs	belong	VERB	VBZ	_	52	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	public	public	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	treasury	treasury	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	making	make	VERB	VBG	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	fortune	fortune	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	through	through	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	profiteering	profiteer	VERB	VBG	_	18	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	even	even	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	if	if	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	it	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	seems	seem	VERB	VBZ	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	be	be	AUX	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	within	within	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	legal	legal	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	framework	framework	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	but	but	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	one	one	NOUN	NN	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	knows	know	VERB	VBZ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	how	how	ADV	WRB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	corrupt	corrupt	ADJ	JJ	_	37	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	it	-PRON-	PRON	PRP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	is	be	AUX	VBZ	_	33	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	in	in	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	its	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	nature	nature	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+42	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+43	earning	earn	VERB	VBG	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	or	or	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	accepting	accept	VERB	VBG	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	money	money	NOUN	NN	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	that	that	DET	WDT	_	48	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+48	is	be	AUX	VBZ	_	46	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+49	religiously	religiously	ADV	RB	_	50	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+50	unclean	unclean	ADJ	JJ	_	48	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+51	all	all	DET	DT	_	52	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+52	run	run	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+53	counter	counter	ADV	RB	_	52	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+54	to	to	ADP	IN	_	53	prep	_	ent_type=_|ent_id=2|ent_iob=O
+55	economic	economic	ADJ	JJ	_	56	amod	_	ent_type=_|ent_id=2|ent_iob=O
+56	piety	piety	NOUN	NN	_	54	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+57	.	.	PUNCT	.	_	52	punct	_	ent_type=_|ent_id=2|ent_iob=O
+58	"	"	PUNCT	''	_	52	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 23
+# text = The Leader pointed out that if different aspects of piety were institutionalized, most of the problems facing society would be resolved.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	out	out	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	if	if	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	different	different	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	aspects	aspect	NOUN	NNS	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	piety	piety	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	were	be	AUX	VBD	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	institutionalized	institutionalize	VERB	VBN	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	most	most	ADJ	JJS	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	problems	problem	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	facing	face	VERB	VBG	_	17	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	society	society	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	would	would	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	resolved	resolve	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 34
+# text = He stressed that it is the main responsibility of Friday prayer leaders to recommend and encourage piety, but he also stated that they themselves should set a practical example in this regard.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	stressed	stress	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	main	main	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	responsibility	responsibility	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Friday	Friday	PROPN	NNP	_	12	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	prayer	prayer	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	leaders	leader	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	recommend	recommend	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	encourage	encourage	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	piety	piety	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	he	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	also	also	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	stated	state	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	they	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	themselves	-PRON-	PRON	PRP	_	24	appos	_	ent_type=_|ent_id=2|ent_iob=O
+26	should	should	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	set	set	VERB	VB	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	practical	practical	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	example	example	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	this	this	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	regard	regard	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 43
+# text = Concerning one of important aspects of Friday prayers, namely the dissemination of information, Ayatollah Khamenei said that Friday prayer leaders should inform the worshippers of the issues of the Islamic world as well as other significant developments in the world.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Concerning	concern	VERB	VBG	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	NUM	CD	_	1	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	aspects	aspect	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Friday	Friday	PROPN	NNP	_	8	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	prayers	prayer	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	namely	namely	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	dissemination	dissemination	NOUN	NN	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	information	information	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	Ayatollah	Ayatollah	PROPN	NNP	_	17	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+17	Khamenei	Khamenei	PROPN	NNP	_	18	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+18	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	Friday	Friday	PROPN	NNP	_	22	compound	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	prayer	prayer	NOUN	NN	_	22	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	leaders	leader	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	should	should	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	inform	inform	VERB	VB	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	worshippers	worshipper	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	issues	issue	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	Islamic	islamic	ADJ	JJ	_	33	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	world	world	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	as	as	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	well	well	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	as	as	SCONJ	IN	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	other	other	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	significant	significant	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	developments	development	NOUN	NNS	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	world	world	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 53
+# text = The Leader emphasized that, today, the need for this information dissemination is more than ever, since the arrogant and domination-seeking powers are trying to spread rumors and lies in the world through their media in order to deceive the world public and promote their own domineering policies.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	emphasized	emphasize	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	today	today	NOUN	NN	_	14	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	need	need	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	information	information	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	dissemination	dissemination	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	more	more	ADJ	JJR	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	than	than	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	ever	ever	ADV	RB	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	since	since	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	arrogant	arrogant	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	domination	domination	NOUN	NN	_	25	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	-	-	PUNCT	HYPH	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	seeking	seek	VERB	VBG	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	powers	power	NOUN	NNS	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	are	be	AUX	VBP	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	trying	try	VERB	VBG	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	spread	spread	VERB	VB	_	28	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	rumors	rumor	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	lies	lie	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	world	world	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	through	through	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	their	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	media	medium	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	order	order	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	to	to	PART	TO	_	43	aux	_	ent_type=_|ent_id=2|ent_iob=O
+43	deceive	deceive	VERB	VB	_	41	acl	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	world	world	NOUN	NN	_	43	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	public	public	ADJ	JJ	_	43	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+47	and	and	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+48	promote	promote	VERB	VB	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+49	their	-PRON-	DET	PRP$	_	52	poss	_	ent_type=_|ent_id=2|ent_iob=O
+50	own	own	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+51	domineering	domineering	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+52	policies	policy	NOUN	NNS	_	48	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 29
+# text = "The propaganda aired by their state-funded radios or other media is aimed at misleading the world public and shaping their opinion as these powers wish!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	propaganda	propaganda	NOUN	NN	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	aired	air	VERB	VBD	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	state	state	NOUN	NN	_	9	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	funded	fund	VERB	VBN	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	radios	radio	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	or	or	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	media	medium	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	aimed	aim	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	at	at	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	misleading	mislead	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	world	world	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	public	public	ADJ	JJ	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	shaping	shape	VERB	VBG	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	opinion	opinion	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	as	as	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	these	these	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	powers	power	NOUN	NNS	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	wish	wish	VERB	VBP	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	!	!	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 9
+# text = They often say things that are not true!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	often	often	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	say	say	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	things	thing	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	true	true	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 15
+# text = Under these circumstances, dissemination of genuine information is of the utmost importance."
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Under	under	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	circumstances	circumstance	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	dissemination	dissemination	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	genuine	genuine	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	information	information	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	utmost	utmost	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	importance	importance	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	"	"	PUNCT	''	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 31
+# text = The Leader went on to say, "The media affiliated to the United States and Zionist circles have always tried to distort the facts and mislead the world public.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	leader	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	The	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	media	medium	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	affiliated	affiliate	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	United	United	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	States	States	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	Zionist	zionist	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	circles	circle	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	have	have	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	always	always	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	tried	try	VERB	VBN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	distort	distort	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	facts	fact	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	mislead	mislead	VERB	VB	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	world	world	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	public	public	ADJ	JJ	_	27	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 53
+# text = For instance, in the occupied territories of Palestine, Zionists commit the most heinous crimes and atrocities against oppressed Palestinians, whose land has been usurped by the Zionist regime, but these media are trying to portray Palestinians as aggressors and their Zionist butchers as the ones who are oppressed!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	For	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	instance	instance	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	occupied	occupy	VERB	VBN	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	territories	territory	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Palestine	Palestine	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	Zionists	Zionists	PROPN	NNPS	_	12	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	commit	commit	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	most	most	ADV	RBS	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	heinous	heinous	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	crimes	crime	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	atrocities	atrocity	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	against	against	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	oppressed	oppress	VERB	VBN	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	Palestinians	Palestinians	PROPN	NNPS	_	19	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	whose	whose	DET	WP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	land	land	NOUN	NN	_	27	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	has	have	AUX	VBZ	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	been	be	AUX	VBN	_	27	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+27	usurped	usurp	VERB	VBN	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	by	by	ADP	IN	_	27	agent	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	Zionist	zionist	ADJ	JJ	_	31	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+31	regime	regime	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	but	but	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	these	these	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	media	medium	NOUN	NNS	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	are	be	AUX	VBP	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	trying	try	VERB	VBG	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	portray	portray	VERB	VB	_	37	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	Palestinians	Palestinians	PROPN	NNPS	_	39	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+41	as	as	SCONJ	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	aggressors	aggressor	NOUN	NNS	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	their	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+45	Zionist	zionist	ADJ	JJ	_	46	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+46	butchers	butcher	NOUN	NNS	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	as	as	SCONJ	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	the	the	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+49	ones	one	NOUN	NNS	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	who	who	PRON	WP	_	52	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+51	are	be	AUX	VBP	_	52	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+52	oppressed	oppress	VERB	VBN	_	49	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+53	!	!	PUNCT	.	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 21
+# text = "This is the way domination-seeking powers are using propaganda today in order to achieve their illegitimate objectives.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	way	way	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	domination	domination	NOUN	NN	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	seeking	seek	VERB	VBG	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	powers	power	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	using	use	VERB	VBG	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	propaganda	propaganda	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	today	today	NOUN	NN	_	11	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	order	order	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	achieve	achieve	VERB	VB	_	15	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	illegitimate	illegitimate	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	objectives	objective	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 20
+# text = In other words, they spread negative propaganda against any country that opposes their domineering policies and illegitimate interests.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	spread	spread	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	negative	negative	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	propaganda	propaganda	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	against	against	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	any	any	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	opposes	oppose	VERB	VBZ	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	domineering	domineering	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	policies	policy	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	illegitimate	illegitimate	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	interests	interest	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 19
+# text = "This is also what they are doing now against the noble Iranian nation and its popular system.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	doing	do	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	now	now	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	against	against	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	noble	noble	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	Iranian	iranian	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	nation	nation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	its	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	popular	popular	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	system	system	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 32
+# text = They know that if they intervene in this country militarily, this nation will give them such a slap on the face that they will become repentant of their military intervention!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	intervene	intervene	VERB	VBP	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	militarily	militarily	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	nation	nation	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	give	give	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	them	-PRON-	PRON	PRP	_	15	dative	_	ent_type=_|ent_id=2|ent_iob=O
+17	such	such	DET	PDT	_	19	predet	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	slap	slap	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	face	face	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	DET	WDT	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	they	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	will	will	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	become	become	VERB	VB	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	repentant	repentant	ADJ	JJ	_	26	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	military	military	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	intervention	intervention	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 28
+# text = They also know that their economic blockade and sanctions against this country, which have been in force for nearly 23 years, are not so effective.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	economic	economic	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	blockade	blockade	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	sanctions	sanction	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	against	against	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	been	be	AUX	VBN	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	force	force	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	nearly	nearly	ADV	RB	_	21	advmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	23	23	NUM	CD	_	22	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	years	year	NOUN	NNS	_	19	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+23	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	not	not	PART	RB	_	24	neg	_	ent_type=_|ent_id=2|ent_iob=O
+26	so	so	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	effective	effective	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 21
+# text = In fact, these economic sanctions have prompted the talented and devoted Iranians to work harder toward self-sufficiency.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	economic	economic	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	sanctions	sanction	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	prompted	prompt	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	talented	talented	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	devoted	devoted	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	Iranians	Iranians	PROPN	NNPS	_	8	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	work	work	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	harder	harder	ADV	RBR	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	toward	toward	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	self	self	NOUN	NN	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	HYPH	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	sufficiency	sufficiency	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 38
+# text = For instance, during the imposed war, when a blockade was imposed on this country and when our nation needed defensive equipment, our talented youth themselves manufactured what our soldiers needed at the war fronts.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	For	for	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	instance	instance	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	during	during	ADP	IN	_	3	intj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	imposed	impose	VERB	VBN	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	war	war	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	when	when	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	blockade	blockade	NOUN	NN	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	was	be	AUX	VBD	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	imposed	impose	VERB	VBN	_	8	intj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	country	country	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	when	when	ADV	WRB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	nation	nation	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	needed	need	VERB	VBD	_	29	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	defensive	defensive	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	equipment	equipment	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	talented	talented	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	youth	youth	NOUN	NN	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	themselves	-PRON-	PRON	PRP	_	27	appos	_	ent_type=_|ent_id=2|ent_iob=O
+29	manufactured	manufacture	VERB	VBD	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	what	what	PRON	WP	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	our	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	soldiers	soldier	NOUN	NNS	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	needed	need	VERB	VBN	_	29	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	at	at	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	war	war	NOUN	NN	_	37	compound	_	ent_type=_|ent_id=2|ent_iob=O
+37	fronts	front	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 22
+# text = In general, when sanctions are imposed on a nation, that nation will try more to realize its own potential.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	In	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	general	general	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	when	when	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	sanctions	sanction	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	imposed	impose	VERB	VBN	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	nation	nation	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	more	more	ADJ	JJR	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	realize	realize	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	its	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	own	own	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	potential	potential	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 12
+# text = Therefore, sanctions are not of great benefit to these powers.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	sanctions	sanction	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	benefit	benefit	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	powers	power	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 29
+# text = Although they are to some extent harmful to our nation, but these powers will not be able to achieve their objectives through sanctions against our nation."
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Although	although	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	extent	extent	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	harmful	harmful	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	these	these	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	powers	power	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	not	not	PART	RB	_	17	neg	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	able	able	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	achieve	achieve	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	objectives	objective	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	through	through	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	sanctions	sanction	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	against	against	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	nation	nation	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	"	"	PUNCT	''	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 37
+# text = Concerning the goals of the enemies, Leader of the Islamic Republic stated, "The enemies are trying to achieve certain objectives, and this should be considered by both the Iranian nation and politicians.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Concerning	concern	VERB	VBG	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	goals	goal	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	enemies	enemy	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	Leader	leader	NOUN	NN	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	"	"	PUNCT	``	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	The	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	enemies	enemy	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	trying	try	VERB	VBG	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	achieve	achieve	VERB	VB	_	19	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	certain	certain	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	objectives	objective	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	this	this	DET	DT	_	29	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+27	should	should	VERB	MD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	be	be	AUX	VB	_	29	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+29	considered	consider	VERB	VBN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	by	by	ADP	IN	_	29	agent	_	ent_type=_|ent_id=2|ent_iob=O
+31	both	both	CCONJ	CC	_	34	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	Iranian	iranian	ADJ	JJ	_	34	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+34	nation	nation	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	politicians	politician	NOUN	NNS	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 27
+# text = First, they intend to make the people dispirited and disappointed by spreading rumors and negative propaganda against the Islamic system and revolution and its values.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	First	first	ADV	RB	_	4	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	intend	intend	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	make	make	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	dispirited	dispirit	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	disappointed	disappoint	VERB	VBN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	spreading	spread	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	rumors	rumor	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	negative	negative	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	propaganda	propaganda	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islamic	islamic	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	system	system	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	revolution	revolution	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	its	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	values	value	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 26
+# text = Their second goal is to weaken the people's firm belief and determination, which has been the main factor helping this nation to face hardships
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Their	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	second	second	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	goal	goal	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	weaken	weaken	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	's	's	PART	POS	_	8	case	_	ent_type=_|ent_id=2|ent_iob=O
+10	firm	firm	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	belief	belief	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	determination	determination	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	which	which	DET	WDT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	has	have	AUX	VBZ	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	been	be	AUX	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	main	main	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	factor	factor	NOUN	NN	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	helping	help	VERB	VBG	_	20	acl	_	ent_type=_|ent_id=2|ent_iob=O
+22	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	nation	nation	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	face	face	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	hardships	hardship	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 36
+# text = They are also making every effort to create hurdles in the way of finding solutions to the economic problems of the people, which different government organs and executive officials are trying hard to solve.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	making	make	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	every	every	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	effort	effort	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	create	create	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	hurdles	hurdle	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	way	way	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	finding	find	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	solutions	solution	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	economic	economic	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	problems	problem	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	people	people	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	which	which	DET	WDT	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	different	different	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	government	government	NOUN	NN	_	27	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	organs	organ	NOUN	NNS	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	executive	executive	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	officials	official	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	are	be	AUX	VBP	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	trying	try	VERB	VBG	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	hard	hard	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	PART	TO	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+35	solve	solve	VERB	VB	_	32	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 17
+# text = But at the same time, they attribute any flaw and shortcoming to the Islamic system!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	But	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	at	at	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	same	same	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	time	time	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	attribute	attribute	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	any	any	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	flaw	flaw	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	shortcoming	shortcome	VERB	VBG	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	system	system	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	!	!	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 28
+# text = "The enemies are mainly seeking to separate the nation, which is the mainstay of this system and revolution, from the system and the revolution.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	enemies	enemy	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	mainly	mainly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	seeking	seek	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	separate	separate	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	mainstay	mainstay	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	system	system	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	revolution	revolution	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	from	from	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	system	system	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	revolution	revolution	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 17
+# text = Of course they are trying hard to do so, but surely they will not succeed!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	hard	hard	ADV	RB	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	do	do	AUX	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	so	so	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	surely	surely	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	succeed	succeed	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	!	!	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 36
+# text = This is because the Iranian people have displayed their firm belief and devotion to the lofty religious and revolutionary values and will not be deceived by the nice-looking words uttered by their enemies.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	people	people	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	displayed	display	VERB	VBN	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	firm	firm	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	belief	belief	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	devotion	devotion	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	lofty	lofty	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	religious	religious	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	revolutionary	revolutionary	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	values	value	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	not	not	PART	RB	_	25	neg	_	ent_type=_|ent_id=2|ent_iob=O
+24	be	be	AUX	VB	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	deceived	deceive	VERB	VBN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	by	by	ADP	IN	_	25	agent	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	nice	nice	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	-	-	PUNCT	HYPH	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	looking	looking	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	words	word	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	uttered	utter	VERB	VBN	_	31	acl	_	ent_type=_|ent_id=2|ent_iob=O
+33	by	by	ADP	IN	_	32	agent	_	ent_type=_|ent_id=2|ent_iob=O
+34	their	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	enemies	enemy	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 35
+# text = "As you can see today, in the U.S. propaganda, including the remarks made by U.S. officials like their president and Congressmen, the notion of reforms in Iran is often mentioned.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	As	as	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	see	see	VERB	VB	_	34	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	today	today	NOUN	NN	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	U.S.	U.S.	PROPN	NNP	_	11	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	propaganda	propaganda	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	including	include	VERB	VBG	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	remarks	remark	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	made	make	VERB	VBN	_	15	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+18	U.S.	U.S.	PROPN	NNP	_	19	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	officials	official	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	like	like	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	president	president	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	Congressmen	Congressmen	PROPN	NNPS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	notion	notion	NOUN	NN	_	22	appos	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	reforms	reform	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	Iran	Iran	PROPN	NNP	_	30	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+32	is	be	AUX	VBZ	_	34	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	often	often	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	mentioned	mention	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 22
+# text = Reform is a nice word, but the reform that U.S. officials want to be implemented in Iran is corruption itself!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Reform	reform	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	nice	nice	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	word	word	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	reform	reform	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	U.S.	U.S.	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	officials	official	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	want	want	VERB	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	be	be	AUX	VB	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	implemented	implement	VERB	VBN	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iran	Iran	PROPN	NNP	_	17	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	corruption	corruption	NOUN	NN	_	19	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	itself	-PRON-	PRON	PRP	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+22	!	!	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 26
+# text = They intend to subvert the system of the Islamic Republic, which is the outcome of the Iranian nation's belief and struggle for independence.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	intend	intend	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	subvert	subvert	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	system	system	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	outcome	outcome	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	nation	nation	NOUN	NN	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	's	's	PART	POS	_	19	case	_	ent_type=_|ent_id=2|ent_iob=O
+21	belief	belief	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	struggle	struggle	VERB	VB	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	independence	independence	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 25
+# text = In the view of U.S. officials, reform in Iran means the subversion of the Islamic Republic and the submission of the Iranian nation!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	In	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	view	view	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	U.S.	U.S.	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	officials	official	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	reform	reform	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iran	Iran	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	subversion	subversion	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	Republic	Republic	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	submission	submission	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iranian	iranian	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	nation	nation	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	!	!	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 16
+# text = "Otherwise, the United States is opposed to any real reform in this country.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	''	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Otherwise	otherwise	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	United	United	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	States	States	PROPN	NNP	_	7	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	opposed	oppose	VERB	VBN	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	any	any	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	real	real	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	reform	reform	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 44
+# text = You notice that while the judicial and executive organs are taking action against corruption, the media affiliated to the enemies and their agents inside the country are raising an outcry over this anti-corruption campaign with the intention of disrupting it!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	notice	notice	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	while	while	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	judicial	judicial	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	executive	executive	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	organs	organ	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	taking	take	VERB	VBG	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	action	action	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	against	against	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	corruption	corruption	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	media	medium	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	affiliated	affiliate	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	enemies	enemy	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	agents	agent	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	inside	inside	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	country	country	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	are	be	AUX	VBP	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	raising	raise	VERB	VBG	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	an	an	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	outcry	outcry	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	over	over	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	this	this	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	anti	anti	ADJ	JJ	_	35	dep	_	ent_type=_|ent_id=2|ent_iob=O
+35	-	-	ADJ	JJ	_	36	dep	_	ent_type=_|ent_id=2|ent_iob=O
+36	corruption	corruption	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	campaign	campaign	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	with	with	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	intention	intention	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	disrupting	disrupt	VERB	VBG	_	41	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	it	-PRON-	PRON	PRP	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 16
+# text = This clearly shows that they are not in favor of real reforms in this country.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	clearly	clearly	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	favor	favor	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	real	real	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	reforms	reform	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 25
+# text = "Last year, we raised the issue of unemployment in the country, and this year we placed further emphasis on this issue.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Last	last	ADJ	JJ	_	3	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	year	year	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	raised	raise	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	issue	issue	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	unemployment	unemployment	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	year	year	NOUN	NN	_	19	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	we	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	placed	place	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	further	further	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	emphasis	emphasis	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	issue	issue	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 15
+# text = Several meetings were held, and government officials seriously followed up on the issue.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Several	several	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	meetings	meeting	NOUN	NNS	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	held	hold	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	government	government	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	officials	official	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	seriously	seriously	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	followed	follow	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	up	up	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	issue	issue	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 56
+# text = But the enemies began to air all sorts of mean and malicious propaganda against the Islamic Republic in order to distract the government officials and prevent them from solving problems like unemployment, which is the main problem of our youth today, and also from trying to raise the living standard of the public.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	enemies	enemy	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	began	begin	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	air	air	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	sorts	sort	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	mean	mean	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	malicious	malicious	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	propaganda	propaganda	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	against	against	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	Republic	Republic	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	order	order	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	distract	distract	VERB	VB	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	government	government	NOUN	NN	_	24	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	officials	official	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	prevent	prevent	VERB	VB	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	them	-PRON-	PRON	PRP	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	from	from	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	solving	solve	VERB	VBG	_	28	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	problems	problem	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	like	like	SCONJ	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	unemployment	unemployment	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	which	which	DET	WDT	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	is	be	AUX	VBZ	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	main	main	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	problem	problem	NOUN	NN	_	35	attr	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	our	-PRON-	DET	PRP$	_	41	poss	_	ent_type=_|ent_id=2|ent_iob=O
+41	youth	youth	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	today	today	NOUN	NN	_	35	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+43	,	,	PUNCT	,	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	also	also	ADV	RB	_	44	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+46	from	from	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	trying	try	VERB	VBG	_	46	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+48	to	to	PART	TO	_	49	aux	_	ent_type=_|ent_id=2|ent_iob=O
+49	raise	raise	VERB	VB	_	47	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+50	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+51	living	living	NOUN	NN	_	52	compound	_	ent_type=_|ent_id=2|ent_iob=O
+52	standard	standard	NOUN	NN	_	49	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	of	of	ADP	IN	_	52	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	the	the	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+55	public	public	NOUN	NN	_	53	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 25
+# text = "In the eyes of U.S. officials, reformists are those masked ruffians who break shop windows and set fire to people's cars.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	eyes	eye	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	U.S.	U.S.	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	officials	official	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	reformists	reformist	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	those	those	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	masked	mask	VERB	VBN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	ruffians	ruffian	NOUN	NNS	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	break	break	VERB	VBP	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	shop	shop	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	windows	window	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	set	set	VERB	VBD	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	fire	fire	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	people	people	NOUN	NNS	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	's	's	PART	POS	_	22	case	_	ent_type=_|ent_id=2|ent_iob=O
+24	cars	car	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 30
+# text = They consider any individual in any part of the country who speaks against the interests of the nation, the revolution and the late Imam to be a reformist!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	consider	consider	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	any	any	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	individual	individual	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	any	any	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	part	part	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	speaks	speak	VERB	VBZ	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	against	against	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	interests	interest	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	revolution	revolution	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	late	late	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	Imam	Imam	PROPN	NNP	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	be	be	AUX	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	reformist	reformist	NOUN	NN	_	27	attr	_	ent_type=_|ent_id=2|ent_iob=O
+30	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 28
+# text = Therefore, I expect our political factions to make a distinction between their own objectives and what the United States wants to be implemented in this country.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	expect	expect	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	political	political	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	factions	faction	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	make	make	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	distinction	distinction	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	between	between	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	own	own	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	objectives	objective	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	what	what	PRON	WP	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	United	United	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	States	States	PROPN	NNP	_	21	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	wants	want	VERB	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	implemented	implement	VERB	VBN	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	country	country	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 25
+# text = In other words, they should make it clear what they are trying to achieve and what the U.S. stance on this issue is.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	In	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	clear	clear	ADJ	JJ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	what	what	PRON	WP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	trying	try	VERB	VBG	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	achieve	achieve	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	what	what	PRON	WP	_	24	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	U.S.	U.S.	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	stance	stance	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	issue	issue	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 28
+# text = "Reforms should be defined, but real reforms in this country are efforts to put an end to poverty, discrimination and administrative and economic corruption.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Reforms	reform	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	defined	define	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	real	real	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	reforms	reform	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	efforts	effort	NOUN	NNS	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	put	put	VERB	VB	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	end	end	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	poverty	poverty	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	discrimination	discrimination	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	administrative	administrative	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	economic	economic	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	corruption	corruption	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 29
+# text = The United States tries to create obstacles in the way of such efforts, but at the same time it sheds crocodile tears for the Iranian nation!"
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	United	United	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	tries	try	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	create	create	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	obstacles	obstacle	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	way	way	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	such	such	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	efforts	effort	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	at	at	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	same	same	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	time	time	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	it	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	sheds	shed	VERB	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	crocodile	crocodile	NOUN	NN	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	tears	tear	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Iranian	iranian	ADJ	JJ	_	27	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+27	nation	nation	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	!	!	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	"	"	PUNCT	''	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 46
+# text = Regarding baseless U.S. accusations against the Islamic Republic, the Leader noted: "Today, the most popular government that we know of is the Islamic Republic, since it relies not only on people's votes but also on their belief and devotion.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Regarding	regard	VERB	VBG	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	baseless	baseless	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	U.S.	U.S.	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	accusations	accusation	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	against	against	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Leader	leader	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	:	:	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	''	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	Today	today	NOUN	NN	_	26	npadvmod	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+16	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	most	most	ADV	RBS	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	popular	popular	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	government	government	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	WDT	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	we	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	know	know	VERB	VBP	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	is	be	AUX	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	29	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+27	Islamic	Islamic	PROPN	NNP	_	29	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+28	Republic	Republic	PROPN	NNP	_	26	attr	_	ent_type=GPE|ent_id=1|ent_iob=I
+29	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	since	since	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+31	it	-PRON-	PRON	PRP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	relies	rely	VERB	VBZ	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	not	not	PART	RB	_	36	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+34	only	only	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	on	on	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	people	people	NOUN	NNS	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	's	's	PART	POS	_	37	case	_	ent_type=_|ent_id=2|ent_iob=O
+38	votes	vote	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	but	but	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	also	also	ADV	RB	_	40	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+41	on	on	ADP	IN	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	their	-PRON-	DET	PRP$	_	44	poss	_	ent_type=_|ent_id=2|ent_iob=O
+43	belief	belief	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	44	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	devotion	devotion	NOUN	NN	_	44	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 17
+# text = The system of the Islamic Republic is sacred because it relies on the people's belief.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	system	system	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	Republic	Republic	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	sacred	sacred	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	because	because	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	relies	rely	VERB	VBZ	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	's	's	PART	POS	_	14	case	_	ent_type=_|ent_id=2|ent_iob=O
+16	belief	belief	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 12
+# text = However, U.S. officials say that our government is not popular!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	However	however	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	U.S.	U.S.	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	officials	official	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	say	say	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	government	government	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	popular	popular	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	!	!	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 35
+# text = At the same time, the United States supports dictatorial regimes, governments that have taken power through military coups or the countries where there are no parliaments and where no elections are held.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	At	at	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	same	same	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	time	time	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	United	United	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	States	States	PROPN	NNP	_	9	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	supports	support	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	dictatorial	dictatorial	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	regimes	regime	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	governments	government	NOUN	NNS	_	9	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	taken	take	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	power	power	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	through	through	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	military	military	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	coups	coup	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	countries	country	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	where	where	ADV	WRB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	there	there	PRON	EX	_	26	expl	_	ent_type=_|ent_id=2|ent_iob=O
+26	are	be	AUX	VBP	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	no	no	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	parliaments	parliament	NOUN	NNS	_	26	attr	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	where	where	ADV	WRB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	no	no	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	elections	election	NOUN	NNS	_	34	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	are	be	AUX	VBP	_	34	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+34	held	hold	VERB	VBN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 19
+# text = The Untied States also fully supports the occupier Zionist regime despite all its crimes and atrocities against Palestinians.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Untied	Untied	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNPS	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	also	also	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	fully	fully	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	supports	support	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	occupier	occupier	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	Zionist	zionist	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	regime	regime	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	despite	despite	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	DET	PDT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	its	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	crimes	crime	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	atrocities	atrocity	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Palestinians	Palestinians	PROPN	NNPS	_	17	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 14
+# text = "Therefore, the United States is not qualified to talk about democracy.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	''	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Therefore	therefore	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	United	United	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	States	States	PROPN	NNP	_	7	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	qualified	qualified	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	talk	talk	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	about	about	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	democracy	democracy	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 9
+# text = It is not qualified to talk about reforms.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	qualified	qualified	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	talk	talk	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	reforms	reform	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 10
+# text = The United States itself is the source of corruption!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	United	United	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNP	_	5	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	itself	-PRON-	PRON	PRP	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	source	source	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	corruption	corruption	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	!	!	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 20
+# text = Today, working to solve the problems of this nation is considered the greatest struggle against the United States.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Today	today	NOUN	NN	_	12	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	working	work	VERB	VBG	_	12	csubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	solve	solve	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	problems	problem	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	considered	consider	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	greatest	great	ADJ	JJS	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	struggle	struggle	NOUN	NN	_	12	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+16	against	against	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	United	United	PROPN	NNP	_	19	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	States	States	PROPN	NNP	_	16	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 19
+# text = This is what the U.S. is opposed to, as it would like these problems to remain unsolved.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	U.S.	U.S.	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	opposed	oppose	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	would	would	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	like	like	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	these	these	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	problems	problem	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	remain	remain	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	unsolved	unsolved	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 30
+# text = Officials of different branches of government should make every effort to eliminate corruption and solve the problems facing the people like unemployment and improve the country's economy."
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Officials	official	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	different	different	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	branches	branch	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	government	government	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	every	every	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	effort	effort	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	eliminate	eliminate	VERB	VB	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	corruption	corruption	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	solve	solve	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	problems	problem	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	facing	face	VERB	VBG	_	17	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	people	people	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	like	like	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	unemployment	unemployment	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	improve	improve	VERB	VB	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	country	country	NOUN	NN	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	's	's	PART	POS	_	26	case	_	ent_type=_|ent_id=2|ent_iob=O
+28	economy	economy	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	"	"	PUNCT	''	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 31
+# text = Further referring to the duties of government officials, the Leader stated: "The officials of the Judiciary should take action against those spreading lies and rumors in society.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Further	further	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	referring	refer	VERB	VBG	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	duties	duty	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	government	government	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	officials	official	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Leader	leader	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	:	:	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	``	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	The	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	officials	official	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Judiciary	Judiciary	PROPN	NNP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	should	should	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	take	take	VERB	VB	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	action	action	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	against	against	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	those	those	DET	DT	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	spreading	spread	VERB	VBG	_	25	acl	_	ent_type=_|ent_id=2|ent_iob=O
+26	lies	lie	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	rumors	rumor	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	society	society	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 33
+# text = It is surprising that some claim that corruption is rife and prevalent in the country, but in practice they themselves create obstacles in the way of the anti-corruption campaign!
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	surprising	surprising	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	claim	claim	NOUN	NN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	corruption	corruption	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	rife	rife	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	prevalent	prevalent	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	practice	practice	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	themselves	-PRON-	PRON	PRP	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+22	create	create	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	obstacles	obstacle	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	way	way	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	anti	anti	ADJ	JJ	_	30	dep	_	ent_type=_|ent_id=2|ent_iob=O
+30	-	-	ADJ	JJ	_	31	dep	_	ent_type=_|ent_id=2|ent_iob=O
+31	corruption	corruption	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	campaign	campaign	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	!	!	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 13
+# text = It is clear that their main intention is to dishearten the public.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	clear	clear	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	main	main	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	intention	intention	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	dishearten	dishearten	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	public	public	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 11
+# text = This is something that the officials should firmly deal with.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	something	something	PRON	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	firmly	firmly	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	deal	deal	VERB	VB	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 24
+# text = "All branches of government, namely the Executive, the Legislative and the Judiciary, should pay more attention to their duties.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	All	all	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	branches	branch	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	government	government	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	namely	namely	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Executive	Executive	PROPN	NNP	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Legislative	Legislative	PROPN	NNP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Judiciary	Judiciary	PROPN	NNP	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	should	should	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	more	more	ADJ	JJR	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	attention	attention	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	duties	duty	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 41
+# text = The responsibility of the Leader toward the nation is to remind the officials of the three government branches of their duties and warn them if they tend to take measures that may cause the system to deviate from its path.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	responsibility	responsibility	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Leader	leader	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	toward	toward	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	remind	remind	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	officials	official	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	three	three	NUM	CD	_	18	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+17	government	government	NOUN	NN	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	branches	branch	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	duties	duty	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	warn	warn	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	them	-PRON-	PRON	PRP	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	if	if	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	they	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	tend	tend	VERB	VBP	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	take	take	VERB	VB	_	27	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	measures	measure	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	that	that	DET	WDT	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	may	may	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	cause	cause	VERB	VB	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	system	system	NOUN	NN	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	PART	TO	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	deviate	deviate	VERB	VB	_	33	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	from	from	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	its	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	path	path	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 32
+# text = It is the responsibility of the Executive, the Judiciary and the Majlis to take care of the country's affairs, but the responsibility of the Leader goes beyond this.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	responsibility	responsibility	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Executive	Executive	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Judiciary	Judiciary	PROPN	NNP	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Majlis	Majlis	PROPN	NNPS	_	10	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	take	take	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	care	care	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	country	country	NOUN	NN	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	's	's	PART	POS	_	19	case	_	ent_type=_|ent_id=2|ent_iob=O
+21	affairs	affair	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	responsibility	responsibility	NOUN	NN	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	Leader	leader	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	goes	go	VERB	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	beyond	beyond	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	this	this	DET	DT	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 6
+# text = It is a heavy responsibility.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	heavy	heavy	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	responsibility	responsibility	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 49
+# text = If the Executive or Judiciary officials or the Majlis representatives decide to take certain measures that are contrary to the ideals and objectives of the Islamic system, the Leader should prevent them from taking such measures and, by the grace of Allah, he will."
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	If	if	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Executive	Executive	PROPN	NNP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	or	or	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	Judiciary	Judiciary	PROPN	NNP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	or	or	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Majlis	Majlis	PROPN	NNP	_	10	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	representatives	representative	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	decide	decide	VERB	VBP	_	32	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	take	take	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	certain	certain	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	measures	measure	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	DET	WDT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	contrary	contrary	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	ideals	ideal	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	objectives	objective	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Islamic	islamic	ADJ	JJ	_	27	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+27	system	system	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	Leader	leader	NOUN	NN	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	should	should	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	prevent	prevent	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+33	them	-PRON-	PRON	PRP	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	from	from	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	taking	take	VERB	VBG	_	34	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	such	such	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	measures	measure	NOUN	NNS	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	by	by	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	grace	grace	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	Allah	Allah	PROPN	NNP	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	,	,	PUNCT	,	_	47	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	he	-PRON-	PRON	PRP	_	47	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+47	will	will	VERB	MD	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+48	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+49	"	"	PUNCT	''	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 16
+# text = Ayatollah Khamenei also touched on the great vigilance and political awareness of the Iranian nation.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	touched	touch	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	vigilance	vigilance	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	political	political	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	awareness	awareness	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iranian	iranian	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	nation	nation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 30
+# text = He said: "Our nation has displayed its remarkable adherence to Islam and religious and revolutionary values, which is due to its great vigilance and political awareness.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	:	:	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	displayed	display	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	its	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	remarkable	remarkable	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	adherence	adherence	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islam	Islam	PROPN	NNP	_	13	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	religious	religious	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	revolutionary	revolutionary	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	values	value	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	which	which	DET	WDT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	due	due	ADJ	JJ	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	its	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	great	great	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	vigilance	vigilance	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	political	political	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	awareness	awareness	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 28
+# text = Our nation has rightly realized that nothing but Islam can hinder the enemy's domination and the tyrannical dictatorship that it aims to establish in this country.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	rightly	rightly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	realized	realize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	nothing	nothing	PRON	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	but	but	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islam	Islam	PROPN	NNP	_	8	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	hinder	hinder	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	enemy	enemy	NOUN	NN	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	's	's	PART	POS	_	13	case	_	ent_type=_|ent_id=2|ent_iob=O
+15	domination	domination	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	tyrannical	tyrannical	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	dictatorship	dictatorship	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	it	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	aims	aim	VERB	VBZ	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	establish	establish	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	country	country	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 37
+# text = "The enemy intends to foment chaos, disbelief and mistrust in the Islamic system and then, by taking advantage of the atmosphere, bring to power a dictator like Reza Khan in this country.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	enemy	enemy	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	intends	intend	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	foment	foment	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	chaos	chaos	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	disbelief	disbelief	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	mistrust	mistrust	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	system	system	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	then	then	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	by	by	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	taking	take	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	advantage	advantage	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	atmosphere	atmosphere	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	bring	bring	VERB	VB	_	4	dep	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	power	power	NOUN	NN	_	26	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	dictator	dictator	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	like	like	SCONJ	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	Reza	Reza	PROPN	NNP	_	33	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+33	Khan	Khan	PROPN	NNP	_	31	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+34	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	this	this	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	country	country	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 22
+# text = This was experienced in Iran first in the 1920s during Reza Khan's time and then on August 19, 1953.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	This	this	DET	DT	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	experienced	experience	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iran	Iran	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	first	first	ADV	RB	_	3	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+7	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	1920s	1920s	NUM	CD	_	7	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	during	during	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Reza	Reza	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	Khan	Khan	PROPN	NNP	_	14	poss	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	's	's	PART	POS	_	12	case	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	time	time	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	then	then	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	on	on	ADP	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	August	August	PROPN	NNP	_	17	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	19	19	NUM	CD	_	18	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	,	,	PUNCT	,	_	18	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	1953	1953	NUM	CD	_	18	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 24
+# text = On that day, a group of agitators and domestic agents of the enemy created chaos and caused a commotion in the country.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	On	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	day	day	NOUN	NN	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	group	group	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	agitators	agitator	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	domestic	domestic	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	agents	agent	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	enemy	enemy	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	created	create	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	chaos	chaos	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	caused	cause	VERB	VBD	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	commotion	commotion	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	country	country	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 35
+# text = As a result, the clergy was sidelined, the public was disheartened and the way was paved for the tyrannical dictatorship of Mohammad Reza [Pahlavi] and U.S. domination of this country.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	As	as	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	result	result	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	clergy	clergy	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	sidelined	sideline	VERB	VBN	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	public	public	NOUN	NN	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	was	be	AUX	VBD	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	disheartened	dishearten	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	way	way	NOUN	NN	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	was	be	AUX	VBD	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	paved	pave	VERB	VBN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	tyrannical	tyrannical	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	dictatorship	dictatorship	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Mohammad	Mohammad	PROPN	NNP	_	25	nmod	_	ent_type=PERSON|ent_id=3|ent_iob=B
+25	Reza	Reza	PROPN	NNP	_	23	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+26	[	[	PUNCT	-LRB-	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	Pahlavi	Pahlavi	PROPN	NNP	_	25	appos	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+28	]	]	PUNCT	-RRB-	_	27	punct	_	ent_type=PRODUCT|ent_id=1|ent_iob=I
+29	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	U.S.	U.S.	PROPN	NNP	_	31	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+31	domination	domination	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	of	of	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	this	this	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	country	country	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 11
+# text = Today, they intend to do the same thing. "
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	intend	intend	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	do	do	AUX	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	same	same	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	thing	thing	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 23
+# text = However, today the situation in this country is different from those days, as the Iranian people are aware and vigilant.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	However	however	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	today	today	NOUN	NN	_	9	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	situation	situation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	different	different	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	those	those	DET	DT	_	13	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	days	day	NOUN	NNS	_	11	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iranian	iranian	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	people	people	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	aware	aware	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	vigilant	vigilant	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 35
+# text = Today the United States cannot act the way it did on August 19, 1953, or Britain cannot treat the Iranian people the way it did during Reza Khan's time.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	United	United	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	States	States	PROPN	NNP	_	7	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	act	act	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	way	way	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	did	do	AUX	VBD	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	August	August	PROPN	NNP	_	12	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	19	19	NUM	CD	_	13	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	13	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	1953	1953	NUM	CD	_	13	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	Britain	Britain	PROPN	NNP	_	22	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	can	can	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	not	not	PART	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+22	treat	treat	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Iranian	iranian	ADJ	JJ	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	people	people	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	way	way	NOUN	NN	_	22	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	it	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	did	do	AUX	VBD	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	during	during	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	Reza	Reza	PROPN	NNP	_	32	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+32	Khan	Khan	PROPN	NNP	_	34	poss	_	ent_type=PERSON|ent_id=1|ent_iob=I
+33	's	's	PART	POS	_	32	case	_	ent_type=PERSON|ent_id=1|ent_iob=I
+34	time	time	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 34
+# text = Today, the zealous youth of this country, who are ready to defend Islam, and their faithful and vigilant parents constitute a nation that is an example for all other nations.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Today	today	NOUN	NN	_	0	ROOT	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	zealous	zealous	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	youth	youth	NOUN	NN	_	2	intj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	ready	ready	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	defend	defend	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islam	Islam	PROPN	NNP	_	14	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	faithful	faithful	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	vigilant	vigilant	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	parents	parent	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	constitute	constitute	VERB	VBP	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	nation	nation	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	is	be	AUX	VBZ	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	an	an	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	example	example	NOUN	NN	_	27	attr	_	ent_type=_|ent_id=2|ent_iob=O
+30	for	for	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	all	all	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	other	other	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	nations	nation	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 14
+# text = Today, other nations look to and are inspired by our nation."
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	nations	nation	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	look	look	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	inspired	inspire	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	nation	nation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	''	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 49
+# text = In conclusion, the Leader of the Islamic Republic pointed out: "As long as you are standing firm - and by the grace of Allah you will be doing so forever - the hope and enthusiasm of Muslim nations for Islam will increase day by day.
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Leader	leader	NOUN	NN	_	10	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	of	of	ADP	IN	_	5	prep	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	the	the	DET	DT	_	9	det	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Republic	Republic	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	out	out	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	:	:	PUNCT	:	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	``	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	As	as	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	long	long	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	as	as	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	you	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	standing	stand	VERB	VBG	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	firm	firm	NOUN	NN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	-	-	PUNCT	:	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	by	by	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	grace	grace	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Allah	Allah	PROPN	NNP	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	you	-PRON-	PRON	PRP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	will	will	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	be	be	AUX	VB	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	doing	do	VERB	VBG	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	so	so	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+33	forever	forever	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	-	-	PUNCT	:	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	hope	hope	NOUN	NN	_	46	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	enthusiasm	enthusiasm	NOUN	NN	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	Muslim	muslim	ADJ	JJ	_	42	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+41	nations	nation	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	for	for	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	Islam	Islam	PROPN	NNP	_	43	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+44	will	will	VERB	MD	_	46	aux	_	ent_type=_|ent_id=2|ent_iob=O
+45	increase	increase	VERB	VB	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	day	day	NOUN	NN	_	46	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+47	by	by	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	day	day	NOUN	NN	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 22
+# text = God willing, the pillars of arrogance will become shaky and its downfall will be brought about by Muslim nations."
+# title = Leader's Address to Directors of Friday Prayers Headquarters
+# year = 2002
+1	God	God	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	willing	willing	ADJ	JJ	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	pillars	pillar	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	arrogance	arrogance	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	shaky	shaky	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	downfall	downfall	NOUN	NN	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	be	be	AUX	VB	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	brought	bring	VERB	VBN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	about	about	ADP	RP	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+19	Muslim	muslim	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	nations	nation	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	"	"	PUNCT	''	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O

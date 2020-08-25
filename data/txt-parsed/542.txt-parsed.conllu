@@ -1,0 +1,3518 @@
+# sent_id = 1
+# sent_len = 11
+# text = First of all, I would like to welcome you.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	First	first	ADV	RB	_	7	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	would	would	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	welcome	welcome	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 12
+# text = This is one of the sweetest meetings for this humble person.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	sweetest	sweetest	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	meetings	meeting	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	humble	humble	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	person	person	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 32
+# text = This meeting is like a banquet in which there are different kinds of meals, but which your appetite and capacity do not allow you to benefit from all of them.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	meeting	meeting	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	banquet	banquet	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	there	there	PRON	EX	_	10	expl	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	different	different	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	kinds	kind	NOUN	NNS	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	meals	meal	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	but	but	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	which	which	DET	WDT	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	your	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	appetite	appetite	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	capacity	capacity	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	do	do	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	not	not	PART	RB	_	24	neg	_	ent_type=_|ent_id=2|ent_iob=O
+24	allow	allow	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	you	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	benefit	benefit	VERB	VB	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	from	from	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	all	all	DET	DT	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	them	-PRON-	PRON	PRP	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 22
+# text = As a result, you rise from this banquet while you are full, but you are greedy to have more.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	As	as	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	result	result	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	rise	rise	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	banquet	banquet	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	while	while	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	full	full	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	you	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	greedy	greedy	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	have	have	AUX	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	more	more	ADJ	JJR	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 11
+# text = We usually rise from this meeting with the same condition.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	usually	usually	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	rise	rise	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	meeting	meeting	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	same	same	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	condition	condition	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 38
+# text = Our capacity is full, but we still have the appetite and the interest to hear from you particularly because we can see that the movement and the caravan of poetry is making progress in the country.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	capacity	capacity	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	full	full	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	still	still	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	appetite	appetite	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	interest	interest	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	hear	hear	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	from	from	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	you	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	particularly	particularly	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	because	because	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	we	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	can	can	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	see	see	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	movement	movement	NOUN	NN	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	caravan	caravan	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	poetry	poetry	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	is	be	AUX	VBZ	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	making	make	VERB	VBG	_	23	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	progress	progress	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	country	country	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 16
+# text = Today's poetry is not really comparable with our poetry 10, 12 years ago.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Today	today	NOUN	NN	_	3	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	's	's	PART	POS	_	1	case	_	ent_type=_|ent_id=2|ent_iob=O
+3	poetry	poetry	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	really	really	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	comparable	comparable	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	poetry	poetry	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	10	10	NUM	CD	_	10	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	10	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	12	12	NUM	CD	_	14	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	years	year	NOUN	NNS	_	15	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	ago	ago	ADV	RB	_	4	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 7
+# text = It has thankfully made great progress.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	It	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	thankfully	thankfully	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	progress	progress	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 14
+# text = I would like to congratulate you on the auspicious birthday anniversary of Imam Mujtaba
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	congratulate	congratulate	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	auspicious	auspicious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	birthday	birthday	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	anniversary	anniversary	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Imam	Imam	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+14	Mujtaba	Mujtaba	PROPN	NNP	_	12	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+
+# sent_id = 10
+# sent_len = 30
+# text = (God's greetings be upon him) and I thank the dear friends in this meeting who commemorated the memory of that great Imam (a.s.).
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	(	(	PUNCT	-LRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	greetings	greeting	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	upon	upon	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	him	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	)	)	PUNCT	-RRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	I	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	thank	thank	VERB	VBP	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	dear	dear	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	friends	friend	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	meeting	meeting	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	commemorated	commemorate	VERB	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	memory	memory	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	great	great	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	Imam	Imam	PROPN	NNP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	(	(	PUNCT	-LRB-	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	a.s	a.s	PROPN	NNP	_	28	dep	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PROPN	NNP	_	25	appos	_	ent_type=_|ent_id=2|ent_iob=O
+29	)	)	PUNCT	-RRB-	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 17
+# text = I would like to remind you of the imminent arrival of the auspicious Nights of Qadr.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	remind	remind	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	imminent	imminent	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	arrival	arrival	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	auspicious	auspicious	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	Nights	Nights	PROPN	NNPS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Qadr	Qadr	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 11
+# text = You should appreciate the value of the Nights of Qadr.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	value	value	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	Nights	Nights	PROPN	NNPS	_	6	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	of	of	ADP	IN	_	8	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Qadr	Qadr	PROPN	NNP	_	9	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 10
+# text = They are valuable gates that are opened to us.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	valuable	valuable	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	gates	gate	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	opened	open	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	us	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 30
+# text = We should place ourselves on the path of the spiritual and holy breezes that pass through these gates and by Allah's favor, we should benefit from them.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	place	place	VERB	VB	_	27	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	ourselves	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	path	path	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	spiritual	spiritual	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	holy	holy	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	breezes	breeze	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	pass	pass	VERB	VBP	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	through	through	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	these	these	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	gates	gate	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	by	by	ADP	IN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	Allah	Allah	PROPN	NNP	_	23	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+22	's	's	PART	POS	_	21	case	_	ent_type=_|ent_id=2|ent_iob=O
+23	favor	favor	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	we	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	should	should	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	benefit	benefit	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	from	from	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	them	-PRON-	PRON	PRP	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 11
+# text = And I ask you to pray for this humble person.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	ask	ask	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	pray	pray	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	humble	humble	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	person	person	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 13
+# text = I hope that by Allah's favor, you will be successful.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	7	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	favor	favor	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	successful	successful	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 9
+# text = Let us say a few things about poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	us	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	say	say	VERB	VB	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	few	few	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	things	thing	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	poetry	poetry	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 18
+# text = In principle, poetry is an expression of poets' thoughts, feelings, melancholy and opinions.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	In	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	principle	principle	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	poetry	poetry	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	expression	expression	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	poets	poet	NOUN	NNS	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	'	'	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	thoughts	thought	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	feelings	feeling	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	melancholy	melancholy	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	opinions	opinion	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 33
+# text = Allah the Exalted has given poets a power to express their thoughts, opinions, feelings and melancholy by combining letters, words and appropriate music in an eloquent and influential way.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Allah	Allah	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Exalted	Exalted	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	given	give	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	poets	poet	NOUN	NNS	_	5	dative	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	power	power	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	express	express	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	thoughts	thought	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	opinions	opinion	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	feelings	feeling	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	melancholy	melancholy	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	by	by	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	combining	combine	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	letters	letter	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	words	word	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	appropriate	appropriate	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	music	music	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	an	an	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	eloquent	eloquent	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	influential	influential	ADJ	JJ	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	way	way	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 4
+# text = This is poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	poetry	poetry	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 16
+# text = Therefore, the function of poetry is primarily to answer the inner needs of poets.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Therefore	therefore	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	function	function	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	poetry	poetry	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	primarily	primarily	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	answer	answer	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	inner	inner	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	needs	need	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	poets	poet	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 24
+# text = Poetry is a spiritual birth through which poets can reflect and produce - from the inside - certain concepts, teachings and realities.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Poetry	poetry	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	spiritual	spiritual	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	birth	birth	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	through	through	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	poets	poet	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	reflect	reflect	VERB	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	produce	produce	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	inside	inside	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	HYPH	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	certain	certain	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	concepts	concept	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	teachings	teaching	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	realities	reality	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 9
+# text = Through poetry, poets can express their melancholy.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Through	through	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	poetry	poetry	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	poets	poet	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	express	express	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	melancholy	melancholy	ADJ	JJ	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 37
+# text = Therefore, if poets consider poetry to be a means for expressing their pains, sorrows and heartfelt emotions, this is not an unknown thing because this is the natural and primary function of poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Therefore	therefore	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	poets	poet	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	consider	consider	VERB	VBP	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	poetry	poetry	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	means	means	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	expressing	express	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	pains	pain	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	sorrows	sorrow	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	heartfelt	heartfelt	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	emotions	emotion	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	not	not	PART	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+24	an	an	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	unknown	unknown	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	thing	thing	NOUN	NN	_	22	attr	_	ent_type=_|ent_id=2|ent_iob=O
+27	because	because	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+28	this	this	DET	DT	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	is	be	AUX	VBZ	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	natural	natural	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	primary	primary	ADJ	JJ	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	function	function	NOUN	NN	_	29	attr	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	poetry	poetry	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 9
+# text = Poets express their inner feelings with poetic words.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Poets	poet	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	express	express	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	inner	inner	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	feelings	feeling	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	poetic	poetic	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	words	word	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 11
+# text = However, this is not the major function of poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	However	however	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	major	major	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	function	function	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	poetry	poetry	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 16
+# text = The major function of poetry is the effect that your poems produce on the listeners.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	major	major	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	function	function	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	poetry	poetry	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	effect	effect	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	poems	poem	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	produce	produce	VERB	VB	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	listeners	listener	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 10
+# text = You occupy the listeners' privacy with your poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	occupy	occupy	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	listeners	listener	NOUN	NNS	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	'	'	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	privacy	privacy	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	your	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	poetry	poetry	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 7
+# text = Human beings have a private territory.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Human	human	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	beings	being	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	private	private	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	territory	territory	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 7
+# text = This is one of their characteristics.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	characteristics	characteristic	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 16
+# text = They have a private territory, a territory for their secrets, and a self.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	private	private	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	territory	territory	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	territory	territory	NOUN	NN	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	secrets	secret	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	self	self	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 12
+# text = You show your presence in this private territory with your poems.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	show	show	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	your	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	presence	presence	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	private	private	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	territory	territory	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	poems	poem	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 7
+# text = You influence and enrich this territory.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	influence	influence	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	enrich	enrich	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	territory	territory	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 11
+# text = This is one of the most important functions of poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	most	most	ADV	RBS	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	important	important	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	functions	function	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	poetry	poetry	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 39
+# text = With your poems, you can keep fresh this private territory, these most private moments of one individual - who has become your listener - and this stage, destination and position in a person's life.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	With	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	poems	poem	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	keep	keep	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	fresh	fresh	ADJ	JJ	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	private	private	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	territory	territory	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	these	these	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	most	most	ADV	RBS	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	private	private	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	moments	moment	NOUN	NNS	_	11	appos	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	one	one	NUM	CD	_	19	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	individual	individual	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	:	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	who	who	PRON	WP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	has	have	AUX	VBZ	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	become	become	VERB	VBN	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	your	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	listener	listener	NOUN	NN	_	23	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	-	-	PUNCT	:	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	this	this	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	stage	stage	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	destination	destination	NOUN	NN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	position	position	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	a	a	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	person	person	NOUN	NN	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	's	's	PART	POS	_	36	case	_	ent_type=_|ent_id=2|ent_iob=O
+38	life	life	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 14
+# text = You can keep it pure, clean, delicate, enthusiastic and hopeful.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	keep	keep	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	pure	pure	ADJ	JJ	_	3	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	clean	clean	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	delicate	delicate	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	enthusiastic	enthusiastic	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	hopeful	hopeful	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 9
+# text = You can give this individual food for thought.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	give	give	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	individual	individual	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	food	food	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	thought	thought	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 19
+# text = You can give him guidance because people's privacy is, in fact, their private think tank.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	give	give	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	him	-PRON-	PRON	PRP	_	3	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	guidance	guidance	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	because	because	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	's	's	PART	POS	_	7	case	_	ent_type=_|ent_id=2|ent_iob=O
+9	privacy	privacy	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	fact	fact	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	private	private	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	think	think	NOUN	NN	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	tank	tank	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 23
+# text = Any individual has a think tank inside themselves and you can be a permanent member of this think tank with your poems.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Any	any	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	individual	individual	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	think	think	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	tank	tank	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	inside	inside	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	themselves	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	can	can	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	permanent	permanent	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	member	member	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	think	think	VERB	VBP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	tank	tank	NOUN	NN	_	12	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	your	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	poems	poem	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 27
+# text = This can be done if your poems have the power to influence and to show their presence in the minds and hearts of people and listeners.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	done	do	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	poems	poem	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	power	power	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	influence	influence	VERB	VB	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	show	show	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	presence	presence	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	minds	mind	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	hearts	heart	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	people	people	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	listeners	listener	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 12
+# text = This is one of the most important functions of your poems.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	most	most	ADV	RBS	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	important	important	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	functions	function	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	poems	poem	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 18
+# text = And this is an important issue because in fact, this privacy influences and builds inner selves.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	important	important	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	issue	issue	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	because	because	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	fact	fact	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	privacy	privacy	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	influences	influence	VERB	VBZ	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	builds	build	VERB	VBZ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	inner	inner	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	selves	self	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 13
+# text = One's thoughts and important decisions are shaped in these private territories.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	One	one	PRON	PRP	_	3	poss	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	's	's	PART	POS	_	1	case	_	ent_type=_|ent_id=2|ent_iob=O
+3	thoughts	thought	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	important	important	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	decisions	decision	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	shaped	shape	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	private	private	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	territories	territory	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 16
+# text = Through this passage, people move towards true or wrong and good or bad paths.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Through	through	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	passage	passage	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	move	move	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	towards	towards	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	true	true	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	or	or	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	wrong	wrong	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	good	good	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	or	or	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	bad	bad	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	paths	path	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 16
+# text = The territory is a place for making decisions and shaping the main identity of people.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	territory	territory	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	place	place	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	making	make	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	decisions	decision	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	shaping	shape	VERB	VBG	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	main	main	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	identity	identity	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 11
+# text = You can be present in this territory and influence it.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	present	present	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	territory	territory	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	influence	influence	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 12
+# text = And this is one of the most important functions of poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	3	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	most	most	ADV	RBS	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	important	important	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	functions	function	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	poetry	poetry	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 6
+# text = This privacy is very important.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	privacy	privacy	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	important	important	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 24
+# text = Today, the effort of shaitans is to influence the private territories of people and listeners - either our people or other peoples.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	effort	effort	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	shaitans	shaitan	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	influence	influence	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	private	private	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	territories	territory	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	listeners	listener	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	:	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	either	either	CCONJ	CC	_	20	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	people	people	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	other	other	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	peoples	people	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 10
+# text = They want to inject their own values into them.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	want	want	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	inject	inject	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	own	own	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	values	value	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	into	into	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	them	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 15
+# text = They want to grab them in the claws of their own values and thoughts.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	want	want	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	grab	grab	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	them	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	claws	claws	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	own	own	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	values	value	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	thoughts	thought	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 48
+# text = If you can achieve the art and the blessing to show your presence in your listeners' private territories and enrich them with spirituality and with the tools that draw them to enthusiasm, hope, dynamism and progress, then you have made a great achievement.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	achieve	achieve	VERB	VB	_	44	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	art	art	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	blessing	blessing	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	show	show	VERB	VB	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	presence	presence	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	your	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	listeners	listener	NOUN	NNS	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	'	'	PART	POS	_	16	case	_	ent_type=_|ent_id=2|ent_iob=O
+18	private	private	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	territories	territory	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	enrich	enrich	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	them	-PRON-	PRON	PRP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	with	with	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	spirituality	spirituality	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	with	with	ADP	IN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	tools	tool	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	that	that	DET	WDT	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	draw	draw	VERB	VBP	_	28	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	them	-PRON-	PRON	PRP	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	enthusiasm	enthusiasm	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	hope	hope	NOUN	NN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	dynamism	dynamism	NOUN	NN	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	progress	progress	NOUN	NN	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	,	,	PUNCT	,	_	44	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	then	then	ADV	RB	_	44	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+42	you	-PRON-	PRON	PRP	_	44	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+43	have	have	AUX	VBP	_	44	aux	_	ent_type=_|ent_id=2|ent_iob=O
+44	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+45	a	a	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	great	great	ADJ	JJ	_	47	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	achievement	achievement	NOUN	NN	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	.	.	PUNCT	.	_	44	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 12
+# text = This is what our great poets did during hundreds of years.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	poets	poet	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	during	during	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	hundreds	hundred	NOUN	NNS	_	8	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	of	of	ADP	IN	_	9	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	years	year	NOUN	NNS	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 22
+# text = Notice that Saadi, Molavi, Hafiz, Ferdowsi or Khaqani are present in our spiritual lives, minds and thoughts.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Notice	notice	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	Saadi	Saadi	PROPN	NNP	_	12	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Molavi	Molavi	PROPN	NNP	_	3	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Hafiz	Hafiz	PROPN	NNP	_	5	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Ferdowsi	Ferdowsi	PROPN	NNP	_	7	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	Khaqani	Khaqani	PROPN	NNP	_	9	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	are	be	AUX	VBP	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	present	present	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	spiritual	spiritual	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	lives	life	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	minds	mind	NOUN	NNS	_	17	appos	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	thoughts	thought	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 15
+# text = They have managed to influence the mentality of our societies for hundreds of years.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	managed	manage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	influence	influence	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	mentality	mentality	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	societies	society	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	hundreds	hundred	NOUN	NNS	_	11	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	of	of	ADP	IN	_	12	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	years	year	NOUN	NNS	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 23
+# text = These are the people who preserved the true identity of national culture for us and who handed it down generation by generation.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	preserved	preserve	VERB	VBD	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	true	true	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	identity	identity	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	national	national	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	culture	culture	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	us	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	who	who	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	handed	hand	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	it	-PRON-	PRON	PRP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	down	down	ADP	RP	_	17	prt	_	ent_type=_|ent_id=2|ent_iob=O
+20	generation	generation	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	generation	generation	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 11
+# text = Today, this is the important responsibility of our poets.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	important	important	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	responsibility	responsibility	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	poets	poet	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 26
+# text = If people's privacy is preserved - you can play a role in this regard - then we can be hopeful about correcting social norms.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	If	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	privacy	privacy	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	preserved	preserve	VERB	VBN	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	:	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	play	play	VERB	VB	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	role	role	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	regard	regard	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	then	then	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	we	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	can	can	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	hopeful	hopeful	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	about	about	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	correcting	correct	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	social	social	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	norms	norm	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 9
+# text = Social norms can be corrected in this way.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Social	social	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	norms	norm	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	corrected	correct	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	way	way	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 44
+# text = That is to say, when people are corrected from the inside, when they become purposeful, motivated, hopeful and enthusiastic, we can hope that social disorders will be corrected and that social norms will move in their own line.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	27	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	when	when	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	corrected	correct	VERB	VBN	_	27	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	inside	inside	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	when	when	ADV	WRB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	become	become	VERB	VBP	_	27	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	purposeful	purposeful	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	motivated	motivated	ADJ	JJ	_	27	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	hopeful	hopeful	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	enthusiastic	enthusiastic	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	we	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	can	can	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	hope	hope	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+29	social	social	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	disorders	disorder	NOUN	NNS	_	33	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	will	will	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	be	be	AUX	VB	_	33	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	corrected	correct	VERB	VBN	_	27	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	that	that	SCONJ	IN	_	39	mark	_	ent_type=_|ent_id=2|ent_iob=O
+36	social	social	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	norms	norm	NOUN	NNS	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	will	will	VERB	MD	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	move	move	VERB	VB	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	their	-PRON-	DET	PRP$	_	43	poss	_	ent_type=_|ent_id=2|ent_iob=O
+42	own	own	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	line	line	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 13
+# text = This is one issue which is a great opportunity for you poets.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	4	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	issue	issue	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	great	great	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	opportunity	opportunity	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	poets	poet	NOUN	NNS	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 15
+# text = In my opinion, Allah the Exalted has given you this art of poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	my	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	opinion	opinion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Exalted	Exalted	PROPN	NNP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	given	give	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	dative	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	art	art	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	poetry	poetry	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 37
+# text = Perhaps, there are some people who have good thoughts, but who have no access to this efficient tool and to these eloquent, warm and influential vocal chords in order to convey such thoughts.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Perhaps	perhaps	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	good	good	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	thoughts	thought	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	have	have	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	no	no	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	access	access	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	efficient	efficient	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	tool	tool	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	these	these	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	eloquent	eloquent	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	warm	warm	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	influential	influential	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	vocal	vocal	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	chords	chord	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	order	order	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	convey	convey	VERB	VB	_	32	acl	_	ent_type=_|ent_id=2|ent_iob=O
+35	such	such	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	thoughts	thought	NOUN	NNS	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 6
+# text = You have these vocal chords.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	vocal	vocal	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	chords	chord	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 16
+# text = If you can make good use of it, you have accomplished a great feat.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	good	good	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	use	use	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	accomplished	accomplish	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	feat	feat	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 9
+# text = Another issue about poetry is its social function.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Another	another	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	issue	issue	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	about	about	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	poetry	poetry	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	its	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	social	social	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	function	function	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 8
+# text = Poetry is the protector of national identity.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Poetry	poetry	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	protector	protector	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	national	national	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	identity	identity	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 8
+# text = It is the protector of national identity.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	protector	protector	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	national	national	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	identity	identity	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 11
+# text = The identity of nations is their cultural characteristics and privileges.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	identity	identity	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	nations	nation	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	cultural	cultural	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	characteristics	characteristic	NOUN	NNS	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	privileges	privilege	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 11
+# text = This is what constitutes the cultural identity of a people.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	constitutes	constitute	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	cultural	cultural	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	identity	identity	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 7
+# text = This cultural identity is a principle.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	cultural	cultural	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	identity	identity	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	principle	principle	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 13
+# text = If it is taken from a people, they will be digested.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	taken	take	VERB	VBN	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	digested	digest	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 17
+# text = That is to say, they will be destroyed in the real sense of the word.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	destroyed	destroy	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	real	real	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	sense	sense	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	word	word	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 16
+# text = If it is taken from a people, they will be only a geographical entity.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	taken	take	VERB	VBN	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	only	only	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	geographical	geographical	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	entity	entity	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 5
+# text = But this is nothing.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	nothing	nothing	PRON	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 16
+# text = In fact, it is something, but its existence is like non-existence.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	In	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	something	something	PRON	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	its	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	existence	existence	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	like	like	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	non	non	ADJ	JJ	_	14	dep	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	NOUN	NN	_	15	dep	_	ent_type=_|ent_id=2|ent_iob=O
+15	existence	existence	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 14
+# text = This cultural identity is the entire life of an organism and a people.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	cultural	cultural	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	identity	identity	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	entire	entire	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	life	life	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	an	an	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	organism	organism	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 11
+# text = Poetry can strengthen, enrich and feed this cultural identity.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Poetry	poetry	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	strengthen	strengthen	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	enrich	enrich	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	feed	feed	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	cultural	cultural	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	identity	identity	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 31
+# text = On the issue of cultural identity, when we look at the poets of our history - these great eloquent people - we see that their messages are very valuable.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	On	on	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	issue	issue	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	cultural	cultural	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	identity	identity	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	when	when	ADV	WRB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	look	look	VERB	VBP	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	at	at	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	poets	poet	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	history	history	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	:	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	these	these	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	great	great	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	eloquent	eloquent	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	people	people	NOUN	NNS	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	-	-	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	we	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	messages	message	NOUN	NNS	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	are	be	AUX	VBP	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	very	very	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	valuable	valuable	ADJ	JJ	_	28	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 13
+# text = Their messages are about monotheism, belief in God and good deeds.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Their	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	messages	message	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	about	about	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	monotheism	monotheism	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	belief	belief	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	God	God	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	good	good	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	deeds	deed	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 15
+# text = The collection of poems that exist in this regard are really and truly astonishing.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	collection	collection	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	poems	poem	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	exist	exist	VERB	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	regard	regard	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	really	really	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	truly	truly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	astonishing	astonishing	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 12
+# text = I am not very familiar with the poems of other nations.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	familiar	familiar	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	poems	poem	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	other	other	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	nations	nation	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 38
+# text = Persian poetry - Saadi's Bustan, Ferdowsi's Shahnameh, Nizami's Khamsa, Hafiz's Divan and Molavi's Mathnavi - is full of wisdom compared to those foreign poems that I am familiar with.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Persian	persian	ADJ	JJ	_	4	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+2	poetry	poetry	NOUN	NN	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Saadi	Saadi	PROPN	NNP	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	's	's	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	Bustan	Bustan	PROPN	NNP	_	24	nsubj	_	ent_type=LOC|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	Ferdowsi	Ferdowsi	PROPN	NNP	_	10	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	's	's	PART	POS	_	8	case	_	ent_type=_|ent_id=2|ent_iob=O
+10	Shahnameh	Shahnameh	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Nizami	Nizami	PROPN	NNP	_	14	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	's	's	PART	POS	_	12	case	_	ent_type=_|ent_id=2|ent_iob=O
+14	Khamsa	Khamsa	PROPN	NNP	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	Hafiz	Hafiz	PROPN	NNP	_	18	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	's	's	PART	POS	_	16	case	_	ent_type=_|ent_id=2|ent_iob=O
+18	Divan	Divan	PROPN	NNP	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	Molavi	Molavi	PROPN	NNP	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	's	's	PART	POS	_	20	case	_	ent_type=_|ent_id=2|ent_iob=O
+22	Mathnavi	Mathnavi	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	full	full	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	wisdom	wisdom	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	compared	compare	VERB	VBN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	those	those	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	foreign	foreign	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	poems	poem	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	that	that	DET	WDT	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	I	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	am	be	AUX	VBP	_	32	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	familiar	familiar	ADJ	JJ	_	35	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	with	with	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 3
+# text = Wisdom radiates -
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Wisdom	wisdom	NOUN	NN	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	radiates	radiate	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 15
+# text = in the real sense of the word - in these books and lofty thoughts.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	in	in	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	real	real	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	sense	sense	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	word	word	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	:	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	books	book	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	lofty	lofty	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	thoughts	thought	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 11
+# text = There are many outstanding and lofty thoughts in these books.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	outstanding	outstanding	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	lofty	lofty	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	thoughts	thought	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	books	book	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 11
+# text = They have managed to define an identity for our people.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	managed	manage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	define	define	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	identity	identity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 16
+# text = And I would tell you that whatever privilege we have comes from this cultural identity.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	And	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	tell	tell	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	whatever	whatever	DET	WDT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	privilege	privilege	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	comes	come	VERB	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	cultural	cultural	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	identity	identity	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 18
+# text = If it had not been for this cultural identity, our Revolution would not have achieved victory.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	If	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	cultural	cultural	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	identity	identity	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	Revolution	Revolution	PROPN	NNP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	would	would	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VB	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	achieved	achieve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	victory	victory	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 35
+# text = If it had not been for this cultural identity, an Imam like our Imam (r.a.), who created and finalized the movement, would not have been created and built.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	If	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	32	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	cultural	cultural	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	identity	identity	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	an	an	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Imam	Imam	PROPN	NNP	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	like	like	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	Imam	Imam	PROPN	NNP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	(	(	PUNCT	-LRB-	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	r.a	r.a	PROPN	NNP	_	18	dep	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PROPN	NNP	_	15	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	)	)	PUNCT	-RRB-	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	who	who	PRON	WP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	created	create	VERB	VBD	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	finalized	finalize	VERB	VBD	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	movement	movement	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	would	would	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	not	not	PART	RB	_	32	neg	_	ent_type=_|ent_id=2|ent_iob=O
+30	have	have	AUX	VB	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	been	be	AUX	VBN	_	32	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	created	create	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	built	build	VERB	VBN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 14
+# text = Our magnanimous Imam (r.a.) was the product of this culture.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	magnanimous	magnanimous	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Imam	Imam	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	(	(	PUNCT	-LRB-	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	r.a	r.a	PROPN	NNP	_	6	dep	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	)	)	PUNCT	-RRB-	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	product	product	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	culture	culture	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 18
+# text = It is this cultural identity that builds a person like Imam (r.a.) in society.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	cultural	cultural	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	identity	identity	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	builds	build	VERB	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	person	person	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	like	like	SCONJ	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Imam	Imam	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	(	(	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	r.a	r.a	PROPN	NNP	_	14	dep	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	11	appos	_	ent_type=_|ent_id=2|ent_iob=O
+15	)	)	PUNCT	-RRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	society	society	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 7
+# text = Therefore, it should be preserved.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	preserved	preserve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 5
+# text = You can preserve it.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	preserve	preserve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 29
+# text = Poetry should be the guardian of this identity and this identity is, in fact, the same as the spiritual wisdom on which we place great emphasis -
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Poetry	Poetry	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	guardian	guardian	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	identity	identity	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	identity	identity	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	fact	fact	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	same	same	ADJ	JJ	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	SCONJ	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	spiritual	spiritual	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	wisdom	wisdom	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	on	on	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	which	which	DET	WDT	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	we	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	place	place	VERB	VBP	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	great	great	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	emphasis	emphasis	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 14
+# text = that is to say, on the issue of spiritual and communal wisdom.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	that	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	issue	issue	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	spiritual	spiritual	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	communal	communal	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	wisdom	wisdom	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 13
+# text = This cultural identity is, in fact, the same as wisdom.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	cultural	cultural	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	identity	identity	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	fact	fact	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	same	same	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	as	as	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	wisdom	wisdom	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 12
+# text = You should preserve and pay attention to this in your poems.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	preserve	preserve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	pay	pay	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	attention	attention	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	poems	poem	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 35
+# text = You should preserve lofty Islamic ethics, spiritual, divine and Islamic wisdom, monotheism, belief in God, justice, sincerity and all the things that exist in the glorious Persian poetry.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	preserve	preserve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	lofty	lofty	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islamic	islamic	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	ethics	ethic	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	spiritual	spiritual	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	divine	divine	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islamic	islamic	ADJ	JJ	_	10	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	wisdom	wisdom	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	monotheism	monotheism	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	belief	belief	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	God	God	PROPN	NNP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	justice	justice	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	sincerity	sincerity	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	all	all	DET	PDT	_	27	predet	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	things	thing	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	DET	WDT	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	exist	exist	VERB	VBP	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	glorious	glorious	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	Persian	persian	ADJ	JJ	_	34	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+34	poetry	poetry	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 38
+# text = And if this motivation is witnessed in today's poets and if they make an effort to pay attention to these characteristics, then the invasion that is launched against this center will become clear to them.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	And	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	motivation	motivation	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	witnessed	witness	VERB	VBN	_	34	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	today	today	NOUN	NN	_	10	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	's	's	PART	POS	_	8	case	_	ent_type=_|ent_id=2|ent_iob=O
+10	poets	poet	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	if	if	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	make	make	VERB	VBP	_	34	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	effort	effort	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	pay	pay	VERB	VB	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	attention	attention	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	these	these	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	characteristics	characteristic	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	then	then	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	invasion	invasion	NOUN	NN	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	that	that	DET	WDT	_	29	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	is	be	AUX	VBZ	_	29	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+29	launched	launch	VERB	VBN	_	26	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	against	against	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	this	this	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	center	center	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	will	will	VERB	MD	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+35	clear	clear	ADJ	JJ	_	34	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	them	-PRON-	PRON	PRP	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 21
+# text = The problem with some people is that they do not see and understand the essence of this invasion at all.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	problem	problem	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	some	some	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	do	do	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	see	see	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	understand	understand	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	essence	essence	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	invasion	invasion	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	at	at	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	all	all	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 29
+# text = They do not understand the fact that there is a camp which has sworn an oath to uproot the national, Islamic and cultural identity of our people.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	understand	understand	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	fact	fact	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	there	there	PRON	EX	_	9	expl	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	camp	camp	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	has	have	AUX	VBZ	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	sworn	swear	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	oath	oath	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	uproot	uproot	VERB	VB	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	national	national	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islamic	islamic	ADJ	JJ	_	20	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	cultural	cultural	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	identity	identity	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	our	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	people	people	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 17
+# text = There are so many signs, signals and traces, but they do not understand it.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	so	so	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	many	many	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	signs	sign	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	signals	signal	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	traces	trace	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	do	do	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	understand	understand	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 11
+# text = As a poet said, "Look at this flock.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	As	as	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	poet	poet	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	said	say	VERB	VBD	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Look	look	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	at	at	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	flock	flock	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 7
+# text = How comfortably it is grazing".
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	How	how	ADV	WRB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	comfortably	comfortably	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	grazing	graze	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	"	"	PUNCT	''	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 13
+# text = They graze with no care and they do not understand at all.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	graze	graze	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	no	no	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	care	care	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	do	do	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	understand	understand	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	at	at	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 8
+# text = This is the problem with such people.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	problem	problem	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	such	such	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 28
+# text = Naturally, poets feel this invasion when they are concerned about something and when they have a feeling thanks to their spirit of art and sharp eyes.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Naturally	naturally	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	poets	poet	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	feel	feel	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	invasion	invasion	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	when	when	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	concerned	concerned	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	about	about	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	something	something	PRON	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	when	when	ADV	WRB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	have	have	AUX	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	feeling	feeling	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	thanks	thank	NOUN	NNS	_	16	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	spirit	spirit	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	art	art	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	sharp	sharp	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	eyes	eye	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 9
+# text = Therefore, they try to confront this invasion.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	try	try	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	confront	confront	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	invasion	invasion	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 26
+# text = This is an important task: "In the Name of the God who gave us life and wisdom" [Ferdowsi's Shahnameh].
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	task	task	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	:	:	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	In	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Name	name	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	God	God	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	gave	give	VERB	VBD	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	us	-PRON-	PRON	PRP	_	15	dative	_	ent_type=_|ent_id=2|ent_iob=O
+17	life	life	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	wisdom	wisdom	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	''	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	[	[	PUNCT	-LRB-	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	Ferdowsi	Ferdowsi	PROPN	NNP	_	24	poss	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+23	's	's	PART	POS	_	22	case	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+24	Shahnameh	Shahnameh	PROPN	NNP	_	8	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+25	]	]	PUNCT	-RRB-	_	24	punct	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 12
+# text = Poets defend and protect the lives and wisdom of our people.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Poets	poet	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	defend	defend	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	protect	protect	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	lives	life	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	wisdom	wisdom	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 13
+# text = This is the characteristic of poetry - this lofty and valuable art.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	characteristic	characteristic	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	poetry	poetry	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	lofty	lofty	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	valuable	valuable	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	art	art	NOUN	NN	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 15
+# text = Of course, the scope of this task is not limited to our people.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	scope	scope	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	task	task	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	limited	limit	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 6
+# text = It includes all of humanity.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	includes	include	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	humanity	humanity	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 37
+# text = By taking a single look at humanity in today's world, we understand that it is a world of freeing the hand of transgression against all human values including people's material and spiritual values.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	By	by	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	taking	take	VERB	VBG	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	single	single	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	look	look	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	at	at	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	humanity	humanity	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	today	today	NOUN	NN	_	11	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	's	's	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	we	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	understand	understand	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	world	world	NOUN	NN	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	freeing	free	VERB	VBG	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	hand	hand	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	transgression	transgression	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	against	against	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	all	all	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	human	human	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	values	value	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	including	include	VERB	VBG	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	people	people	NOUN	NNS	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	's	's	PART	POS	_	31	case	_	ent_type=_|ent_id=2|ent_iob=O
+33	material	material	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	spiritual	spiritual	ADJ	JJ	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	values	value	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 37
+# text = It is a world of freeing the hand of transgression against the independence, wealth, religion, spirituality, naamus [one's wife, daughters and close female relatives] and morality of nations.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	world	world	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	freeing	free	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	hand	hand	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	transgression	transgression	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	against	against	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	independence	independence	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	wealth	wealth	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	religion	religion	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	spirituality	spirituality	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	naamus	naamus	ADV	RB	_	19	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+22	[	[	PUNCT	-LRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	one	one	PRON	PRP	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	's	's	PART	POS	_	23	case	_	ent_type=_|ent_id=2|ent_iob=O
+25	wife	wife	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	daughters	daughter	NOUN	NNS	_	25	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	close	close	VERB	VB	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	female	female	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	relatives	relative	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	]	]	PUNCT	-RRB-	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	morality	morality	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	nations	nation	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 13
+# text = Global powers freed the hand of transgression with the tool of knowledge.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Global	global	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	powers	power	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	freed	free	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	hand	hand	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	transgression	transgression	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	tool	tool	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	knowledge	knowledge	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 7
+# text = This tool has brought them wealth.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	tool	tool	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	brought	bring	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	them	-PRON-	PRON	PRP	_	4	dative	_	ent_type=_|ent_id=2|ent_iob=O
+6	wealth	wealth	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 14
+# text = As a result of their knowledge, global propaganda is in their hands.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	As	as	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	result	result	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	knowledge	knowledge	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	global	global	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	propaganda	propaganda	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	hands	hand	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 18
+# text = Today, they are doing whatever they want to the world and they distort facts very easily.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	doing	do	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	whatever	whatever	DET	WDT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	want	want	VERB	VBP	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	distort	distort	VERB	VBP	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	facts	fact	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	very	very	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	easily	easily	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 121
+# sent_len = 19
+# text = Well, imagine that a person or even an animal is killed in a corner of the world.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Well	well	INTJ	UH	_	3	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	imagine	imagine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	person	person	NOUN	NN	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	or	or	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	even	even	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	an	an	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	animal	animal	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	killed	kill	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	corner	corner	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	world	world	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 122
+# sent_len = 6
+# text = They create uproar about it.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	create	create	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	uproar	uproar	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	about	about	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 123
+# sent_len = 15
+# text = This is while it is several days now that planes have been attacking Gaza.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	while	while	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	several	several	ADJ	JJ	_	7	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	days	day	NOUN	NNS	_	5	attr	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	now	now	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	planes	plane	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	been	be	AUX	VBN	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	attacking	attack	VERB	VBG	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	Gaza	Gaza	PROPN	NNP	_	13	dobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 124
+# sent_len = 31
+# text = Perhaps, more than a hundred people - many of whom are innocent infants and children - have been murdered, but this is not important to them at all.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Perhaps	perhaps	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	more	more	ADJ	JJR	_	6	amod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	than	than	SCONJ	IN	_	6	quantmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+5	a	a	DET	DT	_	6	quantmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+6	hundred	hundred	NUM	CD	_	7	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+7	people	people	NOUN	NNS	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	:	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	many	many	DET	DT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	whom	whom	PRON	WP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	innocent	innocent	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	infants	infant	NOUN	NNS	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	children	child	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	been	be	AUX	VBN	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	murdered	murder	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	but	but	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	not	not	PART	RB	_	24	neg	_	ent_type=_|ent_id=2|ent_iob=O
+26	important	important	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	them	-PRON-	PRON	PRP	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	at	at	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	all	all	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 125
+# sent_len = 8
+# text = I wish that they were only indifferent.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	wish	wish	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	were	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	only	only	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	indifferent	indifferent	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 126
+# sent_len = 22
+# text = According to what we have heard in the news, America and England have announced that they will support these invasions.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	According	accord	VERB	VBG	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	heard	hear	VERB	VBN	_	2	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	news	news	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	America	America	PROPN	NNP	_	15	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	England	England	PROPN	NNP	_	11	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	have	have	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	announced	announce	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	will	will	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	support	support	VERB	VB	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	these	these	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	invasions	invasion	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 127
+# sent_len = 9
+# text = This is the way of the world today.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	way	way	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	world	world	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	today	today	NOUN	NN	_	2	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 128
+# sent_len = 22
+# text = They support any evil, distortion, malevolence, corruption and dirt if it is to the advantage of their interests.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	support	support	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	any	any	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	evil	evil	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	distortion	distortion	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	malevolence	malevolence	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	corruption	corruption	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	dirt	dirt	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	if	if	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	it	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	advantage	advantage	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	interests	interest	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 129
+# sent_len = 8
+# text = And they are not afraid of this.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	afraid	afraid	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 130
+# sent_len = 25
+# text = They confront and savagely oppose any purity, any holy thing and any kind of honesty if it is not compatible with their interests.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	confront	confront	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	savagely	savagely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	oppose	oppose	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	any	any	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	purity	purity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	any	any	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	holy	holy	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	thing	thing	NOUN	NN	_	2	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	any	any	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	kind	kind	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	honesty	honesty	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	if	if	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	it	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+21	compatible	compatible	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	with	with	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	interests	interest	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 131
+# sent_len = 9
+# text = This is the way of the world today.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	way	way	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	world	world	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	today	today	NOUN	NN	_	2	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 132
+# sent_len = 9
+# text = Well, what is the responsibility of poets -
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Well	well	INTJ	UH	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	responsibility	responsibility	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	poets	poet	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 133
+# sent_len = 20
+# text = that is to say, people who enjoy wisdom, understanding and power of expression - in these circumstances?
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	that	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	enjoy	enjoy	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	wisdom	wisdom	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	understanding	understanding	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	power	power	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	expression	expression	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	these	these	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	circumstances	circumstance	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 134
+# sent_len = 5
+# text = What should they do?
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	What	what	PRON	WP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 135
+# sent_len = 32
+# text = Besides the fact that you can show what wisdom is - "Truly, poetry is wisdom" [Speaking in Arabic] - you can be a manifestation of "Indeed
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Besides	besides	SCONJ	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	show	show	VERB	VB	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	what	what	PRON	WP	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	wisdom	wisdom	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	:	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	"	"	PUNCT	``	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	Truly	truly	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	poetry	poetry	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	wisdom	wisdom	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	''	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	[	[	PUNCT	-LRB-	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	Speaking	speak	VERB	VBG	_	19	intj	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Arabic	Arabic	PROPN	NNP	_	21	pobj	_	ent_type=LANGUAGE|ent_id=3|ent_iob=B
+23	]	]	PUNCT	-RRB-	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	-	-	PUNCT	:	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	you	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	can	can	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	manifestation	manifestation	NOUN	NN	_	27	attr	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	"	"	PUNCT	``	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	Indeed	indeed	ADV	RB	_	30	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 136
+# sent_len = 34
+# text = if any do help and defend themselves after a wrong is done to them, against such there is no cause of blame" [The Holy Quran, 42: 41] and
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	if	if	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	any	any	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	help	help	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	defend	defend	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	themselves	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	after	after	ADP	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	wrong	wrong	NOUN	NN	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	done	do	VERB	VBN	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	them	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	against	against	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	such	such	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	there	there	PRON	EX	_	19	expl	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	no	no	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	cause	cause	NOUN	NN	_	19	attr	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	blame	blame	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	"	"	PUNCT	''	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	[	[	PUNCT	-LRB-	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	The	the	DET	DT	_	28	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+27	Holy	Holy	PROPN	NNP	_	28	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+28	Quran	Quran	PROPN	NNP	_	23	appos	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+29	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	42	42	NUM	CD	_	28	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+31	:	:	SYM	SYM	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	41	41	NUM	CD	_	30	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+33	]	]	PUNCT	-RRB-	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 137
+# sent_len = 22
+# text = "Those who defend themselves only after they are unjustly attacked" [The Holy Quran, 26: 227].
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Those	those	DET	DT	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	defend	defend	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	themselves	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	only	only	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	after	after	ADP	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	unjustly	unjustly	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	attacked	attack	VERB	VBN	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	"	"	PUNCT	''	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	[	[	PUNCT	-LRB-	_	11	punct	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+14	The	the	DET	DT	_	16	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+15	Holy	Holy	PROPN	NNP	_	16	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+16	Quran	Quran	PROPN	NNP	_	11	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+18	26	26	NUM	CD	_	20	nummod	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+19	:	:	SYM	SYM	_	20	punct	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+20	227	227	NUM	CD	_	16	appos	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+21	]	]	PUNCT	-RRB-	_	20	punct	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 138
+# sent_len = 23
+# text = This has been mentioned in Sura ash-Shuara: "Those who defend themselves only after they are unjustly attacked".
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	mentioned	mention	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Sura	Sura	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	ash	ash	NOUN	NN	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	-	-	PUNCT	:	_	9	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Shuara	Shuara	PROPN	NNP	_	5	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Those	those	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	defend	defend	VERB	VBP	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	themselves	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	only	only	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	after	after	ADP	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	they	-PRON-	PRON	PRP	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	unjustly	unjustly	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	attacked	attack	VERB	VBN	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	"	"	PUNCT	''	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 139
+# sent_len = 8
+# text = You should be a manifestation of this.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	manifestation	manifestation	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 140
+# sent_len = 5
+# text = You should offer help.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	offer	offer	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	help	help	VERB	VB	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 141
+# sent_len = 19
+# text = You should try to help the oppressed and you should tell and show the truth with your poems.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	help	help	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	oppressed	oppress	VERB	VBN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	tell	tell	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	show	show	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	truth	truth	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	your	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	poems	poem	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 142
+# sent_len = 9
+# text = You can play many roles in these areas.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	play	play	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	many	many	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	roles	role	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	areas	area	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 143
+# sent_len = 25
+# text = After all, having this advantage is a divine blessing and hujjat, and any blessing requires a word of thanks and a response.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	After	after	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	having	have	VERB	VBG	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	advantage	advantage	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	divine	divine	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessing	blessing	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	hujjat	hujjat	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	any	any	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	blessing	blessing	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	requires	require	VERB	VBZ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	word	word	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	thanks	thank	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	response	response	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 144
+# sent_len = 30
+# text = By Allah's favor, the dear brothers and sisters who are present in this meeting will pay attention to this issue more than what they have already done.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	By	by	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	favor	favor	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	dear	dear	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	brothers	brother	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	sisters	sister	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	present	present	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	meeting	meeting	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	attention	attention	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	issue	issue	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	more	more	ADJ	JJR	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	than	than	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	what	what	PRON	WP	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	they	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	have	have	AUX	VBP	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	already	already	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	done	do	VERB	VBN	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 145
+# sent_len = 25
+# text = Of course, I fortunately see that the young poets of our Revolution are carrying out good tasks and they are composing good poems.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	fortunately	fortunately	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	young	young	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	poets	poet	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	Revolution	Revolution	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	carrying	carry	VERB	VBG	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	out	out	ADP	RP	_	15	prt	_	ent_type=_|ent_id=2|ent_iob=O
+17	good	good	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	tasks	task	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	composing	compose	VERB	VBG	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	good	good	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	poems	poem	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 146
+# sent_len = 16
+# text = It should be said that all these are true only when poetry benefits from art.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	It	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	said	say	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	PDT	_	7	predet	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	true	true	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	only	only	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	when	when	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	poetry	poetry	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	benefits	benefit	NOUN	NNS	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	art	art	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 147
+# sent_len = 11
+# text = This is a piece of advice that we always offer.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	piece	piece	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	advice	advice	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	always	always	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	offer	offer	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 148
+# sent_len = 10
+# text = Poetry is not only made of meaning and content.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Poetry	poetry	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	5	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+4	only	only	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	meaning	meaning	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	content	content	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 149
+# sent_len = 20
+# text = The main condition for poetry to be eternal and influential is form and artistic structure, method and framework.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	main	main	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	condition	condition	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	poetry	poetry	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	eternal	eternal	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	influential	influential	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	form	form	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	artistic	artistic	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	structure	structure	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	method	method	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	framework	framework	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 150
+# sent_len = 12
+# text = I hope that Allah the Exalted bestows success on all of you
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Exalted	exalted	ADJ	JJ	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestows	bestow	NOUN	NNS	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	success	success	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	you	-PRON-	PRON	PRP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 151
+# sent_len = 9
+# text = and I hope that He approves of you.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	He	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	approves	approve	VERB	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 152
+# sent_len = 25
+# text = I hope that by Allah's favor, you will always be at the service of values, sacred beliefs, sincerity and truths.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	7	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	favor	favor	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	always	always	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	at	at	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	service	service	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	values	value	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	sacred	sacred	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	beliefs	belief	NOUN	NNS	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	sincerity	sincerity	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	truths	truth	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 153
+# sent_len = 11
+# text = Tonight, we benefitted from the poems that you recited.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Tonight	tonight	NOUN	NN	_	4	npadvmod	_	ent_type=TIME|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	benefitted	benefit	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	poems	poem	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	recited	recite	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 154
+# sent_len = 13
+# text = I hope that God makes your voices warmer on a daily basis.
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	makes	make	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	voices	voice	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	warmer	warm	ADJ	JJR	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	daily	daily	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	basis	basis	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 155
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech in Meeting with Poets
+# year = 2014
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

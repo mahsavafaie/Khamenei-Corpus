@@ -1,0 +1,2042 @@
+# sent_id = 1
+# sent_len = 20
+# text = I congratulate you, the dear youngsters, and your families and the Islamic Republic Army on your graduation.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	congratulate	congratulate	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	dear	dear	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	youngsters	youngster	NOUN	NNS	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	families	family	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	16	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Republic	Republic	PROPN	NNP	_	16	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	Army	Army	PROPN	NNP	_	11	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	your	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	graduation	graduation	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 23
+# text = I also express my sincere gratitude to all the instructors, directors and commanders that provided this opportunity and made this possible.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	express	express	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	my	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	sincere	sincere	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	gratitude	gratitude	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	instructors	instructor	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	directors	director	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	commanders	commander	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	provided	provide	VERB	VBD	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	opportunity	opportunity	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	made	make	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	possible	possible	ADJ	JJ	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 63
+# text = Every year, I attend the graduation ceremony of army cadets with the intention of honoring the status of science, valor and militarism based on spiritual and moral values, which a group of our most talented and brilliant youngsters learn at these scientific and research centers and which they use as the basis of their perseverance in the years ahead.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Every	every	DET	DT	_	2	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	year	year	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	attend	attend	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	graduation	graduation	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	ceremony	ceremony	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	army	army	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	cadets	cadet	VERB	VBZ	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	intention	intention	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	honoring	honor	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	status	status	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	science	science	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	valor	valor	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	militarism	militarism	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	based	base	VERB	VBN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	on	on	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	spiritual	spiritual	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	moral	moral	ADJ	JJ	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	values	value	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	which	which	DET	WDT	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	a	a	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	group	group	NOUN	NN	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	our	-PRON-	DET	PRP$	_	41	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	most	most	ADV	RBS	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	talented	talented	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	brilliant	brilliant	ADJ	JJ	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	youngsters	youngster	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	learn	learn	VERB	VBP	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+43	at	at	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	these	these	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	scientific	scientific	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+46	and	and	CCONJ	CC	_	45	cc	_	ent_type=_|ent_id=2|ent_iob=O
+47	research	research	NOUN	NN	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+48	centers	center	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	which	which	DET	WDT	_	52	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	they	-PRON-	PRON	PRP	_	52	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+52	use	use	VERB	VBP	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	as	as	SCONJ	IN	_	52	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	the	the	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+55	basis	basis	NOUN	NN	_	53	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	of	of	ADP	IN	_	55	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	their	-PRON-	DET	PRP$	_	58	poss	_	ent_type=_|ent_id=2|ent_iob=O
+58	perseverance	perseverance	NOUN	NN	_	56	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	in	in	ADP	IN	_	55	prep	_	ent_type=_|ent_id=2|ent_iob=O
+60	the	the	DET	DT	_	61	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+61	years	year	NOUN	NNS	_	59	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+62	ahead	ahead	ADV	RB	_	61	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+63	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 31
+# text = It is from among you the young people that top generals and military servicemen who defend and save their country under sensitive and perilous circumstances will emerge in the future.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	from	from	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	among	among	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	young	young	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	top	top	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	generals	general	NOUN	NNS	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	military	military	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	servicemen	serviceman	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	defend	defend	VERB	VBP	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	save	save	VERB	VBP	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	country	country	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	under	under	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	sensitive	sensitive	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	perilous	perilous	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	circumstances	circumstance	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	will	will	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	emerge	emerge	VERB	VB	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	future	future	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 6
+# text = Many a time a heavenly hero
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Many	many	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	time	time	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	heavenly	heavenly	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	hero	hero	NOUN	NN	_	3	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 8
+# text = , Brings honor to a whole army.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Brings	bring	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	honor	honor	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	whole	whole	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	army	army	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 14
+# text = Infusing his soul into an arrow, He grants his country utmost glory.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Infusing	infuse	VERB	VBG	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	his	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	soul	soul	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	into	into	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	arrow	arrow	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	He	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	grants	grant	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	his	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	10	dative	_	ent_type=_|ent_id=2|ent_iob=O
+12	utmost	utmost	ADJ	JJ	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	glory	glory	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 32
+# text = The valorous servicemen who defend their nation and country as well as their faith and values in the face of aggression waged by enemies emerge from among these same young people.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	valorous	valorous	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	servicemen	serviceman	NOUN	NNS	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	defend	defend	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	nation	nation	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	well	well	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	SCONJ	IN	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	faith	faith	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	values	value	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	face	face	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	aggression	aggression	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	waged	wage	VERB	VBN	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	by	by	ADP	IN	_	22	agent	_	ent_type=_|ent_id=2|ent_iob=O
+24	enemies	enemy	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	emerge	emerge	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	among	among	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	these	these	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	same	same	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	young	young	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	people	people	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 19
+# text = Militarism from the viewpoint of materialism is different from the militarism that is defined by the Islamic ideology.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Militarism	militarism	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	from	from	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	viewpoint	viewpoint	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	materialism	materialism	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	different	different	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	militarism	militarism	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	defined	define	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	by	by	ADP	IN	_	14	agent	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Islamic	islamic	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	ideology	ideology	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 17
+# text = From a materialistic viewpoint, militarism is tantamount to lack of mercy and clemency, toughness and
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	From	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	materialistic	materialistic	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	viewpoint	viewpoint	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	militarism	militarism	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	tantamount	tantamount	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	lack	lack	NOUN	NN	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	mercy	mercy	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	clemency	clemency	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	toughness	toughness	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 8
+# text = blind obedience without any awareness and insight.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	blind	blind	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	obedience	obedience	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	without	without	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	any	any	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	awareness	awareness	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	insight	insight	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 35
+# text = Furthermore, from this viewpoint, a military serviceman is a rigid, soulless and inflexible being just like his own weapon, a tool in the hands of those wielding wealth and power.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Furthermore	furthermore	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	viewpoint	viewpoint	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	military	military	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	serviceman	serviceman	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	rigid	rigid	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	soulless	soulless	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	inflexible	inflexible	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	being	being	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	just	just	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	like	like	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	his	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	own	own	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	weapon	weapon	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	tool	tool	NOUN	NN	_	22	appos	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	hands	hand	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	those	those	DET	DT	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	wielding	wield	VERB	VBG	_	30	acl	_	ent_type=_|ent_id=2|ent_iob=O
+32	wealth	wealth	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	power	power	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 10
+# text = However, the Islamic ideology defines militarism quite differently.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	ideology	ideology	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	defines	define	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	militarism	militarism	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	quite	quite	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	differently	differently	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 22
+# text = From an Islamic viewpoint, a military serviceman is someone who defends some lofty values wholeheartedly and with awareness and insight.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	From	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Islamic	islamic	ADJ	JJ	_	4	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+4	viewpoint	viewpoint	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	military	military	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	serviceman	serviceman	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	someone	someone	PRON	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	defends	defend	VERB	VBZ	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	some	some	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	lofty	lofty	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	values	value	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	wholeheartedly	wholeheartedly	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	with	with	ADP	IN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	awareness	awareness	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	insight	insight	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 26
+# text = He sacrifices his life to defend noble human and divine values as well as the independence, honor, dignity and identity of his nation.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	sacrifices	sacrifice	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	life	life	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	defend	defend	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	noble	noble	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	human	human	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	divine	divine	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	values	value	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	well	well	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	independence	independence	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	honor	honor	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	dignity	dignity	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	identity	identity	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	his	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	nation	nation	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 12
+# text = According to the Islamic ideology, military servicemen are called mujahids.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	According	accord	VERB	VBG	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	ideology	ideology	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	military	military	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	servicemen	serviceman	NOUN	NNS	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	called	call	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	mujahids	mujahid	NOUN	NNS	_	10	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 12
+# text = Jihad means persevering and striving in the way of lofty values.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Jihad	Jihad	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	persevering	persevere	VERB	VBG	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	striving	strive	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	way	way	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	lofty	lofty	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	values	value	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 16
+# text = This is why jihad has been described as a door among the doors of heaven.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	jihad	jihad	PROPN	NNP	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	described	describe	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	as	as	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	door	door	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	among	among	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	doors	door	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	heaven	heaven	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 14
+# text = Today, you can see the manifestations of materialistic militarism in the world.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	manifestations	manifestation	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	materialistic	materialistic	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	militarism	militarism	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 35
+# text = Presently, in addition to formally registered U.S. and British troops in Iraq, there are also tens of thousands of mercenaries in that country who are wearing their military uniforms only for money.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Presently	presently	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	addition	addition	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	formally	formally	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	registered	register	VERB	VBN	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	U.S.	U.S.	PROPN	NNP	_	11	nmod	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	British	british	ADJ	JJ	_	8	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	troops	troop	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Iraq	Iraq	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	there	there	PRON	EX	_	16	expl	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	also	also	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	tens	ten	NOUN	NNS	_	20	quantmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	of	of	ADP	IN	_	20	quantmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+20	thousands	thousand	NOUN	NNS	_	16	attr	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	mercenaries	mercenary	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	country	country	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	who	who	PRON	WP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	are	be	AUX	VBP	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	wearing	wear	VERB	VBG	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	military	military	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	uniforms	uniform	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	only	only	ADV	RB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+33	for	for	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	money	money	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 20
+# text = They have no respect for men, women, the young, the elderly or the privacy of families.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	respect	respect	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	men	man	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	women	woman	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	young	young	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	elderly	elderly	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	or	or	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	privacy	privacy	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	families	family	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 7
+# text = They open fire on anyone indiscriminately.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	open	open	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	fire	fire	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	anyone	anyone	PRON	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	indiscriminately	indiscriminately	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 12
+# text = This is the meaning of militarism based on a materialistic logic.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	meaning	meaning	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	militarism	militarism	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	based	base	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	materialistic	materialistic	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	logic	logic	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 21
+# text = Those who are killed on this path are considered wasted, like animals that are disposed of after they perish.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Those	those	DET	DT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	killed	kill	VERB	VBN	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	path	path	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	considered	consider	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	wasted	waste	VERB	VBN	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	like	like	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	animals	animal	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	disposed	dispose	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	after	after	ADP	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	perish	perish	VERB	VBP	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 8
+# text = There is no ensuing honor and glory.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	ensuing	ensue	VERB	VBG	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	honor	honor	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	glory	glory	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 45
+# text = However, in the case of a military serviceman who engages in a combat to defend his country and nation, to repel an aggression waged by expansionist powers and to promote justice and righteousness, his combat in itself is of great worth.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	However	however	ADV	RB	_	41	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	military	military	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	serviceman	serviceman	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	engages	engage	VERB	VBZ	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	combat	combat	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	defend	defend	VERB	VB	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	his	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	nation	nation	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	repel	repel	VERB	VB	_	41	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	an	an	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	aggression	aggression	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	waged	wage	VERB	VBN	_	25	acl	_	ent_type=_|ent_id=2|ent_iob=O
+27	by	by	ADP	IN	_	26	agent	_	ent_type=_|ent_id=2|ent_iob=O
+28	expansionist	expansionist	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	powers	power	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	promote	promote	VERB	VB	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	justice	justice	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	righteousness	righteousness	NOUN	NN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	his	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	combat	combat	NOUN	NN	_	41	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	itself	-PRON-	PRON	PRP	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	great	great	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	worth	worth	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 21
+# text = Thus, even if he is unknown and dies anonymously, the angels in heaven will pay tribute to him.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Thus	thus	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	even	even	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	he	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	unknown	unknown	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	dies	die	VERB	VBZ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	anonymously	anonymously	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	angels	angel	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	heaven	heaven	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	tribute	tribute	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	17	dative	_	ent_type=_|ent_id=2|ent_iob=O
+20	him	-PRON-	PRON	PRP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 5
+# text = He is alive: "
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	alive	alive	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	:	:	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 30
+# text = And reckon not those who are killed in Allah's way as dead; nay, they are alive (and) are provided sustenance from their Lord."
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	And	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	reckon	reckon	VERB	VBP	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	those	those	DET	DT	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	killed	kill	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Allah	Allah	PROPN	NNP	_	11	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	's	's	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	way	way	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	SCONJ	IN	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	dead	dead	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	;	;	PUNCT	:	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	nay	nay	INTJ	UH	_	18	dep	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	alive	alive	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	(	(	PUNCT	-LRB-	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	)	)	PUNCT	-RRB-	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	are	be	AUX	VBP	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	provided	provide	VERB	VBN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	sustenance	sustenance	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	their	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	Lord	Lord	PROPN	NNP	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	"	"	PUNCT	''	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 8
+# text = (Holy Qur'an, 3: 169)
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	(	(	PUNCT	-LRB-	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Holy	Holy	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	Qur'an	Qur'an	PROPN	NNP	_	0	ROOT	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	3	3	NUM	CD	_	3	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	:	:	SYM	SYM	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	169	169	NUM	CD	_	5	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+8	)	)	PUNCT	-RRB-	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 13
+# text = They are alive eternally and are a source of inspiration to others.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	alive	alive	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	eternally	eternally	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	source	source	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	inspiration	inspiration	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	others	other	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 14
+# text = When an army holds this belief and attitude, it will become invincible.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	an	an	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	army	army	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	holds	hold	VERB	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	belief	belief	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	attitude	attitude	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	invincible	invincible	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 33
+# text = A number of Lebanese youngsters with the weapon of faith and without any advanced sophisticated military equipment did something that the equipped armies of Arab countries had not been able to do.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	number	number	NOUN	NN	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Lebanese	lebanese	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	youngsters	youngster	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	weapon	weapon	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	faith	faith	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	without	without	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	any	any	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	advanced	advanced	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	sophisticated	sophisticated	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	military	military	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	equipment	equipment	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	did	do	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	something	something	PRON	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	DET	WDT	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	equipped	equipped	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	armies	army	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Arab	arab	ADJ	JJ	_	26	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	countries	country	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	had	have	AUX	VBD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	not	not	PART	RB	_	29	neg	_	ent_type=_|ent_id=2|ent_iob=O
+29	been	be	AUX	VBN	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	able	able	ADJ	JJ	_	29	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	do	do	AUX	VB	_	30	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 23
+# text = They overpowered the armed-to-the-teeth troops of the Zionist regime and subjected them to disgrace and humiliation.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	overpowered	overpower	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	armed	arm	VERB	VBN	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	HYPH	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	teeth	tooth	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	troops	troop	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Zionist	zionist	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	regime	regime	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	subjected	subject	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	them	-PRON-	PRON	PRP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	disgrace	disgrace	VERB	VB	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	humiliation	humiliation	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 15
+# text = They did not have nuclear weapons, or modern tanks, or ultramodern aircraft.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	did	do	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	nuclear	nuclear	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	weapons	weapon	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	or	or	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	modern	modern	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	tanks	tank	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	or	or	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	ultramodern	ultramodern	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	aircraft	aircraft	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 22
+# text = What they had was the weapon of faith, self-confidence and reliance on the overwhelming power of the Almighty.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	What	what	PRON	WP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	AUX	VBD	_	4	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	weapon	weapon	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	faith	faith	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	self	self	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	confidence	confidence	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	reliance	reliance	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	overwhelming	overwhelming	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	power	power	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	Almighty	Almighty	PROPN	NNP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 18
+# text = Consequently, they forced an army that was equipped with modern weapons to retreat from their homeland.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Consequently	consequently	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	forced	force	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	army	army	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	was	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	equipped	equip	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	modern	modern	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	weapons	weapon	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	retreat	retreat	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	from	from	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	homeland	homeland	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 19
+# text = This has been the secret of the victory of believers in the course of the history of Islam.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	secret	secret	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	victory	victory	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	believers	believer	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	course	course	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	history	history	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Islam	Islam	PROPN	NNP	_	17	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 7
+# text = Faith by itself is not enough.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Faith	Faith	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	by	by	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	itself	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	enough	enough	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 18
+# text = It should be accompanied by pious deeds, which have various definitions and forms in different arenas.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	It	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	accompanied	accompany	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	pious	pious	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	deeds	deed	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	various	various	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	definitions	definition	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	forms	form	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	different	different	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	arenas	arena	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 24
+# text = When a nation is threatened, utilizing all the capabilities to neutralize the threats and repel the aggressors is considered a pious deed.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	threatened	threaten	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	utilizing	utilize	VERB	VBG	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	capabilities	capability	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	neutralize	neutralize	VERB	VB	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	threats	threat	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	repel	repel	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	aggressors	aggressor	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	is	be	AUX	VBZ	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	considered	consider	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	pious	pious	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	deed	deed	NOUN	NN	_	20	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 14
+# text = When faith is accompanied by pious deeds, victory is achieved by nations.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	faith	faith	NOUN	NN	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	accompanied	accompany	VERB	VBN	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	pious	pious	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	deeds	deed	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	victory	victory	NOUN	NN	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	achieved	achieve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	nations	nation	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 14
+# text = The Islamic Republic has greatly strengthened faith and belief in the Iranian society.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	greatly	greatly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	strengthened	strengthen	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	faith	faith	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	belief	belief	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iranian	iranian	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	society	society	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 17
+# text = This is what has worried our enemies, and their claims are only lies and accusations.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	worried	worry	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemies	enemy	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	claims	claim	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	only	only	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	lies	lie	NOUN	NNS	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	accusations	accusation	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 21
+# text = You, the devoted young servicemen, should combine knowledge with faith, valor, innovation, creativity and initiative.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	devoted	devoted	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	young	young	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	servicemen	serviceman	NOUN	NNS	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	combine	combine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	knowledge	knowledge	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	faith	faith	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	valor	valor	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	innovation	innovation	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	creativity	creativity	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	initiative	initiative	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 20
+# text = Make the most of your present opportunities by learning seriously and by putting what you have learned into practice.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	most	most	ADJ	JJS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	present	present	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	opportunities	opportunity	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	learning	learn	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	seriously	seriously	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	putting	put	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	what	what	PRON	WP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	you	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	have	have	AUX	VBP	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	learned	learn	VERB	VBN	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	into	into	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	practice	practice	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 21
+# text = The Islamic Republic has posed obstacles to the expansionist goals of the domineering powers and stood up to their hegemony.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	5	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	posed	pose	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	obstacles	obstacle	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	expansionist	expansionist	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	goals	goal	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	domineering	domineering	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	powers	power	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	stood	stand	VERB	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	up	up	ADP	RP	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	hegemony	hegemony	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 35
+# text = Over the past 25 years, despite all the plots and hostilities of the enemies, the Islamic Republic has become stronger and more powerful because of the deep faith of the Iranian nation.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Over	over	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	5	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	past	past	ADJ	JJ	_	5	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	25	25	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	years	year	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	despite	despite	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	plots	plot	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	hostilities	hostility	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	enemies	enemy	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	Islamic	Islamic	PROPN	NNP	_	19	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	Republic	Republic	PROPN	NNP	_	21	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	has	have	AUX	VBZ	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	become	become	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	stronger	strong	ADJ	JJR	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	more	more	ADV	RBR	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	powerful	powerful	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	because	because	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	deep	deep	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	faith	faith	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	Iranian	iranian	ADJ	JJ	_	34	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+34	nation	nation	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 7
+# text = You should highly value your faith.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	highly	highly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	value	value	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	faith	faith	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 15
+# text = You are fortunate to live at the present juncture of our country's history.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	fortunate	fortunate	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	live	live	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	at	at	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	present	present	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	juncture	juncture	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	's	's	PART	POS	_	12	case	_	ent_type=_|ent_id=2|ent_iob=O
+14	history	history	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 20
+# text = This is due to your good luck, since the ground is now prepared for your perseverance and progress.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	due	due	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	good	good	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	luck	luck	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	since	since	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	ground	ground	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	now	now	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	prepared	prepared	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	perseverance	perseverance	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	progress	progress	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 10
+# text = One day this country was under dark dictatorial rule.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	One	one	NUM	CD	_	2	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	day	day	NOUN	NN	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	country	country	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	under	under	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	dark	dark	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	dictatorial	dictatorial	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	rule	rule	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 19
+# text = The situation got even worse what those dictators began to serve the aliens and enemies of this nation.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	situation	situation	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	got	get	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	even	even	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	worse	bad	ADJ	JJR	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	what	what	PRON	WP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	those	those	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	dictators	dictator	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	began	begin	VERB	VBD	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	serve	serve	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	aliens	alien	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	enemies	enemy	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 9
+# text = The Iranian people went through very hard times.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	through	through	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	very	very	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	hard	hard	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	times	time	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 12
+# text = In those days the Iranian military servicemen were humiliated by foreigners.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	those	those	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	days	day	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	military	military	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	servicemen	serviceman	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	humiliated	humiliate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	foreigners	foreigner	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 23
+# text = Even low-ranking foreign servicemen who were posted in this country gave orders to senior Iranian military officers and humiliated them.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Even	even	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	low	low	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	HYPH	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	ranking	rank	VERB	VBG	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	foreign	foreign	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	servicemen	serviceman	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	posted	post	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	gave	give	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	orders	order	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	13	dative	_	ent_type=_|ent_id=2|ent_iob=O
+16	senior	senior	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	military	military	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	officers	officer	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	humiliated	humiliate	VERB	VBD	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	them	-PRON-	PRON	PRP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 20
+# text = The enemies plundered the natural resources of our country and also insulted and humiliated this great and honorable nation.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	plundered	plunder	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	natural	natural	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	resources	resource	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	also	also	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	insulted	insult	VERB	VBN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	humiliated	humiliate	VERB	VBD	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	great	great	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	honorable	honorable	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	nation	nation	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 30
+# text = It is very difficult for proud and zealous individuals to live under such circumstances, and those Iranian servicemen who could not bear those conditions quit the armed forces.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	difficult	difficult	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	proud	proud	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	zealous	zealous	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	individuals	individual	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	live	live	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	under	under	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	such	such	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	circumstances	circumstance	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	those	those	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	servicemen	serviceman	NOUN	NNS	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	who	who	PRON	WP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	could	could	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	not	not	PART	RB	_	23	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	bear	bear	VERB	VB	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	those	those	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	conditions	condition	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	quit	quit	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	armed	armed	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	forces	force	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 33
+# text = However, today you can see that the aliens have no influence on this country, and the Iranian people would never allow the outside powers to once again dominate their country.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	aliens	alien	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	no	no	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	influence	influence	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Iranian	iranian	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	people	people	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	would	would	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	never	never	ADV	RB	_	23	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	allow	allow	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	outside	outside	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	powers	power	NOUN	NNS	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	once	once	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	again	again	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	dominate	dominate	VERB	VB	_	23	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	their	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	country	country	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 23
+# text = We are standing up to the enemies with trust in Almighty Allah and with self-confidence and reliance on our nation.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	standing	stand	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	up	up	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemies	enemy	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	trust	trust	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Almighty	Almighty	PROPN	NNP	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	Allah	Allah	PROPN	NNP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	with	with	ADP	IN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	self	self	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	HYPH	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	confidence	confidence	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	reliance	reliance	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	nation	nation	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 17
+# text = We praise the grandeur and nobility of our nation and are proud of our talented youngsters.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	praise	praise	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	grandeur	grandeur	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	nobility	nobility	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	nation	nation	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	proud	proud	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	talented	talented	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	youngsters	youngster	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 35
+# text = We are sure that the great Iranian people, including devoted and faithful men and women and brave youth, will prevent the enemies from gaining a foothold in this country under whatever circumstances.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	sure	sure	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranian	iranian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	people	people	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	including	include	VERB	VBG	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	devoted	devoted	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	faithful	faithful	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	men	man	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	women	woman	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	brave	brave	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	youth	youth	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	will	will	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	prevent	prevent	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	enemies	enemy	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	from	from	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	gaining	gain	VERB	VBG	_	25	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	foothold	foothold	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	this	this	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	country	country	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	under	under	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	whatever	whatever	DET	WDT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	circumstances	circumstance	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 33
+# text = Today, being a military serviceman under the Islamic system is a source of pride, and you should be proud of your membership in the Armed Forces of the Islamic Republic.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Today	today	NOUN	NN	_	11	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	being	be	AUX	VBG	_	11	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	military	military	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	serviceman	serviceman	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	under	under	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	islamic	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	system	system	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	source	source	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	pride	pride	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	you	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	proud	proud	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	your	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	membership	membership	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	Armed	Armed	PROPN	NNP	_	28	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+28	Forces	Forces	PROPN	NNPS	_	25	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+29	of	of	ADP	IN	_	28	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+30	the	the	DET	DT	_	32	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+31	Islamic	Islamic	PROPN	NNP	_	32	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+32	Republic	Republic	PROPN	NNP	_	29	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+33	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 18
+# text = You should try to be dedicated and faithful servicemen and strive in the way of the Almighty.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	dedicated	dedicated	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	faithful	faithful	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	servicemen	serviceman	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	strive	strive	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	way	way	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Almighty	Almighty	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 12
+# text = Those who strive for the sake of Allah are always prepared.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Those	those	DET	DT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	strive	strive	VERB	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	sake	sake	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Allah	Allah	PROPN	NNP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	always	always	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	prepared	prepared	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 13
+# text = You should equip yourselves with science and technology and train your minds.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	equip	equip	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	yourselves	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	science	science	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	technology	technology	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	train	train	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	your	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	minds	mind	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 22
+# text = You should also try to make the most of the experience that was obtained over the years of the Sacred Defense.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	make	make	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	most	most	ADJ	JJS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	experience	experience	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	obtained	obtain	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	over	over	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	years	year	NOUN	NNS	_	15	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	of	of	ADP	IN	_	17	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	the	the	DET	DT	_	21	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	Sacred	Sacred	PROPN	NNP	_	21	compound	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	Defense	Defense	PROPN	NNP	_	18	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 96
+# text = During those years, our air force, the Islamic Republic Army, the Islamic Revolution Guards Corps (IRGC) and Basij volunteer forces, despite their limited materiel and in spite of the economic sanction that had been imposed on our country, managed to repel an aggression which had apparently been waged by the Iraqi Ba'thist regime against our country but which was backed by both the Western and Eastern powers of the day, the powers that extended all kinds of assistance, including military intelligence, to the Iraqi regime.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	During	during	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	those	those	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	years	year	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	air	air	NOUN	NN	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	force	force	NOUN	NN	_	46	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	12	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Republic	Republic	PROPN	NNP	_	12	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	Army	Army	PROPN	NNP	_	7	appos	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	18	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	Islamic	Islamic	PROPN	NNP	_	16	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	Revolution	Revolution	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	Guards	Guards	PROPN	NNPS	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Corps	Corps	PROPN	NNP	_	12	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	(	(	PUNCT	-LRB-	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	IRGC	IRGC	PROPN	NNP	_	18	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	)	)	PUNCT	-RRB-	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	Basij	Basij	PROPN	NNP	_	24	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	volunteer	volunteer	NOUN	NN	_	25	compound	_	ent_type=_|ent_id=2|ent_iob=O
+25	forces	force	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	despite	despite	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	their	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	limited	limited	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	materiel	materiel	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	in	in	ADP	IN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	spite	spite	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	economic	economic	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	sanction	sanction	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	that	that	DET	WDT	_	41	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+39	had	have	AUX	VBD	_	41	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	been	be	AUX	VBN	_	41	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+41	imposed	impose	VERB	VBN	_	37	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+42	on	on	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	our	-PRON-	DET	PRP$	_	44	poss	_	ent_type=_|ent_id=2|ent_iob=O
+44	country	country	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	,	,	PUNCT	,	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+47	to	to	PART	TO	_	48	aux	_	ent_type=_|ent_id=2|ent_iob=O
+48	repel	repel	VERB	VB	_	46	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+49	an	an	DET	DT	_	50	det	_	ent_type=_|ent_id=2|ent_iob=O
+50	aggression	aggression	NOUN	NN	_	48	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	which	which	DET	WDT	_	55	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+52	had	have	AUX	VBD	_	55	aux	_	ent_type=_|ent_id=2|ent_iob=O
+53	apparently	apparently	ADV	RB	_	55	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+54	been	be	AUX	VBN	_	55	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+55	waged	wage	VERB	VBN	_	50	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+56	by	by	ADP	IN	_	55	agent	_	ent_type=_|ent_id=2|ent_iob=O
+57	the	the	DET	DT	_	60	det	_	ent_type=_|ent_id=2|ent_iob=O
+58	Iraqi	iraqi	ADJ	JJ	_	60	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+59	Ba'thist	Ba'thist	PROPN	NNP	_	60	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+60	regime	regime	NOUN	NN	_	56	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+61	against	against	ADP	IN	_	60	prep	_	ent_type=_|ent_id=2|ent_iob=O
+62	our	-PRON-	DET	PRP$	_	63	poss	_	ent_type=_|ent_id=2|ent_iob=O
+63	country	country	NOUN	NN	_	61	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+64	but	but	CCONJ	CC	_	55	cc	_	ent_type=_|ent_id=2|ent_iob=O
+65	which	which	DET	WDT	_	67	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+66	was	be	AUX	VBD	_	67	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+67	backed	back	VERB	VBN	_	55	conj	_	ent_type=_|ent_id=2|ent_iob=O
+68	by	by	ADP	IN	_	67	agent	_	ent_type=_|ent_id=2|ent_iob=O
+69	both	both	DET	DT	_	74	det	_	ent_type=_|ent_id=2|ent_iob=O
+70	the	the	DET	DT	_	74	det	_	ent_type=_|ent_id=2|ent_iob=O
+71	Western	western	ADJ	JJ	_	74	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+72	and	and	CCONJ	CC	_	71	cc	_	ent_type=_|ent_id=2|ent_iob=O
+73	Eastern	eastern	ADJ	JJ	_	71	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+74	powers	power	NOUN	NNS	_	68	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+75	of	of	ADP	IN	_	74	prep	_	ent_type=_|ent_id=2|ent_iob=O
+76	the	the	DET	DT	_	77	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+77	day	day	NOUN	NN	_	75	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+78	,	,	PUNCT	,	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+79	the	the	DET	DT	_	80	det	_	ent_type=_|ent_id=2|ent_iob=O
+80	powers	power	NOUN	NNS	_	46	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+81	that	that	DET	WDT	_	82	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+82	extended	extend	VERB	VBD	_	80	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+83	all	all	DET	DT	_	84	det	_	ent_type=_|ent_id=2|ent_iob=O
+84	kinds	kind	NOUN	NNS	_	82	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+85	of	of	ADP	IN	_	84	prep	_	ent_type=_|ent_id=2|ent_iob=O
+86	assistance	assistance	NOUN	NN	_	85	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+87	,	,	PUNCT	,	_	84	punct	_	ent_type=_|ent_id=2|ent_iob=O
+88	including	include	VERB	VBG	_	84	prep	_	ent_type=_|ent_id=2|ent_iob=O
+89	military	military	ADJ	JJ	_	90	amod	_	ent_type=_|ent_id=2|ent_iob=O
+90	intelligence	intelligence	NOUN	NN	_	88	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+91	,	,	PUNCT	,	_	82	punct	_	ent_type=_|ent_id=2|ent_iob=O
+92	to	to	ADP	IN	_	80	prep	_	ent_type=_|ent_id=2|ent_iob=O
+93	the	the	DET	DT	_	95	det	_	ent_type=_|ent_id=2|ent_iob=O
+94	Iraqi	iraqi	ADJ	JJ	_	95	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+95	regime	regime	NOUN	NN	_	92	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+96	.	.	PUNCT	.	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 57
+# text = Through the great efforts and sacrifices that were made by our youngsters and Basij volunteer forces as well as by the IRGC, the Islamic Republic Army, brave air force pilots and other competent servicemen of various branches of the armed forces, the Iranian nation repelled the aggression and gained victory over the enemy.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Through	through	ADP	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	great	great	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	efforts	effort	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	sacrifices	sacrifice	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	made	make	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	youngsters	youngster	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	Basij	Basij	PROPN	NNP	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	volunteer	volunteer	NOUN	NN	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	forces	force	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	as	as	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	well	well	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	SCONJ	IN	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	by	by	ADP	IN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	IRGC	IRGC	NOUN	NNS	_	20	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+23	,	,	PUNCT	,	_	48	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	27	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+25	Islamic	Islamic	PROPN	NNP	_	27	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+26	Republic	Republic	PROPN	NNP	_	27	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+27	Army	Army	PROPN	NNP	_	23	intj	_	ent_type=ORG|ent_id=1|ent_iob=I
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	brave	brave	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	air	air	PROPN	NNP	_	31	compound	_	ent_type=_|ent_id=2|ent_iob=O
+31	force	force	PROPN	NNP	_	32	compound	_	ent_type=_|ent_id=2|ent_iob=O
+32	pilots	pilot	NOUN	NNS	_	27	appos	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	other	other	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	competent	competent	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	servicemen	serviceman	NOUN	NNS	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	various	various	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	branches	branch	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	armed	armed	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	forces	force	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	,	,	PUNCT	,	_	48	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	Iranian	iranian	ADJ	JJ	_	47	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+47	nation	nation	NOUN	NN	_	48	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+48	repelled	repel	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+49	the	the	DET	DT	_	50	det	_	ent_type=_|ent_id=2|ent_iob=O
+50	aggression	aggression	NOUN	NN	_	48	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	and	and	CCONJ	CC	_	48	cc	_	ent_type=_|ent_id=2|ent_iob=O
+52	gained	gain	VERB	VBD	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	victory	victory	NOUN	NN	_	52	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	over	over	ADP	IN	_	53	prep	_	ent_type=_|ent_id=2|ent_iob=O
+55	the	the	DET	DT	_	56	det	_	ent_type=_|ent_id=2|ent_iob=O
+56	enemy	enemy	NOUN	NN	_	54	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+57	.	.	PUNCT	.	_	48	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 21
+# text = Today, you should become familiar with and make use of the experience that was obtained from the Sacred Defense.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	familiar	familiar	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	make	make	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	use	use	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	experience	experience	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	was	be	AUX	VBD	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	obtained	obtain	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	from	from	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=LAW|ent_id=3|ent_iob=B
+19	Sacred	Sacred	PROPN	NNP	_	20	compound	_	ent_type=LAW|ent_id=1|ent_iob=I
+20	Defense	Defense	PROPN	NNP	_	17	pobj	_	ent_type=LAW|ent_id=1|ent_iob=I
+21	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 14
+# text = Try to make the most of your membership in the Islamic Republic Army.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	PART	TO	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	1	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	most	most	ADJ	JJS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	your	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	membership	membership	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Army	Army	PROPN	NNP	_	9	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 38
+# text = We honor the memory of Martyr Sattari, who was the founder of this military academy, and other revered martyrs of the air force, the Islamic Republic Army, the IRGC and Basij volunteer forces.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	honor	honor	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	memory	memory	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Martyr	Martyr	PROPN	NNP	_	7	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	Sattari	Sattari	PROPN	NNP	_	5	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	founder	founder	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	military	military	ADJ	JJ	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	academy	academy	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	other	other	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	revered	revere	VERB	VBN	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	martyrs	martyr	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	air	air	NOUN	NN	_	25	compound	_	ent_type=_|ent_id=2|ent_iob=O
+25	force	force	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	30	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	Islamic	Islamic	PROPN	NNP	_	30	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+29	Republic	Republic	PROPN	NNP	_	30	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+30	Army	Army	PROPN	NNP	_	21	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	IRGC	IRGC	PROPN	NNP	_	37	amod	_	ent_type=ORG|ent_id=3|ent_iob=B
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	Basij	Basij	PROPN	NNP	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	volunteer	volunteer	NOUN	NN	_	37	compound	_	ent_type=_|ent_id=2|ent_iob=O
+37	forces	force	NOUN	NNS	_	30	appos	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 12
+# text = We pray for divine grace and favor on all of them.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	divine	divine	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	grace	grace	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	favor	favor	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	DT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	them	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 26
+# text = I also pray to Almighty Allah to bestow success on you, the dear young servicemen, and assist you all in performing your responsibilities.
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Almighty	Almighty	PROPN	NNP	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	bestow	bestow	VERB	VB	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	success	success	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	dear	dear	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	young	young	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	servicemen	serviceman	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	assist	assist	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	you	-PRON-	PRON	PRP	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	all	all	DET	DT	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	performing	perform	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	your	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	responsibilities	responsibility	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech at the Graduation Ceremony of Army Cadets
+# year = 2004
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

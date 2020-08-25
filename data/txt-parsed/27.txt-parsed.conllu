@@ -1,0 +1,2106 @@
+# sent_id = 1
+# sent_len = 49
+# text = At the beginning of his statements, the Leader felicitated the audience, including the guests from other Islamic countries, the Iranian nation as well as the whole Islamic Ummah on the occasion of the feast of Mab'ath, or the day marking the appointment of Prophet Mohammad
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	At	at	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	beginning	beginning	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	statements	statement	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Leader	leader	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	felicitated	felicitate	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	audience	audience	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	including	include	VERB	VBG	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	guests	guest	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	from	from	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	other	other	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	Islamic	islamic	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	countries	country	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iranian	iranian	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	nation	nation	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	as	as	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	well	well	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	as	as	SCONJ	IN	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	whole	whole	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	Islamic	Islamic	PROPN	NNP	_	31	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+31	Ummah	Ummah	PROPN	NNP	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	on	on	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	occasion	occasion	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	feast	feast	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	of	of	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	Mab'ath	Mab'ath	PROPN	NNP	_	38	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+40	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	or	or	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	day	day	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	marking	mark	VERB	VBG	_	43	acl	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	46	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	appointment	appointment	NOUN	NN	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	of	of	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	Prophet	Prophet	PROPN	NNP	_	49	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+49	Mohammad	Mohammad	PROPN	NNP	_	47	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+
+# sent_id = 2
+# sent_len = 9
+# text = (peace be upon him and his household)
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	(	(	PUNCT	-LRB-	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	peace	peace	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	upon	upon	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	him	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	household	household	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	)	)	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 6
+# text = as the messenger of Allah.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	as	as	SCONJ	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	messenger	messenger	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 46
+# text = Ayatollah Khamenei noted that the appointment of the Holy Prophet opened a new chapter in the history of mankind, since his appointment as the divine messenger came at a time when mankind had sunk in the quagmire of ignorance and worldly and sensual desires.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	appointment	appointment	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	Holy	Holy	PROPN	NNP	_	10	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Prophet	Prophet	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	opened	open	VERB	VBD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	new	new	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	chapter	chapter	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	history	history	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	mankind	mankind	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	since	since	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	his	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	appointment	appointment	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	as	as	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	divine	divine	ADJ	JJ	_	27	amod	_	ent_type=PERSON|ent_id=3|ent_iob=B
+27	messenger	messenger	NOUN	NN	_	24	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+28	came	come	VERB	VBD	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	at	at	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	a	a	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	time	time	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	when	when	ADV	WRB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+33	mankind	mankind	NOUN	NN	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	had	have	AUX	VBD	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+35	sunk	sink	VERB	VBN	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	in	in	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	quagmire	quagmire	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	ignorance	ignorance	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	worldly	worldly	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	sensual	sensual	ADJ	JJ	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	desires	desire	NOUN	NNS	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 20
+# text = It came at a time when corruption, discrimination, oppression and unbridled sensuality were prevalent in the world.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	came	come	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	at	at	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	time	time	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	when	when	ADV	WRB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	corruption	corruption	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	discrimination	discrimination	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	oppression	oppression	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	unbridled	unbridled	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	sensuality	sensuality	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	were	be	AUX	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	prevalent	prevalent	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	world	world	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 40
+# text = "This situation did not exist only in Hejaz, as the two big powers of the time, namely the Sassanian Empire and the Roman Empire, which surrounded the Arabian peninsula, also suffered from such maladies.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	``	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	situation	situation	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	did	do	AUX	VBD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	exist	exist	VERB	VB	_	36	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	only	only	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Hejaz	Hejaz	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	as	as	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	two	two	NUM	CD	_	15	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	big	big	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	powers	power	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	time	time	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	namely	namely	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Sassanian	Sassanian	PROPN	NNP	_	23	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	Empire	Empire	PROPN	NNP	_	15	appos	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	Roman	Roman	PROPN	NNP	_	27	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	Empire	Empire	PROPN	NNP	_	23	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+28	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	which	which	DET	WDT	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	surrounded	surround	VERB	VBD	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	Arabian	arabian	ADJ	JJ	_	33	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	peninsula	peninsula	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	also	also	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	suffered	suffer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+37	from	from	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	such	such	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	maladies	malady	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 35
+# text = Although these powers enjoyed scientific knowledge and advanced civilization as well as order and discipline enforced by their despotic rule, they lacked virtue, moral and human values, which mankind always needs.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Although	although	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	powers	power	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	enjoyed	enjoy	VERB	VBD	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	scientific	scientific	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	knowledge	knowledge	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	advanced	advanced	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	civilization	civilization	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	well	well	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	SCONJ	IN	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	order	order	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	discipline	discipline	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	enforced	enforce	VERB	VBN	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	despotic	despotic	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	rule	rule	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	they	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	lacked	lack	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	virtue	virtue	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	moral	moral	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	human	human	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	values	value	NOUN	NNS	_	24	appos	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	which	which	DET	WDT	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	mankind	mankind	NOUN	NN	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	always	always	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	needs	need	VERB	VBZ	_	29	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 22
+# text = Human beings in all ages are in need of justice, virtue, clemency, compassion and other human values. "
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Human	human	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	beings	being	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	ages	age	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	need	need	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	justice	justice	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	virtue	virtue	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	clemency	clemency	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	compassion	compassion	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	other	other	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	human	human	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	values	value	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	"	"	PUNCT	''	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 37
+# text = Furthermore, in both Sassanian and Roman empires, the wealth and power were in the hands of only a few and the majority of people were under pressure, oppression and the yoke of tyrants.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Furthermore	furthermore	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	both	both	CCONJ	CC	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Sassanian	sassanian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	Roman	roman	ADJ	JJ	_	5	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	empires	empire	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	wealth	wealth	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	power	power	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	hands	hand	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	only	only	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	quantmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	few	few	ADJ	JJ	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	majority	majority	NOUN	NN	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	people	people	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	were	be	AUX	VBD	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	under	under	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	pressure	pressure	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	oppression	oppression	NOUN	NN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	yoke	yoke	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	tyrants	tyrant	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 22
+# text = In Hejaz also, where most people lived under primitive conditions, similar maladies were prevalent," he pointed out.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	In	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Hejaz	Hejaz	PROPN	NNP	_	1	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	also	also	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	where	where	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	most	most	ADJ	JJS	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	lived	live	VERB	VBD	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	under	under	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	primitive	primitive	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	conditions	condition	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	similar	similar	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	maladies	malady	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	were	be	AUX	VBD	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	prevalent	prevalent	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	''	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	he	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	out	out	ADP	RP	_	20	prt	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 33
+# text = Leader of the Islamic Republic went on to say, "The advent of Islam was a turning point in the history of mankind, as Islam belonged to all humanity. '
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Leader	leader	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	2	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	say	say	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	``	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	The	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	advent	advent	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islam	Islam	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	was	be	AUX	VBD	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	turning	turning	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	point	point	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	history	history	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	mankind	mankind	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	as	as	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	Islam	Islam	PROPN	NNP	_	28	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	belonged	belong	VERB	VBD	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	all	all	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	humanity	humanity	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	'	'	PUNCT	''	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 11
+# text = It is naught but a Reminder for all mankind.'
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	naught	naught	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Reminder	reminder	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	mankind	mankind	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	'	'	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 3
+# text = (81:27)
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	(	(	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	81:27	81:27	NUM	CD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	)	)	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 17
+# text = "The Holy Prophet faced the bitter realities of his time and managed to change them.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Prophet	Prophet	PROPN	NNP	_	5	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	faced	face	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	bitter	bitter	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	realities	reality	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	his	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	time	time	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	managed	manage	VERB	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	change	change	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	them	-PRON-	PRON	PRP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 11
+# text = He managed to crack the walls of injustice and oppression.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	crack	crack	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	walls	wall	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	injustice	injustice	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	oppression	oppression	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 38
+# text = The Holy Prophet had been entrusted with a very heavy task by the Almighty, since when corruption and evil dominates the centers of power and politics, it will pose the greatest threat to humanity."
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+2	Holy	Holy	PROPN	NNP	_	3	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+3	Prophet	Prophet	PROPN	NNP	_	6	nsubjpass	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	had	have	AUX	VBD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	entrusted	entrust	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	very	very	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	heavy	heavy	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	task	task	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Almighty	Almighty	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	since	since	SCONJ	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	when	when	ADV	WRB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	corruption	corruption	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	evil	evil	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	dominates	dominate	VERB	VBZ	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	centers	center	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	power	power	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	politics	politic	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	it	-PRON-	PRON	PRP	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	will	will	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	pose	pose	VERB	VB	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	greatest	great	ADJ	JJS	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	threat	threat	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	to	to	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	humanity	humanity	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	"	"	PUNCT	''	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 45
+# text = Ayatollah Khamenei also stated, "Today, in the 21st century, mankind is facing the threats posed by certain powers that consider themselves to be entitled to do anything they want to, while they have no right to what they claim.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Today	today	NOUN	NN	_	16	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	21st	21st	ADJ	JJ	_	12	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	century	century	NOUN	NN	_	9	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	mankind	mankind	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	facing	face	VERB	VBG	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	threats	threat	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	posed	pose	VERB	VBN	_	18	acl	_	ent_type=_|ent_id=2|ent_iob=O
+20	by	by	ADP	IN	_	19	agent	_	ent_type=_|ent_id=2|ent_iob=O
+21	certain	certain	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	powers	power	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	DET	WDT	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	consider	consider	VERB	VBP	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	themselves	-PRON-	PRON	PRP	_	28	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	be	be	AUX	VB	_	28	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	entitled	entitle	VERB	VBN	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	do	do	AUX	VB	_	28	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	anything	anything	PRON	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	they	-PRON-	PRON	PRP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	want	want	VERB	VBP	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	PART	TO	_	33	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	while	while	SCONJ	IN	_	38	mark	_	ent_type=_|ent_id=2|ent_iob=O
+37	they	-PRON-	PRON	PRP	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	have	have	AUX	VBP	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	no	no	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	right	right	NOUN	NN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	to	to	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	what	what	PRON	WP	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	they	-PRON-	PRON	PRP	_	44	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+44	claim	claim	VERB	VBP	_	41	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 13
+# text = This situation also existed at the time of the advent of Islam.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	situation	situation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	existed	exist	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	time	time	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	advent	advent	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islam	Islam	PROPN	NNP	_	11	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 19
+# text = However, the Holy Prophet did not submit to that reality, but instead stood out against it.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	However	however	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Holy	Holy	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Prophet	Prophet	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	did	do	AUX	VBD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	submit	submit	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	reality	reality	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	but	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	instead	instead	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	stood	stand	VERB	VBD	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	out	out	ADP	RP	_	15	prt	_	ent_type=_|ent_id=2|ent_iob=O
+17	against	against	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	it	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 32
+# text = "Some people, in order to justify their weakness and inaction, say that one cannot change the existing realities and has no way but to submit to them.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	``	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Some	some	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	order	order	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	justify	justify	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	weakness	weakness	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	inaction	inaction	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	say	say	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	one	one	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	can	can	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	change	change	VERB	VB	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	existing	exist	VERB	VBG	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	realities	reality	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	has	have	AUX	VBZ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	no	no	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	way	way	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	but	but	SCONJ	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	submit	submit	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	them	-PRON-	PRON	PRP	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 7
+# text = This is not a correct idea!
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	correct	correct	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	idea	idea	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 21
+# text = One should stand out against those realities that certain powers try to impose on mankind by brandishing their military might.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	One	one	PRON	PRP	_	3	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	stand	stand	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	out	out	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	against	against	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	those	those	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	realities	reality	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	certain	certain	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	powers	power	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	try	try	VERB	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	impose	impose	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	mankind	mankind	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	brandishing	brandish	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	military	military	NOUN	NN	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	might	might	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 27
+# text = It is not logical to say that the power of the global arrogance is a reality, and that we cannot do anything about it!
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	logical	logical	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	power	power	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	global	global	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	arrogance	arrogance	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	reality	reality	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	we	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	can	can	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	not	not	PART	RB	_	23	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	do	do	AUX	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	anything	anything	PRON	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	about	about	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	it	-PRON-	PRON	PRP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 8
+# text = This is an imposed and fake reality.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	imposed	imposed	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	fake	fake	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	reality	reality	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 33
+# text = Brave men, divine religions and those with noble ideals always stand out against such realities and make every effort to change them, and they will ultimately succeed in changing them.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Brave	brave	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	men	man	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	divine	divine	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	religions	religion	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	those	those	DET	DT	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	noble	noble	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	ideals	ideal	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	always	always	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	stand	stand	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	out	out	ADP	RP	_	12	prt	_	ent_type=_|ent_id=2|ent_iob=O
+14	against	against	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	such	such	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	realities	reality	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	make	make	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	every	every	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	effort	effort	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	change	change	VERB	VB	_	20	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	they	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	will	will	VERB	MD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	ultimately	ultimately	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	succeed	succeed	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	changing	change	VERB	VBG	_	30	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	them	-PRON-	PRON	PRP	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 17
+# text = "This was what happened when the Holy Prophet was appointed as the messenger of Allah.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	what	what	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	happened	happen	VERB	VBD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	when	when	ADV	WRB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Holy	Holy	PROPN	NNP	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	Prophet	Prophet	PROPN	NNP	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	appointed	appoint	VERB	VBN	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	messenger	messenger	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Allah	Allah	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 48
+# text = When Prophet Mohammad (peace be upon him and his household) chanted in Mecca the slogan of 'Say there is no God but Allah in order to attain salvation', nobody could even imagine that some day this slogan would turn into a reality.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	When	when	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	Prophet	Prophet	PROPN	NNP	_	3	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	Mohammad	Mohammad	PROPN	NNP	_	13	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	(	(	PUNCT	-LRB-	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	peace	peace	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	VERB	VBP	_	3	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+7	upon	upon	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	him	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	his	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	household	household	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	chanted	chant	VERB	VBN	_	37	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Mecca	Mecca	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	slogan	slogan	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	'	'	PUNCT	``	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	Say	say	VERB	VB	_	18	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	there	there	PRON	EX	_	22	expl	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	no	no	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	God	God	PROPN	NNP	_	22	attr	_	ent_type=_|ent_id=2|ent_iob=O
+25	but	but	SCONJ	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Allah	Allah	PROPN	NNP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	order	order	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	attain	attain	VERB	VB	_	28	acl	_	ent_type=_|ent_id=2|ent_iob=O
+31	salvation	salvation	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	'	'	PUNCT	''	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	nobody	nobody	PRON	NN	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	could	could	VERB	MD	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	even	even	ADV	RB	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	imagine	imagine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+38	that	that	SCONJ	IN	_	44	mark	_	ent_type=_|ent_id=2|ent_iob=O
+39	some	some	DET	DT	_	40	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+40	day	day	NOUN	NN	_	44	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+41	this	this	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	slogan	slogan	NOUN	NN	_	44	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+43	would	would	VERB	MD	_	44	aux	_	ent_type=_|ent_id=2|ent_iob=O
+44	turn	turn	VERB	VB	_	37	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+45	into	into	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	a	a	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	reality	reality	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	.	.	PUNCT	.	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 68
+# text = Indeed, considering all those awesome idols which were hanging from the walls of Kaaba and which were supported by the deep fanaticism of the pagans, and all those influential and wealthy aristocrats of Mecca who felt threatened by this slogan, as well as the powerful Sassanian and Roman empires, there seemed to be no suitable ground for this slogan to become a reality.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Indeed	indeed	ADV	RB	_	55	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	55	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	considering	consider	VERB	VBG	_	55	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	PDT	_	7	predet	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	awesome	awesome	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	idols	idol	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	hanging	hang	VERB	VBG	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	walls	wall	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Kaaba	Kaaba	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	which	which	DET	WDT	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	were	be	AUX	VBD	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	supported	support	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	by	by	ADP	IN	_	19	agent	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	deep	deep	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	fanaticism	fanaticism	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	pagans	pagan	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	all	all	DET	PDT	_	34	predet	_	ent_type=_|ent_id=2|ent_iob=O
+30	those	those	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	influential	influential	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	wealthy	wealthy	ADJ	JJ	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	aristocrats	aristocrat	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	Mecca	Mecca	PROPN	NNP	_	35	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+37	who	who	PRON	WP	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	felt	feel	VERB	VBD	_	34	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	threatened	threaten	VERB	VBN	_	38	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	by	by	ADP	IN	_	39	agent	_	ent_type=_|ent_id=2|ent_iob=O
+41	this	this	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	slogan	slogan	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	as	as	ADV	RB	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+45	well	well	ADV	RB	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+46	as	as	SCONJ	IN	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+47	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	powerful	powerful	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	Sassanian	sassanian	ADJ	JJ	_	52	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+50	and	and	CCONJ	CC	_	49	cc	_	ent_type=_|ent_id=2|ent_iob=O
+51	Roman	roman	ADJ	JJ	_	49	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+52	empires	empire	NOUN	NNS	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	,	,	PUNCT	,	_	55	punct	_	ent_type=_|ent_id=2|ent_iob=O
+54	there	there	PRON	EX	_	55	expl	_	ent_type=_|ent_id=2|ent_iob=O
+55	seemed	seem	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+56	to	to	PART	TO	_	57	aux	_	ent_type=_|ent_id=2|ent_iob=O
+57	be	be	AUX	VB	_	55	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+58	no	no	DET	DT	_	60	det	_	ent_type=_|ent_id=2|ent_iob=O
+59	suitable	suitable	ADJ	JJ	_	60	amod	_	ent_type=_|ent_id=2|ent_iob=O
+60	ground	ground	NOUN	NN	_	57	attr	_	ent_type=_|ent_id=2|ent_iob=O
+61	for	for	ADP	IN	_	65	mark	_	ent_type=_|ent_id=2|ent_iob=O
+62	this	this	DET	DT	_	63	det	_	ent_type=_|ent_id=2|ent_iob=O
+63	slogan	slogan	NOUN	NN	_	65	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+64	to	to	PART	TO	_	65	aux	_	ent_type=_|ent_id=2|ent_iob=O
+65	become	become	VERB	VB	_	57	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+66	a	a	DET	DT	_	67	det	_	ent_type=_|ent_id=2|ent_iob=O
+67	reality	reality	NOUN	NN	_	65	attr	_	ent_type=_|ent_id=2|ent_iob=O
+68	.	.	PUNCT	.	_	55	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 14
+# text = "Weak individuals usually stop making an effort when faced with such obstacles.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Weak	weak	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	individuals	individual	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	usually	usually	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	stop	stop	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	making	make	VERB	VBG	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	an	an	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	effort	effort	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	when	when	ADV	WRB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	faced	face	VERB	VBN	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	such	such	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	obstacles	obstacle	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 21
+# text = However, the Holy Prophet of Islam acted upon his duty that had been entrusted to him by Almighty Allah.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	However	however	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Holy	Holy	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Prophet	Prophet	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islam	Islam	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	acted	act	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	upon	upon	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	his	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	duty	duty	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	had	have	AUX	VBD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	been	be	AUX	VBN	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	entrusted	entrust	VERB	VBN	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	him	-PRON-	PRON	PRP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+19	Almighty	Almighty	PROPN	NNP	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	Allah	Allah	PROPN	NNP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 28
+# text = He managed to change the dominant atmosphere in Hejaz, in the first stage, and then in other parts of the world over some 20 years.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	change	change	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	dominant	dominant	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	atmosphere	atmosphere	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Hejaz	Hejaz	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	first	first	ADJ	JJ	_	14	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+14	stage	stage	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	then	then	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	other	other	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	parts	part	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	world	world	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	over	over	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	some	some	DET	DT	_	26	quantmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+26	20	20	NUM	CD	_	27	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	years	year	NOUN	NNS	_	24	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 26
+# text = And less than half a century after the advent of Islam, more than half of the civilized world was under the influence of Islam.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	And	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	less	less	ADJ	JJR	_	5	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	than	than	SCONJ	IN	_	5	quantmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	half	half	DET	PDT	_	5	quantmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	a	a	DET	DT	_	6	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	century	century	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	after	after	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	advent	advent	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islam	Islam	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	more	more	ADJ	JJR	_	15	amod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	than	than	SCONJ	IN	_	15	quantmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+15	half	half	NOUN	NN	_	20	nsubj	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	civilized	civilized	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	world	world	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	under	under	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	influence	influence	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Islam	Islam	PROPN	NNP	_	24	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+26	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 38
+# text = In other words, those powerful empires, despite all their military might and arrogance and self-conceit, could not resist the firm belief based on strong logic of the devout and determined Muslims."
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	In	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	powerful	powerful	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	empires	empire	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	despite	despite	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	military	military	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	might	might	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	arrogance	arrogance	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	self	self	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	HYPH	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	conceit	conceit	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	could	could	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	not	not	PART	RB	_	23	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	resist	resist	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	firm	firm	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	belief	belief	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	based	base	VERB	VBN	_	26	acl	_	ent_type=_|ent_id=2|ent_iob=O
+28	on	on	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	strong	strong	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	logic	logic	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	devout	devout	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	determined	determined	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	Muslims	Muslims	PROPN	NNPS	_	33	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+37	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	"	"	PUNCT	''	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 17
+# text = Further in his remarks, the Leader stated, "A similar situation also exists today.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Further	further	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Leader	leader	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	``	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	A	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	similar	similar	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	situation	situation	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	also	also	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	exists	exist	VERB	VBZ	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	today	today	NOUN	NN	_	15	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 24
+# text = Islamic faith, which is a belief based on strong logic and reasoning, is what ensures the prosperity and salvation of mankind.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Islamic	islamic	ADJ	JJ	_	2	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+2	faith	faith	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	belief	belief	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	based	base	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	strong	strong	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	logic	logic	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	reasoning	reasoning	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	what	what	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	ensures	ensure	VERB	VBZ	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	prosperity	prosperity	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	salvation	salvation	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	mankind	mankind	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 13
+# text = Perhaps this was not quite acceptable some forty or fifty years ago.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Perhaps	perhaps	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	quite	quite	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	acceptable	acceptable	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	some	some	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	forty	forty	NUM	CD	_	11	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+9	or	or	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	fifty	fifty	NUM	CD	_	8	conj	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	years	year	NOUN	NNS	_	12	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	ago	ago	ADV	RB	_	3	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 10
+# text = At that time, socialism challenged all other ideologies.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	At	at	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	time	time	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	socialism	socialism	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	challenged	challenge	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	other	other	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	ideologies	ideology	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 16
+# text = And the Western liberal democracy, for its part, was full of empty claims.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	And	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Western	western	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	liberal	liberal	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	democracy	democracy	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	its	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	part	part	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	full	full	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	empty	empty	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	claims	claim	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 17
+# text = Today, socialism has collapsed, and the Western liberal democracy has revealed its true face.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	socialism	socialism	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	collapsed	collapse	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Western	western	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	liberal	liberal	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	democracy	democracy	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	has	have	AUX	VBZ	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	revealed	reveal	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	its	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	true	true	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	face	face	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 30
+# text = You can see one of the realities hidden under the guise of the Western democracy in the current propaganda against Iraq, which is being threatened with military aggression.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	realities	reality	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	hidden	hide	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	under	under	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	guise	guise	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Western	western	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	democracy	democracy	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	current	current	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	propaganda	propaganda	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	against	against	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Iraq	Iraq	PROPN	NNP	_	20	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	which	which	DET	WDT	_	26	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	being	be	AUX	VBG	_	26	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	threatened	threaten	VERB	VBN	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	with	with	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	military	military	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	aggression	aggression	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 33
+# text = The United States, which claims to be the cradle of democracy, sees itself entitled to interfere in the internal affairs of other countries, especially those in the Middle East.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	United	United	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNP	_	14	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	claims	claim	VERB	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	cradle	cradle	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	democracy	democracy	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	sees	see	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	itself	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	entitled	entitle	VERB	VBN	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	interfere	interfere	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	internal	internal	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	affairs	affair	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	other	other	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	countries	country	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	especially	especially	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	those	those	DET	DT	_	18	appos	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+31	Middle	Middle	PROPN	NNP	_	32	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+32	East	East	PROPN	NNP	_	29	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+33	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 9
+# text = This is nothing but flagrant bullying and dictatorship.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	nothing	nothing	PRON	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	but	but	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	flagrant	flagrant	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	bullying	bullying	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	dictatorship	dictatorship	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 21
+# text = "The United States, on the pretext of countering dictatorship, is itself practicing the worst kind of dictatorship!
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	``	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	United	United	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	States	States	PROPN	NNP	_	13	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	pretext	pretext	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	countering	countering	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	dictatorship	dictatorship	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	itself	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	practicing	practice	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	worst	bad	ADJ	JJS	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	kind	kind	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	dictatorship	dictatorship	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	!	!	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 16
+# text = It is doing the greatest harm to nations on the pretext of opposing their rulers!
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	doing	do	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	greatest	great	ADJ	JJS	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	harm	harm	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	3	dative	_	ent_type=_|ent_id=2|ent_iob=O
+8	nations	nation	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	pretext	pretext	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	opposing	oppose	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	rulers	ruler	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 11
+# text = This is also what the United States did in Afghanistan!
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	what	what	PRON	WP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	United	United	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	States	States	PROPN	NNP	_	8	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	did	do	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Afghanistan	Afghanistan	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 36
+# text = The White House officials are imposing pressure on other nations in order to further their own military and political interests and in order to get access to oil resources in other parts of the world.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	White	White	PROPN	NNP	_	3	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	House	House	PROPN	NNP	_	4	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	officials	official	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	imposing	impose	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	pressure	pressure	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	nations	nation	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	order	order	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	further	further	VERB	VB	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	own	own	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	military	military	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	political	political	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	interests	interest	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	order	order	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	get	get	AUX	VB	_	23	acl	_	ent_type=_|ent_id=2|ent_iob=O
+26	access	access	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	oil	oil	NOUN	NN	_	29	compound	_	ent_type=_|ent_id=2|ent_iob=O
+29	resources	resource	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	other	other	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	parts	part	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	world	world	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 29
+# text = This is the practical outcome of the Western liberal democracy! "Another outcome of the Western liberal democracy is the blind support for the usurper Zionist regime.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	practical	practical	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	outcome	outcome	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Western	western	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	liberal	liberal	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	democracy	democracy	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	"	"	PUNCT	``	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	Another	another	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	outcome	outcome	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Western	western	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	liberal	liberal	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	democracy	democracy	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	blind	blind	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	support	support	NOUN	NN	_	21	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	usurper	usurper	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	Zionist	zionist	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	regime	regime	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 62
+# text = The West is insisting that the Islamic countries recognize this occupier and oppressive regime which has no belief in human values and which has no right to the land it has occupied, a regime that is doing the utmost injustice and committing the most heinous crimes and atrocities against the Palestinians who are the real owners of the occupied territories!
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	West	West	PROPN	NNP	_	4	nsubj	_	ent_type=LOC|ent_id=3|ent_iob=B
+3	is	be	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	insisting	insist	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	islamic	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	countries	country	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	recognize	recognize	VERB	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	occupier	occupier	NOUN	NN	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	oppressive	oppressive	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	regime	regime	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	which	which	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	has	have	AUX	VBZ	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	no	no	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	belief	belief	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	human	human	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	values	value	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	which	which	DET	WDT	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	has	have	AUX	VBZ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	no	no	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	right	right	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	land	land	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	it	-PRON-	PRON	PRP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	has	have	AUX	VBZ	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	occupied	occupy	VERB	VBN	_	29	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	a	a	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	regime	regime	NOUN	NN	_	14	appos	_	ent_type=_|ent_id=2|ent_iob=O
+36	that	that	DET	WDT	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	is	be	AUX	VBZ	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	doing	do	VERB	VBG	_	35	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	utmost	utmost	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	injustice	injustice	NOUN	NN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+43	committing	commit	VERB	VBG	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	most	most	ADV	RBS	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+46	heinous	heinous	ADJ	JJ	_	47	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	crimes	crime	NOUN	NNS	_	43	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	47	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	atrocities	atrocity	NOUN	NNS	_	47	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	against	against	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	Palestinians	Palestinians	PROPN	NNPS	_	50	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+53	who	who	PRON	WP	_	54	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+54	are	be	AUX	VBP	_	47	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+55	the	the	DET	DT	_	57	det	_	ent_type=_|ent_id=2|ent_iob=O
+56	real	real	ADJ	JJ	_	57	amod	_	ent_type=_|ent_id=2|ent_iob=O
+57	owners	owner	NOUN	NNS	_	54	attr	_	ent_type=_|ent_id=2|ent_iob=O
+58	of	of	ADP	IN	_	57	prep	_	ent_type=_|ent_id=2|ent_iob=O
+59	the	the	DET	DT	_	61	det	_	ent_type=_|ent_id=2|ent_iob=O
+60	occupied	occupy	VERB	VBN	_	61	amod	_	ent_type=_|ent_id=2|ent_iob=O
+61	territories	territory	NOUN	NNS	_	58	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+62	!	!	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 20
+# text = "You have witnessed the escalation of Zionist crimes and brutalities against the Palestinians over the past two years.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	witnessed	witness	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	escalation	escalation	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Zionist	zionist	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	crimes	crime	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	brutalities	brutality	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	against	against	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Palestinians	Palestinians	PROPN	NNPS	_	12	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	over	over	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	past	past	ADJ	JJ	_	19	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	two	two	NUM	CD	_	19	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	years	year	NOUN	NNS	_	15	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 19
+# text = All this while, the United States has been blindly supporting this corrupt, covetous and usurper entity.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	All	all	DET	PDT	_	2	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	11	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	while	while	NOUN	NN	_	2	intj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	United	United	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	States	States	PROPN	NNP	_	11	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	has	have	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	been	be	AUX	VBN	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	blindly	blindly	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	supporting	support	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	corrupt	corrupt	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	covetous	covetous	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	usurper	usurper	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	entity	entity	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 29
+# text = Their affront to the Al-Aqsa Mosque yesterday was another sign of the evil nature of the Zionists and another result of the Western liberal democracy!"
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Their	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	affront	affront	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	8	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	Al	Al	PROPN	NNP	_	7	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	-	-	PUNCT	HYPH	_	7	punct	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	Aqsa	Aqsa	PROPN	NNP	_	8	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	Mosque	Mosque	PROPN	NNP	_	3	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	yesterday	yesterday	NOUN	NN	_	2	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	another	another	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	sign	sign	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	evil	evil	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	nature	nature	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Zionists	Zionists	PROPN	NNPS	_	17	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	another	another	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	result	result	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Western	western	ADJ	JJ	_	27	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	liberal	liberal	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	democracy	democracy	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	!	!	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	"	"	PUNCT	''	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 31
+# text = Referring to the Islamic ideals, Ayatollah Khamenei noted, "Islam is an ideology that promotes human values, encourages compassion and clemency and fosters brotherhood among all humans.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Referring	refer	VERB	VBG	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islamic	islamic	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	ideals	ideal	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Ayatollah	Ayatollah	PROPN	NNP	_	8	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	Khamenei	Khamenei	PROPN	NNP	_	9	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islam	Islam	PROPN	NNP	_	13	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	is	be	AUX	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	an	an	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	ideology	ideology	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	DET	WDT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	promotes	promote	VERB	VBZ	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	human	human	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	values	value	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	encourages	encourage	VERB	VBZ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	compassion	compassion	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	clemency	clemency	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	fosters	foster	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	brotherhood	brotherhood	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	among	among	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	all	all	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	humans	human	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 33
+# text = It is an ideology that aims to establish a society in which a person who has no wealth or power can easily obtain his rights from someone who is wealthy and powerful.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	ideology	ideology	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	aims	aim	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	establish	establish	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	society	society	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	person	person	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	has	have	AUX	VBZ	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	no	no	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	wealth	wealth	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	or	or	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	power	power	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	can	can	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	easily	easily	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	obtain	obtain	VERB	VB	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	his	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	rights	right	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	someone	someone	PRON	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	who	who	PRON	WP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	is	be	AUX	VBZ	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	wealthy	wealthy	ADJ	JJ	_	29	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	powerful	powerful	ADJ	JJ	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 12
+# text = This is the kind of society that Islam aims to establish.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	kind	kind	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	society	society	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islam	Islam	PROPN	NNP	_	9	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	aims	aim	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	establish	establish	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 13
+# text = This is the message of Islam that attracts nations throughout the world.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	message	message	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islam	Islam	PROPN	NNP	_	5	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	that	that	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	attracts	attract	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	nations	nation	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	throughout	throughout	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	world	world	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 14
+# text = Which other ideology or school of thought can claim to follow these ideals?
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Which	which	DET	WDT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	ideology	ideology	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	or	or	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	school	school	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	thought	thought	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	claim	claim	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	follow	follow	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	these	these	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	ideals	ideal	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	?	?	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 19
+# text = "Today, Islam is still conveying the same pervasive message that is based on a strong logic.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	''	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islam	Islam	PROPN	NNP	_	7	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	is	be	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	still	still	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	conveying	convey	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	same	same	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	pervasive	pervasive	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	message	message	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	based	base	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	strong	strong	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	logic	logic	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 7
+# text = It has already displayed its power.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	already	already	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	displayed	display	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	its	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	power	power	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 32
+# text = Islam showed its power in Iran through the Islamic Revolution of the Iranian people and in Palestine through the strong resistance of the Palestinians against the Zionist occupiers of their homeland.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Islam	Islam	PROPN	NNP	_	2	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	showed	show	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	its	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	power	power	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iran	Iran	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	through	through	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+10	Revolution	Revolution	PROPN	NNP	_	7	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+11	of	of	ADP	IN	_	10	prep	_	ent_type=EVENT|ent_id=1|ent_iob=I
+12	the	the	DET	DT	_	14	det	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	Iranian	iranian	ADJ	JJ	_	14	amod	_	ent_type=EVENT|ent_id=1|ent_iob=I
+14	people	people	NOUN	NNS	_	11	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+15	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	Palestine	Palestine	PROPN	NNP	_	16	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	through	through	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	strong	strong	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	resistance	resistance	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Palestinians	Palestinians	PROPN	NNPS	_	22	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	against	against	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Zionist	zionist	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	occupiers	occupier	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	homeland	homeland	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 36
+# text = Therefore, it is now up to us, the officials of this Islamic country and the officials of other Islamic states, to show that we are deeply committed to Islam and its ideals.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	now	now	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	up	up	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	us	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	officials	official	NOUN	NNS	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	country	country	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	officials	official	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	other	other	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	Islamic	islamic	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+22	states	state	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	show	show	VERB	VB	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	we	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	are	be	AUX	VBP	_	25	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	deeply	deeply	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	committed	committed	ADJ	JJ	_	28	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	Islam	Islam	PROPN	NNP	_	31	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	its	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	ideals	ideal	NOUN	NNS	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 22
+# text = We should show that we have understood the message of Islam, and that we are ready to promote its objectives.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	show	show	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	understood	understand	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	message	message	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islam	Islam	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	we	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	ready	ready	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	promote	promote	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	its	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	objectives	objective	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 15
+# text = Indeed, the officials of Islamic countries shoulder a heavy responsibility in this regard.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Indeed	indeed	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	officials	official	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islamic	islamic	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	countries	country	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	shoulder	shoulder	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	heavy	heavy	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	responsibility	responsibility	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	regard	regard	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 19
+# text = "Muslim nations have shown that they are ready to make great sacrifices for the sake of Islam.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Muslim	muslim	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nations	nation	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	shown	show	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	ready	ready	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	make	make	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	great	great	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	sacrifices	sacrifice	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	sake	sake	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Islam	Islam	PROPN	NNP	_	17	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 29
+# text = The Iranian nation bravely displayed its commitment in the course of the Islamic Revolution and in the following events and is still as committed to Islam as ever.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	bravely	bravely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	displayed	display	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	its	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	commitment	commitment	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	course	course	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+13	Islamic	Islamic	PROPN	NNP	_	14	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+14	Revolution	Revolution	PROPN	NNP	_	11	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+15	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	following	follow	VERB	VBG	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	events	event	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	still	still	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	as	as	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	committed	commit	VERB	VBN	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Islam	Islam	PROPN	NNP	_	25	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	as	as	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	ever	ever	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 29
+# text = The Palestinian and Lebanese nations and Muslims in other countries have also expressed their willingness to make any kind of self-sacrifice for the sake of Islam.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	The	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Palestinian	palestinian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	Lebanese	lebanese	ADJ	JJ	_	2	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	nations	nation	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	Muslims	Muslims	PROPN	NNPS	_	5	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	countries	country	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	also	also	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	expressed	express	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	willingness	willingness	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	make	make	VERB	VB	_	15	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	any	any	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	kind	kind	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	self	self	NOUN	NN	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	-	-	PUNCT	HYPH	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	sacrifice	sacrifice	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	sake	sake	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	Islam	Islam	PROPN	NNP	_	27	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+29	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 20
+# text = Therefore, we, the officials of Islamic countries, should also face up to our commitment and responsibilities.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	Therefore	therefore	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	islamic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	countries	country	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	also	also	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	face	face	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	up	up	ADP	RP	_	13	prt	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	commitment	commitment	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	responsibilities	responsibility	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 27
+# text = The feast marking the appointment of the Holy Prophet as the messenger of Allah should remind us of our heavy responsibilities toward this divine religion."
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	feast	feast	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	marking	mark	VERB	VBG	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	appointment	appointment	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	Holy	Holy	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Prophet	Prophet	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	as	as	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	messenger	messenger	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Allah	Allah	PROPN	NNP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	should	should	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	remind	remind	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	us	-PRON-	PRON	PRP	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	heavy	heavy	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	responsibilities	responsibility	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	toward	toward	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	divine	divine	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	religion	religion	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	"	"	PUNCT	``	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 46
+# text = In conclusion, Leader of the Islamic Republic prayed for more divine blessings upon late Imam Khomeini, who brought about an Islamic renaissance in the Muslim Ummah, and upon the revered and beloved martyrs who sacrificed their lives for the sake of Islam.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Leader	leader	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	prayed	pray	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	more	more	ADJ	JJR	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	divine	divine	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	blessings	blessing	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	upon	upon	SCONJ	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	late	late	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	Imam	Imam	PROPN	NNP	_	17	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+17	Khomeini	Khomeini	PROPN	NNP	_	14	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	who	who	PRON	WP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	brought	bring	VERB	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	about	about	ADP	RP	_	20	prt	_	ent_type=_|ent_id=2|ent_iob=O
+22	an	an	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	renaissance	renaissance	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Muslim	Muslim	PROPN	NNP	_	28	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	Ummah	Ummah	PROPN	NNP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	upon	upon	SCONJ	IN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	revered	revere	VERB	VBN	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	beloved	beloved	ADJ	JJ	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	martyrs	martyr	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	who	who	PRON	WP	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	sacrificed	sacrifice	VERB	VBD	_	36	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	their	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	lives	life	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	for	for	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	sake	sake	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	of	of	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	Islam	Islam	PROPN	NNP	_	44	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+46	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 13
+# text = He also prayed for further progress and stronger unity of Muslim nations.
+# title = Leader's Speech on Feast of Mab'ath
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	prayed	pray	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	further	further	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	progress	progress	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	stronger	strong	ADJ	JJR	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	unity	unity	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Muslim	muslim	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	nations	nation	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O

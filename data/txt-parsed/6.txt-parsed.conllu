@@ -1,0 +1,1463 @@
+# sent_id = 1
+# sent_len = 54
+# text = First, I would like to express my warm welcome to all the dear guests from other countries as well as all the dear brothers and sisters from the different cities of our country who have come here to attend the commemorative ceremony marking the 10th demise anniversary of our late magnanimous Imam.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	First	first	ADV	RB	_	5	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	express	express	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	my	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	warm	warm	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	welcome	welcome	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	DET	PDT	_	15	predet	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	dear	dear	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	guests	guest	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	from	from	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	other	other	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	countries	country	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	well	well	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	as	as	SCONJ	IN	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	all	all	DET	PDT	_	25	predet	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	dear	dear	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	brothers	brother	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	sisters	sister	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	different	different	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	cities	city	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	of	of	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	our	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	country	country	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	who	who	PRON	WP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	have	have	AUX	VBP	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	come	come	VERB	VBN	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+38	here	here	ADV	RB	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+39	to	to	PART	TO	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	attend	attend	VERB	VB	_	37	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	commemorative	commemorative	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	ceremony	ceremony	NOUN	NN	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	marking	mark	VERB	VBG	_	43	acl	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	10th	10th	ADJ	JJ	_	48	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+47	demise	demise	NOUN	NN	_	48	compound	_	ent_type=_|ent_id=2|ent_iob=O
+48	anniversary	anniversary	NOUN	NN	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	of	of	ADP	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+50	our	-PRON-	DET	PRP$	_	53	poss	_	ent_type=_|ent_id=2|ent_iob=O
+51	late	late	ADJ	JJ	_	53	amod	_	ent_type=_|ent_id=2|ent_iob=O
+52	magnanimous	magnanimous	ADJ	JJ	_	53	amod	_	ent_type=_|ent_id=2|ent_iob=O
+53	Imam	Imam	PROPN	NNP	_	49	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+54	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 62
+# text = The point that should be stressed is that holding ceremonies in commemoration of the late Imam is aimed at putting emphasis on the example that the late Imam set to the Iranian nation and also to all other Muslims across the world through his Islamic movement and revolution, through his behavior and lifestyle and through his last will and testament.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	point	point	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	stressed	stress	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	holding	hold	VERB	VBG	_	18	csubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	ceremonies	ceremony	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	commemoration	commemoration	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	late	late	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	Imam	Imam	PROPN	NNP	_	13	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+17	is	be	AUX	VBZ	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	aimed	aim	VERB	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	at	at	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	putting	put	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	emphasis	emphasis	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	example	example	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	late	late	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	Imam	Imam	PROPN	NNP	_	29	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+29	set	set	VERB	VBD	_	24	acl	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	Iranian	iranian	ADJ	JJ	_	33	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	nation	nation	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	also	also	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	ADP	IN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	all	all	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	other	other	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	Muslims	Muslims	PROPN	NNPS	_	36	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+40	across	across	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	world	world	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	through	through	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	his	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+45	Islamic	islamic	ADJ	JJ	_	46	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+46	movement	movement	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	and	and	CCONJ	CC	_	46	cc	_	ent_type=_|ent_id=2|ent_iob=O
+48	revolution	revolution	NOUN	NN	_	46	conj	_	ent_type=_|ent_id=2|ent_iob=O
+49	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+50	through	through	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	his	-PRON-	DET	PRP$	_	52	poss	_	ent_type=_|ent_id=2|ent_iob=O
+52	behavior	behavior	NOUN	NN	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	and	and	CCONJ	CC	_	52	cc	_	ent_type=_|ent_id=2|ent_iob=O
+54	lifestyle	lifestyle	NOUN	NN	_	52	conj	_	ent_type=_|ent_id=2|ent_iob=O
+55	and	and	CCONJ	CC	_	50	cc	_	ent_type=_|ent_id=2|ent_iob=O
+56	through	through	ADP	IN	_	50	conj	_	ent_type=_|ent_id=2|ent_iob=O
+57	his	-PRON-	DET	PRP$	_	59	poss	_	ent_type=_|ent_id=2|ent_iob=O
+58	last	last	ADJ	JJ	_	59	amod	_	ent_type=_|ent_id=2|ent_iob=O
+59	will	will	NOUN	NN	_	56	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+60	and	and	CCONJ	CC	_	59	cc	_	ent_type=_|ent_id=2|ent_iob=O
+61	testament	testament	NOUN	NN	_	59	conj	_	ent_type=_|ent_id=2|ent_iob=O
+62	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 25
+# text = Imam Khomeini is always present in our minds and in our everyday life as a model, as a teacher and as a leader.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Imam	Imam	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khomeini	Khomeini	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	always	always	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	present	present	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	minds	mind	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	everyday	everyday	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	life	life	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	model	model	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	as	as	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	teacher	teacher	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	SCONJ	IN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	leader	leader	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 19
+# text = He is not present physically, but his thoughts, his guidelines and his teachings are always present.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	present	present	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	physically	physically	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	his	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	thoughts	thought	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	his	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	guidelines	guideline	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	his	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	teachings	teaching	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	always	always	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	present	present	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 14
+# text = His thoughts and teachings are what our nation and other Muslim nations need.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	thoughts	thought	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	teachings	teaching	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	what	what	PRON	WP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	other	other	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Muslim	muslim	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	nations	nation	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	need	need	VERB	VBP	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 13
+# text = His guidelines were needed yesterday, and they are also needed today.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	guidelines	guideline	NOUN	NNS	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	needed	need	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	yesterday	yesterday	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	also	also	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	needed	need	VERB	VBN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	today	today	NOUN	NN	_	11	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 16
+# text = Therefore, the Imam's Line and teachings are alive and will continue to live.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Therefore	therefore	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	Imam	Imam	PROPN	NNP	_	6	poss	_	ent_type=ORG|ent_id=1|ent_iob=I
+5	's	's	PART	POS	_	4	case	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	Line	line	NOUN	NN	_	9	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	teachings	teaching	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	alive	alive	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	continue	continue	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	live	live	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 35
+# text = If we try to sum up the late Imam's thoughts and guidelines, we will find that the gist of his teachings is the need for Muslim nations to return to pure Islam.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	try	try	VERB	VBP	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	sum	sum	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	up	up	ADP	RP	_	5	prt	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	late	late	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	Imam	Imam	PROPN	NNP	_	11	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	's	's	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	thoughts	thought	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	guidelines	guideline	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	we	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	find	find	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	gist	gist	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	his	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	teachings	teaching	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	need	need	NOUN	NN	_	24	attr	_	ent_type=_|ent_id=2|ent_iob=O
+27	for	for	ADP	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+28	Muslim	muslim	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	nations	nation	NOUN	NNS	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	return	return	VERB	VB	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	pure	pure	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	Islam	Islam	PROPN	NNP	_	32	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+35	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 56
+# text = Islam aims to confer honor and dignity on Muslims and bring about their independence and freedom, freedom from dictatorial and despotic powers, freedom from superstition and ignorance, freedom from prejudice, bigotry and narrow-mindedness and freedom from the noose of the economic power and political pressure of the arrogant powers.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Islam	Islam	PROPN	NNP	_	2	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	aims	aim	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	confer	confer	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	honor	honor	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	dignity	dignity	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Muslims	Muslims	PROPN	NNPS	_	8	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	bring	bring	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	about	about	ADP	RP	_	11	prt	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	independence	independence	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	freedom	freedom	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	freedom	freedom	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	from	from	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	dictatorial	dictatorial	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	despotic	despotic	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	powers	power	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	freedom	freedom	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	superstition	superstition	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	ignorance	ignorance	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	freedom	freedom	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	from	from	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	prejudice	prejudice	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	bigotry	bigotry	NOUN	NN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	narrow	narrow	NOUN	NN	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	-	-	PUNCT	HYPH	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	mindedness	mindedness	NOUN	NN	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	freedom	freedom	NOUN	NN	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	from	from	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	noose	noose	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	of	of	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	economic	economic	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	power	power	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	48	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	political	political	ADJ	JJ	_	51	amod	_	ent_type=_|ent_id=2|ent_iob=O
+51	pressure	pressure	NOUN	NN	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+52	of	of	ADP	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+53	the	the	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	arrogant	arrogant	ADJ	JJ	_	55	amod	_	ent_type=_|ent_id=2|ent_iob=O
+55	powers	power	NOUN	NNS	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 20
+# text = Islam also seeks to bring about welfare, prosperity and economic development based on and accompanied by social justice.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Islam	Islam	PROPN	NNP	_	3	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	seeks	seek	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	bring	bring	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	about	about	ADP	IN	_	5	prt	_	ent_type=_|ent_id=2|ent_iob=O
+7	welfare	welfare	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	prosperity	prosperity	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	economic	economic	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	development	development	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	based	base	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	accompanied	accompany	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+18	social	social	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	justice	justice	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 23
+# text = In other words, Islam does not seek the kind of economic development that widens the gap between different levels of society.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islam	Islam	PROPN	NNP	_	8	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	does	do	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	seek	seek	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	kind	kind	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	economic	economic	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	development	development	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	widens	widen	VERB	VBZ	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	gap	gap	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	between	between	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	different	different	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	levels	level	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	society	society	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 41
+# text = Therefore, Islam disapproves of the Western model of economic development, which brings about economic growth and increases the wealth of certain levels of society at the cost of impoverishing and lowering the living standards of other social strata.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	Islam	Islam	PROPN	NNP	_	4	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	disapproves	disapprove	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Western	western	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	model	model	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	economic	economic	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	development	development	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	which	which	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	brings	bring	VERB	VBZ	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	about	about	ADP	RP	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	economic	economic	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	growth	growth	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	increases	increase	VERB	VBZ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	wealth	wealth	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	certain	certain	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	levels	level	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	society	society	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	at	at	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	cost	cost	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	impoverishing	impoverish	VERB	VBG	_	30	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	lowering	lower	VERB	VBG	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	living	living	NOUN	NN	_	36	compound	_	ent_type=_|ent_id=2|ent_iob=O
+36	standards	standard	NOUN	NNS	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	other	other	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	social	social	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	strata	strata	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 17
+# text = What Islam pursues is economic development and prosperity for all social strata based on social justice.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	What	what	PRON	WP	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+2	Islam	Islam	PROPN	NNP	_	3	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	pursues	pursue	VERB	VBZ	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	economic	economic	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	development	development	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	prosperity	prosperity	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	social	social	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	strata	strata	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	based	base	VERB	VBN	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	social	social	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	justice	justice	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 24
+# text = Today, the main afflictions of Muslim nations are lack of independence and freedom as well as scientific, economic and industrial backwardness.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Today	today	NOUN	NN	_	9	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	main	main	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	afflictions	affliction	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Muslim	muslim	ADJ	JJ	_	8	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	nations	nation	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	lack	lack	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	independence	independence	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	freedom	freedom	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	well	well	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	as	as	SCONJ	IN	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	scientific	scientific	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	economic	economic	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	industrial	industrial	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	backwardness	backwardness	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 42
+# text = Indeed, these afflictions mostly stem from the domination, interference and influence of the arrogant powers, which are plundering the national wealth and natural resources of Islamic countries, thus keeping Muslim nations in a backward and underdeveloped condition.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Indeed	indeed	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	afflictions	affliction	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	mostly	mostly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	stem	stem	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	domination	domination	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	interference	interference	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	influence	influence	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	arrogant	arrogant	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	powers	power	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	which	which	DET	WDT	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	plundering	plunder	VERB	VBG	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	national	national	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	wealth	wealth	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	natural	natural	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	resources	resource	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Islamic	islamic	ADJ	JJ	_	30	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+30	countries	country	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	thus	thus	ADV	RB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+33	keeping	keep	VERB	VBG	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	Muslim	muslim	ADJ	JJ	_	35	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+35	nations	nation	NOUN	NNS	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	a	a	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	backward	backward	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	underdeveloped	underdeveloped	ADJ	JJ	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	condition	condition	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 43
+# text = However, if Muslim nations return to pure Islam and observe and enforce the divine law in their societies, they will be to restore their independence and freedom and eliminate these afflictions Repudiating and refusing to associate with the enemies of Islam
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	However	however	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	Muslim	muslim	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	nations	nation	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	return	return	VERB	VBP	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	pure	pure	ADJ	JJ	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islam	Islam	PROPN	NNP	_	8	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	observe	observe	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	enforce	enforce	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	divine	divine	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	law	law	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	societies	society	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	they	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	restore	restore	VERB	VB	_	23	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	independence	independence	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	freedom	freedom	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	eliminate	eliminate	VERB	VB	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	these	these	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	afflictions	affliction	NOUN	NNS	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	Repudiating	Repudiating	PROPN	NNP	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	refusing	refuse	VERB	VBG	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	associate	associate	VERB	VB	_	37	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	with	with	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	enemies	enemy	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	Islam	Islam	PROPN	NNP	_	43	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+
+# sent_id = 17
+# sent_len = 10
+# text = was our magnanimous Imam's message to Muslim nations.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	magnanimous	magnanimous	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	Imam	Imam	PROPN	NNP	_	6	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	's	's	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	message	message	NOUN	NN	_	1	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Muslim	muslim	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	nations	nation	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 30
+# text = The Iranian people got the message and freed themselves from the yoke of the arrogant powers, restored their national honor and dignity and made great strides toward development.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	got	get	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	message	message	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	freed	free	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	themselves	-PRON-	PRON	PRP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	yoke	yoke	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	arrogant	arrogant	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	powers	power	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	restored	restore	VERB	VBD	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	national	national	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	honor	honor	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	dignity	dignity	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	made	make	VERB	VBD	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	great	great	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	strides	stride	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	toward	toward	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	development	development	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 50
+# text = We do not intend to say that we have managed to establish a perfect Islamic system in our country, but we can definitely say that we have made considerable strides in this direction, and that we are determined to continue our efforts until we accomplish this objective.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	intend	intend	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	managed	manage	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	establish	establish	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	perfect	perfect	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	system	system	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	country	country	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	we	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	can	can	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	definitely	definitely	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	say	say	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	we	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	have	have	AUX	VBP	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	made	make	VERB	VBN	_	25	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	considerable	considerable	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	strides	stride	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	this	this	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	direction	direction	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	that	that	SCONJ	IN	_	39	mark	_	ent_type=_|ent_id=2|ent_iob=O
+38	we	-PRON-	PRON	PRP	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	are	be	AUX	VBP	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	determined	determined	ADJ	JJ	_	39	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	to	to	PART	TO	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+42	continue	continue	VERB	VB	_	40	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	our	-PRON-	DET	PRP$	_	44	poss	_	ent_type=_|ent_id=2|ent_iob=O
+44	efforts	effort	NOUN	NNS	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	until	until	ADP	IN	_	47	mark	_	ent_type=_|ent_id=2|ent_iob=O
+46	we	-PRON-	PRON	PRP	_	47	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+47	accomplish	accomplish	VERB	VBP	_	42	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+48	this	this	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+49	objective	objective	NOUN	NN	_	47	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 26
+# text = The Iranian people and the officials of the Islamic Republic highly value the late Imam's guidelines, regarding them as their beacon of guidance.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	highly	highly	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	value	value	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	late	late	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Imam	Imam	PROPN	NNP	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	's	's	PART	POS	_	15	case	_	ent_type=_|ent_id=2|ent_iob=O
+17	guidelines	guideline	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	regarding	regard	VERB	VBG	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	them	-PRON-	PRON	PRP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	as	as	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	beacon	beacon	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	guidance	guidance	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 29
+# text = Thank God, the Iranian officials, including the senior executives and those in charge of domestic and foreign affairs, strongly adhere to the Imam's Line.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	1	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	officials	official	NOUN	NNS	_	1	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	including	include	VERB	VBG	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	senior	senior	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	executives	executive	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	those	those	DET	DT	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	charge	charge	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	domestic	domestic	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	foreign	foreign	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	affairs	affair	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	strongly	strongly	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	adhere	adhere	VERB	VB	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+26	Imam	Imam	PROPN	NNP	_	28	poss	_	ent_type=ORG|ent_id=1|ent_iob=I
+27	's	's	PART	POS	_	26	case	_	ent_type=ORG|ent_id=1|ent_iob=I
+28	Line	line	NOUN	NN	_	24	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+29	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 20
+# text = They perform their duties based on and in accordance with the guidelines of the founder of the Islamic Republic.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	perform	perform	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	their	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	duties	duty	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	based	base	VERB	VBN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	accordance	accordance	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	guidelines	guideline	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	founder	founder	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	Islamic	Islamic	PROPN	NNP	_	19	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	Republic	Republic	PROPN	NNP	_	16	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 22
+# text = We are following the same line that was delineated and the same policies that were drawn up by our beneficent Imam.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	following	follow	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	same	same	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	line	line	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	was	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	delineated	delineate	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	same	same	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	policies	policy	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	were	be	AUX	VBD	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	drawn	draw	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	up	up	ADP	RP	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	beneficent	beneficent	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	Imam	Imam	PROPN	NNP	_	18	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 25
+# text = These policies, which had been inspired by the Islamic principles and Qur'anic teachings, formed the cornerstone of the Islamic movement and revolution.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	policies	policy	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	had	have	AUX	VBD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	inspired	inspire	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Islamic	islamic	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	principles	principle	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	Qur'anic	qur'anic	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	teachings	teaching	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	formed	form	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	cornerstone	cornerstone	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	Islamic	islamic	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+22	movement	movement	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	revolution	revolution	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 31
+# text = We believe that that our problems could be solved by following this line and by implementing these policies, contrary to what the enemies of Islam are trying to inculcate.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	problems	problem	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	could	could	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	solved	solve	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	following	follow	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	line	line	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	by	by	ADP	IN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	implementing	implement	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	these	these	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	policies	policy	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	contrary	contrary	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	what	what	PRON	WP	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	enemies	enemy	NOUN	NNS	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Islam	Islam	PROPN	NNP	_	25	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	are	be	AUX	VBP	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	trying	try	VERB	VBG	_	21	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	inculcate	inculcate	VERB	VB	_	28	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 29
+# text = The victory of the Islamic Revolution in Iran reflected dignity on all Muslim nations, and they welcomed this Islamic revival and felt proud of their Islamic identity.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	victory	victory	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	6	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+6	Revolution	Revolution	PROPN	NNP	_	3	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iran	Iran	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	reflected	reflect	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	dignity	dignity	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Muslim	muslim	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	nations	nation	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	welcomed	welcome	VERB	VBD	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islamic	islamic	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	revival	revival	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	felt	feel	VERB	VBD	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	proud	proud	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	Islamic	islamic	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	identity	identity	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 30
+# text = They also realized that Islam, which is a precious gem belonging to all Muslims, is capable of solving their problems and bringing about their independence and prosperity.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	realized	realize	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islam	Islam	PROPN	NNP	_	17	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	precious	precious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	gem	gem	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	belonging	belong	VERB	VBG	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	all	all	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Muslims	Muslims	PROPN	NNPS	_	13	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	capable	capable	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	solving	solve	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	problems	problem	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	bringing	bring	VERB	VBG	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	about	about	ADP	RP	_	24	prt	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	independence	independence	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	prosperity	prosperity	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 30
+# text = Consequently, a wave of Islamic awakening swept through the Islamic world, but it also alarmed the arrogant powers and the enemies of Islam and provoked their hostilities.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Consequently	consequently	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	wave	wave	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islamic	islamic	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	awakening	awakening	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	swept	sweep	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	through	through	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islamic	islamic	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	world	world	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	but	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	it	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	also	also	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	alarmed	alarm	VERB	VBD	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	arrogant	arrogant	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	powers	power	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	enemies	enemy	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Islam	Islam	PROPN	NNP	_	24	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+26	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	provoked	provoke	VERB	VBD	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	their	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	hostilities	hostility	NOUN	NNS	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 19
+# text = These powers are now hatching all kinds of plots and machinations to suppress this wave of Islamic awakening.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	powers	power	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	now	now	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	hatching	hatch	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	kinds	kind	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	plots	plot	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	machinations	machination	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	suppress	suppress	VERB	VB	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	wave	wave	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Islamic	islamic	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	awakening	awakening	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 49
+# text = The current plots and negative propaganda of the arrogant powers against the Islamic Republic, which have been motivated by the Iranian nation's adherence to Islam and Qur'anic teachings, are aimed at both tarnishing the image of Islam and weakening the resistance of the Iranian nation.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	current	current	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	plots	plot	NOUN	NNS	_	33	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	negative	negative	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	propaganda	propaganda	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	arrogant	arrogant	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	powers	power	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	against	against	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	Islamic	Islamic	PROPN	NNP	_	14	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	Republic	Republic	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	been	be	AUX	VBN	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	motivated	motivate	VERB	VBN	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	by	by	ADP	IN	_	19	agent	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Iranian	iranian	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	nation	nation	NOUN	NN	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	's	's	PART	POS	_	23	case	_	ent_type=_|ent_id=2|ent_iob=O
+25	adherence	adherence	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Islam	Islam	PROPN	NNP	_	26	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	Qur'anic	qur'anic	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	teachings	teaching	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	are	be	AUX	VBP	_	33	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	aimed	aim	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+34	at	at	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	both	both	DET	DT	_	36	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+36	tarnishing	tarnish	VERB	VBG	_	34	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	image	image	NOUN	NN	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	Islam	Islam	PROPN	NNP	_	39	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+41	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	weakening	weaken	VERB	VBG	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	resistance	resistance	NOUN	NN	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	of	of	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	Iranian	iranian	ADJ	JJ	_	48	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+48	nation	nation	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 29
+# text = The fact is that the arrogant powers have received serious blows over the past two decades from the Islamic Revolution and the Iranian nation's adherence to Islam.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	arrogant	arrogant	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	powers	power	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	received	receive	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	serious	serious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	blows	blow	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	over	over	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	past	past	ADJ	JJ	_	16	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	two	two	NUM	CD	_	16	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	decades	decade	NOUN	NNS	_	12	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+19	Islamic	Islamic	PROPN	NNP	_	20	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+20	Revolution	Revolution	PROPN	NNP	_	17	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iranian	iranian	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	nation	nation	NOUN	NN	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	's	's	PART	POS	_	24	case	_	ent_type=_|ent_id=2|ent_iob=O
+26	adherence	adherence	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	Islam	Islam	PROPN	NNP	_	27	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 23
+# text = Therefore, they are now trying to take revenge on the Iranian people by diverting them from their Islamic and revolutionary path.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	now	now	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	take	take	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	revenge	revenge	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iranian	iranian	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	by	by	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	diverting	divert	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	them	-PRON-	PRON	PRP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	from	from	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	Islamic	islamic	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	revolutionary	revolutionary	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	path	path	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 35
+# text = However, the Iranians are strongly resisting all these plots and pressure, and they would never forgo their Islamic and revolutionary ideals in the face of the threats posed by the arrogant powers.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	However	however	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iranians	Iranians	PROPN	NNPS	_	7	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	strongly	strongly	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	resisting	resist	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	plots	plot	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	pressure	pressure	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	would	would	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	never	never	ADV	RB	_	18	neg	_	ent_type=_|ent_id=2|ent_iob=O
+18	forgo	forgo	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islamic	islamic	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	revolutionary	revolutionary	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	ideals	ideal	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	face	face	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	threats	threat	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	posed	pose	VERB	VBN	_	29	acl	_	ent_type=_|ent_id=2|ent_iob=O
+31	by	by	ADP	IN	_	30	agent	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	arrogant	arrogant	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	powers	power	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 25
+# text = The Iranian nation is determined to follow its Islamic and revolutionary path and set an example to other nations, particularly the Muslim nations.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	determined	determine	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	follow	follow	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	its	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	islamic	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	revolutionary	revolutionary	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	path	path	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	set	set	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	example	example	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	other	other	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	nations	nation	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	particularly	particularly	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Muslim	muslim	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	nations	nation	NOUN	NNS	_	19	appos	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 22
+# text = Indeed, any success that is achieved by the Iranian nation will reflect honor and credit on the whole Muslim ummah.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Indeed	indeed	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	any	any	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	success	success	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	achieved	achieve	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iranian	iranian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	nation	nation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	reflect	reflect	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	honor	honor	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	credit	credit	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	whole	whole	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	Muslim	muslim	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	ummah	ummah	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 24
+# text = Likewise, any harm that is inflicted by the enemies on our Islamic system will harm the interests of the whole Islamic world.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Likewise	likewise	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	any	any	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	harm	harm	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	inflicted	inflict	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	enemies	enemy	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islamic	islamic	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	system	system	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	will	will	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	harm	harm	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	interests	interest	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	whole	whole	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islamic	islamic	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	world	world	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 29
+# text = This point is very clearly understood by the vigilant Muslims throughout the world, who are cognizant of the plots of the enemies against Islam and Muslim nations.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	point	point	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	clearly	clearly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	understood	understand	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	vigilant	vigilant	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	Muslims	Muslims	PROPN	NNPS	_	7	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	throughout	throughout	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	cognizant	cognizant	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	plots	plot	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	enemies	enemy	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	against	against	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Islam	Islam	PROPN	NNP	_	24	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	Muslim	Muslim	PROPN	NNP	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	nations	nation	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 20
+# text = We can see a bright and promising future for the Iranian nation and also for the whole Muslim ummah.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	bright	bright	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	promising	promising	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	future	future	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iranian	iranian	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	nation	nation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	also	also	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	whole	whole	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	Muslim	muslim	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	ummah	ummah	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 22
+# text = Today, the young generation all over the Islamic world is expressing a strong feeling of attachment and devotion to Islam.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Today	today	NOUN	NN	_	12	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	young	young	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	generation	generation	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	over	over	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	islamic	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	world	world	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	expressing	express	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	strong	strong	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	feeling	feeling	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	attachment	attachment	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	devotion	devotion	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Islam	Islam	PROPN	NNP	_	20	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+22	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 19
+# text = By the grace of Almighty Allah, this feeling will become deeper and stronger as time goes on.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	By	by	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	grace	grace	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Almighty	Almighty	PROPN	NNP	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	feeling	feeling	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	deeper	deeper	ADV	RBR	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	stronger	strong	ADJ	JJR	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	time	time	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	goes	go	VERB	VBZ	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	RP	_	17	prt	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 24
+# text = God willing, in the not too distant future, we will witness the full-scale progress and development of Islamic countries.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	God	God	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	willing	willing	ADJ	JJ	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	too	too	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	distant	distant	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	future	future	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	witness	witness	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	full	full	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	HYPH	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	scale	scale	NOUN	NN	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	progress	progress	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	development	development	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islamic	islamic	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	countries	country	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 20
+# text = I pray to Almighty Allah to confer more honor, dignity and power on Islam and the Muslim ummah.
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	confer	confer	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	more	more	ADJ	JJR	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	honor	honor	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	dignity	dignity	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	power	power	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islam	Islam	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Muslim	muslim	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	ummah	ummah	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address to Foreign and Iranian Guests
+# year = 1999
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

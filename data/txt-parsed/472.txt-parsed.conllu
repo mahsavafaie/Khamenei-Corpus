@@ -1,0 +1,767 @@
+# sent_id = 1
+# sent_len = 24
+# text = I would like to express my sincere gratitude to you journalists as well as other people who have made efforts for the elections.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	express	express	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	my	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	sincere	sincere	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	gratitude	gratitude	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	5	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	11	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	journalists	journalist	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	well	well	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	other	other	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	people	people	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	made	make	VERB	VBN	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	efforts	effort	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	for	for	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	elections	election	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 27
+# text = You have played a significant role in attracting attention to the significance of elections which are held in the country every year or every other year.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	played	play	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	significant	significant	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	role	role	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	attracting	attract	VERB	VBG	_	7	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	attention	attention	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	significance	significance	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	elections	election	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	which	which	DET	WDT	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	held	hold	VERB	VBN	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	country	country	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	every	every	DET	DT	_	22	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+22	year	year	NOUN	NN	_	17	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+23	or	or	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	every	every	DET	DT	_	26	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+25	other	other	ADJ	JJ	_	26	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+26	year	year	NOUN	NN	_	22	conj	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 7
+# text = May God bestow success on you.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	May	May	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	bestow	bestow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	success	success	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 8
+# text = I do not have a new recommendation.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	new	new	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	recommendation	recommendation	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 14
+# text = I believe this is an obligation and a right for all of us.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	obligation	obligation	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	right	right	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	us	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 14
+# text = We should make use of this right and we should fulfill this obligation.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	use	use	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	right	right	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	fulfill	fulfill	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	obligation	obligation	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 22
+# text = I also believe that as is the case with praying, the earlier you vote, the more the spiritual value.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	as	as	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	case	case	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	praying	pray	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	earlier	earlier	ADV	RBR	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	vote	vote	VERB	VBP	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	more	more	ADV	RBR	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	spiritual	spiritual	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	value	value	NOUN	NN	_	10	appos	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 17
+# text = I do not want to say that this is based on sharia the way prayers are.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	want	want	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	based	base	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	sharia	sharia	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	way	way	NOUN	NN	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	prayers	prayer	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 63
+# text = From a rational perspective, when a person votes early on Friday, he or she will no longer have it on his or her mind while doing other things, as opposed to leaving everything to the last minute when the polling stations are crowded and there is always the chance and concern that one might not be able to vote.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	From	from	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	rational	rational	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	perspective	perspective	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	when	when	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	person	person	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	votes	vote	VERB	VBZ	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	early	early	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Friday	Friday	PROPN	NNP	_	11	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	he	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	or	or	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	she	-PRON-	PRON	PRP	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	no	no	ADV	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	longer	longer	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	it	-PRON-	PRON	PRP	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	his	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	or	or	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	her	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	mind	mind	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	while	while	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+28	doing	do	VERB	VBG	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	other	other	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	things	thing	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	as	as	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+33	opposed	oppose	VERB	VBN	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	leaving	leave	VERB	VBG	_	34	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	everything	everything	PRON	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	to	to	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	40	det	_	ent_type=TIME|ent_id=3|ent_iob=B
+39	last	last	ADJ	JJ	_	40	amod	_	ent_type=TIME|ent_id=1|ent_iob=I
+40	minute	minute	NOUN	NN	_	37	pobj	_	ent_type=TIME|ent_id=1|ent_iob=I
+41	when	when	ADV	WRB	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	polling	polling	NOUN	NN	_	44	compound	_	ent_type=_|ent_id=2|ent_iob=O
+44	stations	station	NOUN	NNS	_	46	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+45	are	be	AUX	VBP	_	46	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+46	crowded	crowd	VERB	VBN	_	35	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+47	and	and	CCONJ	CC	_	46	cc	_	ent_type=_|ent_id=2|ent_iob=O
+48	there	there	PRON	EX	_	49	expl	_	ent_type=_|ent_id=2|ent_iob=O
+49	is	be	AUX	VBZ	_	46	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	always	always	ADV	RB	_	49	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	chance	chance	NOUN	NN	_	49	attr	_	ent_type=_|ent_id=2|ent_iob=O
+53	and	and	CCONJ	CC	_	52	cc	_	ent_type=_|ent_id=2|ent_iob=O
+54	concern	concern	NOUN	NN	_	52	conj	_	ent_type=_|ent_id=2|ent_iob=O
+55	that	that	SCONJ	IN	_	59	mark	_	ent_type=_|ent_id=2|ent_iob=O
+56	one	one	PRON	PRP	_	59	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+57	might	may	VERB	MD	_	59	aux	_	ent_type=_|ent_id=2|ent_iob=O
+58	not	not	PART	RB	_	59	neg	_	ent_type=_|ent_id=2|ent_iob=O
+59	be	be	AUX	VB	_	52	acl	_	ent_type=_|ent_id=2|ent_iob=O
+60	able	able	ADJ	JJ	_	59	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+61	to	to	PART	TO	_	62	aux	_	ent_type=_|ent_id=2|ent_iob=O
+62	vote	vote	VERB	VB	_	60	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+63	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 21
+# text = Therefore, the people should come to the polling stations and write the names of thirty people on their ballots.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	come	come	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	polling	polling	NOUN	NN	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	stations	station	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	write	write	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	names	name	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	thirty	thirty	NUM	CD	_	17	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+17	people	people	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	ballots	ballot	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 17
+# text = Our dear people should try to fulfill this duty and they will make their intentions pure.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	fulfill	fulfill	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	duty	duty	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	make	make	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	intentions	intention	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	pure	pure	ADJ	JJ	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 19
+# text = Of course, you know that elections have always been important for our country and the Islamic Republic.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	elections	election	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	always	always	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	been	be	AUX	VBN	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	important	important	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	Republic	Republic	PROPN	NNP	_	14	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 10
+# text = This is because elections always play a determining role.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	elections	election	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	always	always	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	play	play	VERB	VBP	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	determining	determine	VERB	VBG	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	role	role	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 24
+# text = They always reveal a certain truth about our country, which carries certain messages for our friends and our enemies in the world.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	always	always	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	reveal	reveal	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	certain	certain	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	truth	truth	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	which	which	DET	WDT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	carries	carry	VERB	VBZ	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	certain	certain	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	messages	message	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	friends	friend	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	enemies	enemy	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	world	world	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 22
+# text = This has always been the case and whenever this characteristic has been strengthened, the importance of elections has been increased.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	This	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	always	always	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	case	case	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	whenever	whenever	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	characteristic	characteristic	NOUN	NN	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	has	have	AUX	VBZ	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	been	be	AUX	VBN	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	strengthened	strengthen	VERB	VBN	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	importance	importance	NOUN	NN	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	elections	election	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	has	have	AUX	VBZ	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	been	be	AUX	VBN	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	increased	increase	VERB	VBN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 7
+# text = Today is one of those times.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	Today	today	NOUN	NN	_	2	nsubj	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	times	time	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 12
+# text = Thirty three years has passed since the victory of the Revolution.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	Thirty	thirty	NUM	CD	_	3	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	three	three	NUM	CD	_	3	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	years	year	NOUN	NNS	_	5	nsubj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	passed	pass	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	since	since	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	victory	victory	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Revolution	Revolution	PROPN	NNP	_	9	pobj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 26
+# text = In the revolutions that have taken place throughout the world, the people grew tired and disappointed over time and their path and goals changed.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	In	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	revolutions	revolution	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	taken	take	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	place	place	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	throughout	throughout	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	world	world	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	grew	grow	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	tired	tired	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	disappointed	disappointed	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	over	over	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	time	time	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	path	path	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	goals	goal	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	changed	change	VERB	VBD	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 19
+# text = However, during this time, our people have followed a straight path until today with firm determination.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	However	however	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	during	during	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	time	time	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	followed	follow	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	straight	straight	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	path	path	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	until	until	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	today	today	NOUN	NN	_	14	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+16	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	firm	firm	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	determination	determination	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 25
+# text = This is a very important event: after the passage of three decades, the people showed that they still enjoy the same characteristics.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	important	important	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	event	event	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	:	:	PUNCT	:	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	after	after	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	passage	passage	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	three	three	NUM	CD	_	13	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	decades	decade	NOUN	NNS	_	11	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	people	people	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	showed	show	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	still	still	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	enjoy	enjoy	VERB	VBP	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	same	same	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	characteristics	characteristic	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 18
+# text = Moreover, you see and hear that today there is a lot aggression against the Iranian nation.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	Moreover	moreover	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	hear	hear	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	DT	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	today	today	NOUN	NN	_	10	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	there	there	PRON	EX	_	10	expl	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	lot	lot	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	aggression	aggression	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	against	against	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iranian	iranian	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	nation	nation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 31
+# text = By causing uproar, the arrogant powers that have been defeated and slapped across the face in many cases, want to say that they are not weak and frustrated.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	By	by	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	causing	cause	VERB	VBG	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	uproar	uproar	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	arrogant	arrogant	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	powers	power	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	been	be	AUX	VBN	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	defeated	defeat	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	slapped	slap	VERB	VBN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	across	across	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	face	face	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	many	many	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	cases	case	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	want	want	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	say	say	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+25	they	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	are	be	AUX	VBP	_	23	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	not	not	PART	RB	_	26	neg	_	ent_type=_|ent_id=2|ent_iob=O
+28	weak	weak	ADJ	JJ	_	26	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	frustrated	frustrated	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 6
+# text = What is this uproar about?
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	What	what	PRON	WP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	uproar	uproar	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 35
+# text = The issue of Iran is a significant issue, so they create uproar about Iran: the issue of sanctions, the issue of human rights and the other things that they constantly repeat.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	issue	issue	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iran	Iran	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	is	be	AUX	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	significant	significant	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	issue	issue	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	so	so	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	create	create	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	uproar	uproar	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	about	about	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iran	Iran	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	:	:	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	issue	issue	NOUN	NN	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	sanctions	sanction	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	issue	issue	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	human	human	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	rights	right	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	other	other	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	things	thing	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	that	that	DET	WDT	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	they	-PRON-	PRON	PRP	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	constantly	constantly	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	repeat	repeat	VERB	VBP	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 37
+# text = Because there is a lot of uproar and a lot of verbal threats against the Iranian nation, the Iranian nation is in a more sensitive position and its actions can speak louder than its words.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	Because	because	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	there	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	lot	lot	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	uproar	uproar	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	lot	lot	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	verbal	verbal	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	threats	threat	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	against	against	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iranian	iranian	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	nation	nation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iranian	iranian	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	nation	nation	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	more	more	ADV	RBR	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	sensitive	sensitive	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	position	position	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	its	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	actions	action	NOUN	NNS	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	can	can	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	speak	speak	VERB	VB	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	louder	louder	ADV	RBR	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	than	than	SCONJ	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	its	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	words	word	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 10
+# text = As you know, actions speak louder than words.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	As	as	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VBP	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	actions	action	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	speak	speak	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	louder	louder	ADV	RBR	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	than	than	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	words	word	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 6
+# text = Our nation can take actions.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	actions	action	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 5
+# text = The larger the voter turnout
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	The	the	DET	DT	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	larger	large	ADJ	JJR	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	voter	voter	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	turnout	turnout	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 16
+# text = , the better it is for the future, prestige and security of the country.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	better	well	ADJ	JJR	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	future	future	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	prestige	prestige	NOUN	NN	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	security	security	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 10
+# text = This is why this parliamentary election is so important.
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	parliamentary	parliamentary	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	election	election	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	so	so	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	important	important	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 10
+# text = May God bestow success on all of you."
+# title = Interview with Leader after Voting in 9th Parliamentary Elections
+# year = 2012
+1	May	May	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	bestow	bestow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	success	success	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O

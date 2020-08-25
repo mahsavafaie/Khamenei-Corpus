@@ -1,0 +1,604 @@
+# sent_id = 1
+# sent_len = 50
+# text = Ayatollah Khamenei stated that ever since the victory of the Islamic Revolution and the years of sacred defense against Iraqi military aggression, the Air Force has been held in high esteem by the Iranian people because of the devotion, bravery and self-sacrifice of its personnel.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	ever	ever	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	since	since	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	victory	victory	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+12	Revolution	Revolution	PROPN	NNP	_	9	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	years	year	NOUN	NNS	_	8	conj	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	sacred	sacred	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	defense	defense	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	against	against	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iraqi	iraqi	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	military	military	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	aggression	aggression	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+25	Air	Air	PROPN	NNP	_	26	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+26	Force	Force	PROPN	NNP	_	29	nsubjpass	_	ent_type=ORG|ent_id=1|ent_iob=I
+27	has	have	AUX	VBZ	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	been	be	AUX	VBN	_	29	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+29	held	hold	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	high	high	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	esteem	esteem	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	by	by	ADP	IN	_	29	agent	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	Iranian	iranian	ADJ	JJ	_	36	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+36	people	people	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	because	because	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	of	of	ADP	IN	_	37	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	devotion	devotion	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	,	,	PUNCT	,	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+42	bravery	bravery	NOUN	NN	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	self	self	NOUN	NN	_	46	compound	_	ent_type=_|ent_id=2|ent_iob=O
+45	-	-	PUNCT	HYPH	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	sacrifice	sacrifice	NOUN	NN	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	its	-PRON-	DET	PRP$	_	49	poss	_	ent_type=_|ent_id=2|ent_iob=O
+49	personnel	personnel	NOUN	NNS	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 47
+# text = "Those Air Force servicemen who sacrificed their lives and achieved martyrdom in the way of defending their country and their Islamic system are luminaries that have made the Air Force brilliant and highly esteemed in the eyes of the Iranian people," he stressed.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	"	"	PUNCT	``	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Those	those	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Air	Air	PROPN	NNP	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	Force	Force	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	servicemen	serviceman	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	sacrificed	sacrifice	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	lives	life	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	achieved	achieve	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	martyrdom	martyrdom	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	way	way	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	defending	defend	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	country	country	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islamic	islamic	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	system	system	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	46	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	luminaries	luminary	NOUN	NNS	_	24	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	have	have	AUX	VBP	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	made	make	VERB	VBN	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	Air	Air	PROPN	NNP	_	31	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+31	Force	Force	PROPN	NNP	_	32	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+32	brilliant	brilliant	ADJ	JJ	_	28	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	highly	highly	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	esteemed	esteem	VERB	VBN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	eyes	eye	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	Iranian	iranian	ADJ	JJ	_	42	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+42	people	people	NOUN	NNS	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	"	"	PUNCT	''	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	he	-PRON-	PRON	PRP	_	46	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+46	stressed	stress	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 57
+# text = Leader of the Islamic Republic went on to say: "Right after the victory of the Islamic Revolution, the young, brave and devoted personnel of the Air Force in different military bases across the country made every endeavor shoulder to shoulder with other Iranian people to safeguard the achievements of the Islamic Revolution.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	Leader	leader	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	2	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	say	say	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	:	:	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Right	right	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	after	after	ADP	IN	_	40	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	victory	victory	NOUN	NN	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+18	Islamic	Islamic	PROPN	NNP	_	20	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+19	Revolution	Revolution	PROPN	NNP	_	17	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+20	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	young	young	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	brave	brave	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	devoted	devoted	ADJ	JJ	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	personnel	personnel	NOUN	NNS	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	32	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+30	Air	Air	PROPN	NNP	_	32	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+31	Force	Force	PROPN	NNP	_	29	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+32	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	different	different	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	military	military	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	bases	basis	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	across	across	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	country	country	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	made	make	VERB	VBD	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+40	every	every	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	endeavor	endeavor	NOUN	NN	_	43	compound	_	ent_type=_|ent_id=2|ent_iob=O
+42	shoulder	shoulder	NOUN	NN	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	to	to	PART	TO	_	45	aux	_	ent_type=_|ent_id=2|ent_iob=O
+44	shoulder	shoulder	VERB	VB	_	43	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+45	with	with	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	other	other	ADJ	JJ	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	Iranian	iranian	ADJ	JJ	_	49	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+48	people	people	NOUN	NNS	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	to	to	PART	TO	_	51	aux	_	ent_type=_|ent_id=2|ent_iob=O
+50	safeguard	safeguard	VERB	VB	_	45	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	53	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	achievements	achievement	NOUN	NNS	_	51	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	of	of	ADP	IN	_	53	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	the	the	DET	DT	_	57	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+55	Islamic	Islamic	PROPN	NNP	_	57	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+56	Revolution	Revolution	PROPN	NNP	_	54	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+57	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 26
+# text = "Furthermore, these young and devout servicemen did their utmost to boost the capabilities of the Air Force and maintain and update its equipment.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	"	"	PUNCT	''	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	Furthermore	furthermore	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	young	young	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	devout	devout	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	servicemen	serviceman	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	did	do	AUX	VBD	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	utmost	utmost	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	boost	boost	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	capabilities	capability	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	Air	Air	PROPN	NNP	_	19	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	Force	Force	PROPN	NNP	_	16	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	maintain	maintain	VERB	VB	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	update	update	VERB	VB	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	its	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	equipment	equipment	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 68
+# text = "As a result of the laudable endeavors and self-sacrifice of these dedicated servicemen, the Air Force of the Islamic Republic played a key and crucial role in defending our country against Iraqi aggressors in the course of the eight years of sacred defense, and it even managed to tilt the balance of power in the war zones in favor of our country.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	"	"	PUNCT	``	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	As	as	SCONJ	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	result	result	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	laudable	laudable	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	endeavors	endeavor	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	self	self	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	sacrifice	sacrifice	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	these	these	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	dedicated	dedicated	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	servicemen	serviceman	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	Air	Air	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	Force	Force	PROPN	NNP	_	25	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	Islamic	PROPN	NNP	_	24	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	Republic	Republic	PROPN	NNP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	played	play	VERB	VBD	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	key	key	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	crucial	crucial	ADJ	JJ	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	role	role	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	defending	defend	VERB	VBG	_	31	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	our	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	country	country	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	against	against	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	Iraqi	iraqi	ADJ	JJ	_	37	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+37	aggressors	aggressor	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	in	in	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	course	course	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	44	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+43	eight	eight	NUM	CD	_	44	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+44	years	year	NOUN	NNS	_	41	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+45	of	of	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	sacred	sacred	ADJ	JJ	_	47	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	defense	defense	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	it	-PRON-	PRON	PRP	_	52	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+51	even	even	ADV	RB	_	52	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+52	managed	manage	VERB	VBD	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	to	to	PART	TO	_	54	aux	_	ent_type=_|ent_id=2|ent_iob=O
+54	tilt	tilt	VERB	VB	_	52	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+55	the	the	DET	DT	_	56	det	_	ent_type=_|ent_id=2|ent_iob=O
+56	balance	balance	NOUN	NN	_	54	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+57	of	of	ADP	IN	_	56	prep	_	ent_type=_|ent_id=2|ent_iob=O
+58	power	power	NOUN	NN	_	57	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	in	in	ADP	IN	_	56	prep	_	ent_type=_|ent_id=2|ent_iob=O
+60	the	the	DET	DT	_	62	det	_	ent_type=_|ent_id=2|ent_iob=O
+61	war	war	NOUN	NN	_	62	compound	_	ent_type=_|ent_id=2|ent_iob=O
+62	zones	zone	NOUN	NNS	_	59	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+63	in	in	ADP	IN	_	54	prep	_	ent_type=_|ent_id=2|ent_iob=O
+64	favor	favor	NOUN	NN	_	63	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+65	of	of	ADP	IN	_	64	prep	_	ent_type=_|ent_id=2|ent_iob=O
+66	our	-PRON-	DET	PRP$	_	67	poss	_	ent_type=_|ent_id=2|ent_iob=O
+67	country	country	NOUN	NN	_	65	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+68	.	.	PUNCT	.	_	52	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 37
+# text = "This victory was achieved despite the fact that the Iraqi regime was being supported by almost all superpowers of the time, which provided Iraq with all types of modern weapons and sophisticated military equipment.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	victory	victory	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	achieved	achieve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	despite	despite	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	fact	fact	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iraqi	iraqi	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	regime	regime	NOUN	NN	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	being	be	AUX	VBG	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	supported	support	VERB	VBN	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+17	almost	almost	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	all	all	DET	DT	_	19	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+19	superpowers	superpower	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	time	time	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	which	which	DET	WDT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	provided	provide	VERB	VBD	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	Iraq	Iraq	PROPN	NNP	_	25	dobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+27	with	with	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	all	all	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	types	type	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	modern	modern	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	weapons	weapon	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	sophisticated	sophisticated	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	military	military	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	equipment	equipment	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 18
+# text = However, the Islamic Republic only relied and depended on the power of its great nation."
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	However	however	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	7	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	only	only	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	relied	rely	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	depended	depend	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	power	power	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	its	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	great	great	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	nation	nation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	''	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 31
+# text = Elsewhere in his remarks, Ayatollah Khamenei stated: "There are certain periods and stages in the history of any nation which are fateful and decisive for that nation.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	Elsewhere	elsewhere	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Ayatollah	Ayatollah	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	Khamenei	Khamenei	PROPN	NNP	_	8	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	:	:	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	``	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	There	there	PRON	EX	_	13	expl	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	certain	certain	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	periods	period	NOUN	NNS	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	stages	stage	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	history	history	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	any	any	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	nation	nation	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	which	which	DET	WDT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	fateful	fateful	ADJ	JJ	_	25	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	decisive	decisive	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	for	for	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	that	that	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	nation	nation	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 34
+# text = The Iranian nation has gone through all these stages with strong will and determination and with great awareness and vigilance, thus earning honor and dignity in the eyes of the international community.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	gone	go	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	through	through	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	PDT	_	9	predet	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	stages	stage	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	strong	strong	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	determination	determination	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	great	great	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	awareness	awareness	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	vigilance	vigilance	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	thus	thus	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	earning	earn	VERB	VBG	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	honor	honor	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	dignity	dignity	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	eyes	eye	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	international	international	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	community	community	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 56
+# text = "Indeed, the way the Iranian people have confronted and dealt with the Iraqi imposed war, economic sanctions, political pressure, negative propaganda and smear campaign of the enemies has caused both friends and enemies to acknowledge that the Iranian nation is a powerful and talented nation deserving honor and dignity."
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	"	"	PUNCT	''	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	Indeed	indeed	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	way	way	NOUN	NN	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranian	iranian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	confronted	confront	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	dealt	deal	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iraqi	iraqi	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	imposed	impose	VERB	VBN	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	war	war	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	economic	economic	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	sanctions	sanction	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	political	political	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	pressure	pressure	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	negative	negative	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	propaganda	propaganda	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	smear	smear	VERB	VB	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	campaign	campaign	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	enemies	enemy	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	has	have	AUX	VBZ	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	caused	cause	VERB	VBN	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+35	both	both	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	friends	friend	NOUN	NNS	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	enemies	enemy	NOUN	NNS	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	to	to	PART	TO	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	acknowledge	acknowledge	VERB	VB	_	34	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	that	that	SCONJ	IN	_	45	mark	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	Iranian	iranian	ADJ	JJ	_	44	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+44	nation	nation	NOUN	NN	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+45	is	be	AUX	VBZ	_	40	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+46	a	a	DET	DT	_	50	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	powerful	powerful	ADJ	JJ	_	50	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	47	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	talented	talented	ADJ	JJ	_	47	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	nation	nation	NOUN	NN	_	45	attr	_	ent_type=_|ent_id=2|ent_iob=O
+51	deserving	deserve	VERB	VBG	_	50	acl	_	ent_type=_|ent_id=2|ent_iob=O
+52	honor	honor	NOUN	NN	_	51	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	and	and	CCONJ	CC	_	52	cc	_	ent_type=_|ent_id=2|ent_iob=O
+54	dignity	dignity	NOUN	NN	_	52	conj	_	ent_type=_|ent_id=2|ent_iob=O
+55	.	.	PUNCT	.	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+56	"	"	PUNCT	''	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 66
+# text = In conclusion, Leader of the Islamic Republic called on the Air Force servicemen, especially the students and trainees taking various courses at the academy, to try to preserve their praiseworthy qualities such as their bravery, strong faith and high moral standards and also try to make the most of their time by constantly increasing their knowledge and technical and military expertise.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Leader	leader	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	called	call	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Air	Air	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	Force	Force	PROPN	NNP	_	14	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	servicemen	serviceman	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	especially	especially	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	students	student	NOUN	NNS	_	14	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	trainees	trainee	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	taking	take	VERB	VBG	_	18	acl	_	ent_type=_|ent_id=2|ent_iob=O
+22	various	various	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	courses	course	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	at	at	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	academy	academy	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	try	try	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	preserve	preserve	VERB	VB	_	29	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	their	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	praiseworthy	praiseworthy	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	qualities	quality	NOUN	NNS	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	such	such	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	as	as	SCONJ	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	their	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	bravery	bravery	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	strong	strong	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	faith	faith	NOUN	NN	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	and	and	CCONJ	CC	_	41	cc	_	ent_type=_|ent_id=2|ent_iob=O
+43	high	high	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	moral	moral	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+45	standards	standard	NOUN	NNS	_	41	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+47	also	also	ADV	RB	_	48	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+48	try	try	VERB	VB	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+49	to	to	PART	TO	_	50	aux	_	ent_type=_|ent_id=2|ent_iob=O
+50	make	make	VERB	VB	_	48	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	most	most	ADJ	JJS	_	50	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	of	of	ADP	IN	_	52	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	their	-PRON-	DET	PRP$	_	55	poss	_	ent_type=_|ent_id=2|ent_iob=O
+55	time	time	NOUN	NN	_	53	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	by	by	ADP	IN	_	50	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	constantly	constantly	ADV	RB	_	58	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+58	increasing	increase	VERB	VBG	_	56	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+59	their	-PRON-	DET	PRP$	_	60	poss	_	ent_type=_|ent_id=2|ent_iob=O
+60	knowledge	knowledge	NOUN	NN	_	58	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+61	and	and	CCONJ	CC	_	60	cc	_	ent_type=_|ent_id=2|ent_iob=O
+62	technical	technical	ADJ	JJ	_	60	conj	_	ent_type=_|ent_id=2|ent_iob=O
+63	and	and	CCONJ	CC	_	62	cc	_	ent_type=_|ent_id=2|ent_iob=O
+64	military	military	ADJ	JJ	_	62	conj	_	ent_type=_|ent_id=2|ent_iob=O
+65	expertise	expertise	NOUN	NN	_	60	conj	_	ent_type=_|ent_id=2|ent_iob=O
+66	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 43
+# text = Ayatollah Khamenei also paid tribute to the revered martyrs of the Air Force, the Army, the Islamic Revolution Guards Corps, the popular Basij Force and all the devoted personnel of the Armed Forces of the Islamic Republic of Iran.
+# title = Leader's Speech at Shahid Sattari Air Force Academy
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	paid	pay	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	tribute	tribute	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	4	dative	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	revered	revere	VERB	VBN	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	martyrs	martyr	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	Air	Air	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Force	Force	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Army	Army	PROPN	NNP	_	13	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	22	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	Islamic	Islamic	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	Revolution	Revolution	PROPN	NNP	_	22	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Guards	Guards	PROPN	NNPS	_	22	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	Corps	Corps	PROPN	NNP	_	16	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	popular	popular	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	Basij	Basij	PROPN	NNP	_	27	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	Force	Force	PROPN	NNP	_	22	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	all	all	DET	PDT	_	32	predet	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	devoted	devoted	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	personnel	personnel	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+35	Armed	Armed	PROPN	NNP	_	36	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+36	Forces	Forces	PROPN	NNPS	_	33	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+37	of	of	ADP	IN	_	36	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+38	the	the	DET	DT	_	40	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+39	Islamic	Islamic	PROPN	NNP	_	40	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+40	Republic	Republic	PROPN	NNP	_	37	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+41	of	of	ADP	IN	_	40	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+42	Iran	Iran	PROPN	NNP	_	41	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+43	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O

@@ -1,0 +1,3279 @@
+# sent_id = 1
+# sent_len = 9
+# text = Welcome you dear ones, youth and champions.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Welcome	welcome	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	1	dative	_	ent_type=_|ent_id=2|ent_iob=O
+3	dear	dear	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	ones	one	NOUN	NNS	_	1	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	youth	youth	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	champions	champion	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 8
+# text = I am very happy to meet you.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	happy	happy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	meet	meet	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 27
+# text = If I could, I would see each and every one of you up close, but you are too many and this is not possible.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	could	could	VERB	MD	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	would	would	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	each	each	DET	DT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	every	every	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	one	one	NUM	CD	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	you	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	up	up	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	close	close	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	but	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	you	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	too	too	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	many	many	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	not	not	PART	RB	_	25	neg	_	ent_type=_|ent_id=2|ent_iob=O
+26	possible	possible	ADJ	JJ	_	25	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 24
+# text = I ask Allah the Exalted to bestow His blessings and guidance on all you brothers and sisters and on your coaches and managers.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	ask	ask	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	His	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	blessings	blessing	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	guidance	guidance	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	all	all	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	brothers	brother	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	sisters	sister	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	your	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	coaches	coach	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	managers	manager	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 14
+# text = I always warmly thank our youth whenever they achieve victory in any arena.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	always	always	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	warmly	warmly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	youth	youth	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	whenever	whenever	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	achieve	achieve	VERB	VBP	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	victory	victory	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	any	any	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	arena	arena	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 16
+# text = This is because your victory and championship engenders a feeling of pride in our people.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	your	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	victory	victory	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	championship	championship	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	engenders	engender	NOUN	NNS	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	feeling	feeling	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	pride	pride	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 7
+# text = This is important for a nation.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 11
+# text = The enemies of nations have always tried to humiliate them.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	nations	nation	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	always	always	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	tried	try	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	humiliate	humiliate	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	them	-PRON-	PRON	PRP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 10
+# text = Humiliation does not only mean insulting or abusing someone.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Humiliation	humiliation	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	does	do	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	6	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+4	only	only	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	mean	mean	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	insulting	insult	VERB	VBG	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	abusing	abuse	VERB	VBG	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	someone	someone	PRON	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 19
+# text = The most important kind of humiliation is to engender a feeling of shame and degradation in a people.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	most	most	ADV	RBS	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	kind	kind	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	humiliation	humiliation	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	engender	engender	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	feeling	feeling	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	shame	shame	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	degradation	degradation	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 27
+# text = When a people ignore their own prominence, advantages and values, when they consider themselves to be mean and small, they will get nowhere.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	ignore	ignore	VERB	VBP	_	27	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	own	own	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	prominence	prominence	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	advantages	advantage	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	values	value	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	when	when	ADV	WRB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	consider	consider	VERB	VBP	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	themselves	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	be	be	AUX	VB	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	mean	mean	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	small	small	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	they	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	will	will	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	nowhere	nowhere	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 9
+# text = In such circumstances, anyone can dominate them.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	In	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	such	such	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	circumstances	circumstance	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	anyone	anyone	PRON	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	dominate	dominate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	them	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 6
+# text = Nations should know their achievements.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Nations	nation	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	achievements	achievement	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 22
+# text = You can see that those peoples who do not have an outstanding history and an important past create one for themselves.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	peoples	people	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	do	do	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VB	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	an	an	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	outstanding	outstanding	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	history	history	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	important	important	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	past	past	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	create	create	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	one	one	NUM	CD	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	for	for	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	themselves	-PRON-	PRON	PRP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 14
+# text = They create an identity for themselves through movies and other such media outlets.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	create	create	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	identity	identity	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	themselves	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	through	through	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	movies	movie	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	other	other	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	such	such	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	media	medium	NOUN	NNS	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	outlets	outlet	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 45
+# text = This is while they have tried for many years to engender a feeling of humiliation in a people like our people who enjoy a glorious past and who have stood at the peak of civilization, culture, knowledge and human values throughout history.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	while	while	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	tried	try	VERB	VBN	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	many	many	ADJ	JJ	_	9	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	years	year	NOUN	NNS	_	7	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	engender	engender	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	feeling	feeling	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	humiliation	humiliation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	like	like	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	people	people	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	who	who	PRON	WP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	enjoy	enjoy	VERB	VBP	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	glorious	glorious	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	past	past	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	who	who	PRON	WP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	have	have	AUX	VBP	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	stood	stand	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	at	at	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	peak	peak	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	civilization	civilization	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	culture	culture	NOUN	NN	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	,	,	PUNCT	,	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	knowledge	knowledge	NOUN	NN	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	41	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	human	human	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	values	value	NOUN	NNS	_	41	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	throughout	throughout	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	history	history	NOUN	NN	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 18
+# text = You have heard and seen the statements that are made with the purpose of ignoring national achievements.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	heard	hear	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	seen	see	VERB	VBN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	statements	statement	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	made	make	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	purpose	purpose	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	ignoring	ignore	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	national	national	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	achievements	achievement	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 17
+# text = When a people enjoy a sense of pride, this is a step towards great achievements.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	enjoy	enjoy	VERB	VBP	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	sense	sense	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	pride	pride	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	step	step	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	towards	towards	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	great	great	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	achievements	achievement	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 21
+# text = I enjoy seeing that our youth achieve victories in athletic arenas and that they dedicate their victories to their people.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	enjoy	enjoy	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	seeing	see	VERB	VBG	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	youth	youth	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	achieve	achieve	VERB	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	victories	victory	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	athletic	athletic	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	arenas	arena	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	dedicate	dedicate	VERB	VBP	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	victories	victory	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	people	people	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 11
+# text = They make our people happy both in words and in action
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	make	make	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	happy	happy	ADJ	JJ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	both	both	DET	DT	_	7	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	words	word	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	action	action	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 3
+# text = and they transfer
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	transfer	transfer	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 10
+# text = their feeling of pride to the people's hearts.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	their	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	feeling	feeling	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	pride	pride	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	's	's	PART	POS	_	7	case	_	ent_type=_|ent_id=2|ent_iob=O
+9	hearts	heart	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 9
+# text = This is a very great blessing for me.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	blessing	blessing	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	me	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 11
+# text = This is why I issue messages and thank these athletes.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	issue	issue	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	messages	message	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	thank	thank	VERB	VBP	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	athletes	athlete	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 19
+# text = And what I say in these messages cannot at all express what I feel in my heart.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	And	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	what	what	PRON	WP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VBP	_	12	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	these	these	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	messages	message	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	at	at	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	express	express	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	what	what	PRON	WP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	I	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	feel	feel	VERB	VBP	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	my	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	heart	heart	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 6
+# text = Therefore, I thank you.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 35
+# text = There is an important point which is the fact that when you stand on the medal platform in any form and with any achievement, you are watched by hundreds of millions of people.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	point	point	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	which	which	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	fact	fact	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	when	when	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	you	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	stand	stand	VERB	VBP	_	29	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	medal	medal	ADJ	JJ	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	platform	platform	NOUN	NN	_	13	dep	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	any	any	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	form	form	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	with	with	ADP	IN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	any	any	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	achievement	achievement	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	you	-PRON-	PRON	PRP	_	29	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+27	are	be	AUX	VBP	_	29	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	watched	watch	VERB	VBN	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+29	by	by	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	hundreds	hundred	NOUN	NNS	_	34	quantmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+31	of	of	ADP	IN	_	34	quantmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+32	millions	million	NOUN	NNS	_	31	pobj	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+33	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	people	people	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 16
+# text = You behavior is an indicator of your people, your culture and your national identity.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	behavior	behavior	NOUN	NN	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	indicator	indicator	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	your	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	your	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	culture	culture	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	your	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	national	national	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	identity	identity	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 9
+# text = It is very important how you behave there.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	how	how	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	behave	behave	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	there	there	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 50
+# text = The young lady who stands on the medal platform while she is wearing chador shows that she is resistant in the face of the overt and covert invasions which are launched by anti-culture, anti-religion and anti-modesty centers against this course of action.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	young	young	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	lady	lady	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	stands	stand	VERB	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	medal	medal	ADJ	JJ	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	platform	platform	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	while	while	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	she	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	wearing	wear	VERB	VBG	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	chador	chador	NOUN	NN	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	shows	show	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	she	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	resistant	resistant	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	face	face	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	overt	overt	NOUN	NN	_	30	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	covert	covert	ADJ	JJ	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	invasions	invasion	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	which	which	DET	WDT	_	33	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	are	be	AUX	VBP	_	33	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	launched	launch	VERB	VBN	_	30	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	by	by	ADP	IN	_	33	agent	_	ent_type=_|ent_id=2|ent_iob=O
+33	anti	anti	ADJ	JJ	_	36	dep	_	ent_type=_|ent_id=2|ent_iob=O
+34	-	-	ADJ	JJ	_	37	dep	_	ent_type=_|ent_id=2|ent_iob=O
+35	culture	culture	ADJ	JJ	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	anti	anti	NOUN	NN	_	41	dep	_	ent_type=_|ent_id=2|ent_iob=O
+38	-	-	NOUN	NN	_	42	dep	_	ent_type=_|ent_id=2|ent_iob=O
+39	religion	religion	ADJ	JJ	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	anti	anti	ADJ	JJ	_	45	dep	_	ent_type=_|ent_id=2|ent_iob=O
+42	-	-	ADJ	JJ	_	46	dep	_	ent_type=_|ent_id=2|ent_iob=O
+43	modesty	modesty	ADJ	JJ	_	47	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	centers	center	NOUN	NNS	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	against	against	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	this	this	DET	DT	_	50	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	course	course	NOUN	NN	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	of	of	ADP	IN	_	50	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	action	action	NOUN	NN	_	51	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 9
+# text = This way, she shows her strong character.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	way	way	NOUN	NN	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	she	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	her	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	strong	strong	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	character	character	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 13
+# text = That is to say, this way she is introducing her people.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	way	way	NOUN	NN	_	11	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	she	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	introducing	introduce	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	her	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	people	people	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 62
+# text = The young individual who prostrates himself in gratitude after he achieves a victory, who shouts the name of a religious personality and who wears a shirt or blouse on which the name of Fatima Zahra (God's greetings be upon her) or Abul Fadhl has been written is introducing himself and the spirituality and resistance of his people.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	young	young	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	individual	individual	NOUN	NN	_	54	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	prostrates	prostrate	VERB	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	himself	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	gratitude	gratitude	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	after	after	ADP	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	he	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	achieves	achieve	VERB	VBZ	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	victory	victory	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	shouts	shout	VERB	VBZ	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	name	name	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	religious	religious	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	personality	personality	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	wears	wear	VERB	VBZ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	shirt	shirt	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	or	or	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	blouse	blouse	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	on	on	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	which	which	DET	WDT	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	name	name	NOUN	NN	_	32	intj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Fatima	Fatima	PROPN	NNP	_	39	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+36	Zahra	Zahra	PROPN	NNP	_	37	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+37	(	(	PUNCT	-LRB-	_	44	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	God	God	PROPN	NNP	_	43	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	's	's	PART	POS	_	41	case	_	ent_type=_|ent_id=2|ent_iob=O
+40	greetings	greeting	NOUN	NNS	_	44	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+41	be	be	AUX	VB	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+42	upon	upon	SCONJ	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	her	-PRON-	PRON	PRP	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	)	)	PUNCT	-RRB-	_	44	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	or	or	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	Abul	Abul	PROPN	NNP	_	50	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+47	Fadhl	Fadhl	PROPN	NNP	_	17	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+48	has	have	AUX	VBZ	_	54	aux	_	ent_type=_|ent_id=2|ent_iob=O
+49	been	be	AUX	VBN	_	54	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+50	written	write	VERB	VBN	_	56	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+51	is	be	AUX	VBZ	_	56	aux	_	ent_type=_|ent_id=2|ent_iob=O
+52	introducing	introduce	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+53	himself	-PRON-	PRON	PRP	_	56	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	and	and	CCONJ	CC	_	57	cc	_	ent_type=_|ent_id=2|ent_iob=O
+55	the	the	DET	DT	_	60	det	_	ent_type=_|ent_id=2|ent_iob=O
+56	spirituality	spirituality	NOUN	NN	_	57	conj	_	ent_type=_|ent_id=2|ent_iob=O
+57	and	and	CCONJ	CC	_	60	cc	_	ent_type=_|ent_id=2|ent_iob=O
+58	resistance	resistance	NOUN	NN	_	60	conj	_	ent_type=_|ent_id=2|ent_iob=O
+59	of	of	ADP	IN	_	60	prep	_	ent_type=_|ent_id=2|ent_iob=O
+60	his	-PRON-	DET	PRP$	_	66	poss	_	ent_type=_|ent_id=2|ent_iob=O
+61	people	people	NOUN	NNS	_	63	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+62	.	.	PUNCT	.	_	56	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 20
+# text = Today, international propaganda organizations have focused all their efforts on combating spirituality, religion, modesty and chastity.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	international	international	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	propaganda	propaganda	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	organizations	organization	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	focused	focus	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	efforts	effort	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	combating	combat	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	spirituality	spirituality	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	religion	religion	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	modesty	modesty	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	chastity	chastity	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 12
+# text = This is among the definite plans of Zionism throughout the world.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	among	among	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	definite	definite	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	plans	plan	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Zionism	Zionism	PROPN	NNP	_	8	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	throughout	throughout	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 15
+# text = They are furthering this goal and they are intensifying it on a daily basis.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	furthering	further	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	goal	goal	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	intensifying	intensify	VERB	VBG	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	daily	daily	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	basis	basis	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 27
+# text = Take a look at movies and stories about the clothes that European women used to wear 50, 100 years ago and compare this with today.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	look	look	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	movies	movie	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	stories	story	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	clothes	clothe	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	WDT	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	European	european	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	women	woman	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	used	use	VERB	VBD	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	wear	wear	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	50	50	NUM	CD	_	18	dobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+18	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	100	100	NUM	CD	_	22	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+20	years	year	NOUN	NNS	_	23	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	ago	ago	ADV	RB	_	18	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	compare	compare	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	with	with	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	today	today	NOUN	NN	_	27	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+27	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 26
+# text = Compare western and European sexual behavior 50, 100 years ago with the present time and see how significantly things have changed in this regard.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Compare	compare	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	western	western	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	European	european	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	sexual	sexual	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	behavior	behavior	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	50	50	NUM	CD	_	7	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	100	100	NUM	CD	_	11	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	years	year	NOUN	NNS	_	12	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	ago	ago	ADV	RB	_	1	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	with	with	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	present	present	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	time	time	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	see	see	VERB	VB	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	how	how	ADV	WRB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	significantly	significantly	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	things	thing	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	have	have	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	changed	change	VERB	VBN	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	regard	regard	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 22
+# text = Moral decadence has reached a point where you are severely criticized if you say that you do not agree with homosexuality.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Moral	moral	ADJ	JJ	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	decadence	decadence	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	reached	reach	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	point	point	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	where	where	ADV	WRB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	severely	severely	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	criticized	criticize	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	if	if	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	you	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	say	say	VERB	VBP	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	you	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	do	do	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	21	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	agree	agree	VERB	VB	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	homosexuality	homosexuality	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 7
+# text = This is a very strange phenomenon.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	strange	strange	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	phenomenon	phenomenon	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 8
+# text = They feel proud of immodesty and nudity.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	feel	feel	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	proud	proud	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	immodesty	immodesty	ADJ	JJ	_	4	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	nudity	nudity	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 8
+# text = They feel proud of violating sexual norms.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	feel	feel	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	proud	proud	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	violating	violate	VERB	VBG	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	sexual	sexual	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	norms	norm	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 11
+# text = This is the same thing that exists in our narrations.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	same	same	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	thing	thing	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	exists	exist	VERB	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	narrations	narration	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 26
+# text = There is a narration which says, "Good deeds are considered to be immoral and immoral acts are considered to be good deeds".
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	narration	narration	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	says	say	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Good	good	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	deeds	deed	NOUN	NNS	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	considered	consider	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	be	be	AUX	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	immoral	immoral	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	immoral	immoral	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	acts	act	NOUN	NNS	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	considered	consider	VERB	VBN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	be	be	AUX	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	good	good	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	deeds	deed	NOUN	NNS	_	23	attr	_	ent_type=_|ent_id=2|ent_iob=O
+25	"	"	PUNCT	''	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 10
+# text = This is what has happened in the western world.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	happened	happen	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	western	western	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	world	world	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 21
+# text = And the news and media empire is using all its power to promote anti-spirituality and anti-morality.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	And	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	news	news	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	media	medium	NOUN	NNS	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	empire	empire	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	using	use	VERB	VBG	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	PDT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	its	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	power	power	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	promote	promote	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	anti	anti	ADJ	JJ	_	16	dep	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	ADJ	JJ	_	17	dep	_	ent_type=_|ent_id=2|ent_iob=O
+16	spirituality	spirituality	ADJ	JJ	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	anti	anti	ADJ	JJ	_	20	dep	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	ADJ	JJ	_	21	dep	_	ent_type=_|ent_id=2|ent_iob=O
+20	morality	morality	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 30
+# text = Today, their efforts have increased by a thousand times compared to 15, 20 years ago, with the emergence of social media networks and other media outlets.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	their	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	efforts	effort	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	increased	increase	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	quantmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	thousand	thousand	NUM	CD	_	10	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+10	times	time	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	compared	compare	VERB	VBN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	15	15	NUM	CD	_	12	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	20	20	NUM	CD	_	17	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+16	years	year	NOUN	NNS	_	18	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	ago	ago	ADV	RB	_	6	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	emergence	emergence	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	social	social	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	media	medium	NOUN	NNS	_	26	compound	_	ent_type=_|ent_id=2|ent_iob=O
+25	networks	network	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	other	other	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	media	medium	NOUN	NNS	_	31	compound	_	ent_type=_|ent_id=2|ent_iob=O
+29	outlets	outlet	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 18
+# text = In such circumstances, Iranian youth enter the arena and introduce themselves as the manifestation of spirituality.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	In	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	such	such	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	circumstances	circumstance	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	youth	youth	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	enter	enter	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	arena	arena	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	introduce	introduce	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	themselves	-PRON-	PRON	PRP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	as	as	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	manifestation	manifestation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	spirituality	spirituality	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 5
+# text = What does this mean?
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	What	what	PRON	WP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	does	do	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	mean	mean	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 21
+# text = This means that their hearts, their souls and their morale are capable of resisting this great wave of deviation.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	hearts	heart	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	souls	soul	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	morale	morale	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	capable	capable	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	resisting	resist	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	great	great	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	wave	wave	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	deviation	deviation	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 7
+# text = This is what can introduce you.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	introduce	introduce	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 68
+# text = Although it is true that you work hard and go to a lot of trouble to win a competition - well, you work hard and pressure yourselves whether in wrestling, weightlifting or in team sports - your spiritual resistance is not less important than your physical resistance in the eyes of insightful people in the world and sometimes, it is more important to them.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Although	although	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	25	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	true	true	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	work	work	VERB	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	hard	hard	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	go	go	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	lot	lot	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	trouble	trouble	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	win	win	VERB	VB	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	competition	competition	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	HYPH	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	well	well	INTJ	UH	_	25	intj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	you	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	work	work	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	hard	hard	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	pressure	pressure	VERB	VB	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	yourselves	yourself	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	whether	whether	SCONJ	IN	_	32	mark	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	wrestling	wrestling	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	weightlifting	weightlifting	NOUN	NN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	or	or	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	team	team	NOUN	NN	_	39	compound	_	ent_type=_|ent_id=2|ent_iob=O
+37	sports	sport	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	-	-	PUNCT	:	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	your	-PRON-	DET	PRP$	_	44	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	spiritual	spiritual	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	resistance	resistance	NOUN	NN	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+42	is	be	AUX	VBZ	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	not	not	PART	RB	_	45	neg	_	ent_type=_|ent_id=2|ent_iob=O
+44	less	less	ADV	RBR	_	48	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+45	important	important	ADJ	JJ	_	45	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+46	than	than	SCONJ	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	your	-PRON-	DET	PRP$	_	52	poss	_	ent_type=_|ent_id=2|ent_iob=O
+48	physical	physical	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	resistance	resistance	NOUN	NN	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	in	in	ADP	IN	_	52	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	56	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	eyes	eye	NOUN	NNS	_	53	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	of	of	ADP	IN	_	56	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	insightful	insightful	ADJ	JJ	_	59	amod	_	ent_type=_|ent_id=2|ent_iob=O
+55	people	people	NOUN	NNS	_	57	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	in	in	ADP	IN	_	59	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	the	the	DET	DT	_	62	det	_	ent_type=_|ent_id=2|ent_iob=O
+58	world	world	NOUN	NN	_	60	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	and	and	CCONJ	CC	_	45	cc	_	ent_type=_|ent_id=2|ent_iob=O
+60	sometimes	sometimes	ADV	RB	_	67	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+61	,	,	PUNCT	,	_	67	punct	_	ent_type=_|ent_id=2|ent_iob=O
+62	it	-PRON-	PRON	PRP	_	67	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+63	is	be	AUX	VBZ	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+64	more	more	ADV	RBR	_	70	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+65	important	important	ADJ	JJ	_	67	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+66	to	to	ADP	IN	_	70	prep	_	ent_type=_|ent_id=2|ent_iob=O
+67	them	-PRON-	PRON	PRP	_	71	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+68	.	.	PUNCT	.	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 24
+# text = This indicates that our people are a people who are able to stand up against the propaganda efforts of harmful and destructive apparatuses.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	indicates	indicate	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	able	able	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	stand	stand	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	up	up	ADP	RP	_	14	prt	_	ent_type=_|ent_id=2|ent_iob=O
+15	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	propaganda	propaganda	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	efforts	effort	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	harmful	harmful	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	destructive	destructive	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	apparatuses	apparatus	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 64
+# text = In a world which likes women to wear such clothes and which is proud of it and in a world which promotes deviant, wrong, harmful and deadly nudity, our young women stand there [while they are wearing hijab] or our young men do not shake hands with the lady who wants to put the medal around their neck.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	In	in	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	world	world	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	likes	like	VERB	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	women	woman	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	wear	wear	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	such	such	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	clothes	clothe	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	proud	proud	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	world	world	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	which	which	DET	WDT	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	promotes	promote	VERB	VBZ	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	deviant	deviant	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	wrong	wrong	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	harmful	harmful	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	deadly	deadly	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	nudity	nudity	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	our	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	young	young	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	women	woman	NOUN	NNS	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	stand	stand	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+36	there	there	ADV	RB	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	[	[	PUNCT	-LRB-	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	while	while	SCONJ	IN	_	43	mark	_	ent_type=_|ent_id=2|ent_iob=O
+39	they	-PRON-	PRON	PRP	_	43	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	are	be	AUX	VBP	_	43	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	wearing	wear	VERB	VBG	_	37	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+42	hijab	hijab	ADJ	JJ	_	43	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	]	]	PUNCT	-RRB-	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	or	or	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	our	-PRON-	DET	PRP$	_	50	poss	_	ent_type=_|ent_id=2|ent_iob=O
+46	young	young	ADJ	JJ	_	50	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	men	man	NOUN	NNS	_	53	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+48	do	do	AUX	VBP	_	53	aux	_	ent_type=_|ent_id=2|ent_iob=O
+49	not	not	PART	RB	_	53	neg	_	ent_type=_|ent_id=2|ent_iob=O
+50	shake	shake	VERB	VB	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	hands	hand	NOUN	NNS	_	53	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	with	with	ADP	IN	_	53	prep	_	ent_type=_|ent_id=2|ent_iob=O
+53	the	the	DET	DT	_	57	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	lady	lady	NOUN	NN	_	55	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	who	who	PRON	WP	_	59	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+56	wants	want	VERB	VBZ	_	57	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+57	to	to	PART	TO	_	61	aux	_	ent_type=_|ent_id=2|ent_iob=O
+58	put	put	VERB	VB	_	59	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+59	the	the	DET	DT	_	64	det	_	ent_type=_|ent_id=2|ent_iob=O
+60	medal	medal	NOUN	NN	_	61	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+61	around	around	ADP	IN	_	64	prep	_	ent_type=_|ent_id=2|ent_iob=O
+62	their	-PRON-	DET	PRP$	_	67	poss	_	ent_type=_|ent_id=2|ent_iob=O
+63	neck	neck	NOUN	NN	_	65	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+64	.	.	PUNCT	.	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 5
+# text = These are very valuable.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	valuable	valuable	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 6
+# text = Four, five, six year
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Four	four	NUM	CD	_	0	ROOT	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	five	five	NUM	CD	_	6	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	six	six	NUM	CD	_	6	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	year	year	NOUN	NN	_	1	appos	_	ent_type=DATE|ent_id=1|ent_iob=I
+
+# sent_id = 57
+# sent_len = 31
+# text = ago, I saw an American magazine which had written, "In a certain restaurant, the employees are young women who are naked or semi-naked".
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	ago	ago	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	saw	see	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	American	american	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	magazine	magazine	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	had	have	AUX	VBD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	written	write	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	"	"	PUNCT	``	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	In	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	certain	certain	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	restaurant	restaurant	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	employees	employee	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	young	young	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	women	woman	NOUN	NNS	_	21	attr	_	ent_type=_|ent_id=2|ent_iob=O
+23	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	naked	naked	ADJ	JJ	_	25	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	or	or	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	semi	semi	ADJ	JJ	_	29	dep	_	ent_type=_|ent_id=2|ent_iob=O
+28	-	-	ADJ	JJ	_	30	dep	_	ent_type=_|ent_id=2|ent_iob=O
+29	naked	naked	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	"	"	PUNCT	''	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 28
+# text = The owner of the restaurant was proud of this and he had published his photo and the photo of his restaurant and those girls in that magazine.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	owner	owner	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	restaurant	restaurant	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	proud	proud	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	he	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	had	have	AUX	VBD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	published	publish	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	his	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	photo	photo	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	photo	photo	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	his	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	restaurant	restaurant	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	those	those	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	girls	girl	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	magazine	magazine	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 14
+# text = It is not the case that we praise, out of religious prejudice,
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	praise	praise	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	out	out	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	religious	religious	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	prejudice	prejudice	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 6
+# text = someone who does something good.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	someone	someone	PRON	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	does	do	AUX	VBZ	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	something	something	PRON	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	good	good	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 18
+# text = Rather, these are signs of the resistance, steadfastness and hardness of the people of Iran.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Rather	rather	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	signs	sign	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	resistance	resistance	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	steadfastness	steadfastness	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	hardness	hardness	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iran	Iran	PROPN	NNP	_	17	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 9
+# text = These are things that make a nation valuable.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	things	thing	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	nation	nation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	valuable	valuable	ADJ	JJ	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 19
+# text = You should appreciate the value of these characteristics and you should promote them as much as you can.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	value	value	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	characteristics	characteristic	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	promote	promote	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	them	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	much	much	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	as	as	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	you	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	can	can	VERB	MD	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 6
+# text = Spirituality in sports helps sports.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Spirituality	spirituality	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	sports	sport	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	helps	help	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	sports	sport	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 7
+# text = It helps national dignity as well.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	helps	help	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	national	national	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	dignity	dignity	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	as	as	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	well	well	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 8
+# text = Thankfully, our youth are religious youth.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Thankfully	thankfully	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	youth	youth	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	religious	religious	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	youth	youth	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 14
+# text = Legal violations - including international or domestic violations - should be strictly avoided.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Legal	legal	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	violations	violation	NOUN	NNS	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	including	include	VERB	VBG	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	international	international	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	or	or	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	domestic	domestic	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	violations	violation	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	strictly	strictly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	avoided	avoid	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 15
+# text = It should not be the case that championship in sports means ignoring every violation.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	case	case	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	championship	championship	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	sports	sport	NOUN	NNS	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	means	mean	VERB	VBZ	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	ignoring	ignore	VERB	VBG	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	every	every	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	violation	violation	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 7
+# text = This should not be the case.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	case	case	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 11
+# text = Violation is violation from the highest to the lowest levels.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Violation	Violation	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	violation	violation	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	highest	high	ADJ	JJS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	lowest	low	ADJ	JJS	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	levels	level	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 32
+# text = Each official, ordinary person and outstanding personality and each scientific, sporting, industrial and political champion who violates a law should be legally confronted in accordance with their violation.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Each	each	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	official	official	NOUN	NN	_	29	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	ordinary	ordinary	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	person	person	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	outstanding	outstanding	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	personality	personality	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	each	each	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	scientific	scientific	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	sporting	sporting	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	industrial	industrial	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	political	political	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	champion	champion	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	who	who	PRON	WP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	violates	violate	VERB	VBZ	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	law	law	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	should	should	VERB	MD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	be	be	AUX	VB	_	29	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	legally	legally	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	confronted	confront	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	accordance	accordance	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	with	with	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	violation	violation	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 17
+# text = It is not at all appropriate to show indifference and lack of responsibility in sporting areas.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	appropriate	appropriate	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	show	show	VERB	VB	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	indifference	indifference	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	lack	lack	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	responsibility	responsibility	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	sporting	sporting	NOUN	NN	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	areas	area	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 26
+# text = Well, I would like to thank the participants of the Asian Games - whether competitions related to the dear disabled athletes or other competitions.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Well	well	INTJ	UH	_	5	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	thank	thank	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	participants	participant	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+12	Asian	Asian	PROPN	NNP	_	13	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	Games	Games	PROPN	NNPS	_	10	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+14	-	-	PUNCT	HYPH	_	7	punct	_	ent_type=EVENT|ent_id=1|ent_iob=I
+15	whether	whether	SCONJ	IN	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	competitions	competition	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	related	relate	VERB	VBN	_	17	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	dear	dear	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	disabled	disabled	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	athletes	athlete	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	or	or	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	other	other	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	competitions	competition	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 9
+# text = Thankfully, they came back with many achievements.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Thankfully	thankfully	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	came	come	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	back	back	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	many	many	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	achievements	achievement	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 5
+# text = I followed these competitions.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	followed	follow	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	competitions	competition	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 13
+# text = Of course, I am not interested in watching competitions on TV.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	interested	interested	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	watching	watch	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	competitions	competition	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	TV	tv	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 15
+# text = That is to say, I do not have the time to do this.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	do	do	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	time	time	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	do	do	AUX	VB	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 11
+# text = But whenever sports news comes in, I follow it enthusiastically
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	But	but	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	whenever	whenever	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	sports	sport	NOUN	NNS	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	news	news	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	comes	come	VERB	VBZ	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	RP	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	I	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	follow	follow	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	enthusiastically	enthusiastically	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 12
+# text = and I thank God that you came back with many achievements.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	came	come	VERB	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	back	back	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	many	many	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	achievements	achievement	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 6
+# text = You too should thank God.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	too	too	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	thank	thank	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	God	God	PROPN	NNP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 5
+# text = You should thank God.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	thank	thank	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 12
+# text = Whenever you make an achievement, this achievement comes from God:
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Whenever	whenever	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VBP	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	achievement	achievement	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	achievement	achievement	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	comes	come	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	God	God	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	:	:	PUNCT	:	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 14
+# text = "And whatever favor is bestowed on you, it is from Allah"
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	"	"	PUNCT	``	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	whatever	whatever	DET	WDT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	favor	favor	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	bestowed	bestow	VERB	VBN	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Allah	Allah	PROPN	NNP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	''	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 10
+# text = [The Holy Quran, 16: 53].
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	[	[	PUNCT	-LRB-	_	4	punct	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	0	ROOT	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	16	16	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	:	:	SYM	SYM	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	53	53	NUM	CD	_	6	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	]	]	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 12
+# text = Whatever blessing you have has been bestowed on you by God.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Whatever	whatever	DET	WDT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	blessing	blessing	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestowed	bestow	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	God	God	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 10
+# text = The physical capability that you have is from God.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	physical	physical	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	capability	capability	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	God	God	PROPN	NNP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 23
+# text = Your power of determination - which is the most important thing in the area of sports and championship - is from God.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Your	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	power	power	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	determination	determination	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	HYPH	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	which	which	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	most	most	ADV	RBS	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	important	important	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	thing	thing	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	area	area	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	sports	sport	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	championship	championship	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	:	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	from	from	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	God	God	PROPN	NNP	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 3
+# text = It is God
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 10
+# text = Who has given you this power of making decisions.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	given	give	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	power	power	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	making	make	VERB	VBG	_	7	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	decisions	decision	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 10
+# text = It is God Who has given you such victories.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	Who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	given	give	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	6	dative	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	victories	victory	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 15
+# text = Therefore, you should thank Allah the Exalted and thanking Him has certain requirements.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	thank	thank	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Exalted	exalted	ADJ	JJ	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	thanking	thank	VERB	VBG	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	Him	-PRON-	PRON	PRP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	has	have	AUX	VBZ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	certain	certain	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	requirements	requirement	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 24
+# text = Well, you youth - who achieve a victory, in any form, in sporting arenas - win popularity among the people.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Well	well	INTJ	UH	_	3	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	youth	youth	NOUN	NN	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	achieve	achieve	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	victory	victory	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	any	any	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	form	form	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	sporting	sport	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	arenas	arena	NOUN	NNS	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	HYPH	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	win	win	NOUN	NN	_	21	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	popularity	popularity	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	among	among	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	people	people	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 13
+# text = This popularity has certain characteristics and it has certain problems as well.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	popularity	popularity	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	certain	certain	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	characteristics	characteristic	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	it	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	certain	certain	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	problems	problem	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	as	as	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	well	well	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 6
+# text = You should tolerate these problems.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	tolerate	tolerate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	problems	problem	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 18
+# text = First, when you achieve popularity, you should try to avoid confining it to sporting areas.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	First	first	ADV	RB	_	10	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	when	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	achieve	achieve	VERB	VBP	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	popularity	popularity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	avoid	avoid	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	confining	confine	VERB	VBG	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	it	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	sporting	sporting	NOUN	NN	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	areas	area	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 31
+# text = In the Amin-Allah Dua you read, "Make me popular in Your earth and in Your heaven" [Iqbal al-A'mal, page 470].
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	6	det	_	ent_type=FAC|ent_id=3|ent_iob=B
+3	Amin	Amin	PROPN	NNP	_	6	compound	_	ent_type=FAC|ent_id=1|ent_iob=I
+4	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=FAC|ent_id=1|ent_iob=I
+5	Allah	Allah	PROPN	NNP	_	6	compound	_	ent_type=FAC|ent_id=1|ent_iob=I
+6	Dua	Dua	PROPN	NNP	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	read	read	VERB	VBP	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	``	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	Make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	me	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	popular	popular	ADJ	JJ	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Your	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	earth	earth	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	Your	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	heaven	heaven	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	"	"	PUNCT	''	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	[	[	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iqbal	Iqbal	PROPN	NNP	_	27	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+24	al	al	PROPN	NNP	_	27	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+25	-	-	PUNCT	HYPH	_	27	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+26	A'mal	A'mal	PROPN	NNP	_	11	ccomp	_	ent_type=PERSON|ent_id=1|ent_iob=I
+27	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	page	page	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	470	470	NUM	CD	_	29	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+30	]	]	PUNCT	-RRB-	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 5
+# text = This popularity is good.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	popularity	popularity	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	good	good	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 11
+# text = You should become popular both on earth and in heaven.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	popular	popular	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	both	both	DET	DT	_	6	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	earth	earth	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	heaven	heaven	PROPN	NNP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 20
+# text = You should do something to make divine angles and the pure souls of saints to love you in heaven.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	something	something	PRON	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	make	make	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	divine	divine	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	angles	angle	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	pure	pure	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	souls	soul	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	saints	saint	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	love	love	VERB	VB	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	you	-PRON-	PRON	PRP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	heaven	heaven	PROPN	NNP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 23
+# text = Second, when you become popular among the youth of the country, they look at you and they learn from you.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Second	Second	PROPN	NNP	_	16	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	when	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	become	become	VERB	VBP	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	popular	popular	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	among	among	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	youth	youth	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	look	look	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	at	at	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	you	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	learn	learn	VERB	VBP	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	from	from	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	you	-PRON-	PRON	PRP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 6
+# text = You become their role models.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	become	become	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	role	role	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	models	model	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 19
+# text = Every good move that you make sometimes leads to millions of good moves on the part of youth.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Every	every	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	good	good	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	move	move	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	make	make	VERB	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	sometimes	sometimes	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	leads	lead	VERB	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	millions	million	NOUN	NNS	_	10	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	good	good	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	moves	move	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	part	part	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	youth	youth	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 6
+# text = Notice how valuable this is.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Notice	notice	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	how	how	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	valuable	valuable	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 20
+# text = When you make a good move, show good behavior, make a good statement and show a good intention
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VBP	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	good	good	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	move	move	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	show	show	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	good	good	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	behavior	behavior	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	make	make	VERB	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	good	good	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	statement	statement	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	show	show	VERB	VB	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	good	good	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	intention	intention	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 13
+# text = , this is duplicated in millions because you are a role model.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	duplicated	duplicate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	millions	million	NOUN	NNS	_	5	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	because	because	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	role	role	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	model	model	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 11
+# text = This is very valuable and it promotes good in society.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	valuable	valuable	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	it	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	promotes	promote	VERB	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	good	good	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	society	society	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 15
+# text = Counsel to do good means acting in a way that good deeds become popular.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Counsel	counsel	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	PART	TO	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VB	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	good	good	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	means	mean	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	acting	act	VERB	VBG	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	way	way	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	good	good	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	deeds	deed	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	become	become	VERB	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	popular	popular	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 16
+# text = With this course of action, you are doing a practical counsel to do good.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	With	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	course	course	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	action	action	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	doing	do	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	practical	practical	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	counsel	counsel	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	do	do	AUX	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	good	good	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 10
+# text = God forbid, the opposite is possible as well.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	God	God	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	forbid	forbid	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	opposite	opposite	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	possible	possible	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	as	as	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	well	well	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 32
+# text = If a role model does something in a certain arena which is against ethics, piety and chastity, this also becomes a pattern if the people find out about it.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	If	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	role	role	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	model	model	NOUN	NN	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+5	does	do	AUX	VBZ	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	something	something	PRON	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	certain	certain	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	arena	arena	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	which	which	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	against	against	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	ethics	ethic	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	piety	piety	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	chastity	chastity	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	also	also	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	becomes	become	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	pattern	pattern	NOUN	NN	_	24	attr	_	ent_type=_|ent_id=2|ent_iob=O
+25	if	if	SCONJ	IN	_	30	mark	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	people	people	NOUN	NNS	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	find	find	VERB	VBP	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	out	out	ADP	RP	_	30	prt	_	ent_type=_|ent_id=2|ent_iob=O
+30	about	about	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	it	-PRON-	PRON	PRP	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 9
+# text = You should be careful about this as well.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	careful	careful	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	well	well	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 9
+# text = This course of action is duplicated as well.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	action	action	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	duplicated	duplicate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	well	well	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 18
+# text = Therefore, winning a competition and becoming popular among the people is a two-edged sword.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Therefore	therefore	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	winning	win	VERB	VBG	_	13	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	competition	competition	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	becoming	become	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	popular	popular	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	among	among	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	two	two	NUM	CD	_	17	advmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+15	-	-	PUNCT	HYPH	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	edged	edged	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	sword	sword	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 13
+# text = It is very good if we can be committed to its requirements.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	good	good	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	committed	commit	VERB	VBN	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	requirements	requirement	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 15
+# text = It is very dangerous if, God forbid, we fail to do so.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	dangerous	dangerous	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	God	God	PROPN	NNP	_	8	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	forbid	forbid	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	we	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	fail	fail	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	do	do	AUX	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	so	so	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 10
+# text = This is what I wanted to say to you.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	wanted	want	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	say	say	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 13
+# text = The points that the honorable Minister of Sports raised were good points.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	points	point	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	honorable	honorable	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	Minister	Minister	PROPN	NNP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Sports	Sports	PROPN	NNPS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	raised	raise	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	good	good	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	points	point	NOUN	NNS	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 6
+# text = These issues are good issues.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	issues	issue	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	good	good	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	issues	issue	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 12
+# text = What he said was what I had in mind as well.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	What	what	PRON	WP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	he	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	said	say	VERB	VBD	_	4	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	had	have	AUX	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	mind	mind	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	well	well	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 21
+# text = I also wanted to say that you should prioritize sporting issues and that you should promote public and mainstream sports.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	wanted	want	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	say	say	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	prioritize	prioritize	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	sporting	sport	VERB	VBG	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	issues	issue	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	should	should	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	promote	promote	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	public	public	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	mainstream	mainstream	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	sports	sport	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 121
+# sent_len = 6
+# text = Public sports means public health.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Public	Public	PROPN	NNP	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	sports	sports	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	public	public	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	health	health	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 122
+# sent_len = 34
+# text = Since long ago, I have been defending- - because of many reasons which are clear and some of which I mentioned - professional and competitive sports against those people who criticized it.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Since	since	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	long	long	ADV	RB	_	3	advmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	ago	ago	ADV	RB	_	1	pcomp	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	defending-	defending-	ADJ	JJ	_	9	dep	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	because	because	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	many	many	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	reasons	reason	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	clear	clear	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	some	some	DET	DT	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	which	which	DET	WDT	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	I	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	mentioned	mention	VERB	VBD	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	HYPH	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	professional	professional	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	competitive	competitive	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	sports	sport	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	against	against	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	those	those	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	people	people	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	who	who	PRON	WP	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	criticized	criticize	VERB	VBD	_	32	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	it	-PRON-	PRON	PRP	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 123
+# sent_len = 12
+# text = But public sports means the physical health of all the people.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	public	public	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	sports	sport	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	physical	physical	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	health	health	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	PDT	_	11	predet	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 124
+# sent_len = 15
+# text = Unfortunately, these public sports have not been developed the way they should have.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Unfortunately	unfortunately	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	public	public	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	sports	sport	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	developed	develop	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	way	way	NOUN	NN	_	9	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	have	have	AUX	VB	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 125
+# sent_len = 32
+# text = Take a look at city life which is marked by lack of activity and junk and imitative foods which are available to the people in stores and which the people use.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	look	look	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	city	city	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	life	life	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	marked	mark	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	lack	lack	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	activity	activity	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	junk	junk	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	imitative	imitative	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	foods	food	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	which	which	DET	WDT	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	available	available	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	people	people	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	stores	store	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	which	which	DET	WDT	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	people	people	NOUN	NNS	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	use	use	VERB	VBP	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 126
+# sent_len = 9
+# text = But the main problem is lack of activity.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	main	main	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	problem	problem	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	lack	lack	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	activity	activity	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 127
+# sent_len = 8
+# text = These things weaken the people's bodies.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	things	thing	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	weaken	weaken	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	bodies	body	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 128
+# sent_len = 14
+# text = Bodies should be strong and healthy and this is achieved through public sports.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Bodies	body	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	strong	strong	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	healthy	healthy	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	achieved	achieve	VERB	VBN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	through	through	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	public	public	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	sports	sport	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 129
+# sent_len = 9
+# text = You should definitely pay attention to public sports.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	definitely	definitely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	attention	attention	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	public	public	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	sports	sport	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 130
+# sent_len = 41
+# text = Besides, our good and pious athletes - who promote and smooth the path of good deeds in society - should not at all be intimidated by the peripheral and non-sporting issues which are raised here and there.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Besides	besides	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	good	good	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	pious	pious	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	athletes	athlete	NOUN	NNS	_	27	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	:	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	promote	promote	VERB	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	smooth	smooth	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	path	path	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	good	good	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	deeds	deed	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	society	society	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	:	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	should	should	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	not	not	PART	RB	_	25	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	at	at	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	all	all	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	be	be	AUX	VB	_	27	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	intimidated	intimidate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+27	by	by	ADP	IN	_	27	agent	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	peripheral	peripheral	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	non	non	ADJ	JJ	_	34	dep	_	ent_type=_|ent_id=2|ent_iob=O
+32	-	-	ADJ	JJ	_	35	dep	_	ent_type=_|ent_id=2|ent_iob=O
+33	sporting	sporting	ADJ	JJ	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	issues	issue	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	which	which	DET	WDT	_	39	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+36	are	be	AUX	VBP	_	39	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+37	raised	raise	VERB	VBN	_	36	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+38	here	here	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	there	there	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 131
+# sent_len = 10
+# text = You should not attach any significance to such issues.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	attach	attach	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	any	any	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	significance	significance	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	issues	issue	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 132
+# sent_len = 36
+# text = As soon as you do a good deed, those people who are prepared to criticize such deeds begin to launch an invasion in the yellow press, social media networks and other such media.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	As	as	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	soon	soon	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VBP	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	good	good	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	deed	deed	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	those	those	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	who	who	PRON	WP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	prepared	prepared	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	criticize	criticize	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	such	such	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	deeds	deed	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	begin	begin	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	launch	launch	VERB	VB	_	20	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	an	an	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	invasion	invasion	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	yellow	yellow	ADJ	JJ	_	29	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	press	press	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	social	social	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	media	medium	NOUN	NNS	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+31	networks	network	NOUN	NNS	_	25	appos	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	other	other	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	such	such	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	media	medium	NOUN	NNS	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 133
+# sent_len = 12
+# text = You should not pay any attention to these people at all.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	any	any	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	attention	attention	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	4	dative	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 134
+# sent_len = 23
+# text = You should take a look and see what the truth is, what values are and what wise hearts understand and want.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	look	look	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	see	see	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	what	what	PRON	WP	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	truth	truth	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	what	what	DET	WDT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	values	value	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	what	what	PRON	WP	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	wise	wise	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	hearts	heart	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	understand	understand	VERB	VBP	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	want	want	VERB	VBP	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 135
+# sent_len = 8
+# text = You should pay attention to such things.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	attention	attention	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	such	such	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	things	thing	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 136
+# sent_len = 12
+# text = In any case, we thank Allah the Exalted that you exist
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	any	any	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	case	case	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	Allah	Allah	PROPN	NNP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Exalted	exalted	ADJ	JJ	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	exist	exist	VERB	VBP	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 137
+# sent_len = 26
+# text = and we are happy that our country thankfully builds champions not only in sporting arenas - where you exist - but also in all arenas.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	happy	happy	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	country	country	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	thankfully	thankfully	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	builds	build	VERB	VBZ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	champions	champion	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	14	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+12	only	only	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	sporting	sport	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	arenas	arena	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	where	where	ADV	WRB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	you	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	exist	exist	VERB	VBP	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	:	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	but	but	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	also	also	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	all	all	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	arenas	arena	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 138
+# sent_len = 12
+# text = In the arena of knowledge too, our country builds champions.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	In	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	arena	arena	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	knowledge	knowledge	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	too	too	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	builds	build	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	champions	champion	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 139
+# sent_len = 4
+# text = We build champions.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	build	build	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	champions	champion	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 140
+# sent_len = 30
+# text = Iranian society, the Islamic Revolution and the holy Islamic Republic benefit from those individuals who build champions in the arena of knowledge, morality and different other arenas.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+2	society	society	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+5	Islamic	Islamic	PROPN	NNP	_	7	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+6	Revolution	Revolution	PROPN	NNP	_	3	conj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+7	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	holy	holy	PROPN	NNP	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Republic	Republic	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	benefit	benefit	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	those	those	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	individuals	individual	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	build	build	VERB	VBP	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	champions	champion	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	arena	arena	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	knowledge	knowledge	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	morality	morality	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	different	different	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	other	other	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	arenas	arena	NOUN	NNS	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 141
+# sent_len = 8
+# text = Of course, they try to destroy,
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	try	try	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	destroy	destroy	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 142
+# sent_len = 13
+# text = undermine and humiliate this, but the truth is what I said.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	undermine	undermine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	humiliate	humiliate	VERB	VB	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	but	but	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	truth	truth	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	what	what	PRON	WP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	said	say	VERB	VBD	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 143
+# sent_len = 23
+# text = Thankfully, building champions in this country is a well-established process and we should increase it on a daily basis.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Thankfully	thankfully	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	building	build	VERB	VBG	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	champions	champion	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	well	well	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	established	establish	VERB	VBN	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	process	process	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	we	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	should	should	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	increase	increase	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	it	-PRON-	PRON	PRP	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	daily	daily	ADJ	JJ	_	24	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+22	basis	basis	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 144
+# sent_len = 24
+# text = And this is in your hands, the hands of officials and the hands of all those people who influence society's mentality.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	hands	hand	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	hands	hand	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	officials	official	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	hands	hand	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	all	all	DET	PDT	_	19	predet	_	ent_type=_|ent_id=2|ent_iob=O
+17	those	those	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	people	people	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	influence	influence	VERB	VBP	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	society	society	NOUN	NN	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	's	's	PART	POS	_	23	case	_	ent_type=_|ent_id=2|ent_iob=O
+23	mentality	mentality	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 145
+# sent_len = 8
+# text = I would like to thank you again.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	thank	thank	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	again	again	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 146
+# sent_len = 8
+# text = I entrust all of you to Almighty God
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	entrust	entrust	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	Almighty	Almighty	PROPN	NNP	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	God	God	PROPN	NNP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 147
+# sent_len = 9
+# text = and I will pray for all of you.
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	pray	pray	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	dative	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 148
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech in Meeting with Iranian Champions and Athletes in Asian Games
+# year = 2015
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

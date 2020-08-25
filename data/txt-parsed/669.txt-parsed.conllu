@@ -1,0 +1,1861 @@
+# sent_id = 1
+# sent_len = 16
+# text = First of all, I would like to thank the son of the late Mr. Taleqani
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	First	first	ADV	RB	_	7	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	would	would	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	thank	thank	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	son	son	PROPN	NNP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	late	late	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Mr.	Mr.	PROPN	NNP	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	Taleqani	Taleqani	PROPN	NNP	_	12	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+
+# sent_id = 2
+# sent_len = 33
+# text = (God's mercy be upon him) and his colleagues [Sayyid Mahdi Taleqani and Musa Haqqani] for preserving the name and house of Taleqani the way that personality lived.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	(	(	PUNCT	-LRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	mercy	mercy	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	upon	upon	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	him	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	)	)	PUNCT	-RRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	his	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	colleagues	colleague	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	[	[	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	Sayyid	Sayyid	PROPN	NNP	_	15	compound	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+14	Mahdi	Mahdi	PROPN	NNP	_	15	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+15	Taleqani	Taleqani	PROPN	NNP	_	11	appos	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	Musa	Musa	PROPN	NNP	_	18	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	Haqqani	Haqqani	PROPN	NNP	_	15	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+19	]	]	PUNCT	-RRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	preserving	preserve	VERB	VBG	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	name	name	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	house	house	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Taleqani	Taleqani	PROPN	NNP	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	way	way	NOUN	NN	_	21	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	that	that	DET	WDT	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	personality	personality	NOUN	NN	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	lived	live	VERB	VBD	_	29	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 29
+# text = Some families and relatives of personalities preserve the name of a personality after he leaves this material world but they change his content completely - sometimes 180 degrees!
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Some	some	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	families	family	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	relatives	relative	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	personalities	personality	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	preserve	preserve	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	name	name	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	personality	personality	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	after	after	ADP	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	he	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	leaves	leave	VERB	VBZ	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	material	material	NOUN	NN	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	world	world	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	but	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	change	change	VERB	VBP	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	his	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	content	content	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	completely	completely	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	-	-	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	sometimes	sometimes	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	180	180	NUM	CD	_	28	nummod	_	ent_type=QUANTITY|ent_id=3|ent_iob=B
+28	degrees	degree	NOUN	NNS	_	21	dobj	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+29	!	!	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 34
+# text = If Mr. Taleqani's son had not endeavored - of course, in cooperation with other brothers - and had not stepped forward, perhaps Mr. Taleqani would have had the same fate.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	If	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	Mr.	Mr.	PROPN	NNP	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	Taleqani	Taleqani	PROPN	NNP	_	5	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	's	's	PART	POS	_	3	case	_	ent_type=_|ent_id=2|ent_iob=O
+5	son	son	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	had	have	AUX	VBD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	endeavored	endeavor	VERB	VBN	_	30	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADV	RB	_	8	prt	_	ent_type=_|ent_id=2|ent_iob=O
+11	course	course	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	cooperation	cooperation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	other	other	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	brothers	brother	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	had	have	AUX	VBD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	not	not	PART	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+22	stepped	step	VERB	VBN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	forward	forward	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	perhaps	perhaps	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	Mr.	Mr.	PROPN	NNP	_	27	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	Taleqani	Taleqani	PROPN	NNP	_	30	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+28	would	would	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	have	have	AUX	VB	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	had	have	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	same	same	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	fate	fate	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 11
+# text = But thankfully you managed to preserve Mr. Taleqani's reputation.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	thankfully	thankfully	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	preserve	preserve	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	Mr.	Mr.	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Taleqani	Taleqani	PROPN	NNP	_	10	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	's	's	PART	POS	_	8	case	_	ent_type=_|ent_id=2|ent_iob=O
+10	reputation	reputation	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 8
+# text = Mr. Taleqani was a very valuable personality.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Mr.	Mr.	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Taleqani	Taleqani	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	very	very	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	valuable	valuable	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	personality	personality	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 10
+# text = The characteristics that you mentioned really existed in him.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	characteristics	characteristic	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	mentioned	mention	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	really	really	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	existed	exist	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	him	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 12
+# text = Allah the Exalted had given him a good mold of character.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Allah	Allah	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Exalted	Exalted	PROPN	NNP	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+4	had	have	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	given	give	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	him	-PRON-	PRON	PRP	_	5	dative	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	good	good	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	mold	mold	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	character	character	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 10
+# text = He was an outspoken, friendly and sincere individual.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	outspoken	outspoken	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	friendly	friendly	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	sincere	sincere	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	individual	individual	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 11
+# text = One of the characteristics of Mr. Taleqani was his friendliness.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	One	one	NUM	CD	_	8	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	characteristics	characteristic	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Mr.	Mr.	PROPN	NNP	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	Taleqani	Taleqani	PROPN	NNP	_	5	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	his	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	friendliness	friendliness	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 8
+# text = He was a friendly and sincere person.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	friendly	friendly	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	sincere	sincere	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	person	person	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 18
+# text = When we met with him, we really witnessed nothing other than honesty, friendliness and sincerity.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	met	meet	VERB	VBD	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	him	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	really	really	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	witnessed	witness	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	nothing	nothing	PRON	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	than	than	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	honesty	honesty	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	friendliness	friendliness	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	sincerity	sincerity	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 9
+# text = We used to have long meetings with him.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	long	long	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	meetings	meeting	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	him	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 29
+# text = Whenever I went to Tehran - during the periods of time when he came out of prison - I would pay a visit to his house once, twice
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Whenever	whenever	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	went	go	VERB	VBD	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Tehran	Tehran	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	during	during	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	periods	period	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	time	time	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	when	when	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	he	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	came	come	VERB	VBD	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	out	out	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	prison	prison	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	:	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	I	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	would	would	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	visit	visit	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	his	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	house	house	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	once	once	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	twice	twice	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 10
+# text = and I would speak to him for two hours.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	speak	speak	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	him	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	two	two	NUM	CD	_	9	nummod	_	ent_type=TIME|ent_id=3|ent_iob=B
+9	hours	hour	NOUN	NNS	_	7	pobj	_	ent_type=TIME|ent_id=1|ent_iob=I
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 9
+# text = We used to enjoy his friendliness and sincerity.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	enjoy	enjoy	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	friendliness	friendliness	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	sincerity	sincerity	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 7
+# text = This was one of his characteristics.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	characteristics	characteristic	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 21
+# text = As well as being friendly, honest and sincere, he was a man who was completely self-confident.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	As	as	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	well	well	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	being	be	AUX	VBG	_	3	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	friendly	friendly	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	honest	honest	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	sincere	sincere	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	he	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	man	man	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	was	be	AUX	VBD	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	completely	completely	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	self	self	NOUN	NN	_	20	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	HYPH	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	confident	confident	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 9
+# text = One of his characteristics was self-confidence.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	One	one	NUM	CD	_	5	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	characteristics	characteristic	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	self	self	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	confidence	confidence	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 14
+# text = He was never influenced by powers, by outward appearances and the like.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	never	never	ADV	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	influenced	influence	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	powers	power	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	outward	outward	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	appearances	appearance	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	like	like	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 17
+# text = It was in late 1342 or early 1343 when I met him for the first time.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	late	late	ADJ	JJ	_	5	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	1342	1342	NUM	CD	_	3	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	or	or	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	early	early	ADJ	JJ	_	8	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	1343	1343	NUM	CD	_	5	conj	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	when	when	ADV	WRB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	I	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	met	meet	VERB	VBD	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	him	-PRON-	PRON	PRP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	first	first	ADJ	JJ	_	16	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+16	time	time	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 7
+# text = He was being tried in Eshratabad.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	being	be	AUX	VBG	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	tried	try	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Eshratabad	Eshratabad	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 3
+# text = I went there
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 6
+# text = and I witnessed his trial.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	witnessed	witness	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	his	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	trial	trial	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 18
+# text = They said that it was open to public, but there were a limited number of seats.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	open	open	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	public	public	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	there	there	PRON	EX	_	12	expl	_	ent_type=_|ent_id=2|ent_iob=O
+12	were	be	AUX	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	limited	limited	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	number	number	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	seats	seat	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 15
+# text = We went there very soon to witness the trial and we fortunately found a place
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	soon	soon	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	witness	witness	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	trial	trial	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	fortunately	fortunately	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	found	find	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	place	place	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 5
+# text = and we went inside.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	inside	inside	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 10
+# text = Until then, I had not met Mr. Taleqani.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Until	until	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	then	then	ADV	RB	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	had	have	AUX	VBD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	met	meet	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	Mr.	Mr.	PROPN	NNP	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	Taleqani	Taleqani	PROPN	NNP	_	7	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 12
+# text = There was Mr. Taleqani, the late Mohandas Bazargan and others.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Mr.	Mr.	PROPN	NNP	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	Taleqani	Taleqani	PROPN	NNP	_	2	attr	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	late	late	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	Mohandas	Mohandas	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	Bazargan	Bazargan	PROPN	NNP	_	4	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	others	other	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 15
+# text = They were the members of the Freedom Movement and they were being tried there.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	members	member	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	Freedom	Freedom	PROPN	NNP	_	8	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	Movement	Movement	PROPN	NNP	_	5	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	were	be	AUX	VBD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	being	be	AUX	VBG	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	tried	try	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	there	there	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 9
+# text = I think that that was the second trial.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	think	think	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	second	second	ADJ	JJ	_	8	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+8	trial	trial	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 23
+# text = It was one of those courts of law which were comprised of five judges with high [military] ranks and epaulets.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	courts	court	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	law	law	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	were	be	AUX	VBD	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	comprised	comprise	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	five	five	NUM	CD	_	14	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	judges	judge	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	high	high	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	[	[	PUNCT	-LRB-	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	military	military	NOUN	NN	_	20	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	]	]	PUNCT	-RRB-	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	ranks	rank	VERB	VBZ	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	epaulets	epaulet	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 15
+# text = Mr. Taleqani was sitting in front of us and he was indifferent to them.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Mr.	Mr.	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Taleqani	Taleqani	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	was	be	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	sitting	sit	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	front	front	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	us	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	he	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	indifferent	indifferent	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	them	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 22
+# text = When his name was mentioned, he should have stood up and spoke, but he did not pay any attention.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	his	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	name	name	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	mentioned	mention	VERB	VBN	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	he	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VB	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	stood	stand	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	up	up	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	spoke	speak	VERB	VBD	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	he	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	did	do	AUX	VBD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	pay	pay	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	any	any	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	attention	attention	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 36
+# text = He did not pay any attention to them while he was sitting there and carrying a cane - at that time, he had a cane despite the fact that he was not very old.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	did	do	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	pay	pay	VERB	VB	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	any	any	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	attention	attention	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	them	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	while	while	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	he	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	sitting	sit	VERB	VBG	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	there	there	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	carrying	carry	VERB	VBG	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	cane	cane	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	HYPH	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	at	at	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	time	time	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	he	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	cane	cane	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	despite	despite	SCONJ	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	fact	fact	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	that	that	SCONJ	IN	_	32	mark	_	ent_type=_|ent_id=2|ent_iob=O
+31	he	-PRON-	PRON	PRP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	was	be	AUX	VBD	_	29	acl	_	ent_type=_|ent_id=2|ent_iob=O
+33	not	not	PART	RB	_	32	neg	_	ent_type=_|ent_id=2|ent_iob=O
+34	very	very	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	old	old	ADJ	JJ	_	32	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 11
+# text = He did not stand up and he did not answer.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	did	do	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	stand	stand	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	up	up	ADP	RP	_	4	prt	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	he	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	did	do	AUX	VBD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	answer	answer	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 5
+# text = He was like this.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 40
+# text = He did not at all pay any attention to that court of law which was usually formed in a way that the accused would be digested in the outward dignity and awe of the court, so to say.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	did	do	AUX	VBD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	pay	pay	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	any	any	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	attention	attention	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	court	court	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	law	law	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	was	be	AUX	VBD	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	usually	usually	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	formed	form	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	way	way	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	WDT	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	accused	accuse	VERB	VBN	_	26	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	would	would	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	be	be	AUX	VB	_	26	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	digested	digest	VERB	VBN	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	outward	outward	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	dignity	dignity	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	awe	awe	PROPN	NNP	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	court	court	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	so	so	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	say	say	VERB	VB	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 19
+# text = During the break, we stepped forward and he behaved towards us in a warm and friendly manner.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	During	during	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	break	break	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	stepped	step	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	forward	forward	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	he	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	behaved	behave	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	towards	towards	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	us	-PRON-	PRON	PRP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	warm	warm	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	friendly	friendly	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	manner	manner	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 30
+# text = At that time, I was a young cleric and he had heard of me because some time before that, I had been imprisoned in Qezel Qaleh prison.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	At	at	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	time	time	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	young	young	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	cleric	cleric	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	he	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	had	have	AUX	VBD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	heard	hear	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	me	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	because	because	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	some	some	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	time	time	NOUN	NN	_	25	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	before	before	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	DET	DT	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	I	-PRON-	PRON	PRP	_	25	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	had	have	AUX	VBD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	been	be	AUX	VBN	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	imprisoned	imprison	VERB	VBN	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Qezel	Qezel	PROPN	NNP	_	28	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	Qaleh	Qaleh	PROPN	NNP	_	29	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+29	prison	prison	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 9
+# text = He and Mr. Bazargan had heard of me.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	Mr.	Mr.	PROPN	NNP	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	Bazargan	Bazargan	PROPN	NNP	_	1	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	had	have	AUX	VBD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	heard	hear	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	me	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 17
+# text = When I was introduced to them, they treated me in a friendly and kind manner.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	introduced	introduce	VERB	VBN	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	treated	treat	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	me	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	friendly	friendly	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	kind	kind	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	manner	manner	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 18
+# text = They were indifferent to those officials and they were kind and friendly towards us who were clergymen.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	indifferent	indifferent	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	kind	kind	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	friendly	friendly	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	towards	towards	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	us	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	were	be	AUX	VBD	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	clergymen	clergyman	NOUN	NNS	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 18
+# text = He once said to us that he participated in one of the funeral ceremonies in Hedayat Mosque.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	once	once	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	us	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	he	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	participated	participate	VERB	VBD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	one	one	NUM	CD	_	9	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	funeral	funeral	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	ceremonies	ceremony	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Hedayat	Hedayat	PROPN	NNP	_	17	compound	_	ent_type=FAC|ent_id=3|ent_iob=B
+17	Mosque	Mosque	PROPN	NNP	_	15	pobj	_	ent_type=FAC|ent_id=1|ent_iob=I
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 7
+# text = This mosque belonged to Hedayat family.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	mosque	mosque	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	belonged	belong	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Hedayat	Hedayat	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	family	family	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 16
+# text = It was managed by that family and they used to hold their funeral ceremonies there.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	It	-PRON-	PRON	PRP	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	managed	manage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	3	agent	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	family	family	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	used	use	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	hold	hold	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	funeral	funeral	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	ceremonies	ceremony	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	there	there	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 20
+# text = Well, the Hedayat family was an old family which was connected to the court and to the regime.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Well	well	INTJ	UH	_	6	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Hedayat	Hedayat	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	family	family	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	an	an	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	old	old	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	family	family	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	connected	connect	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	court	court	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	regime	regime	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 10
+# text = Mr. Taleqani was a public prayer leader in that mosque
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Mr.	Mr.	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Taleqani	Taleqani	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	public	public	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	prayer	prayer	NOUN	NN	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	leader	leader	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	mosque	mosque	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 9
+# text = and he sometimes participated in their funeral ceremonies.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	he	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	sometimes	sometimes	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	participated	participate	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	funeral	funeral	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	ceremonies	ceremony	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 20
+# text = He said that one of their men or women had died and he took part in their funeral ceremony.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	11	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	men	man	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	women	woman	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	had	have	AUX	VBD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	died	die	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	he	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	took	take	VERB	VBD	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	part	part	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	funeral	funeral	NOUN	NN	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	ceremony	ceremony	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 20
+# text = There were certain high-ranking military officials - major generals, lieutenant generals and other such military officials.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	certain	certain	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	high	high	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	ranking	rank	VERB	VBG	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	military	military	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	officials	official	NOUN	NNS	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	:	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	major	major	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	generals	general	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	lieutenant	lieutenant	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	generals	general	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	other	other	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	such	such	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	military	military	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	officials	official	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 15
+# text = They were standing at the door and they were wearing such and such clothes.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	standing	stand	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	door	door	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	wearing	wear	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	such	such	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	such	such	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	clothes	clothe	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 17
+# text = One of them was General Hedayat who was a well-known individual at that time.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	One	one	NUM	CD	_	4	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	them	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	General	General	PROPN	NNP	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	Hedayat	Hedayat	PROPN	NNP	_	4	attr	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	was	be	AUX	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	well	well	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	known	know	VERB	VBN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	individual	individual	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	at	at	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	time	time	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 21
+# text = He said, "I took a look and I saw that I could not sit where they were sitting.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	took	take	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	look	look	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	I	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	saw	see	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	I	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	could	could	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	sit	sit	VERB	VB	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	where	where	ADV	WRB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	were	be	AUX	VBD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	sitting	sit	VERB	VBG	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 10
+# text = Therefore, I took a seat somewhere else."
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Therefore	therefore	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	took	take	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	seat	seat	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	somewhere	somewhere	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	else	else	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 12
+# text = He continued, "After that event, I was imprisoned.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	continued	continue	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	After	after	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	event	event	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	I	-PRON-	PRON	PRP	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	imprisoned	imprison	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 10
+# text = " I think this occurred in those last years.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	think	think	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	occurred	occur	VERB	VBD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	those	those	DET	DT	_	9	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	last	last	ADJ	JJ	_	9	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	years	year	NOUN	NNS	_	6	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 24
+# text = This was one of those last imprisonments: "I was walking in the prison yard where I saw a person stepping forward.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	last	last	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	imprisonments	imprisonment	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	:	:	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	"	"	PUNCT	``	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	was	be	AUX	VBD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	walking	walk	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	prison	prison	NOUN	NN	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	yard	yard	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	where	where	ADV	WRB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	I	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	saw	see	VERB	VBD	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	person	person	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	stepping	step	VERB	VBG	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	forward	forward	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 8
+# text = He said, 'Hello Sir.'
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	'	'	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Hello	hello	INTJ	UH	_	2	intj	_	ent_type=_|ent_id=2|ent_iob=O
+6	Sir	Sir	PROPN	NNP	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	'	'	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 11
+# text = Then he bowed down and said, 'Hello.'
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Then	then	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	he	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	bowed	bow	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	down	down	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	said	say	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	'	'	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Hello	hello	INTJ	UH	_	6	intj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	'	'	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 6
+# text = I replied, 'Hello.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	replied	reply	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	'	'	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Hello	hello	INTJ	UH	_	2	intj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 5
+# text = Who are you?'
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Who	who	PRON	WP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	'	'	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 9
+# text = He answered, 'I am Hedayat.'
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	answered	answer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	'	'	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	am	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	Hedayat	Hedayat	PROPN	NNP	_	6	attr	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	'	'	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 19
+# text = He introduced himself and it became clear that he was General Hedayat and that he had been imprisoned.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	introduced	introduce	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	himself	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	became	become	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	clear	clear	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	he	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	General	General	PROPN	NNP	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	Hedayat	Hedayat	PROPN	NNP	_	10	attr	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	he	-PRON-	PRON	PRP	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	had	have	AUX	VBD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	been	be	AUX	VBN	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	imprisoned	imprison	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 19
+# text = I saw that that seemingly glorious, magnificent and powerful individual was really a small and poor person.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	saw	see	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	DT	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	seemingly	seemingly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	glorious	glorious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	magnificent	magnificent	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	powerful	powerful	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	individual	individual	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	was	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	really	really	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	small	small	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	poor	poor	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	person	person	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 14
+# text = But I had not changed either in that funeral ceremony or in prison.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	changed	change	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	either	either	CCONJ	CC	_	7	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	funeral	funeral	NOUN	NN	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	ceremony	ceremony	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	prison	prison	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 7
+# text = I was the same person."
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	same	same	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	person	person	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 5
+# text = He was like this.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 10
+# text = He was a self-confident and dignified personality.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	self	self	NOUN	NN	_	6	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	confident	confident	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	dignified	dignified	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	personality	personality	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 6
+# text = This originated from his faith.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	originated	originate	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	from	from	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	his	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	faith	faith	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 7
+# text = He was really a pious person.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	really	really	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	pious	pious	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	person	person	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 15
+# text = But the same person used to show humility towards Imam (r.a.).
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	same	same	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	person	person	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	show	show	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	humility	humility	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	towards	towards	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Imam	Imam	PROPN	NNP	_	9	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	(	(	PUNCT	-LRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	r.a	r.a	PROPN	NNP	_	13	dep	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	10	appos	_	ent_type=_|ent_id=2|ent_iob=O
+14	)	)	PUNCT	-RRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 26
+# text = I was witness to his humility towards Imam (r.a.), both in the absence and presence of Imam (r.a.).
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	witness	witness	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	humility	humility	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	towards	towards	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Imam	Imam	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	(	(	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	r.a	r.a	PROPN	NNP	_	11	dep	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PROPN	NNP	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	both	both	DET	DT	_	2	dep	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	absence	absence	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	presence	presence	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Imam	Imam	PROPN	NNP	_	20	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	(	(	PUNCT	-LRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	r.a	r.a	PROPN	NNP	_	24	dep	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	21	appos	_	ent_type=_|ent_id=2|ent_iob=O
+25	)	)	PUNCT	-RRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 43
+# text = In the absence of Imam (r.a.), he said, "Imam Khomeini (r.a.) says certain things which seem impossible to people, but after that, we see that what he said has actually happened.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	In	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	absence	absence	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Imam	Imam	PROPN	NNP	_	4	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	(	(	PUNCT	-LRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	r.a	r.a	PROPN	NNP	_	8	dep	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PROPN	NNP	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	)	)	PUNCT	-RRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	he	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	said	say	VERB	VBD	_	21	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	``	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	Imam	Imam	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	Khomeini	Khomeini	PROPN	NNP	_	21	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	(	(	PUNCT	-LRB-	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	r.a	r.a	PROPN	NNP	_	19	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	.	.	PUNCT	.	_	16	appos	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	)	)	PUNCT	-RRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	says	say	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	certain	certain	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	things	thing	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	which	which	DET	WDT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	seem	seem	VERB	VBP	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	impossible	impossible	ADJ	JJ	_	25	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	people	people	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	but	but	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	after	after	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	that	that	DET	DT	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	we	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	see	see	VERB	VBP	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	that	that	SCONJ	IN	_	42	mark	_	ent_type=_|ent_id=2|ent_iob=O
+37	what	what	PRON	WP	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	he	-PRON-	PRON	PRP	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	said	say	VERB	VBD	_	42	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	has	have	AUX	VBZ	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	actually	actually	ADV	RB	_	42	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+42	happened	happen	VERB	VBN	_	35	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 7
+# text = He is connected to something!"
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	connected	connect	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	something	something	PRON	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 9
+# text = This was Mr. Taleqani's understanding and interpretation.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Mr.	Mr.	PROPN	NNP	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	Taleqani	Taleqani	PROPN	NNP	_	6	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	's	's	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	understanding	understanding	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	interpretation	interpretation	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 8
+# text = I do not remember the exact words.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	do	do	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	remember	remember	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	exact	exact	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	words	word	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 19
+# text = He said that Imam Khomeini (r.a.) receive knowledge and that he is connected to something.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	Imam	Imam	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Khomeini	Khomeini	PROPN	NNP	_	10	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	(	(	PUNCT	-LRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	r.a	r.a	PROPN	NNP	_	8	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	.	.	PUNCT	.	_	5	appos	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	)	)	PUNCT	-RRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	receive	receive	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	knowledge	knowledge	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	he	-PRON-	PRON	PRP	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	connected	connect	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	something	something	PRON	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 9
+# text = In the presence of Imam (r.a.)
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	In	in	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	presence	presence	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Imam	Imam	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	(	(	PUNCT	-LRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	r.a	r.a	PROPN	NNP	_	8	dep	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	)	)	PUNCT	-RRB-	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 9
+# text = too, I was witness to his humility.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	too	too	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	witness	witness	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	humility	humility	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 13
+# text = He used to show complete humility towards Imam (r.a.).
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	show	show	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	complete	complete	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	humility	humility	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	towards	towards	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Imam	Imam	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	(	(	PUNCT	-LRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	r.a	r.a	PROPN	NNP	_	11	dep	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 26
+# text = That person for whom the outward glory and magnificence of that regime was nothing, used to show humility to Imam (r.a.).
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	That	that	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	person	person	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	whom	whom	PRON	WP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	outward	outward	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	glory	glory	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	magnificence	magnificence	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	regime	regime	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	nothing	nothing	PRON	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	show	show	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	humility	humility	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	18	dative	_	ent_type=_|ent_id=2|ent_iob=O
+21	Imam	Imam	PROPN	NNP	_	20	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	(	(	PUNCT	-LRB-	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	r.a	r.a	PROPN	NNP	_	24	dep	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	21	appos	_	ent_type=_|ent_id=2|ent_iob=O
+25	)	)	PUNCT	-RRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 11
+# text = Such characteristics are hidden in the eternal personalities of history.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	Such	such	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	characteristics	characteristic	NOUN	NNS	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	hidden	hide	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	eternal	eternal	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	personalities	personality	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	history	history	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 10
+# text = These characteristics should be excavated, understood and promoted.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	characteristics	characteristic	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	excavated	excavate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	understood	understand	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	promoted	promote	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 21
+# text = In any case, your organization is a good organization and Mr. Taleqani really deserves to be praised and commemorated.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	In	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	any	any	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	case	case	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	organization	organization	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	good	good	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	organization	organization	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	Mr.	Mr.	PROPN	NNP	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	Taleqani	Taleqani	PROPN	NNP	_	15	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+14	really	really	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	deserves	deserve	VERB	VBZ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	praised	praise	VERB	VBN	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	commemorated	commemorate	VERB	VBN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 12
+# text = You should now allow his name to be consigned to oblivion.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	now	now	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	name	name	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	consigned	consign	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	oblivion	oblivion	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 9
+# text = You should now allow his characteristics to be forgotten
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	now	now	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	characteristics	characteristic	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	forgotten	forget	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 17
+# text = and you should not allow his real relations with the Revolution to turn into unreal relations.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	real	real	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	relations	relation	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Revolution	revolution	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	turn	turn	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	into	into	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	unreal	unreal	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	relations	relation	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 9
+# text = You should not allow these things to happen.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	things	thing	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	happen	happen	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 5
+# text = You should prevent them.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	prevent	prevent	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	them	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 13
+# text = I hope that you will be successful and flourishing, God willing.
+# title = Ayatollah Taleqani Was a Very Valuable Personality: Ayatollah Khamenei
+# year = 2016
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	successful	successful	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	flourishing	flourishing	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	God	God	PROPN	NNP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	willing	willing	ADJ	JJ	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O

@@ -1,0 +1,3149 @@
+# sent_id = 1
+# sent_len = 61
+# text = All praise is due to Allah, the Lord of the Worlds, and peace and greetings upon the Holy Prophet, the most noble descendant of Adam, our Master and Prophet, Ab-al-Qassem Al-Mustafa Muhammad, and upon his immaculate and infallible household, especially the one remaining with Allah on earth.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	praise	praise	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	due	due	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Lord	Lord	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Worlds	Worlds	PROPN	NNPS	_	10	pobj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	peace	peace	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	greetings	greeting	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	upon	upon	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+20	Holy	Holy	PROPN	NNP	_	21	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+21	Prophet	Prophet	PROPN	NNP	_	18	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	most	most	ADV	RBS	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	noble	noble	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	descendant	descendant	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	Adam	Adam	PROPN	NNP	_	27	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+29	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	our	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	Master	Master	PROPN	NNP	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	Prophet	Prophet	PROPN	NNP	_	31	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+34	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	Ab	Ab	PROPN	NNP	_	39	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+36	-	-	PUNCT	HYPH	_	39	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+37	al	al	PROPN	NNP	_	39	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+38	-	-	PUNCT	HYPH	_	39	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+39	Qassem	Qassem	PROPN	NNP	_	43	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+40	Al	Al	PROPN	NNP	_	42	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+41	-	-	PUNCT	HYPH	_	42	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+42	Mustafa	Mustafa	PROPN	NNP	_	43	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+43	Muhammad	Muhammad	PROPN	NNP	_	6	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+44	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	upon	upon	SCONJ	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	his	-PRON-	DET	PRP$	_	51	poss	_	ent_type=_|ent_id=2|ent_iob=O
+48	immaculate	immaculate	ADJ	JJ	_	51	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	48	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	infallible	infallible	ADJ	JJ	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	household	household	NOUN	NN	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	,	,	PUNCT	,	_	51	punct	_	ent_type=_|ent_id=2|ent_iob=O
+53	especially	especially	ADV	RB	_	55	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+54	the	the	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+55	one	one	NOUN	NN	_	51	appos	_	ent_type=_|ent_id=2|ent_iob=O
+56	remaining	remain	VERB	VBG	_	55	acl	_	ent_type=_|ent_id=2|ent_iob=O
+57	with	with	ADP	IN	_	56	prep	_	ent_type=_|ent_id=2|ent_iob=O
+58	Allah	Allah	PROPN	NNP	_	57	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	on	on	ADP	IN	_	58	prep	_	ent_type=_|ent_id=2|ent_iob=O
+60	earth	earth	NOUN	NN	_	59	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+61	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 35
+# text = I would like to congratulate all you praying brothers and sisters, the entire Iranian nation and the members of the Islamic Ummah who live across the world on auspicious Eid ul-Fitr.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	congratulate	congratulate	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	7	predet	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	praying	pray	VERB	VBG	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	brothers	brother	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	sisters	sister	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	entire	entire	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iranian	iranian	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	nation	nation	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	members	member	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+22	Islamic	Islamic	PROPN	NNP	_	23	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	Ummah	Ummah	PROPN	NNP	_	20	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	live	live	VERB	VBP	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	across	across	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	world	world	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	on	on	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	auspicious	auspicious	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	Eid	Eid	PROPN	NNP	_	34	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+32	ul	ul	PROPN	NNP	_	34	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+33	-	-	PUNCT	HYPH	_	34	punct	_	ent_type=GPE|ent_id=1|ent_iob=I
+34	Fitr	Fitr	PROPN	NNP	_	29	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+35	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 22
+# text = I pray to God on this Eid to bestow His blessings on all our Muslim brothers and sisters throughout the world.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Eid	Eid	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	bestow	bestow	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	His	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	blessings	blessing	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	all	all	DET	PDT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	Muslim	muslim	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	brothers	brother	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	sisters	sister	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	throughout	throughout	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	world	world	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 23
+# text = I pray to God to accept their month-long worship and to make today a genuine Eid for the Islamic Ummah.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	accept	accept	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	month	month	NOUN	NN	_	10	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	long	long	ADJ	JJ	_	11	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	worship	worship	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	make	make	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	today	today	NOUN	NN	_	18	nsubj	_	ent_type=DATE|ent_id=3|ent_iob=B
+16	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	genuine	genuine	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	Eid	Eid	PROPN	NNP	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	Islamic	Islamic	PROPN	NNP	_	22	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	Ummah	Ummah	PROPN	NNP	_	19	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 36
+# text = Many people were lucky and successful enough to make the best of the month of Ramadan, which will be beneficial to them for an entire year or even an entire lifetime in some cases.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Many	many	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	lucky	lucky	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	successful	successful	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	enough	enough	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	make	make	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	best	good	ADJ	JJS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	month	month	NOUN	NN	_	12	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	of	of	ADP	IN	_	14	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	Ramadan	Ramadan	PROPN	NNP	_	15	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	which	which	DET	WDT	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	will	will	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	beneficial	beneficial	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	an	an	DET	DT	_	27	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+26	entire	entire	ADJ	JJ	_	27	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	year	year	NOUN	NN	_	24	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	or	or	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	even	even	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	an	an	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	entire	entire	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	lifetime	lifetime	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	some	some	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	cases	case	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 18
+# text = Some people got close to the Holy Quran, benefitted from Quranic teachings and engaged in reflection.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Some	some	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	got	get	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	close	close	ADV	RB	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+7	Holy	Holy	PROPN	NNP	_	8	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	Quran	Quran	PROPN	NNP	_	5	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	benefitted	benefit	VERB	VBN	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Quranic	quranic	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	teachings	teaching	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	engaged	engage	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	reflection	reflection	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 17
+# text = Some people routinely engaged in worship in the month of Ramadan and they enlightened their hearts.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Some	some	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	routinely	routinely	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	engaged	engage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	worship	worship	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	month	month	NOUN	NN	_	7	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	of	of	ADP	IN	_	9	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	Ramadan	Ramadan	PROPN	NNP	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	enlightened	enlighten	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	hearts	heart	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 11
+# text = People fasted and they purified their soul by doing so.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	People	People	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	fasted	fast	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	purified	purify	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	soul	soul	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	doing	do	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	so	so	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 21
+# text = And this spiritual purity and enlightenment is the source of many blessings in the individual and social life of people.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	And	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	spiritual	spiritual	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	purity	purity	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	enlightenment	enlightenment	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	source	source	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	many	many	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	blessings	blessing	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	individual	individual	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	social	social	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	life	life	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	people	people	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 13
+# text = This spiritual purity creates spiritual peace and sense of security in society.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	spiritual	spiritual	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	purity	purity	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	creates	create	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	spiritual	spiritual	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	peace	peace	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	sense	sense	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	security	security	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	society	society	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 9
+# text = It makes hearts get closer to one another.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	makes	make	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	hearts	heart	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	get	get	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	closer	close	ADJ	JJR	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	one	one	NUM	CD	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	another	another	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 8
+# text = It makes believers kinder to one another.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	makes	make	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	believers	believer	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	kinder	kind	ADJ	JJR	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	one	one	NUM	CD	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	another	another	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 8
+# text = It increases mercy in a religious community.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	increases	increase	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	mercy	mercy	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	religious	religious	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	community	community	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 23
+# text = All these things are the blessings of the holy month of Ramadan for those who succeed in making the best of Ramadan.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	All	all	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	things	thing	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	blessings	blessing	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	holy	holy	ADJ	JJ	_	10	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	month	month	NOUN	NN	_	7	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	of	of	ADP	IN	_	10	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	Ramadan	Ramadan	PROPN	NNP	_	11	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	those	those	DET	DT	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	succeed	succeed	VERB	VBP	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	making	make	VERB	VBG	_	17	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	best	good	ADJ	JJS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Ramadan	Ramadan	PROPN	NNP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 10
+# text = Another major blessing of this month is piety. "
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Another	another	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	major	major	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	blessing	blessing	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	month	month	NOUN	NN	_	4	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	piety	piety	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	``	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 30
+# text = O you who believe, fasting is prescribed for you, as it was prescribed for those before you, so that you may learn self-restraint."
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	O	o	INTJ	UH	_	8	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	believe	believe	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	fasting	fast	VERB	VBG	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	prescribed	prescribe	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	was	be	AUX	VBD	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	prescribed	prescribe	VERB	VBN	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	those	those	DET	DT	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	before	before	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	you	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	so	so	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	you	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	may	may	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	learn	learn	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	self	self	NOUN	NN	_	28	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	-	-	PUNCT	HYPH	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	restraint	restraint	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	"	"	PUNCT	''	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 6
+# text = [The Holy Quran, 2
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	[	[	PUNCT	-LRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	0	ROOT	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	2	2	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+
+# sent_id = 18
+# sent_len = 3
+# text = : 183]
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	:	:	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	183	183	NUM	CD	_	0	ROOT	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	]	]	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 6
+# text = Piety means self-restraint.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Piety	piety	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	self	self	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	restraint	restraint	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 7
+# text = Sometimes we can restrain others well.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Sometimes	sometimes	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	restrain	restrain	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	others	other	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	well	well	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 21
+# text = But if we manage to restrain ourselves and avoid overstepping divine red lines, we have made a great accomplishment.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	But	but	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	if	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	manage	manage	VERB	VBP	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	restrain	restrain	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	ourselves	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	avoid	avoid	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	overstepping	overstep	VERB	VBG	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	divine	divine	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	red	red	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	lines	line	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	we	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	have	have	AUX	VBP	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	great	great	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	accomplishment	accomplishment	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 17
+# text = Piety means practicing self-restraint in order to move ahead on the straight divine path.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Piety	piety	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	practicing	practice	VERB	VBG	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	self	self	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	restraint	restraint	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	order	order	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	move	move	VERB	VB	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	ahead	ahead	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	straight	straight	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	divine	divine	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	path	path	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 18
+# text = It means acquiring knowledge and insight and moving forward on the basis of this knowledge and insight.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	acquiring	acquire	VERB	VBG	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	knowledge	knowledge	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	insight	insight	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	moving	move	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	forward	forward	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	basis	basis	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	knowledge	knowledge	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	insight	insight	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 16
+# text = Fortunately there were many people in our society who managed to benefit from these blessings.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Fortunately	fortunately	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	there	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	many	many	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	society	society	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	managed	manage	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	benefit	benefit	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	these	these	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	blessings	blessing	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 16
+# text = Thankfully we can say that this was the case with the majority of our people.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Thankfully	thankfully	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	case	case	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	majority	majority	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 53
+# text = In different religious meetings - in meetings arranged for dhikr, dua and reciting the Holy Quran and during Laylat al-Qadr meetings - our youth, our men and women, people from different social backgrounds and different social groups benefited from the holy Month of Ramadan in different ways.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	different	different	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	religious	religious	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	meetings	meeting	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	RP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	meetings	meeting	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	arranged	arrange	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	dhikr	dhikr	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	dua	dua	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	reciting	recite	VERB	VBG	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+16	Holy	Holy	PROPN	NNP	_	17	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+17	Quran	Quran	PROPN	NNP	_	14	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+18	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	during	during	ADP	IN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	Laylat	Laylat	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+21	al	al	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+22	-	-	PUNCT	HYPH	_	23	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+23	Qadr	Qadr	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+24	meetings	meeting	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	-	-	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	youth	youth	NOUN	NN	_	24	appos	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	our	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	men	man	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	women	woman	NOUN	NNS	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	people	people	NOUN	NNS	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	from	from	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	different	different	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	social	social	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	backgrounds	background	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	different	different	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	social	social	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	groups	group	NOUN	NNS	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	benefited	benefit	VERB	VBD	_	42	acl	_	ent_type=_|ent_id=2|ent_iob=O
+44	from	from	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	holy	holy	PROPN	NNP	_	47	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	Month	Month	PROPN	NNP	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	of	of	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	Ramadan	Ramadan	PROPN	NNP	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	in	in	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	different	different	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+52	ways	way	NOUN	NNS	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 14
+# text = In our times, the people who can restrain themselves are not few.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	In	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	times	time	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	restrain	restrain	VERB	VB	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	themselves	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	few	few	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 20
+# text = Our young population and our dynamic youth who have been put in charge are moving on the right path.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	young	young	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	population	population	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	dynamic	dynamic	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	youth	youth	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	been	be	AUX	VBN	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	put	put	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	charge	charge	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	moving	move	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	right	right	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	path	path	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 4
+# text = They practice piety.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	practice	practice	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	piety	piety	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 19
+# text = This is good news for the future of this country and even the future of the Islamic Ummah.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	good	good	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	news	news	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	future	future	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	even	even	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	future	future	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Ummah	Ummah	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 7
+# text = We need to preserve our accomplishments.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	preserve	preserve	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	accomplishments	accomplishment	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 14
+# text = We must not let our achievements be destroyed by the lightening of sins.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	achievements	achievement	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	destroyed	destroy	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	lightening	lightening	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	sins	sin	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 46
+# text = We must keep open the path of God, the path of remembering God, the path of spiritual sincerity, the path of closeness to the Holy Quran, the path of continuing our relationship with God and the path of speaking to Him.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	keep	keep	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	open	open	ADJ	JJ	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	path	path	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	God	God	PROPN	NNP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	path	path	NOUN	NN	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	remembering	remember	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	God	God	PROPN	NNP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	path	path	NOUN	NN	_	14	appos	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	spiritual	spiritual	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	sincerity	sincerity	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	path	path	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	closeness	closeness	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=PERSON|ent_id=3|ent_iob=B
+28	Holy	Holy	PROPN	NNP	_	29	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+29	Quran	Quran	PROPN	NNP	_	26	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+30	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	path	path	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	continuing	continue	VERB	VBG	_	33	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	our	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	relationship	relationship	NOUN	NN	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	with	with	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	God	God	PROPN	NNP	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	path	path	NOUN	NN	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	speaking	speak	VERB	VBG	_	42	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+44	to	to	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	Him	-PRON-	PRON	PRP	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 11
+# text = If you speak to God, He will respond. "
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	speak	speak	VERB	VBP	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	God	God	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	He	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	respond	respond	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 9
+# text = Remember Me and I will remember you."
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Remember	remember	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	Me	-PRON-	PRON	PRP	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	remember	remember	VERB	VB	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	"	"	PUNCT	''	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 9
+# text = [The Holy Quran, 2: 152]
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	[	[	PUNCT	-LRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	0	ROOT	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	2	2	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	:	:	SYM	SYM	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	152	152	NUM	CD	_	6	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	]	]	PUNCT	-RRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 34
+# text = Dear God, by the blessedness of Muhammad (s.w.a.) and his household, make our society Quranic and sincere and fill it with love, justice, harmony and solidarity.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	17	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	blessedness	blessedness	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Muhammad	Muhammad	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	(	(	PUNCT	-LRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	s.w.a	s.w.a	NOUN	NN	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	his	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	household	household	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	make	make	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	society	society	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	Quranic	quranic	ADJ	JJ	_	17	ccomp	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	sincere	sincere	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	fill	fill	VERB	VB	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	it	-PRON-	PRON	PRP	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	with	with	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	love	love	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	justice	justice	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	harmony	harmony	NOUN	NN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	solidarity	solidarity	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 17
+# text = Dear God, help this nation and these dear youth achieve their valuable wishes and ideals.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	dear	dear	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	youth	youth	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	achieve	achieve	VERB	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	valuable	valuable	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	wishes	wish	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	ideals	ideal	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 6
+# text = Help them overcome their enemies.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	them	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	overcome	overcome	VERB	VB	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemies	enemy	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 24
+# text = Dear God, make the holy heart of the Imam of the Age satisfied with us and help us benefit from his prayers.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	holy	holy	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	heart	heart	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Imam	Imam	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Age	Age	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	satisfied	satisfy	VERB	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	us	-PRON-	PRON	PRP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	help	help	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	us	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	benefit	benefit	VERB	VB	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	from	from	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	his	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	prayers	prayer	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 22
+# text = Dear God, make the immaculate soul of our magnanimous Imam and the pure souls of our martyrs satisfied with us.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	immaculate	immaculate	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	soul	soul	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	magnanimous	magnanimous	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Imam	Imam	PROPN	NNP	_	8	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	pure	pure	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	souls	soul	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	martyrs	martyr	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	satisfied	satisfied	ADJ	JJ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	us	-PRON-	PRON	PRP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 1
+# text = "
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	"	"	PUNCT	``	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 6
+# text = I swear by the time,
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	swear	swear	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	by	by	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	time	time	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 7
+# text = Most surely man is in loss,
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Most	most	ADV	RBS	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	surely	surely	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	man	man	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	loss	loss	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 23
+# text = Except those who believe and do good, and enjoin on each other truth, and enjoin on each other patience."
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Except	except	SCONJ	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	those	those	DET	DT	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	believe	believe	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	do	do	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	good	good	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	enjoin	enjoin	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	each	each	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	other	other	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	truth	truth	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	enjoin	enjoin	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	each	each	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	other	other	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	patience	patience	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	"	"	PUNCT	''	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 7
+# text = [The Holy Quran, 103]
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	[	[	PUNCT	-LRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	0	ROOT	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	103	103	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	]	]	PUNCT	-RRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 57
+# text = All praise is due to Allah, the Lord of the Two Worlds, Whom we praise, from Whom we seek help, Whom we trust, from Whom we seek grace, and to Whom we repent, and peace and greetings be upon His beloved and noble one, our Master and Prophet,
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	All	all	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	praise	praise	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	due	due	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Lord	Lord	PROPN	NNP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Two	two	NUM	CD	_	13	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+13	Worlds	Worlds	PROPN	NNPS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	Whom	whom	PRON	WP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	we	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	praise	praise	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	from	from	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	Whom	whom	PRON	WP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	we	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	seek	seek	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	help	help	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	Whom	whom	PRON	WP	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	we	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	trust	trust	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	from	from	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	Whom	whom	PRON	WP	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	we	-PRON-	PRON	PRP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	seek	seek	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	grace	grace	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	Whom	whom	PRON	WP	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	we	-PRON-	PRON	PRP	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	repent	repent	VERB	VBP	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	,	,	PUNCT	,	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	peace	peace	NOUN	NN	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	greetings	greeting	NOUN	NNS	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	be	be	AUX	VB	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	upon	upon	SCONJ	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	His	-PRON-	DET	PRP$	_	51	poss	_	ent_type=_|ent_id=2|ent_iob=O
+48	beloved	beloved	ADJ	JJ	_	51	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	48	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	noble	noble	ADJ	JJ	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	one	one	NUM	CD	_	46	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+52	,	,	PUNCT	,	_	51	punct	_	ent_type=_|ent_id=2|ent_iob=O
+53	our	-PRON-	DET	PRP$	_	54	poss	_	ent_type=_|ent_id=2|ent_iob=O
+54	Master	Master	PROPN	NNP	_	51	appos	_	ent_type=_|ent_id=2|ent_iob=O
+55	and	and	CCONJ	CC	_	54	cc	_	ent_type=_|ent_id=2|ent_iob=O
+56	Prophet	Prophet	PROPN	NNP	_	54	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+57	,	,	PUNCT	,	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 51
+# text = Ab-al-Qassem al-Mustafa Muhammad, and upon his immaculate and infallible household, especially upon the Commander of the Faithful, Seddiqat al-Tahera, Hassan, Hussein, Ali ibn al-Hussein, Muhammad ibn Ali, Ja'far ibn Muhammad, Musa ibn
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Ab	Ab	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	al	al	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	Qassem	Qassem	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	al	al	PROPN	NNP	_	8	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	Mustafa	Mustafa	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Muhammad	Muhammad	PROPN	NNP	_	0	ROOT	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	upon	upon	SCONJ	IN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	his	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	immaculate	immaculate	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	infallible	infallible	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	household	household	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	especially	especially	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	upon	upon	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Commander	Commander	PROPN	NNP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Faithful	Faithful	PROPN	NNP	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	Seddiqat	Seddiqat	PROPN	NNP	_	30	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+28	al	al	PROPN	NNP	_	30	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+29	-	-	PUNCT	HYPH	_	30	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+30	Tahera	Tahera	PROPN	NNP	_	20	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	Hassan	Hassan	PROPN	NNP	_	30	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+33	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	Hussein	Hussein	PROPN	NNP	_	32	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+35	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	Ali	Ali	PROPN	NNP	_	40	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+37	ibn	ibn	PROPN	NNP	_	40	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+38	al	al	PROPN	NNP	_	40	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+39	-	-	PUNCT	HYPH	_	40	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+40	Hussein	Hussein	PROPN	NNP	_	34	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+41	,	,	PUNCT	,	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+42	Muhammad	Muhammad	PROPN	NNP	_	44	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+43	ibn	ibn	PROPN	NNP	_	44	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+44	Ali	Ali	PROPN	NNP	_	40	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+45	,	,	PUNCT	,	_	44	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	Ja'far	ja'far	NOUN	NN	_	48	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+47	ibn	ibn	PROPN	NNP	_	48	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+48	Muhammad	Muhammad	PROPN	NNP	_	44	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+49	,	,	PUNCT	,	_	48	punct	_	ent_type=_|ent_id=2|ent_iob=O
+50	Musa	Musa	PROPN	NNP	_	51	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+51	ibn	ibn	PROPN	NNP	_	48	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+
+# sent_id = 49
+# sent_len = 2
+# text = Ja'far,
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Ja'far	ja'far	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 24
+# text = Ali ibn Musa, Muhammad ibn Ali, Ali ibn Muhammad, Hassan ibn Ali and Hujjat al-Qaem al-Mahdi.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Ali	Ali	PROPN	NNP	_	3	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	ibn	ibn	PROPN	NNP	_	3	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	Musa	Musa	PROPN	NNP	_	0	ROOT	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Muhammad	Muhammad	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	ibn	ibn	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	Ali	Ali	PROPN	NNP	_	3	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Ali	Ali	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	ibn	ibn	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	Muhammad	Muhammad	PROPN	NNP	_	7	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	Hassan	Hassan	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+14	ibn	ibn	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+15	Ali	Ali	PROPN	NNP	_	11	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	Hujjat	Hujjat	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	al	al	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+19	-	-	PUNCT	HYPH	_	23	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+20	Qaem	Qaem	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+21	al	al	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+22	-	-	PUNCT	HYPH	_	23	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+23	Mahdi	Mahdi	PROPN	NNP	_	15	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 20
+# text = And greetings be upon the Imams of Muslims, supporters of the oppressed, and those who guide the faithful
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	greetings	greeting	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	upon	upon	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Imams	Imams	PROPN	NNPS	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	of	of	ADP	IN	_	6	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	Muslims	Muslims	PROPN	NNPS	_	7	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	supporters	supporter	NOUN	NNS	_	3	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	oppressed	oppress	VERB	VBN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	those	those	DET	DT	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	who	who	PRON	WP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	guide	guide	VERB	VBP	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	faithful	faithful	ADJ	JJ	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 21
+# text = In the second sermon, I would like to briefly speak about the situation of our country and the world.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	second	second	ADJ	JJ	_	4	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+4	sermon	sermon	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	would	would	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	briefly	briefly	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	speak	speak	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	about	about	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	situation	situation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	country	country	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	world	world	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 26
+# text = First of all, I deem it necessary to thank and praise our dear people for their valuable and glorious presence in Quds Day rallies.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	First	first	ADV	RB	_	6	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	deem	deem	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	it	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	necessary	necessary	ADJ	JJ	_	6	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	thank	thank	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	praise	praise	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	dear	dear	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	valuable	valuable	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	glorious	glorious	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	presence	presence	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Quds	Quds	PROPN	NNP	_	24	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+24	Day	Day	PROPN	NNP	_	25	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+25	rallies	rally	VERB	VBZ	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 30
+# text = Of course our great nation does not need appreciation or praise from somebody like me and the credit of what our people did belongs to themselves, not me.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	nation	nation	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	does	do	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	need	need	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	appreciation	appreciation	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	praise	praise	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	somebody	somebody	PRON	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	like	like	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	me	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	credit	credit	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	what	what	PRON	WP	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	people	people	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	did	do	AUX	VBD	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	belongs	belong	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	themselves	-PRON-	PRON	PRP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	not	not	PART	RB	_	24	neg	_	ent_type=_|ent_id=2|ent_iob=O
+29	me	-PRON-	PRON	PRP	_	24	appos	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 6
+# text = They did it for themselves.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	did	do	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	2	dative	_	ent_type=_|ent_id=2|ent_iob=O
+5	themselves	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 27
+# text = It is just necessary to thank God for the insight, determination and motivation that are prevalent in the hearts of our faithful men and women.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	just	just	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	thank	thank	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	God	God	PROPN	NNP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	insight	insight	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	determination	determination	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	motivation	motivation	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	prevalent	prevalent	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	hearts	heart	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	faithful	faithful	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	men	man	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	women	woman	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 9
+# text = Quds Day rallies were extremely glorious this year.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Quds	Quds	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Day	Day	PROPN	NNP	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	rallies	rally	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	extremely	extremely	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	glorious	glorious	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	year	year	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 32
+# text = The events that have happened in the region caused certain other Muslim nations to participate in this great test and in this impressive anti-arrogance movement more than previous years.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	events	event	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	happened	happen	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	region	region	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	caused	cause	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	certain	certain	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	Muslim	muslim	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	nations	nation	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	participate	participate	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	great	great	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	test	test	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	impressive	impressive	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	anti	anti	ADJ	JJ	_	25	dep	_	ent_type=_|ent_id=2|ent_iob=O
+25	-	-	ADJ	JJ	_	26	dep	_	ent_type=_|ent_id=2|ent_iob=O
+26	arrogance	arrogance	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	movement	movement	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	more	more	ADV	RBR	_	15	advmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+29	than	than	SCONJ	IN	_	28	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+30	previous	previous	ADJ	JJ	_	31	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+31	years	year	NOUN	NNS	_	29	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+32	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 27
+# text = I hope Allah the Exalted will help the Palestinians and the entire region get rid of the existence of the oppressive and blood-thirsty Zionists.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	help	help	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Palestinians	Palestinians	PROPN	NNPS	_	7	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	entire	entire	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	region	region	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	get	get	VERB	VBP	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	rid	rid	VERB	VBN	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	existence	existence	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	oppressive	oppressive	NOUN	NN	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	blood	blood	NOUN	NN	_	25	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	-	-	PUNCT	HYPH	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	thirsty	thirsty	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	Zionists	Zionists	PROPN	NNPS	_	19	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 25
+# text = Also, I deem it necessary to thank God for the spiritual presence of our people in the ceremonies of the month of Ramadan.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	deem	deem	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	necessary	necessary	ADJ	JJ	_	4	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	thank	thank	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	God	God	PROPN	NNP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	spiritual	spiritual	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	presence	presence	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	people	people	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	ceremonies	ceremony	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+22	month	month	NOUN	NN	_	20	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+23	of	of	ADP	IN	_	22	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+24	Ramadan	Ramadan	PROPN	NNP	_	23	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+25	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 24
+# text = As was reported, this year our people had a very significant and widespread presence in different ceremonies of the month of Ramadan.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	As	as	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	reported	report	VERB	VBN	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	year	year	NOUN	NN	_	9	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	very	very	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	significant	significant	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	widespread	widespread	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	presence	presence	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	different	different	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	ceremonies	ceremony	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	month	month	NOUN	NN	_	19	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	of	of	ADP	IN	_	21	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+23	Ramadan	Ramadan	PROPN	NNP	_	22	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+24	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 11
+# text = This is the sign of God's mercy and grace.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	sign	sign	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	God	God	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	grace	grace	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 28
+# text = Whenever you find an opportunity to engage in righteous deeds, thank God because it is a sign that Allah the Exalted is paying attention to you.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Whenever	whenever	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	find	find	VERB	VBP	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	opportunity	opportunity	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	engage	engage	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	righteous	righteous	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	deeds	deed	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	God	God	PROPN	NNP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	because	because	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	it	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	sign	sign	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	Allah	Allah	PROPN	NNP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Exalted	Exalted	PROPN	NNP	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	paying	pay	VERB	VBG	_	18	acl	_	ent_type=_|ent_id=2|ent_iob=O
+25	attention	attention	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	you	-PRON-	PRON	PRP	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 18
+# text = Whenever we do not find such opportunities, we must feel worried and seek refuge in God.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Whenever	whenever	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	find	find	VERB	VB	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	such	such	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	opportunities	opportunity	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	must	must	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	feel	feel	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	worried	worried	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	seek	seek	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	refuge	refuge	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	God	God	PROPN	NNP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 12
+# text = We must see what sin we have committed to deserve this.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	what	what	PRON	WP	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	sin	sin	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	committed	commit	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	deserve	deserve	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 9
+# text = Thankfully there were many divine blessings this year.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Thankfully	thankfully	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	there	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	many	many	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	divine	divine	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	blessings	blessing	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	year	year	NOUN	NN	_	3	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 10
+# text = We should make the best of this spiritual atmosphere.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	best	good	ADJ	JJS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	spiritual	spiritual	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	atmosphere	atmosphere	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 14
+# text = I have repeatedly told our honorable people that we have several needs today.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	repeatedly	repeatedly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	told	tell	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	honorable	honorable	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	several	several	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	needs	need	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	today	today	NOUN	NN	_	10	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 23
+# text = First, we need unity and solidarity among our people, among our government officials and between our people and government officials.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	First	first	ADV	RB	_	4	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	unity	unity	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	solidarity	solidarity	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	among	among	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	among	among	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	government	government	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	officials	official	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	between	between	ADP	IN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	government	government	NOUN	NN	_	22	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	officials	official	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 9
+# text = This is an essential need in the country.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	essential	essential	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	need	need	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 13
+# text = Today the world is going through an important stage of its history.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	world	world	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	going	go	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	through	through	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	an	an	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	important	important	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	stage	stage	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	its	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	history	history	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 12
+# text = We need to remain extremely vigilant and cautious at this stage.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	remain	remain	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	extremely	extremely	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	vigilant	vigilant	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	cautious	cautious	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	stage	stage	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 9
+# text = We need to know what we are doing.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	know	know	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	doing	do	VERB	VBG	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 25
+# text = If there are grievances, malevolence and disagreements among our people and government officials, we will not manage to fulfill our great responsibilities.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	there	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	grievances	grievance	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	malevolence	malevolence	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	disagreements	disagreement	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	among	among	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	government	government	NOUN	NN	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	officials	official	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	we	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	manage	manage	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	fulfill	fulfill	VERB	VB	_	19	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	great	great	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	responsibilities	responsibility	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 6
+# text = This is an important recommendation.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	recommendation	recommendation	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 6
+# text = This is a major necessity.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	major	major	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	necessity	necessity	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 11
+# text = The next necessity is the sense of responsibility and dynamism.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	next	next	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessity	necessity	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	sense	sense	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	responsibility	responsibility	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	dynamism	dynamism	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 12
+# text = All our people and government officials should be dynamic and active.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	All	all	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	government	government	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	dynamic	dynamic	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	active	active	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 7
+# text = We must avoid laziness and lethargy.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	avoid	avoid	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	laziness	laziness	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	lethargy	lethargy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 6
+# text = We need hard work today.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	hard	hard	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	work	work	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	today	today	NOUN	NN	_	2	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 11
+# text = We need scientific, economic, political and social endeavors.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	scientific	scientific	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	economic	economic	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	political	political	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	social	social	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	endeavors	endeavor	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 15
+# text = Everybody can specify a work plan for themselves, no matter where they are.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	specify	specify	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	work	work	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	plan	plan	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	themselves	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	no	no	ADV	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	matter	matter	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	where	where	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 18
+# text = This is one of the necessities and I hope Allah the Exalted will help us do this.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	necessities	necessity	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	I	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	hope	hope	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	Allah	Allah	PROPN	NNP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Exalted	Exalted	PROPN	NNP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	help	help	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	us	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	do	do	AUX	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 11
+# text = We have an election at the end of this year.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	election	election	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	at	at	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	end	end	NOUN	NN	_	5	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	of	of	ADP	IN	_	7	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	this	this	DET	DT	_	10	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	year	year	NOUN	NN	_	8	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 9
+# text = Elections are always relatively challenging in our country.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Elections	election	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	always	always	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	relatively	relatively	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	challenging	challenge	VERB	VBG	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 46
+# text = Thankfully we do not have the kinds of malevolence, treachery, conflicts and even killings that take place in certain countries - including the so-called advanced countries as well as other countries - but elections are still a challenge in our country.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Thankfully	thankfully	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	kinds	kind	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	malevolence	malevolence	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	treachery	treachery	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	conflicts	conflict	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	even	even	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	killings	killing	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	WDT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	take	take	VERB	VBP	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	place	place	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	certain	certain	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	countries	country	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	including	include	VERB	VBG	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	so	so	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	-	-	PUNCT	HYPH	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	called	call	VERB	VBN	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	advanced	advanced	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	countries	country	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	as	as	ADV	RB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	well	well	ADV	RB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+33	as	as	SCONJ	IN	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	other	other	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	countries	country	NOUN	NNS	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	-	-	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	elections	election	NOUN	NNS	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	are	be	AUX	VBP	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	still	still	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+41	a	a	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	challenge	challenge	NOUN	NN	_	39	attr	_	ent_type=_|ent_id=2|ent_iob=O
+43	in	in	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	our	-PRON-	DET	PRP$	_	45	poss	_	ent_type=_|ent_id=2|ent_iob=O
+45	country	country	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 6
+# text = They make the people aware.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	make	make	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	aware	aware	ADJ	JJ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 11
+# text = Take care not to let this challenge undermine national security.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	care	care	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	let	let	VERB	VB	_	1	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	challenge	challenge	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	undermine	undermine	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	national	national	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	security	security	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 22
+# text = As the manifestation of religious democracy and the presence of the people, elections should be an asset to our security.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	As	as	SCONJ	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	manifestation	manifestation	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	religious	religious	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	democracy	democracy	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	presence	presence	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	elections	election	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	should	should	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	asset	asset	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	security	security	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 13
+# text = We must not allow this asset to work against our national security.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	asset	asset	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	work	work	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	against	against	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	national	national	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	security	security	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 16
+# text = You saw how the enemies tried to use our election to undermine our national security.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	saw	see	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	how	how	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemies	enemy	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	tried	try	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	use	use	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	election	election	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	undermine	undermine	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	national	national	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	security	security	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 5
+# text = Everybody should be vigilant.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Everybody	everybody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	vigilant	vigilant	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 33
+# text = All our people, government officials, political speakers and all those who can speak to the people should be vigilant and cautious and they should safeguard elections as a divine blessing.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	All	all	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	government	government	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	political	political	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	speakers	speaker	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	PDT	_	12	predet	_	ent_type=_|ent_id=2|ent_iob=O
+12	those	those	DET	DT	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	can	can	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	speak	speak	VERB	VB	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	people	people	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	vigilant	vigilant	ADJ	JJ	_	20	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	cautious	cautious	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	they	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	should	should	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	safeguard	safeguard	VERB	VB	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	elections	election	NOUN	NNS	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	as	as	SCONJ	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	a	a	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	divine	divine	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	blessing	blessing	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 25
+# text = Of course I have different things to say about the election and I will say them to our people when the time is right.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	different	different	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	things	thing	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	say	say	VERB	VB	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	about	about	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	election	election	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	I	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	say	say	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	them	-PRON-	PRON	PRP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	when	when	ADV	WRB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	time	time	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	right	right	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 16
+# text = Over the recent months, the world of Islam has been going through great events.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Over	over	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	recent	recent	ADJ	JJ	_	4	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	months	month	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	world	world	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islam	Islam	PROPN	NNP	_	8	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	has	have	AUX	VBZ	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	been	be	AUX	VBN	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	going	go	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	through	through	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	events	event	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 27
+# text = The world of Islam proved the importance of people's presence on the scene to the people of the world and to the history of humanity.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	world	world	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islam	Islam	PROPN	NNP	_	3	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	proved	prove	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	importance	importance	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	's	's	PART	POS	_	9	case	_	ent_type=_|ent_id=2|ent_iob=O
+11	presence	presence	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	scene	scene	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	people	people	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	world	world	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	history	history	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	humanity	humanity	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 12
+# text = The Iranian nation showed this greatness and power 32 years ago.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	showed	show	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	greatness	greatness	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	power	power	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	32	32	NUM	CD	_	10	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	years	year	NOUN	NNS	_	11	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	ago	ago	ADV	RB	_	4	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 38
+# text = Our people laid down their lives and took to the streets and they managed to give rise to a transformation that changed the course of history in the region and even in the world in a sense.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	laid	lay	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	down	down	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	lives	life	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	took	take	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	streets	street	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	managed	manage	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	give	give	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	rise	rise	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	transformation	transformation	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	WDT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	changed	change	VERB	VBD	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	course	course	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	history	history	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	region	region	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	even	even	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	in	in	ADP	IN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	world	world	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	a	a	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	sense	sense	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 11
+# text = Today the people are present on the scene once again.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	present	present	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	scene	scene	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	once	once	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	again	again	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 16
+# text = The presence of the people on the scene resolved insoluble problems and removed insurmountable obstacles.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	presence	presence	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	scene	scene	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	resolved	resolve	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	insoluble	insoluble	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	problems	problem	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	removed	remove	VERB	VBD	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	insurmountable	insurmountable	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	obstacles	obstacle	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 20
+# text = Who would have thought the puppets of America and Zionism would fall one after the other in the region?
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VB	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	thought	think	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	puppets	puppet	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	America	America	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	Zionism	Zionism	PROPN	NNP	_	8	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	would	would	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	fall	fall	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	one	one	NUM	CD	_	12	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	after	after	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	other	other	ADJ	JJ	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	region	region	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 10
+# text = Who would have thought these idols would be broken?
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VB	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	thought	think	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	idols	idol	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	would	would	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	broken	break	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	?	?	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 14
+# text = But this happened and it was done by the people of the nations.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	happened	happen	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	done	do	VERB	VBN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	nations	nation	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 11
+# text = This is how everybody should look at the Islamic Ummah.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	how	how	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	everybody	everybody	PRON	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	look	look	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	at	at	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Ummah	Ummah	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 9
+# text = This is how powerful the Islamic Ummah is.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	how	how	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	powerful	powerful	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	Islamic	Islamic	PROPN	NNP	_	7	amod	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	Ummah	Ummah	PROPN	NNP	_	8	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 24
+# text = The Islamic Ummah managed to gain this power and dynamism by relying on remembrance of God and shouts of "Allahu Akbar".
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	3	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+3	Ummah	Ummah	PROPN	NNP	_	4	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	managed	manage	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	gain	gain	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	power	power	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	dynamism	dynamism	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	relying	rely	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	remembrance	remembrance	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	God	God	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	shouts	shout	VERB	VBZ	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	``	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	Allahu	Allahu	PROPN	NNP	_	22	compound	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+22	Akbar	Akbar	PROPN	NNP	_	19	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+23	"	"	PUNCT	''	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 6
+# text = This is an impressive accomplishment.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	impressive	impressive	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	accomplishment	accomplishment	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 11
+# text = Of course this is not the end of the movement.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	end	end	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	movement	movement	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 13
+# text = This is just the beginning, the beginning of a long path.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	just	just	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	beginning	beginning	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	beginning	beginning	NOUN	NN	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	long	long	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	path	path	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 5
+# text = Nations should be vigilant.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Nations	nation	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	vigilant	vigilant	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 6
+# text = We have had this experience.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	experience	experience	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 35
+# text = When a government was established after our impressive and glorious Revolution, they got prepared to come, hoping that they would manage to take control of our affairs through their methods and machinations.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	government	government	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	established	establish	VERB	VBN	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	after	after	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	impressive	impressive	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	glorious	glorious	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	Revolution	Revolution	PROPN	NNP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	got	get	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	prepared	prepared	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	come	come	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	hoping	hope	VERB	VBG	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	they	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	would	would	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	manage	manage	VERB	VB	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	take	take	VERB	VB	_	23	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	control	control	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	our	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	affairs	affair	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	through	through	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	their	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	methods	method	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	machinations	machination	NOUN	NNS	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 19
+# text = They were hoping that they would manage to ride the waves and take advantage of the new situation.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	hoping	hope	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	would	would	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	manage	manage	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	ride	ride	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	waves	wave	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	take	take	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	advantage	advantage	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	new	new	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	situation	situation	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 22
+# text = But the vigilance of our nation and the prophet-like leadership of our magnanimous Imam did not let this happen.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	But	but	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	vigilance	vigilance	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	prophet	prophet	NOUN	NN	_	11	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	HYPH	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	like	like	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	leadership	leadership	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	magnanimous	magnanimous	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	Imam	Imam	PROPN	NNP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	did	do	AUX	VBD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	happen	happen	VERB	VB	_	19	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 21
+# text = Muslim people in Egypt, Libya, Tunisia, Yemen and other countries are in need of this vigilance today.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Muslim	muslim	ADJ	JJ	_	2	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+2	people	people	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Egypt	Egypt	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Libya	Libya	PROPN	NNP	_	4	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	Tunisia	Tunisia	PROPN	NNP	_	6	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	Yemen	Yemen	PROPN	NNP	_	8	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	countries	country	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	need	need	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	vigilance	vigilance	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	today	today	NOUN	NN	_	14	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 13
+# text = They must not let the enemies hijack the victories they have gained.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	enemies	enemy	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	hijack	hijack	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	victories	victory	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	gained	gain	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 39
+# text = They must not forget that those who are present in Libya and consider themselves in charge of everything are the same people who used to cooperate with those who oppressed the people of Libya a few months ago.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	forget	forget	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	those	those	DET	DT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	present	present	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Libya	Libya	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	consider	consider	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	themselves	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	charge	charge	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	everything	everything	PRON	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	same	same	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	people	people	NOUN	NNS	_	19	attr	_	ent_type=_|ent_id=2|ent_iob=O
+23	who	who	PRON	WP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	used	use	VERB	VBD	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	cooperate	cooperate	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	with	with	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	those	those	DET	DT	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	who	who	PRON	WP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	oppressed	oppress	VERB	VBD	_	28	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	people	people	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	Libya	Libya	PROPN	NNP	_	33	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+35	a	a	DET	DT	_	37	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+36	few	few	ADJ	JJ	_	37	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+37	months	month	NOUN	NNS	_	38	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+38	ago	ago	ADV	RB	_	30	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+39	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 16
+# text = Today they have come to Libya and they want to take advantage of the situation.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	come	come	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Libya	Libya	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	want	want	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	take	take	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	advantage	advantage	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	situation	situation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 9
+# text = The people of these nations should be vigilant.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	nations	nation	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	vigilant	vigilant	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 12
+# text = Of course I am extremely concerned about the situation of Bahrain.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	extremely	extremely	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	concerned	concerned	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	situation	situation	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Bahrain	Bahrain	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 121
+# sent_len = 8
+# text = The people of Bahrain are being oppressed.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Bahrain	Bahrain	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	being	be	AUX	VBG	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	oppressed	oppress	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 122
+# sent_len = 13
+# text = Certain promises are made to them but these promises are not kept.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Certain	certain	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	promises	promise	NOUN	NNS	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	these	these	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	promises	promise	NOUN	NNS	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	kept	keep	VERB	VBN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 123
+# sent_len = 10
+# text = The Bahraini nation is an innocent and oppressed nation.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Bahraini	bahraini	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	innocent	innocent	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	oppressed	oppress	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	nation	nation	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 124
+# sent_len = 24
+# text = Of course any movement that is carried out for the sake of God and is driven by determination, will definitely achieve victory.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	any	any	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	movement	movement	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	carried	carry	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	sake	sake	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	God	God	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	driven	drive	VERB	VBN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+18	determination	determination	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	will	will	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	definitely	definitely	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	achieve	achieve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	victory	victory	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 125
+# sent_len = 11
+# text = This is true everywhere and Bahrain is not an exception.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	true	true	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	everywhere	everywhere	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Bahrain	Bahrain	PROPN	NNP	_	7	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	an	an	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	exception	exception	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 126
+# sent_len = 7
+# text = The last point is about Somalia.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	last	last	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Somalia	Somalia	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 127
+# sent_len = 12
+# text = The sufferings of the people of Somalia make us extremely sad.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	sufferings	suffering	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Somalia	Somalia	PROPN	NNP	_	6	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	make	make	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	us	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	extremely	extremely	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	sad	sad	ADJ	JJ	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 128
+# sent_len = 10
+# text = Fortunately our people stepped into the arena very well.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Fortunately	fortunately	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	stepped	step	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	into	into	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	arena	arena	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	very	very	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	well	well	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 129
+# sent_len = 5
+# text = They offered good aid.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	offered	offer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	good	good	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	aid	aid	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 130
+# sent_len = 27
+# text = However, our people and government officials should try to help them as much as possible so that Allah the Exalted resolves this problem as well.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	However	however	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	government	government	NOUN	NN	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	officials	official	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	help	help	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	them	-PRON-	PRON	PRP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	as	as	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	much	much	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	possible	possible	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	so	so	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	Allah	Allah	PROPN	NNP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	Exalted	exalted	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	resolves	resolve	NOUN	NNS	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	problem	problem	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	as	as	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	well	well	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 131
+# sent_len = 29
+# text = Dear God, by the blessedness of Muhammad (s.w.a.) and his household, bestow increasing dignity and power on Muslim nations on a daily basis.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Dear	dear	ADJ	JJ	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	17	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	blessedness	blessedness	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Muhammad	Muhammad	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	(	(	PUNCT	-LRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	s.w.a	s.w.a	NOUN	NN	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	his	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	household	household	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	bestow	bestow	ADV	RB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	increasing	increase	VERB	VBG	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	dignity	dignity	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	power	power	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Muslim	muslim	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	nations	nation	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	daily	daily	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	basis	basis	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 132
+# sent_len = 12
+# text = " When there comes the help of Allah and the victory,
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	"	"	PUNCT	``	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	PRON	EX	_	5	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	comes	come	VERB	VBZ	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	help	help	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Allah	Allah	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	victory	victory	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 133
+# sent_len = 12
+# text = And you see men entering the religion of Allah in companies,
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	men	man	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	entering	enter	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	religion	religion	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Allah	Allah	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	companies	company	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 134
+# sent_len = 13
+# text = Then celebrate the praise of your Lord, and ask His forgiveness.
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Then	then	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	celebrate	celebrate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	praise	praise	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	Lord	Lord	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	ask	ask	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	His	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	forgiveness	forgiveness	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 135
+# sent_len = 12
+# text = Surely He is oft-returning (to mercy)."
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Surely	surely	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	oft	oft	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	returning	return	VERB	VBG	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	(	(	PUNCT	-LRB-	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	mercy	mercy	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	)	)	PUNCT	-RRB-	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 136
+# sent_len = 7
+# text = [The Holy Quran, 110]
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	[	[	PUNCT	-LRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	0	ROOT	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	110	110	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	]	]	PUNCT	-RRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 137
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address During Eid ul-Fitr Prayers
+# year = 2011
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

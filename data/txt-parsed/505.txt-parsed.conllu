@@ -1,0 +1,753 @@
+# sent_id = 1
+# sent_len = 16
+# text = The city of Najafabad is really an outstanding city in both religious and revolutionary areas.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	city	city	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Najafabad	Najafabad	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	really	really	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	an	an	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	outstanding	outstanding	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	city	city	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	both	both	CCONJ	CC	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	religious	religious	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	revolutionary	revolutionary	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	areas	area	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 23
+# text = As the friends in the meeting pointed out, many great ulama have emerged from Najafabad since the time of Sheikh Bahai.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	As	as	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	friends	friend	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	meeting	meeting	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	pointed	point	VERB	VBD	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	many	many	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	great	great	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	ulama	ulama	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	have	have	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	emerged	emerge	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	from	from	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Najafabad	Najafabad	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	since	since	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	time	time	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Sheikh	Sheikh	PROPN	NNP	_	22	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+22	Bahai	Bahai	PROPN	NNP	_	20	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+23	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 36
+# text = The late Mirza Mohammad Najafabadi and the late Sayyid Ali Najafabadi were great personalities who resided in Najafabad and who were the main reason for the gathering of seminarians, ulama and people in Isfahan.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	The	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	late	late	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Mirza	Mirza	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Mohammad	Mohammad	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	Najafabadi	Najafabadi	PROPN	NNP	_	12	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	late	late	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	Sayyid	Sayyid	PROPN	NNP	_	5	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	Ali	Ali	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	Najafabadi	Najafabadi	PROPN	NNP	_	9	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	great	great	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	personalities	personality	NOUN	NNS	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	resided	reside	VERB	VBD	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Najafabad	Najafabad	PROPN	NNP	_	17	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	were	be	AUX	VBD	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	main	main	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	reason	reason	NOUN	NN	_	21	attr	_	ent_type=_|ent_id=2|ent_iob=O
+25	for	for	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	gathering	gathering	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	seminarians	seminarian	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	ulama	ulama	NOUN	NN	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	people	people	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Isfahan	Isfahan	PROPN	NNP	_	34	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+36	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 22
+# text = When it came to the Islamic movement, Najafabad was really one of the provincial cities which played a leading role.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	came	come	VERB	VBD	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Islamic	islamic	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	movement	movement	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Najafabad	Najafabad	PROPN	NNP	_	10	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	really	really	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NUM	CD	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	provincial	provincial	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	cities	city	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	which	which	DET	WDT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	played	play	VERB	VBD	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	leading	leading	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	role	role	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 8
+# text = We know few cities who welcomed Imam's
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	few	few	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	cities	city	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	welcomed	welcome	VERB	VBD	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	Imam	Imam	PROPN	NNP	_	6	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	's	's	PART	POS	_	7	case	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 8
+# text = (may God bestow paradise on him)
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	(	(	PUNCT	-LRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	may	may	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	bestow	bestow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	paradise	paradise	PROPN	NNP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	him	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	)	)	PUNCT	-RRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 4
+# text = movement like Najafabad.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	movement	movement	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	like	like	SCONJ	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	Najafabad	Najafabad	PROPN	NNP	_	2	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 15
+# text = Of course, the main reason was the presence of the late Mr. Montazeri.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	main	main	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	reason	reason	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	presence	presence	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	late	late	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	Mr.	Mr.	PROPN	NNP	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	Montazeri	Montazeri	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 12
+# text = Well, he was Imam's (r.a.) student.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	Well	well	INTJ	UH	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	he	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	Imam	Imam	PROPN	NNP	_	11	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	(	(	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	r.a	r.a	PROPN	NNP	_	9	dep	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	11	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	)	)	PUNCT	-RRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	student	student	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 14
+# text = He was interested in Imam and he believed in fighting and the Revolution.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	interested	interested	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Imam	Imam	PROPN	NNP	_	4	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	he	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	believed	believe	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	fighting	fighting	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Revolution	Revolution	PROPN	NNP	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 38
+# text = This is why there was a group of completely religious people in Najafabad who loved and believed in the Revolution despite the fact that there was anti-religion propaganda and different fake religions were active there.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	there	there	PRON	EX	_	5	expl	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	group	group	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	completely	completely	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	religious	religious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Najafabad	Najafabad	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	who	who	PRON	WP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	loved	love	VERB	VBD	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	believed	believe	VERB	VBD	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Revolution	Revolution	PROPN	NNP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	despite	despite	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	fact	fact	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+25	there	there	PRON	EX	_	26	expl	_	ent_type=_|ent_id=2|ent_iob=O
+26	was	be	AUX	VBD	_	23	acl	_	ent_type=_|ent_id=2|ent_iob=O
+27	anti	anti	ADJ	JJ	_	28	dep	_	ent_type=_|ent_id=2|ent_iob=O
+28	-	-	ADJ	JJ	_	29	dep	_	ent_type=_|ent_id=2|ent_iob=O
+29	religion	religion	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	propaganda	propaganda	NOUN	NN	_	26	attr	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	different	different	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	fake	fake	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	religions	religion	NOUN	NNS	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	were	be	AUX	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	active	active	ADJ	JJ	_	35	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	there	there	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 27
+# text = At that time - that is to say, before the Revolution - I went to Najafabad and was witness to the conditions of this city.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	At	at	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	time	time	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	say	say	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	before	before	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Revolution	Revolution	PROPN	NNP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	I	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Najafabad	Najafabad	PROPN	NNP	_	16	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	was	be	AUX	VBD	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	witness	witness	NOUN	NN	_	19	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	conditions	condition	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	city	city	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 8
+# text = These religious people continued after the Revolution.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	These	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	religious	religious	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	continued	continue	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	after	after	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Revolution	Revolution	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 27
+# text = The Najafabad Army that the gentlemen in the meeting referred to was one of the strongest armies in the arenas of the eight-year defense.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	The	the	DET	DT	_	3	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	Najafabad	Najafabad	PROPN	NNP	_	3	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+3	Army	Army	PROPN	NNP	_	12	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	gentlemen	gentleman	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	meeting	meeting	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	referred	refer	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	one	one	NUM	CD	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	strongest	strong	ADJ	JJS	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	armies	army	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	arenas	arena	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	eight	eight	NUM	CD	_	25	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+24	-	-	PUNCT	HYPH	_	25	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+25	year	year	NOUN	NN	_	26	compound	_	ent_type=DATE|ent_id=1|ent_iob=I
+26	defense	defense	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 23
+# text = The late Shahid Kazemi (may God bestow paradise on him) was really one of the outstanding commanders of this army.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	late	late	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Shahid	Shahid	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Kazemi	Kazemi	PROPN	NNP	_	13	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	(	(	PUNCT	-LRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	may	may	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	God	God	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	bestow	bestow	VERB	VB	_	4	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+9	paradise	paradise	PROPN	NNP	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	him	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	really	really	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	one	one	NUM	CD	_	13	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	outstanding	outstanding	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	commanders	commander	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	army	army	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 24
+# text = During the time of war, I went to Khuzestan, where the Najafabad Army had its headquarters, to visit this army.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	During	during	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	time	time	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	war	war	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	I	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Khuzestan	Khuzestan	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	where	where	ADV	WRB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	Najafabad	Najafabad	PROPN	NNP	_	15	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Army	Army	PROPN	NNP	_	16	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	had	have	AUX	VBD	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	its	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	headquarters	headquarter	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	visit	visit	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	army	army	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 31
+# text = There, I saw things that one could see in few armies: on the one hand, their preparedness and high morale and on other hand, their discipline.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	There	there	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	saw	see	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	things	thing	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	one	one	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	could	could	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	see	see	VERB	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	few	few	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	armies	army	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	one	one	NUM	CD	_	17	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+17	hand	hand	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	preparedness	preparedness	NOUN	NN	_	18	intj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	high	high	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	morale	morale	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	other	other	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	hand	hand	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	discipline	discipline	NOUN	NN	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 15
+# text = In few armies you can see the discipline that I witnessed in that army.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	few	few	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	armies	army	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	discipline	discipline	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	I	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	witnessed	witness	VERB	VBD	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	army	army	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 12
+# text = Besides, Najafabad has outstanding martyrs whom Mr. Hasanati referred to.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	Besides	besides	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	Najafabad	Najafabad	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	outstanding	outstanding	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	martyrs	martyr	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	whom	whom	PRON	WP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	Mr.	Mr.	PROPN	NNP	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	Hasanati	Hasanati	PROPN	NNP	_	10	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	referred	refer	VERB	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 17
+# text = They were university and school students, teachers, seminarians, political personalities and the like.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	university	university	NOUN	NN	_	6	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	school	school	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	students	student	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	teachers	teacher	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	seminarians	seminarian	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	political	political	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	personalities	personality	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	like	like	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 7
+# text = Najafabad really has a special prominence.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	Najafabad	Najafabad	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	really	really	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	special	special	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	prominence	prominence	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 14
+# text = Without a doubt, Najafabad is one of the outstanding peaks of jihad.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	Without	without	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	doubt	doubt	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Najafabad	Najafabad	PROPN	NNP	_	6	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	one	one	NUM	CD	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	outstanding	outstanding	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	peaks	peak	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	jihad	jihad	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 13
+# text = I hope that Allah the Exalted will reward the people of Najafabad.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	Allah	Allah	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Exalted	Exalted	PROPN	NNP	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	reward	reward	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Najafabad	Najafabad	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 19
+# text = I hope that Allah the Exalted will associate their martyrs with the Holy Prophet (s.w.a.).
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	Allah	Allah	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Exalted	Exalted	PROPN	NNP	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	associate	associate	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	martyrs	martyr	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Holy	Holy	PROPN	NNP	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	Prophet	Prophet	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	(	(	PUNCT	-LRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	s.w.a	s.w.a	NOUN	NN	_	14	appos	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	)	)	PUNCT	-RRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 13
+# text = I hope that He will bestow honor and glory on their families.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	He	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	bestow	bestow	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	honor	honor	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	glory	glory	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	families	family	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 25
+# text = I hope that He will make the great demonstration that you are holding in this city the source of many good results and blessings.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	He	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	make	make	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	great	great	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	demonstration	demonstration	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	you	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	holding	hold	VERB	VBG	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	city	city	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	source	source	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	many	many	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	good	good	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	results	result	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	blessings	blessing	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 15
+# text = I ask Mr. Hasanati to send our greetings to the dear people of Najafabad.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	ask	ask	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Mr.	Mr.	PROPN	NNP	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	Hasanati	Hasanati	PROPN	NNP	_	2	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	send	send	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	greetings	greeting	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	6	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	dear	dear	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	people	people	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Najafabad	Najafabad	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 13
+# text = In one sense, the people of Najafabad are my fellow citizens.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	NUM	CD	_	3	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	sense	sense	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Najafabad	Najafabad	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	my	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	fellow	fellow	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	citizens	citizen	NOUN	NNS	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 15
+# text = My great-grandfather, the late Sayyid Hashem Najafabadi, was from Najafabad.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	My	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	great	great	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	HYPH	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	grandfather	grandfather	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	late	late	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	Sayyid	Sayyid	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	Hashem	Hashem	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	Najafabadi	Najafabadi	PROPN	NNP	_	4	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Najafabad	Najafabad	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 11
+# text = In this sense, I have some relations with Najafabad.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	sense	sense	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	some	some	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	relations	relation	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Najafabad	Najafabad	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 24
+# text = I ask Sardar Soleimani to send our greetings to the friends in the Islamic Revolutionary Guards Corps, Basij and other such organizations.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	ask	ask	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Sardar	Sardar	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Soleimani	Soleimani	PROPN	NNP	_	2	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	send	send	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	greetings	greeting	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	6	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	friends	friend	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	17	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Revolutionary	Revolutionary	PROPN	NNP	_	16	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	Guards	Guards	PROPN	NNPS	_	17	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	Corps	Corps	PROPN	NNP	_	12	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	Basij	Basij	PROPN	NNP	_	17	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	other	other	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	such	such	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	organizations	organization	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 13
+# text = I hope that by Allah's favor, you will be successful.
+# title = Leader's Speech in Meeting with Officials of Martyrs of Najafabad National Congress
+# year = 2013
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	7	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	favor	favor	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	successful	successful	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O

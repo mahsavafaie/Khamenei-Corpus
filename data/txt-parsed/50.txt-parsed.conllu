@@ -1,0 +1,924 @@
+# sent_id = 1
+# sent_len = 18
+# text = I feel sorry that some of our friends did not get an opportunity to express their views.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	feel	feel	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	sorry	sorry	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	friends	friend	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	did	do	AUX	VBD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	get	get	AUX	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	an	an	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	opportunity	opportunity	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	express	express	VERB	VB	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	views	view	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 9
+# text = Nevertheless, others made some very useful remarks.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Nevertheless	nevertheless	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	others	other	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	very	very	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	useful	useful	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	remarks	remark	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 31
+# text = What is important to me and which was also pointed out by some friends who spoke at this meeting is improving the condition of science and research in our country.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	What	what	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	21	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	me	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	was	be	AUX	VBD	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	also	also	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	pointed	point	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	out	out	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	some	some	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	friends	friend	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	spoke	speak	VERB	VBD	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	at	at	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	meeting	meeting	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	improving	improve	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	condition	condition	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	science	science	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	research	research	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	our	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	country	country	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 12
+# text = Of course this is a demanding task that requires serious efforts.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	demanding	demanding	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	task	task	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	requires	require	VERB	VBZ	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	serious	serious	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	efforts	effort	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 18
+# text = Surely I will also have certain responsibilities in this regard, which I will try to fulfill.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Surely	surely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	certain	certain	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	responsibilities	responsibility	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	regard	regard	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	I	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	try	try	VERB	VB	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	fulfill	fulfill	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 27
+# text = Indeed, science is of great value, and it will be even more valuable if it aims to meet the needs and requirements of mankind.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Indeed	indeed	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	science	science	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	value	value	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	even	even	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	more	more	ADV	RBR	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	valuable	valuable	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	if	if	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	it	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	aims	aim	VERB	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	meet	meet	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	needs	need	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	requirements	requirement	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	mankind	mankind	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 21
+# text = There are some expectations from those who are active in the fields of science and research in our country today.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	expectations	expectation	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	those	those	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	active	active	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	fields	field	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	science	science	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	research	research	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	country	country	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 40
+# text = The fact is that while we have always had the ability to make considerable progress, we have been lagging behind in science and technology, for which there are clear reasons that have their roots in our past.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	while	while	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	always	always	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	had	have	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	ability	ability	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	make	make	VERB	VB	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	considerable	considerable	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	progress	progress	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	we	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	have	have	AUX	VBP	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	been	be	AUX	VBN	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	lagging	lag	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	behind	behind	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	science	science	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	technology	technology	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	for	for	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	which	which	DET	WDT	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	there	there	PRON	EX	_	30	expl	_	ent_type=_|ent_id=2|ent_iob=O
+30	are	be	AUX	VBP	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	clear	clear	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	reasons	reason	NOUN	NNS	_	30	attr	_	ent_type=_|ent_id=2|ent_iob=O
+33	that	that	DET	WDT	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	have	have	AUX	VBP	_	32	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+35	their	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	roots	root	NOUN	NNS	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	in	in	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	our	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	past	past	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 28
+# text = To state it more clearly, no serious efforts had been made to promote science and technology in our country before the victory of the Islamic revolution.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	To	to	PART	TO	_	2	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	state	state	VERB	VB	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	more	more	ADV	RBR	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	clearly	clearly	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	no	no	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	serious	serious	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	efforts	effort	NOUN	NNS	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	had	have	AUX	VBD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	been	be	AUX	VBN	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	promote	promote	VERB	VB	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	science	science	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	technology	technology	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	country	country	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	before	before	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	victory	victory	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+26	Islamic	islamic	ADJ	JJ	_	27	amod	_	ent_type=EVENT|ent_id=1|ent_iob=I
+27	revolution	revolution	NOUN	NN	_	24	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+28	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 34
+# text = But today making scientific and technological progress is one of our main concerns, and we are trying hard to make up for the backwardness and underdevelopment that had been imposed on us.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	But	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	making	make	VERB	VBG	_	8	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	scientific	scientific	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	technological	technological	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	progress	progress	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	one	one	NUM	CD	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	main	main	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	concerns	concern	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	we	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	trying	try	VERB	VBG	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	hard	hard	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	make	make	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	up	up	ADP	RP	_	21	prt	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	backwardness	backwardness	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	underdevelopment	underdevelopment	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	DET	WDT	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+29	had	have	AUX	VBD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	been	be	AUX	VBN	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	imposed	impose	VERB	VBN	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	on	on	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	us	-PRON-	PRON	PRP	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 11
+# text = Fortunately, Iranian people possess great potential and numerous talents.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Fortunately	fortunately	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	Iranian	iranian	ADJ	JJ	_	4	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+4	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	possess	possess	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	potential	potential	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	numerous	numerous	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	talents	talent	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 47
+# text = Therefore, they should use their capabilities in the most effective manner and help their country move forward in the areas of science and technology through innovation, research and exploring the unknown, which are by far more than what mankind has so far discovered.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	use	use	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	capabilities	capability	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	most	most	ADV	RBS	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	effective	effective	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	manner	manner	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	help	help	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	country	country	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	move	move	VERB	VB	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	forward	forward	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	areas	area	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	science	science	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	technology	technology	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	through	through	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	innovation	innovation	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	research	research	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	exploring	explore	VERB	VBG	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	unknown	unknown	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	which	which	DET	WDT	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	are	be	AUX	VBP	_	33	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+37	by	by	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	far	far	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+39	more	more	ADJ	JJR	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	than	than	SCONJ	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	what	what	PRON	WP	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	mankind	mankind	NOUN	NN	_	46	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+43	has	have	AUX	VBZ	_	46	aux	_	ent_type=_|ent_id=2|ent_iob=O
+44	so	so	ADV	RB	_	45	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+45	far	far	ADV	RB	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+46	discovered	discover	VERB	VBN	_	40	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 14
+# text = This is what is mainly expected from our scholars, researchers and scientists.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	mainly	mainly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	expected	expect	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	scholars	scholar	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	researchers	researcher	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	scientists	scientist	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 26
+# text = Another point that I would like to mention is that there seems to be a vacuum in relations between students and teachers at our universities.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Another	another	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	point	point	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	VERB	VB	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	mention	mention	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	there	there	PRON	EX	_	12	expl	_	ent_type=_|ent_id=2|ent_iob=O
+12	seems	seem	VERB	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	be	be	AUX	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	vacuum	vacuum	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	relations	relation	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	between	between	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	students	student	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	teachers	teacher	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	at	at	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	universities	university	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 8
+# text = You should try to fill this vacuum!
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	fill	fill	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	vacuum	vacuum	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 35
+# text = Our students can and should learn things like national pride, patriotism, showing interest in the future of their country and feeling pride in their past from their teachers besides their academic subjects.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	students	student	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	learn	learn	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	things	thing	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	like	like	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	national	national	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	pride	pride	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	patriotism	patriotism	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	showing	show	VERB	VBG	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	interest	interest	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	future	future	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	country	country	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	feeling	feel	VERB	VBG	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	pride	pride	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	past	past	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	from	from	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	teachers	teacher	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	besides	besides	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	their	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	academic	academic	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	subjects	subject	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 39
+# text = It is also worthy of mention that a teacher, no matter what subject he teaches, may influence his students in such a way as to strengthen their religious beliefs or weaken or even destroy their faith.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	worthy	worthy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	mention	mention	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	teacher	teacher	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	no	no	ADV	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	matter	matter	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	what	what	DET	WDT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	subject	subject	NOUN	NN	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	he	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	teaches	teach	VERB	VBZ	_	19	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	may	may	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	influence	influence	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+20	his	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	students	student	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	such	such	DET	PDT	_	25	predet	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	way	way	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	as	as	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	strengthen	strengthen	VERB	VB	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	religious	religious	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	beliefs	belief	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	or	or	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	weaken	weaken	VERB	VB	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	or	or	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	even	even	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	destroy	destroy	VERB	VB	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	their	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	faith	faith	NOUN	NN	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 16
+# text = He can infuse his students with patriotism and make them feel proud of their country.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	infuse	infuse	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	his	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	students	student	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	patriotism	patriotism	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	make	make	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	them	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	feel	feel	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	proud	proud	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 28
+# text = He may also influence his students in such a way as to make them indifferent, apathetic and feeling no responsibility toward their country and their future.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	He	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	may	may	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	influence	influence	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	students	student	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	way	way	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	as	as	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	make	make	VERB	VB	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	them	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	indifferent	indifferent	ADJ	JJ	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	apathetic	apathetic	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	feeling	feel	VERB	VBG	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	no	no	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	responsibility	responsibility	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	toward	toward	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	country	country	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	future	future	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 17
+# text = This all indicates the important role of a teacher and his strong influence on his students.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+3	indicates	indicate	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	important	important	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	role	role	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	teacher	teacher	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	his	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	strong	strong	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	influence	influence	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	his	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	students	student	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 36
+# text = Therefore, while you make every effort to impart knowledge to your students, you should also try to infuse them with deep religious faith and strong belief in their own national and historical identity.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	while	while	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VBP	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	every	every	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	effort	effort	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	impart	impart	VERB	VB	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	knowledge	knowledge	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	students	student	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	you	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	should	should	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	also	also	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	infuse	infuse	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	them	-PRON-	PRON	PRP	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	with	with	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	deep	deep	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	religious	religious	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	faith	faith	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	strong	strong	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	belief	belief	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	own	own	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	national	national	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	historical	historical	ADJ	JJ	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	identity	identity	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 24
+# text = You should try to strengthen their attachments to their own culture and history and their homeland by arousing their national zeal and patriotism.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	strengthen	strengthen	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	attachments	attachment	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	own	own	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	culture	culture	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	history	history	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	homeland	homeland	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	arousing	arouse	VERB	VBG	_	17	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	national	national	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	zeal	zeal	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	patriotism	patriotism	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 17
+# text = Religious faith is a precious asset, because it ensures the salvation and prosperity of mankind.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Religious	religious	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	faith	faith	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	precious	precious	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	asset	asset	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	because	because	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	it	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	ensures	ensure	VERB	VBZ	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	salvation	salvation	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	prosperity	prosperity	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	mankind	mankind	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 51
+# text = Science, as you all know, is beyond doubt the cornerstone of civilization, but science by itself cannot guarantee the formation of a civil society, and the outcome of science that is not combined with religious faith is what you can see in today's world.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Science	science	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	DET	DT	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+6	know	know	VERB	VBP	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	beyond	beyond	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	doubt	doubt	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	cornerstone	cornerstone	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	civilization	civilization	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	but	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	science	science	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	itself	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	can	can	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	not	not	PART	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+22	guarantee	guarantee	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	formation	formation	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	civil	civil	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	society	society	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	outcome	outcome	NOUN	NN	_	38	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	science	science	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	that	that	DET	WDT	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	is	be	AUX	VBZ	_	38	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+37	not	not	PART	RB	_	38	neg	_	ent_type=_|ent_id=2|ent_iob=O
+38	combined	combine	VERB	VBN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	with	with	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	religious	religious	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	faith	faith	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	is	be	AUX	VBZ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	what	what	PRON	WP	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	you	-PRON-	PRON	PRP	_	46	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+45	can	can	VERB	MD	_	46	aux	_	ent_type=_|ent_id=2|ent_iob=O
+46	see	see	VERB	VB	_	42	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+47	in	in	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	today	today	NOUN	NN	_	50	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+49	's	's	PART	POS	_	48	case	_	ent_type=_|ent_id=2|ent_iob=O
+50	world	world	NOUN	NN	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 41
+# text = Just see what science, which is very valuable in itself, has turned into at the hands of the arrogant powers, who have no respect for the rights of other nations and who disregard human and moral values!
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Just	just	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	science	science	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	which	which	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	very	very	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	valuable	valuable	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	itself	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	has	have	AUX	VBZ	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	turned	turn	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	into	into	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	at	at	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	hands	hand	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	arrogant	arrogant	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	powers	power	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	have	have	AUX	VBP	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	no	no	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	respect	respect	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	for	for	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	rights	right	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	other	other	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	nations	nation	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	who	who	PRON	WP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	disregard	disregard	VERB	VBP	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	human	human	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	moral	moral	ADJ	JJ	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	values	value	NOUN	NNS	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 20
+# text = This is the fate of science whenever it is at the service of those who hold no religious beliefs.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	fate	fate	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	science	science	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	whenever	whenever	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	at	at	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	service	service	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	those	those	DET	DT	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	hold	hold	VERB	VBP	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	no	no	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	religious	religious	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	beliefs	belief	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 25
+# text = Students and young people should be infused with religious faith and spirituality as well as with belief in their own national and historical identity.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Students	student	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	young	young	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	infused	infuse	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	religious	religious	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	faith	faith	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	spirituality	spirituality	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	as	as	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	well	well	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	belief	belief	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	own	own	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	national	national	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	historical	historical	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	identity	identity	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 19
+# text = I pray to Almighty Allah to confer success on you all and assist you in performing your duties.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	confer	confer	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	success	success	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	10	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	assist	assist	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	performing	perform	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	your	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	duties	duty	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 23
+# text = I also hope that our meeting today will prove beneficial to our higher education system and help us accomplish our academic objectives.
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	meeting	meeting	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	prove	prove	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	beneficial	beneficial	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	higher	high	ADJ	JJR	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	education	education	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	system	system	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	help	help	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	us	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	accomplish	accomplish	VERB	VB	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	academic	academic	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	objectives	objective	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address to Academics at Shahid Beheshti University
+# year = 2003
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

@@ -1,0 +1,1031 @@
+# sent_id = 1
+# sent_len = 5
+# text = Ayatollah Khamenei further stated:
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 21
+# text = "We are very fond of Egypt, its nation and its ulema and have respect for its rich culture.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	fond	fond	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Egypt	Egypt	PROPN	NNP	_	6	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	its	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	ulema	ulema	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	respect	respect	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	its	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	rich	rich	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	culture	culture	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 38
+# text = We also highly value the deep love of Egyptians for the Household of the Holy Prophet (peace and greetings be upon them) and believe that Egypt is one of the major bases of Islam."
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	highly	highly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	value	value	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	deep	deep	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	love	love	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Egyptians	Egyptians	PROPN	NNPS	_	8	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Household	Household	PROPN	NNP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Holy	Holy	PROPN	NNP	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	Prophet	Prophet	PROPN	NNP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	(	(	PUNCT	-LRB-	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	peace	peace	NOUN	NN	_	12	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	greetings	greeting	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	upon	upon	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	)	)	PUNCT	-RRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	believe	believe	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+28	Egypt	Egypt	PROPN	NNP	_	29	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+29	is	be	AUX	VBZ	_	26	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	one	one	NUM	CD	_	29	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	major	major	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	bases	basis	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	Islam	Islam	PROPN	NNP	_	35	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+37	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 26
+# text = Elsewhere in his remarks, Leader of the Islamic Republic noted: "The ulema of the two countries share similar views on many issues.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Elsewhere	elsewhere	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Leader	leader	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	:	:	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	``	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	The	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	ulema	ulema	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	two	two	NUM	CD	_	20	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	countries	country	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	share	share	VERB	VBP	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	similar	similar	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	views	view	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	on	on	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	many	many	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	issues	issue	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 26
+# text = The issue of unity among Muslim umma is a noble and holy aspiration, and surely Muslims throughout the world are yearning for this unity.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	issue	issue	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	unity	unity	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	among	among	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Muslim	muslim	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	umma	umma	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	noble	noble	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	holy	holy	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	aspiration	aspiration	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	surely	surely	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	Muslims	Muslims	PROPN	NNPS	_	22	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	throughout	throughout	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	world	world	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	yearning	yearn	VERB	VBG	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	unity	unity	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 10
+# text = However, achieving this noble objective requires some prerequisites.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	However	however	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	achieving	achieve	VERB	VBG	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	noble	noble	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	objective	objective	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	requires	require	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	some	some	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	prerequisites	prerequisite	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 11
+# text = Besides, there are also certain obstacles to this unity.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Besides	besides	ADV	RB	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	certain	certain	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	obstacles	obstacle	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	unity	unity	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 20
+# text = "Today, some hands are at work in the world in order to foment discord among Muslim nations.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	some	some	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	hands	hand	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	at	at	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	work	work	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	order	order	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	foment	foment	VERB	VB	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	discord	discord	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	among	among	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Muslim	muslim	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	nations	nation	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 24
+# text = They try to instigate political disputes, ethnic, sectarian or tribal strife or even military conflicts among Muslim nations and Islamic countries.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	try	try	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	instigate	instigate	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	political	political	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	disputes	dispute	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	ethnic	ethnic	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	sectarian	sectarian	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	or	or	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	tribal	tribal	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	strife	strife	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	or	or	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	even	even	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	military	military	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	conflicts	conflict	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	among	among	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Muslim	muslim	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	nations	nation	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islamic	islamic	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	countries	country	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 21
+# text = Those trying to do this are not ordinary people but are those with great influence over political and financial centers.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Those	those	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	trying	try	VERB	VBG	_	1	acl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	ordinary	ordinary	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	those	those	DET	DT	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	influence	influence	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	over	over	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	political	political	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	financial	financial	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	centers	center	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 26
+# text = Therefore, efforts to foster unity among Muslim umma should also be aimed at counteracting attempts at creating divisions and conflicts among Islamic countries."
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Therefore	therefore	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	efforts	effort	NOUN	NNS	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	foster	foster	VERB	VB	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	unity	unity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	among	among	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Muslim	muslim	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	umma	umma	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	also	also	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	aimed	aim	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	at	at	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	counteracting	counteract	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	attempts	attempt	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	at	at	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	creating	create	VERB	VBG	_	17	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	divisions	division	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	conflicts	conflict	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	among	among	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	countries	country	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	"	"	PUNCT	''	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 39
+# text = Ayatollah Khamenei went on to say: "Today, the Zionist entity, an enemy that has been implanted in the heart of the Islamic world, is making every effort to undermine unity among Islamic countries.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	:	:	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	''	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Today	today	NOUN	NN	_	31	npadvmod	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	31	punct	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+11	the	the	DET	DT	_	14	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	Zionist	zionist	ADJ	JJ	_	14	amod	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+13	entity	entity	NOUN	NN	_	31	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	enemy	enemy	NOUN	NN	_	14	appos	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	WDT	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	has	have	AUX	VBZ	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	been	be	AUX	VBN	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	implanted	implant	VERB	VBN	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	heart	heart	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Islamic	islamic	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+27	world	world	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	is	be	AUX	VBZ	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	making	make	VERB	VBG	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	every	every	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	effort	effort	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	undermine	undermine	VERB	VB	_	33	acl	_	ent_type=_|ent_id=2|ent_iob=O
+35	unity	unity	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	among	among	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	Islamic	islamic	ADJ	JJ	_	39	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+38	countries	country	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 29
+# text = Besides, all vigilant and devoted Muslims are deeply affected by the Zionist regime's occupation of Palestinian lands and its crimes and atrocities against innocent Palestinian people.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Besides	besides	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	vigilant	vigilant	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	devoted	devoted	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	Muslims	Muslims	PROPN	NNPS	_	10	nsubjpass	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	are	be	AUX	VBP	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	deeply	deeply	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	affected	affect	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Zionist	zionist	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	regime	regime	NOUN	NN	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	's	's	PART	POS	_	14	case	_	ent_type=_|ent_id=2|ent_iob=O
+16	occupation	occupation	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Palestinian	palestinian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	lands	land	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	its	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	crimes	crime	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	atrocities	atrocity	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	against	against	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	innocent	innocent	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	Palestinian	palestinian	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	people	people	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 23
+# text = I am sure in your country, like in our country, the people are saddened by the plight of the Palestinians.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	sure	sure	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	like	like	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	saddened	sadden	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	plight	plight	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Palestinians	Palestinians	PROPN	NNPS	_	20	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 24
+# text = "One of the main factors that can promote unity among Muslim nations is adopting a common stance on the issue of Palestine.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	"	"	PUNCT	``	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	One	one	NUM	CD	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	main	main	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	factors	factor	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	promote	promote	VERB	VB	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	unity	unity	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	among	among	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Muslim	muslim	ADJ	JJ	_	13	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	nations	nation	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	adopting	adopt	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	common	common	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	stance	stance	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	issue	issue	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Palestine	Palestine	PROPN	NNP	_	22	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+24	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 35
+# text = In other words, Islamic countries should reach the consensus that the occupier Zionist regime is an illegitimate entity, and that they should form a united front against this occupier and aggressor regime.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islamic	islamic	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	countries	country	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	reach	reach	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	consensus	consensus	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	occupier	occupier	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	Zionist	zionist	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	regime	regime	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	an	an	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	illegitimate	illegitimate	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	entity	entity	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	they	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	should	should	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	form	form	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	united	united	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	front	front	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	against	against	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	this	this	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	occupier	occupier	NOUN	NN	_	34	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	aggressor	aggressor	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	regime	regime	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 17
+# text = Therefore, achieving this unity is possible only through concrete measures, not mere words."
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	achieving	achieve	VERB	VBG	_	6	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	unity	unity	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	possible	possible	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	only	only	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	through	through	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	concrete	concrete	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	measures	measure	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	mere	mere	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	words	word	NOUN	NNS	_	11	appos	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	"	"	PUNCT	''	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 58
+# text = As regards the role that can be played by Muslim intellectuals and ulema in promoting unity among Islamic countries and forming a united front against the Zionist regime, the Leader stated: "Muslim intellectuals and ulema can play an effective role in fostering Islamic unity and adopting a common stance on the issue of Palestine.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	32	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	role	role	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	played	play	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	Muslim	muslim	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	intellectuals	intellectual	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	ulema	ulema	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	promoting	promote	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	unity	unity	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	among	among	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Islamic	islamic	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	countries	country	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	forming	form	VERB	VBG	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	united	united	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	front	front	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	against	against	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Zionist	zionist	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	regime	regime	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	Leader	leader	NOUN	NN	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+33	:	:	PUNCT	:	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	"	"	PUNCT	``	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	Muslim	muslim	ADJ	JJ	_	37	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+36	intellectuals	intellectual	NOUN	NNS	_	41	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	ulema	ulema	NOUN	NN	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	can	can	VERB	MD	_	41	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	play	play	VERB	VB	_	32	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	an	an	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	effective	effective	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	role	role	NOUN	NN	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	in	in	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	fostering	foster	VERB	VBG	_	45	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+46	Islamic	islamic	ADJ	JJ	_	48	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+47	unity	unity	NOUN	NN	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	46	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	adopting	adopt	VERB	VBG	_	46	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	a	a	DET	DT	_	53	det	_	ent_type=_|ent_id=2|ent_iob=O
+51	common	common	ADJ	JJ	_	53	amod	_	ent_type=_|ent_id=2|ent_iob=O
+52	stance	stance	NOUN	NN	_	50	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	on	on	ADP	IN	_	53	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	the	the	DET	DT	_	56	det	_	ent_type=_|ent_id=2|ent_iob=O
+55	issue	issue	NOUN	NN	_	54	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	of	of	ADP	IN	_	56	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	Palestine	Palestine	PROPN	NNP	_	57	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+58	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 20
+# text = I have been informed that Egyptian ulema have taken positive steps toward countering Zionism over the past few years.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	I	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	informed	inform	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	Egyptian	egyptian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	ulema	ulema	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	taken	take	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	positive	positive	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	steps	step	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	toward	toward	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	countering	counter	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	Zionism	Zionism	PROPN	NNP	_	13	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	over	over	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	past	past	ADJ	JJ	_	19	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	few	few	ADJ	JJ	_	19	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	years	year	NOUN	NNS	_	15	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 32
+# text = But it is also the duty of the ulema to enlighten the general public and make them aware of the fact that they are all responsible concerning the issue of Palestine.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	duty	duty	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	ulema	ulema	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	enlighten	enlighten	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	general	general	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	public	public	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	make	make	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	them	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	aware	aware	ADJ	JJ	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	fact	fact	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	they	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+25	all	all	DET	DT	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	responsible	responsible	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	concerning	concern	VERB	VBG	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	issue	issue	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	Palestine	Palestine	PROPN	NNP	_	30	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+32	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 30
+# text = "In other words, the Muslim people should realize that it is their Islamic duty to support the Palestinians whose lands have been occupied by the Zionist regime.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	"	"	PUNCT	''	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	words	word	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Muslim	muslim	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	realize	realize	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	duty	duty	NOUN	NN	_	13	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	support	support	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Palestinians	Palestinians	PROPN	NNPS	_	18	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	whose	whose	DET	WP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	lands	land	NOUN	NNS	_	25	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	have	have	AUX	VBP	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	been	be	AUX	VBN	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	occupied	occupy	VERB	VBN	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	by	by	ADP	IN	_	25	agent	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	Zionist	zionist	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	regime	regime	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 14
+# text = It is also their duty to defend Islamic territories against the Zionist enemy.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	duty	duty	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	defend	defend	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	Islamic	islamic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	territories	territory	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	against	against	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Zionist	zionist	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	enemy	enemy	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 15
+# text = But of course intellectuals and the ulema shoulder a heavier responsibility in this regard.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	But	but	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	course	course	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	intellectuals	intellectual	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	ulema	ulema	PROPN	NNP	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	shoulder	shoulder	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	heavier	heavy	ADJ	JJR	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	responsibility	responsibility	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	regard	regard	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 1
+# text = "
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	"	"	PUNCT	''	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 33
+# text = Ayatollah Khamenei further noted: "Today, the wave of Islamic renaissance is sweeping Muslim nations, and we can see the signs of this awakening all over the Islamic world.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	"	"	PUNCT	''	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Today	today	NOUN	NN	_	15	npadvmod	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	wave	wave	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islamic	islamic	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	renaissance	renaissance	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	sweeping	sweep	VERB	VBG	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	Muslim	muslim	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	nations	nation	NOUN	NNS	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	we	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	can	can	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	see	see	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	signs	sign	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	this	this	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	awakening	awaken	VERB	VBG	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	all	all	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	over	over	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	Islamic	islamic	ADJ	JJ	_	33	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+32	world	world	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 39
+# text = Islam is quite able to answer questions posed by those with curious minds, and it is the duty of the ulema to present a modern image of Islam to those who are thirsty for pure Islamic knowledge.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Islam	Islam	PROPN	NNP	_	2	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	quite	quite	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	able	able	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	answer	answer	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	questions	question	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	posed	pose	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	those	those	DET	DT	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	curious	curious	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	minds	mind	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	duty	duty	NOUN	NN	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	ulema	ulema	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	present	present	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	modern	modern	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	image	image	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Islam	Islam	PROPN	NNP	_	28	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+30	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	those	those	DET	DT	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	who	who	PRON	WP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	are	be	AUX	VBP	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	thirsty	thirsty	ADJ	JJ	_	33	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	for	for	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	pure	pure	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	Islamic	islamic	ADJ	JJ	_	38	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+38	knowledge	knowledge	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 14
+# text = "However, this by no means implies compromising Islamic tenets and principles.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	"	"	PUNCT	''	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	However	however	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	no	no	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	means	means	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	implies	imply	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	compromising	compromise	VERB	VBG	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	Islamic	islamic	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	tenets	tenet	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	principles	principle	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 25
+# text = Some, under the influence of modernism, have lost their Islamic identity in the face of the Western culture and school of thought.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Some	some	DET	DT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	under	under	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	influence	influence	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	modernism	modernism	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	lost	lose	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islamic	islamic	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	identity	identity	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	face	face	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Western	western	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	culture	culture	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	school	school	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	thought	thought	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 30
+# text = But we believe that Islam is quite capable of answering all the questions posed in the modern world based on its own well-reasoned principles and doctrines."
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islam	Islam	PROPN	NNP	_	6	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	quite	quite	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	capable	capable	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	answering	answer	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	PDT	_	13	predet	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	questions	question	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	posed	pose	VERB	VBN	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	modern	modern	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	world	world	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	based	base	VERB	VBN	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	its	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	own	own	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	well	well	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	-	-	PUNCT	HYPH	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	reasoned	reason	VERB	VBN	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	principles	principle	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	doctrines	doctrine	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 34
+# text = Leader of the Islamic Republic also pointed out: "Egyptian ulema have been in the vanguard of the movement to revive pure Islamic thinking and have rendered valuable services in this respect.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Leader	Leader	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	2	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	also	also	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	:	:	PUNCT	:	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	``	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	Egyptian	egyptian	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	ulema	ulema	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	have	have	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	been	be	AUX	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	vanguard	vanguard	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	movement	movement	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	revive	revive	VERB	VB	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	pure	pure	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islamic	islamic	ADJ	JJ	_	26	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	thinking	thinking	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	have	have	AUX	VBP	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	rendered	render	VERB	VBN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	valuable	valuable	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	services	service	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	this	this	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	respect	respect	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 18
+# text = Therefore, we would like Egypt to preserve this status in the Islamic world even today."
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	Egypt	Egypt	PROPN	NNP	_	5	dobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	preserve	preserve	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	status	status	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islamic	islamic	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	world	world	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	even	even	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	''	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 53
+# text = In conclusion, Ayatollah Khamenei stated: "I would like to ask those who organized the congress here and the Egyptian scholars who participated in this congress to increase their communication and exchange of views on the main issues of the Islamic world and hold more gatherings to discuss these issues.
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Ayatollah	Ayatollah	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Khamenei	Khamenei	PROPN	NNP	_	6	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	:	:	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	would	would	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	like	like	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	ask	ask	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	those	those	DET	DT	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	organized	organize	VERB	VBD	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	congress	congress	PROPN	NNP	_	17	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	here	here	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Egyptian	egyptian	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	scholars	scholar	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	participated	participate	VERB	VBD	_	24	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	this	this	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	congress	congress	PROPN	NNP	_	27	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+29	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	increase	increase	VERB	VB	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	their	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	communication	communication	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	exchange	exchange	NOUN	NN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	views	view	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	on	on	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	main	main	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	issues	issue	NOUN	NNS	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	Islamic	islamic	ADJ	JJ	_	45	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+44	world	world	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	hold	hold	VERB	VB	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	more	more	ADJ	JJR	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	gatherings	gathering	NOUN	NNS	_	47	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	to	to	PART	TO	_	51	aux	_	ent_type=_|ent_id=2|ent_iob=O
+50	discuss	discuss	VERB	VB	_	47	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+51	these	these	DET	DT	_	53	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	issues	issue	NOUN	NNS	_	51	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 23
+# text = I would also like to convey my regards to all the Egyptian ulema and our dear brothers at Al-Azhar."
+# title = Leader's Statements in a Meeting with Visiting Egyptian Delegation
+# year = 2001
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	convey	convey	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	my	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	regards	regard	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	PDT	_	13	predet	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Egyptian	egyptian	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	ulema	ulema	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	dear	dear	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	brothers	brother	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	at	at	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Al	Al	PROPN	NNP	_	21	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+20	-	-	PUNCT	HYPH	_	21	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+21	Azhar	Azhar	PROPN	NNP	_	18	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O

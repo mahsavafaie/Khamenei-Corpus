@@ -1,0 +1,1996 @@
+# sent_id = 1
+# sent_len = 65
+# text = Ayatollah Khamenei also prayed for more divine blessings on those striving and making selfless scarifies for the sake of Islam and hoped that the flame of eternal salvation and prosperity which, thanks to the self-sacrifice of the devout Iranians, has illuminated this country and shed its light on the whole Islamic world would become brighter and more shining than before.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	prayed	pray	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	more	more	ADJ	JJR	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	divine	divine	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	blessings	blessing	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	those	those	DET	DT	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	striving	strive	VERB	VBG	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	making	make	VERB	VBG	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	selfless	selfless	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	scarifies	scarifie	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	sake	sake	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islam	Islam	PROPN	NNP	_	19	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	hoped	hope	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	58	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	flame	flame	NOUN	NN	_	58	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	eternal	eternal	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	salvation	salvation	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	prosperity	prosperity	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	which	which	DET	WDT	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	thanks	thank	NOUN	NNS	_	45	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	self	self	NOUN	NN	_	38	compound	_	ent_type=_|ent_id=2|ent_iob=O
+37	-	-	PUNCT	HYPH	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	sacrifice	sacrifice	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	devout	devout	ADJ	JJ	_	42	compound	_	ent_type=_|ent_id=2|ent_iob=O
+42	Iranians	Iranians	PROPN	NNPS	_	39	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+43	,	,	PUNCT	,	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	has	have	AUX	VBZ	_	45	aux	_	ent_type=_|ent_id=2|ent_iob=O
+45	illuminated	illuminate	VERB	VBN	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+46	this	this	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	country	country	NOUN	NN	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	45	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	shed	shed	VERB	VB	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	its	-PRON-	DET	PRP$	_	51	poss	_	ent_type=_|ent_id=2|ent_iob=O
+51	light	light	NOUN	NN	_	49	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	on	on	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+53	the	the	DET	DT	_	56	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	whole	whole	ADJ	JJ	_	56	amod	_	ent_type=_|ent_id=2|ent_iob=O
+55	Islamic	islamic	ADJ	JJ	_	56	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+56	world	world	NOUN	NN	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+57	would	would	VERB	MD	_	58	aux	_	ent_type=_|ent_id=2|ent_iob=O
+58	become	become	VERB	VB	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+59	brighter	brighter	ADV	RBR	_	58	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+60	and	and	CCONJ	CC	_	59	cc	_	ent_type=_|ent_id=2|ent_iob=O
+61	more	more	ADV	RBR	_	62	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+62	shining	shining	ADJ	JJ	_	59	conj	_	ent_type=_|ent_id=2|ent_iob=O
+63	than	than	SCONJ	IN	_	62	prep	_	ent_type=_|ent_id=2|ent_iob=O
+64	before	before	ADV	RB	_	63	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+65	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 42
+# text = The Leader further felicitated the audience on the advent of the month of Sha'ban, stressing that the three months of Rajab, Sha'ban and Ramazan are favorable opportunities for prayer and supplication to Almighty Allah and enjoying the divine blessings.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	felicitated	felicitate	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	audience	audience	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	advent	advent	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	month	month	NOUN	NN	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	of	of	ADP	IN	_	12	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	Sha'ban	Sha'ban	PROPN	NNP	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	stressing	stress	VERB	VBG	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	three	three	NUM	CD	_	20	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	months	month	NOUN	NNS	_	27	nsubj	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Rajab	Rajab	PROPN	NNP	_	21	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	Sha'ban	Sha'ban	PROPN	NNP	_	22	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	Ramazan	Ramazan	PROPN	NNP	_	24	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	are	be	AUX	VBP	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	favorable	favorable	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	opportunities	opportunity	NOUN	NNS	_	27	attr	_	ent_type=_|ent_id=2|ent_iob=O
+30	for	for	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	prayer	prayer	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	supplication	supplication	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Almighty	Almighty	PROPN	NNP	_	36	compound	_	ent_type=_|ent_id=2|ent_iob=O
+36	Allah	Allah	PROPN	NNP	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	enjoying	enjoy	VERB	VBG	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	divine	divine	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	blessings	blessing	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 38
+# text = As regards mankind's need for spirituality, the Leader said that without spirituality human beings would deviate from the path toward salvation and would fail to attain the lofty objectives for which they have been created.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	mankind	mankind	NOUN	NN	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	's	's	PART	POS	_	3	case	_	ent_type=_|ent_id=2|ent_iob=O
+5	need	need	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	spirituality	spirituality	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Leader	leader	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	without	without	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	spirituality	spirituality	NOUN	NN	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	human	human	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	beings	being	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	would	would	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	deviate	deviate	VERB	VB	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	from	from	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	path	path	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	toward	toward	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	salvation	salvation	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	would	would	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	fail	fail	VERB	VB	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	attain	attain	VERB	VB	_	26	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	lofty	lofty	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	objectives	objective	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	for	for	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	which	which	DET	WDT	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	they	-PRON-	PRON	PRP	_	37	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+35	have	have	AUX	VBP	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	been	be	AUX	VBN	_	37	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+37	created	create	VERB	VBN	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 27
+# text = "When a nation becomes devoid of moral and spiritual values, it will lose its real identity and will have no proper direction in life.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	becomes	become	VERB	VBZ	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	devoid	devoid	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	moral	moral	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	spiritual	spiritual	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	values	value	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	lose	lose	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	its	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	real	real	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	identity	identity	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	have	have	AUX	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	no	no	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	proper	proper	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	direction	direction	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	life	life	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 27
+# text = But a nation that is governed by moral and spiritual values will lead a meaningful life and will make an effort to attain its noble ideals.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	But	but	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	governed	govern	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	moral	moral	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	spiritual	spiritual	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	values	value	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	lead	lead	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	meaningful	meaningful	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	life	life	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	will	will	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	make	make	VERB	VB	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	an	an	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	effort	effort	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	attain	attain	VERB	VB	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+24	its	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	noble	noble	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	ideals	ideal	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 28
+# text = These three holy months provide us with favorable opportunities for increasing our spiritual asset and for getting closer to moral and spiritual perfection", he noted.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	These	these	DET	DT	_	4	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	three	three	NUM	CD	_	4	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	holy	holy	ADJ	JJ	_	4	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	months	month	NOUN	NNS	_	5	nsubj	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	provide	provide	VERB	VBP	_	27	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	us	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	favorable	favorable	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	opportunities	opportunity	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	increasing	increase	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	spiritual	spiritual	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	asset	asset	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	getting	get	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	closer	close	ADJ	JJR	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	moral	moral	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	spiritual	spiritual	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	perfection	perfection	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	"	"	PUNCT	''	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	he	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 62
+# text = Ayatollah Khamenei also stated: "In the Holy Qur'an, the Almighty says, 'Surely those who say, Our Lord is Allah, then they continue on the right way, the angels descend upon them, saying: Fear not, nor be grieved, and receive good news of the Garden which you were promised.'
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	:	:	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	"	"	PUNCT	``	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	In	in	ADP	IN	_	15	prep	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+8	the	the	DET	DT	_	11	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+9	Holy	Holy	PROPN	NNP	_	11	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+10	Qur'an	Qur'an	PROPN	NNP	_	8	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+11	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Almighty	Almighty	PROPN	NNP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	says	say	VERB	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	'	'	PUNCT	''	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	Surely	surely	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	those	those	DET	DT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	say	say	VERB	VBP	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	Our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	Lord	Lord	PROPN	NNP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	30	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	Allah	Allah	PROPN	NNP	_	25	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	then	then	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	they	-PRON-	PRON	PRP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	continue	continue	VERB	VBP	_	38	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	on	on	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	right	right	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	way	way	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	angels	angel	NOUN	NNS	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	descend	descend	VERB	VBP	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	upon	upon	SCONJ	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	them	-PRON-	PRON	PRP	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	saying	say	VERB	VBG	_	38	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+42	:	:	PUNCT	:	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+43	Fear	fear	VERB	VB	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	not	not	PART	RB	_	44	neg	_	ent_type=_|ent_id=2|ent_iob=O
+45	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	nor	nor	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+47	be	be	AUX	VB	_	49	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+48	grieved	grieve	VERB	VBN	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+49	,	,	PUNCT	,	_	49	punct	_	ent_type=_|ent_id=2|ent_iob=O
+50	and	and	CCONJ	CC	_	49	cc	_	ent_type=_|ent_id=2|ent_iob=O
+51	receive	receive	VERB	VBP	_	49	conj	_	ent_type=_|ent_id=2|ent_iob=O
+52	good	good	ADJ	JJ	_	54	amod	_	ent_type=_|ent_id=2|ent_iob=O
+53	news	news	NOUN	NN	_	52	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	of	of	ADP	IN	_	54	prep	_	ent_type=_|ent_id=2|ent_iob=O
+55	the	the	DET	DT	_	57	det	_	ent_type=_|ent_id=2|ent_iob=O
+56	Garden	Garden	PROPN	NNP	_	55	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+57	which	which	DET	WDT	_	61	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+58	you	-PRON-	PRON	PRP	_	61	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+59	were	be	AUX	VBD	_	61	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+60	promised	promise	VERB	VBN	_	52	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+61	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+62	'	'	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 3
+# text = (41:30)
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	(	(	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	41:30	41:30	NUM	CD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	)	)	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 20
+# text = "In this verse, 'Our Lord is Allah' refers to servitude and submission to the Almighty.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	verse	verse	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	'	'	PUNCT	''	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	Lord	Lord	PROPN	NNP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	Allah	Allah	PROPN	NNP	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	'	'	PUNCT	''	_	10	case	_	ent_type=_|ent_id=2|ent_iob=O
+12	refers	refer	VERB	VBZ	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	servitude	servitude	NOUN	NN	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	submission	submission	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Almighty	Almighty	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 12
+# text = This is good in itself, but it is not enough.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	good	good	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	itself	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	enough	enough	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 23
+# text = In other words, submission to Allah should be followed by the continuation on the right way, as this verse stresses.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	In	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	submission	submission	NOUN	NN	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Allah	Allah	PROPN	NNP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	followed	follow	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	continuation	continuation	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	right	right	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	way	way	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	verse	verse	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	stresses	stress	VERB	VBZ	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 24
+# text = If those who say 'Our Lord is Allah' continue on the right way, then the angels will descend upon them.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	If	if	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	those	those	DET	DT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	'	'	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	Lord	Lord	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	Allah	Allah	PROPN	NNP	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	'	'	PUNCT	''	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	continue	continue	VERB	VB	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	right	right	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	way	way	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	then	then	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	angels	angel	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	descend	descend	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	upon	upon	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 22
+# text = Thus, it becomes clear from this verse that the continuation and perseverance on the right way is very important."
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Thus	thus	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	becomes	become	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	clear	clear	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	from	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	verse	verse	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	continuation	continuation	NOUN	NN	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	perseverance	perseverance	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	right	right	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	way	way	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	very	very	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	important	important	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 10
+# text = Leader of the Islamic Republic went on to say:
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Leader	Leader	PROPN	NNP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	2	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	say	say	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	:	:	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 32
+# text = "If a nation adheres to this concept and keeps up its perseverance on the right way, even mountains will not be able to pose any obstacles to its progress.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	If	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	adheres	adhere	VERB	VBZ	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	concept	concept	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	keeps	keep	VERB	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	up	up	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	perseverance	perseverance	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	right	right	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	way	way	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	even	even	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	mountains	mountain	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	will	will	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	not	not	PART	RB	_	23	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	able	able	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	pose	pose	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	any	any	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	obstacles	obstacle	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	its	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	progress	progress	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 18
+# text = This is what happened in the case of our nation and the victory of the Islamic Revolution.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	happened	happen	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	case	case	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	victory	victory	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+17	Revolution	Revolution	PROPN	NNP	_	14	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 52
+# text = It was not even imaginable that a nation with empty hands would be able to overthrow a corrupt and despotic regime, which was supported by all oppressive powers of the world, and that this nation would be able to establish a government based on its Islamic ideals and principles.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	even	even	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	imaginable	imaginable	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	empty	empty	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	hands	hand	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	would	would	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	able	able	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	overthrow	overthrow	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	corrupt	corrupt	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	despotic	despotic	ADJ	JJ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	regime	regime	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	which	which	DET	WDT	_	25	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	was	be	AUX	VBD	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	supported	support	VERB	VBN	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	by	by	ADP	IN	_	25	agent	_	ent_type=_|ent_id=2|ent_iob=O
+27	all	all	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	oppressive	oppressive	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	powers	power	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	world	world	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	that	that	SCONJ	IN	_	39	mark	_	ent_type=_|ent_id=2|ent_iob=O
+36	this	this	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	nation	nation	NOUN	NN	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	would	would	VERB	MD	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	be	be	AUX	VB	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	able	able	ADJ	JJ	_	39	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	to	to	PART	TO	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+42	establish	establish	VERB	VB	_	40	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	a	a	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	government	government	NOUN	NN	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	based	base	VERB	VBN	_	44	acl	_	ent_type=_|ent_id=2|ent_iob=O
+46	on	on	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	its	-PRON-	DET	PRP$	_	49	poss	_	ent_type=_|ent_id=2|ent_iob=O
+48	Islamic	islamic	ADJ	JJ	_	49	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+49	ideals	ideal	NOUN	NNS	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	and	and	CCONJ	CC	_	49	cc	_	ent_type=_|ent_id=2|ent_iob=O
+51	principles	principle	NOUN	NNS	_	49	conj	_	ent_type=_|ent_id=2|ent_iob=O
+52	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 8
+# text = But this is what our nation did.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 30
+# text = Indeed, the Iranian people were so strongly motivated by their moral and spiritual ideals that no pressure, threat or intimidation could strop from accomplishing their noble objectives.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Indeed	indeed	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iranian	iranian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	people	people	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	were	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	so	so	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	strongly	strongly	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	motivated	motivated	ADJ	JJ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	moral	moral	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	spiritual	spiritual	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	ideals	ideal	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	DET	WDT	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	no	no	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	pressure	pressure	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	threat	threat	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	intimidation	intimidation	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	could	could	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	strop	strop	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	from	from	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	accomplishing	accomplish	VERB	VBG	_	25	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	their	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	noble	noble	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	objectives	objective	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 19
+# text = "Another instance of the Iranian nation's strong will and perseverance was witnessed during the imposed war.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Another	another	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	instance	instance	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	nation	nation	NOUN	NN	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	's	's	PART	POS	_	7	case	_	ent_type=_|ent_id=2|ent_iob=O
+9	strong	strong	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	perseverance	perseverance	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	witnessed	witness	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	during	during	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	imposed	impose	VERB	VBN	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	war	war	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 16
+# text = Most of you may have taken part in the sacred defense against the Iraqi aggressors.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Most	Most	ADJ	JJS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	may	may	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VB	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	taken	take	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	part	part	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	sacred	sacred	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	defense	defense	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	against	against	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iraqi	iraqi	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	aggressors	aggressor	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 27
+# text = When the Iraqi regime waged its full-scale military aggression against the Islamic Republic, the Iranian nation was deprived of even most conventional weapons.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Iraqi	iraqi	ADJ	JJ	_	4	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+4	regime	regime	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	waged	wage	VERB	VBD	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	its	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	full	full	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	scale	scale	NOUN	NN	_	11	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	military	military	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	aggression	aggression	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	against	against	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	Republic	Republic	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	nation	nation	NOUN	NN	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	was	be	AUX	VBD	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	deprived	deprive	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	even	even	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	most	most	ADV	RBS	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	conventional	conventional	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	weapons	weapon	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 84
+# text = "However, the religious, moral and spiritual motives of the devout youngsters, the Basijis (volunteer forces), the IRGC members and faithful soldiers infused them with such great determination and high spirits that they managed to repel the full-scale military aggression of the Iraqi regime, a regime which was backed by a united front, including the U.S. intelligence services and its defense department, some NATO members as well as the former Soviet Union.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	''	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	However	however	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	religious	religious	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	moral	moral	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	spiritual	spiritual	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	motives	motive	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	devout	devout	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	youngsters	youngster	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Basijis	Basijis	PROPN	NNP	_	10	appos	_	ent_type=_|ent_id=2|ent_iob=O
+18	(	(	PUNCT	-LRB-	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	volunteer	volunteer	NOUN	NN	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	forces	force	NOUN	NNS	_	17	appos	_	ent_type=_|ent_id=2|ent_iob=O
+21	)	)	PUNCT	-RRB-	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	IRGC	irgc	ADJ	JJ	_	25	amod	_	ent_type=ORG|ent_id=3|ent_iob=B
+25	members	member	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	faithful	faithful	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	soldiers	soldier	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	infused	infuse	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+30	them	-PRON-	PRON	PRP	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	with	with	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	such	such	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	great	great	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	determination	determination	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	high	high	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	spirits	spirit	NOUN	NNS	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	that	that	DET	WDT	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	they	-PRON-	PRON	PRP	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	managed	manage	VERB	VBD	_	29	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+41	to	to	PART	TO	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+42	repel	repel	VERB	VB	_	40	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	full	full	ADJ	JJ	_	46	amod	_	ent_type=_|ent_id=2|ent_iob=O
+45	-	-	PUNCT	HYPH	_	46	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	scale	scale	NOUN	NN	_	48	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+47	military	military	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	aggression	aggression	NOUN	NN	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	of	of	ADP	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+50	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+51	Iraqi	iraqi	ADJ	JJ	_	52	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+52	regime	regime	NOUN	NN	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	,	,	PUNCT	,	_	52	punct	_	ent_type=_|ent_id=2|ent_iob=O
+54	a	a	DET	DT	_	55	det	_	ent_type=_|ent_id=2|ent_iob=O
+55	regime	regime	NOUN	NN	_	52	appos	_	ent_type=_|ent_id=2|ent_iob=O
+56	which	which	DET	WDT	_	58	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+57	was	be	AUX	VBD	_	58	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+58	backed	back	VERB	VBN	_	55	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+59	by	by	ADP	IN	_	58	agent	_	ent_type=_|ent_id=2|ent_iob=O
+60	a	a	DET	DT	_	62	det	_	ent_type=_|ent_id=2|ent_iob=O
+61	united	united	ADJ	JJ	_	62	compound	_	ent_type=_|ent_id=2|ent_iob=O
+62	front	front	NOUN	NN	_	59	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+63	,	,	PUNCT	,	_	62	punct	_	ent_type=_|ent_id=2|ent_iob=O
+64	including	include	VERB	VBG	_	62	prep	_	ent_type=_|ent_id=2|ent_iob=O
+65	the	the	DET	DT	_	68	det	_	ent_type=_|ent_id=2|ent_iob=O
+66	U.S.	U.S.	PROPN	NNP	_	68	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+67	intelligence	intelligence	NOUN	NN	_	68	compound	_	ent_type=_|ent_id=2|ent_iob=O
+68	services	service	NOUN	NNS	_	64	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+69	and	and	CCONJ	CC	_	68	cc	_	ent_type=_|ent_id=2|ent_iob=O
+70	its	-PRON-	DET	PRP$	_	72	poss	_	ent_type=_|ent_id=2|ent_iob=O
+71	defense	defense	NOUN	NN	_	72	compound	_	ent_type=_|ent_id=2|ent_iob=O
+72	department	department	NOUN	NN	_	68	conj	_	ent_type=_|ent_id=2|ent_iob=O
+73	,	,	PUNCT	,	_	62	punct	_	ent_type=_|ent_id=2|ent_iob=O
+74	some	some	DET	DT	_	76	det	_	ent_type=_|ent_id=2|ent_iob=O
+75	NATO	NATO	PROPN	NNP	_	76	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+76	members	member	NOUN	NNS	_	55	conj	_	ent_type=_|ent_id=2|ent_iob=O
+77	as	as	ADV	RB	_	79	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+78	well	well	ADV	RB	_	79	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+79	as	as	SCONJ	IN	_	76	cc	_	ent_type=_|ent_id=2|ent_iob=O
+80	the	the	DET	DT	_	83	det	_	ent_type=_|ent_id=2|ent_iob=O
+81	former	former	ADJ	JJ	_	83	amod	_	ent_type=_|ent_id=2|ent_iob=O
+82	Soviet	Soviet	PROPN	NNP	_	83	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+83	Union	Union	PROPN	NNP	_	76	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+84	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 15
+# text = Iraq was even supported financially by some oil-rich countries in the region.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Iraq	Iraq	PROPN	NNP	_	4	nsubjpass	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	even	even	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	supported	support	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	financially	financially	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+7	some	some	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	oil	oil	NOUN	NN	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	rich	rich	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	countries	country	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	region	region	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 42
+# text = "Today, thanks to their strong religious beliefs and resolution, the devout and revolutionary forces of the Islamic Republic have made great strides in the various areas of development as well as in the military and technological fields."
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	thanks	thank	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	strong	strong	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	religious	religious	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	beliefs	belief	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	resolution	resolution	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	devout	devout	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	revolutionary	revolutionary	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	forces	force	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	Islamic	Islamic	PROPN	NNP	_	21	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	Republic	Republic	PROPN	NNP	_	18	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+22	have	have	AUX	VBP	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	great	great	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	strides	stride	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	various	various	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	areas	area	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	development	development	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	as	as	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+33	well	well	ADV	RB	_	34	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	as	as	SCONJ	IN	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	military	military	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	technological	technological	ADJ	JJ	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	fields	field	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+42	"	"	PUNCT	''	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 47
+# text = As regards the ideal society that the Islamic Republic aims to establish, Ayatollah Khamenei noted: "We aim to establish a society in which people seek both worldly prosperity and eternal salvation, and in which people of all ranks enjoy justice and equity.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	ideal	ideal	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	society	society	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	Republic	Republic	PROPN	NNP	_	10	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	aims	aim	VERB	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	establish	establish	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	Ayatollah	Ayatollah	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	Khamenei	Khamenei	PROPN	NNP	_	16	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	:	:	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	``	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	We	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	aim	aim	VERB	VBP	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	establish	establish	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	society	society	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	which	which	DET	WDT	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	people	people	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	seek	seek	VERB	VBP	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	both	both	DET	DT	_	32	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+30	worldly	worldly	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	prosperity	prosperity	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	eternal	eternal	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	salvation	salvation	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	in	in	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	which	which	DET	WDT	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	people	people	NOUN	NNS	_	44	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	all	all	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	ranks	rank	NOUN	NNS	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	enjoy	enjoy	VERB	VBP	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	justice	justice	NOUN	NN	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	45	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	equity	equity	NOUN	NN	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 14
+# text = In fact, this is the kind of society desired by all nations.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	In	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	kind	kind	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	society	society	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	desired	desire	VERB	VBN	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	nations	nation	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 25
+# text = "Today, even in some developed and powerful countries, the common people are suffering from poverty, injustice, oppression and deprivation.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Today	today	NOUN	NN	_	16	npadvmod	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	even	even	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	some	some	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	developed	developed	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	powerful	powerful	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	countries	country	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	common	common	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	suffering	suffer	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	from	from	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	poverty	poverty	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	injustice	injustice	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	oppression	oppression	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	deprivation	deprivation	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 31
+# text = This is because those at the helm in these countries only seek to acquire more wealth and power rather than promote moral and spiritual values and administer justice in society.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	those	those	DET	DT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	helm	helm	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	countries	country	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	only	only	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	seek	seek	VERB	VBP	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	acquire	acquire	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	more	more	ADJ	JJR	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	wealth	wealth	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	power	power	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	rather	rather	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	than	than	SCONJ	IN	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	promote	promote	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	moral	moral	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	spiritual	spiritual	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	values	value	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	administer	administer	VERB	VB	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	justice	justice	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	society	society	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 39
+# text = "In the eyes of a vigilant and enlightened nation, an ideal society is the one in which spirituality, justice, human dignity and eternal salvation are as important as worldly prosperity, wealth and power.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	In	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	eyes	eye	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	vigilant	vigilant	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	enlightened	enlighten	VERB	VBN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	an	an	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	ideal	ideal	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	society	society	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	one	one	NUM	CD	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	which	which	DET	WDT	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	spirituality	spirituality	NOUN	NN	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	justice	justice	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	human	human	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	dignity	dignity	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	eternal	eternal	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	salvation	salvation	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	are	be	AUX	VBP	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	as	as	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	important	important	ADJ	JJ	_	29	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	as	as	SCONJ	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	worldly	worldly	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	prosperity	prosperity	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	wealth	wealth	NOUN	NN	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	power	power	NOUN	NN	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 36
+# text = The establishment of this kind of society is possible only by adhering to moral and spiritual principles, by striving in the way of Allah and by making every effort to enforce the divine religion.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	establishment	establishment	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	kind	kind	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	society	society	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	possible	possible	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	only	only	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	adhering	adhere	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	moral	moral	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	spiritual	spiritual	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	principles	principle	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	by	by	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	striving	strive	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	way	way	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Allah	Allah	PROPN	NNP	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	by	by	ADP	IN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	making	make	VERB	VBG	_	27	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	every	every	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	effort	effort	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	enforce	enforce	VERB	VB	_	30	acl	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	divine	divine	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	religion	religion	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 15
+# text = "Having this belief and ideology is what reflects honor on the IRGC members.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Having	have	VERB	VBG	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	belief	belief	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	ideology	ideology	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	what	what	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	reflects	reflect	VERB	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	honor	honor	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	IRGC	irgc	ADJ	JJ	_	14	amod	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	members	member	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 13
+# text = They are the ones who have striven in the way of Allah.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	ones	one	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	striven	strive	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	way	way	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Allah	Allah	PROPN	NNP	_	11	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 10
+# text = The IRGC Day is the birth anniversary of Imam Hussain
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	IRGC	IRGC	PROPN	NNP	_	3	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	Day	Day	PROPN	NNP	_	4	nsubj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	birth	birth	NOUN	NN	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	anniversary	anniversary	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Imam	Imam	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	Hussain	Hussain	PROPN	NNP	_	8	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+
+# sent_id = 35
+# sent_len = 7
+# text = (greetings be upon him),
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	(	(	PUNCT	-LRB-	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	greetings	greeting	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	upon	upon	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	him	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	)	)	PUNCT	-RRB-	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 19
+# text = who was the embodiment and paragon of pure and immaculate endeavor and struggle in the way of Allah.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	who	who	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	embodiment	embodiment	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	paragon	paragon	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	pure	pure	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	immaculate	immaculate	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	endeavor	endeavor	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	struggle	struggle	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	way	way	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Allah	Allah	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 42
+# text = This is why after nearly 14 centuries, the name of Imam Hussain (greetings be upon him) is still associated with justice, virtue and other spiritual and moral values, the values that also inspired our Islamic Revolution.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	after	after	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	nearly	nearly	ADV	RB	_	6	advmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	14	14	NUM	CD	_	7	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	centuries	century	NOUN	NNS	_	4	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	name	name	NOUN	NN	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Imam	Imam	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	Hussain	Hussain	PROPN	NNP	_	11	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	(	(	PUNCT	-LRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	greetings	greeting	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	10	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+17	upon	upon	SCONJ	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	him	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	)	)	PUNCT	-RRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	still	still	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	associated	associate	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	with	with	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	justice	justice	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	virtue	virtue	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	other	other	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	spiritual	spiritual	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	moral	moral	ADJ	JJ	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	values	value	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	values	value	NOUN	NNS	_	22	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	that	that	DET	WDT	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	also	also	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	inspired	inspire	VERB	VBD	_	35	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	our	-PRON-	DET	PRP$	_	41	poss	_	ent_type=_|ent_id=2|ent_iob=O
+40	Islamic	Islamic	PROPN	NNP	_	41	compound	_	ent_type=_|ent_id=2|ent_iob=O
+41	Revolution	Revolution	PROPN	NNP	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 33
+# text = "Our Islamic Revolution followed the example set by Imam Hussain (greetings be upon him) and succeeded in bringing about an Islamic revival and in restoring the glory of Islam.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=EVENT|ent_id=3|ent_iob=B
+3	Islamic	Islamic	PROPN	NNP	_	4	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+4	Revolution	Revolution	PROPN	NNP	_	5	nsubj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+5	followed	follow	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	example	example	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	set	set	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	Imam	Imam	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	Hussain	Hussain	PROPN	NNP	_	9	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	(	(	PUNCT	-LRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	greetings	greeting	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	be	be	AUX	VB	_	5	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+15	upon	upon	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	him	-PRON-	PRON	PRP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	)	)	PUNCT	-RRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	succeeded	succeed	VERB	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	bringing	bring	VERB	VBG	_	20	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	about	about	ADP	RP	_	21	prt	_	ent_type=_|ent_id=2|ent_iob=O
+23	an	an	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islamic	islamic	ADJ	JJ	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	revival	revival	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	restoring	restore	VERB	VBG	_	27	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	glory	glory	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	Islam	Islam	PROPN	NNP	_	31	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+33	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 53
+# text = Indeed, the great sacrifices that you, the IRGC members, and other devotees of the Islamic Revolution made over the recent years caused an awakening in the Islamic world, proved the justness of the struggle of the Iranian nation and brought disgrace on the arrogant power of the world.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Indeed	indeed	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	sacrifices	sacrifice	NOUN	NNS	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	IRGC	irgc	ADJ	JJ	_	11	amod	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	members	member	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	other	other	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	devotees	devotee	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+18	Islamic	Islamic	PROPN	NNP	_	19	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+19	Revolution	Revolution	PROPN	NNP	_	16	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+20	made	make	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	over	over	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+23	recent	recent	ADJ	JJ	_	24	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+24	years	year	NOUN	NNS	_	21	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+25	caused	cause	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	an	an	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	awakening	awakening	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	Islamic	islamic	ADJ	JJ	_	31	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+31	world	world	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	proved	prove	VERB	VBD	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	justness	justness	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	struggle	struggle	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	Iranian	iranian	ADJ	JJ	_	42	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+42	nation	nation	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	brought	bring	VERB	VBD	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	disgrace	disgrace	NOUN	NN	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	on	on	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	the	the	DET	DT	_	49	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	arrogant	arrogant	ADJ	JJ	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	power	power	NOUN	NN	_	46	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	of	of	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	world	world	NOUN	NN	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 24
+# text = "The United States is spending a great deal of money in order to preserve its prestige and manipulate the world public opinion.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	United	United	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	States	States	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	is	be	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	spending	spend	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	great	great	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	deal	deal	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	money	money	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	order	order	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	preserve	preserve	VERB	VB	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	its	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	prestige	prestige	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	manipulate	manipulate	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	world	world	NOUN	NN	_	23	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	public	public	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	opinion	opinion	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 41
+# text = But today there are massive demonstrations in different parts of the world against the domineering and arrogant attitude of the United States, and Washington has suffered a heavy blow to its image in the eyes of the world public.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	there	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	massive	massive	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	demonstrations	demonstration	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	different	different	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	parts	part	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	world	world	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	against	against	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	domineering	domineering	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	arrogant	arrogant	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	attitude	attitude	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+21	United	United	PROPN	NNP	_	22	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+22	States	States	PROPN	NNP	_	19	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+23	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	Washington	Washington	PROPN	NNP	_	27	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	has	have	AUX	VBZ	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	suffered	suffer	VERB	VBN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	heavy	heavy	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	blow	blow	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	its	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	image	image	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	eyes	eye	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	world	world	NOUN	NN	_	40	compound	_	ent_type=_|ent_id=2|ent_iob=O
+40	public	public	ADJ	JJ	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 16
+# text = This is the outcome of your resistance, striving and trust in Almighty Allah."
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	outcome	outcome	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	resistance	resistance	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	striving	striving	NOUN	NN	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	trust	trust	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Almighty	Almighty	PROPN	NNP	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	Allah	Allah	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 36
+# text = Elsewhere in his remarks, Leader of the Islamic Republic said: "Today, an awakening has occurred in the Islamic world, and the enemies of Islam have lost face and suffered humiliation.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Elsewhere	elsewhere	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Leader	leader	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	:	:	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	``	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	Today	today	NOUN	NN	_	20	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	awakening	awakening	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	has	have	AUX	VBZ	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	occurred	occur	VERB	VBN	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	world	world	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	enemies	enemy	NOUN	NNS	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Islam	Islam	PROPN	NNP	_	29	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+30	have	have	AUX	VBP	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	lost	lose	VERB	VBN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	face	face	NOUN	NN	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	suffered	suffer	VERB	VBD	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	humiliation	humiliation	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 47
+# text = This is due to the struggle and striving in the way of Allah, the way that will lead Muslims to an ideal society in which spiritual and moral values prevail, a society that also enjoys power, prosperity and advanced scientific knowledge and technology.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	due	due	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	struggle	struggle	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	striving	strive	VERB	VBG	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	way	way	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Allah	Allah	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	way	way	NOUN	NN	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	WDT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	will	will	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	lead	lead	VERB	VB	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	Muslims	Muslims	PROPN	NNPS	_	19	dobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	an	an	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	ideal	ideal	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	society	society	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	which	which	DET	WDT	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	spiritual	spiritual	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	moral	moral	ADJ	JJ	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	values	value	NOUN	NNS	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	prevail	prevail	VERB	VBP	_	24	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	a	a	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	society	society	NOUN	NN	_	31	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	that	that	DET	WDT	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	also	also	ADV	RB	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	enjoys	enjoy	VERB	VBZ	_	34	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+38	power	power	NOUN	NN	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	prosperity	prosperity	NOUN	NN	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	advanced	advanced	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	scientific	scientific	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	knowledge	knowledge	NOUN	NN	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	44	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	technology	technology	NOUN	NN	_	44	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 35
+# text = "This is the right path that has been trodden by the children of the revolution and Imam Khomeini, and it is the path that will surely lead us to that ideal society.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	right	right	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	path	path	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	been	be	AUX	VBN	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	trodden	trodden	ADJ	JJ	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	children	child	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	revolution	revolution	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	Imam	Imam	PROPN	NNP	_	19	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	Khomeini	Khomeini	PROPN	NNP	_	16	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+20	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	it	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	path	path	NOUN	NN	_	23	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	will	will	VERB	MD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	surely	surely	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	lead	lead	VERB	VB	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+30	us	-PRON-	PRON	PRP	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	that	that	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	ideal	ideal	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	society	society	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 12
+# text = However, the only condition for attaining this objective is perseverance.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	However	however	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	only	only	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	condition	condition	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	attaining	attain	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	objective	objective	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	perseverance	perseverance	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 18
+# text = "Perseverance means adhering to moral and spiritual values that have been prescribed by the Islamic tenets.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Perseverance	Perseverance	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	adhering	adhere	VERB	VBG	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	moral	moral	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	spiritual	spiritual	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	values	value	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	been	be	AUX	VBN	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	prescribed	prescribe	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	by	by	ADP	IN	_	13	agent	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islamic	islamic	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	tenets	tenet	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 24
+# text = It also means not being seduced by material and worldly allurements and not falling in the trap of pleasure-seeking and hedonism.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	being	be	AUX	VBG	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	seduced	seduce	VERB	VBN	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	material	material	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	worldly	worldly	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	allurements	allurement	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	falling	fall	VERB	VBG	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	trap	trap	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	pleasure	pleasure	NOUN	NN	_	21	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	HYPH	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	seeking	seeking	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	hedonism	hedonism	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 30
+# text = "The top and high-ranking officials of the country and senior military commanders are the first ones who should tread this path and comply with these guidelines.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	top	top	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	high	high	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	-	-	PUNCT	HYPH	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	ranking	rank	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	officials	official	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	senior	senior	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	military	military	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	commanders	commander	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	first	first	ADJ	JJ	_	19	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+19	ones	one	NOUN	NNS	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	who	who	PRON	WP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	should	should	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	tread	tread	VERB	VB	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	path	path	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	comply	comply	VERB	VB	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	with	with	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	these	these	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	guidelines	guideline	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 41
+# text = But the devout individuals who would like to be given credit for the progress of the Islamic system and the fulfillment of Islamic ideals by the Almighty, the nation and the history should also move in this direction."
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	But	but	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	devout	devout	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	individuals	individual	NOUN	NNS	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	would	would	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	like	like	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	given	give	VERB	VBN	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	credit	credit	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	10	dative	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	progress	progress	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Islamic	islamic	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	system	system	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	fulfillment	fulfillment	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	ideals	ideal	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	by	by	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Almighty	Almighty	PROPN	NNP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	nation	nation	NOUN	NN	_	27	appos	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	history	history	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	should	should	VERB	MD	_	36	aux	_	ent_type=_|ent_id=2|ent_iob=O
+35	also	also	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	move	move	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+37	in	in	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	this	this	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	direction	direction	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	"	"	PUNCT	``	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 38
+# text = In conclusion, Ayatollah Khamenei stated: "When a nation is armed with the weapon of martyrdom and struggle in the way of Allah, it will work wonders and miracles and will make great achievements.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Ayatollah	Ayatollah	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Khamenei	Khamenei	PROPN	NNP	_	6	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	:	:	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	When	when	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	nation	nation	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	armed	armed	ADJ	JJ	_	30	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	weapon	weapon	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	martyrdom	martyrdom	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	struggle	struggle	VERB	VBP	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	way	way	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Allah	Allah	PROPN	NNP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	it	-PRON-	PRON	PRP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	will	will	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	work	work	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	wonders	wonder	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	miracles	miracle	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	will	will	VERB	MD	_	36	aux	_	ent_type=_|ent_id=2|ent_iob=O
+35	make	make	VERB	VB	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	great	great	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	achievements	achievement	NOUN	NNS	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 43
+# text = The enemies are trying to take this weapon away from our nation in order to render our Islamic system and revolution defenseless and vulnerable and in order to pave the way for their political, economic and military domination of our country.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	take	take	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	weapon	weapon	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	away	away	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	nation	nation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	order	order	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	render	render	VERB	VB	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	Islamic	islamic	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	system	system	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	revolution	revolution	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	defenseless	defenseless	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	vulnerable	vulnerable	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	order	order	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	pave	pave	VERB	VB	_	27	acl	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	way	way	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	for	for	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	their	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	political	political	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	economic	economic	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	military	military	ADJ	JJ	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	domination	domination	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	our	-PRON-	DET	PRP$	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+42	country	country	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 24
+# text = "It is up to you to remain steadfast to the Islamic and revolutionary ideals and safeguard your honor, dignity and identity.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	up	up	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	remain	remain	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	steadfast	steadfast	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	revolutionary	revolutionary	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	ideals	ideal	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	safeguard	safeguard	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	your	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	honor	honor	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	dignity	dignity	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	identity	identity	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 12
+# text = The first generation passed the trial of jihad and martyrdom successfully.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	first	first	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	generation	generation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	passed	pass	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	trial	trial	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	jihad	jihad	PROPN	NNP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	martyrdom	martyrdom	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	successfully	successfully	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 45
+# text = Moreover, considering the great spirituality that is possessed by our young generation today, it is clear that the second and third generations will also pass this trial successfully by the grace of Allah if some day it is necessary to do so.
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	Moreover	moreover	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	considering	consider	VERB	VBG	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	spirituality	spirituality	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	possessed	possess	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	young	young	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	generation	generation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	today	today	NOUN	NN	_	9	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	clear	clear	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	second	second	ADJ	JJ	_	24	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	third	third	ADJ	JJ	_	21	conj	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+24	generations	generation	NOUN	NNS	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	will	will	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	also	also	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	pass	pass	VERB	VB	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	this	this	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	trial	trial	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	successfully	successfully	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	by	by	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	grace	grace	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Allah	Allah	PROPN	NNP	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	if	if	SCONJ	IN	_	40	mark	_	ent_type=_|ent_id=2|ent_iob=O
+37	some	some	DET	DT	_	38	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+38	day	day	NOUN	NN	_	40	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+39	it	-PRON-	PRON	PRP	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	is	be	AUX	VBZ	_	27	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+41	necessary	necessary	ADJ	JJ	_	40	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+42	to	to	PART	TO	_	43	aux	_	ent_type=_|ent_id=2|ent_iob=O
+43	do	do	AUX	VB	_	40	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+44	so	so	ADV	RB	_	43	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 45
+# text = "God willing, through the perseverance, devotion and high spirits of you and other devotees of the Islamic Revolution, our nation will soon be able to remove the remaining obstacles to its progress and development and accomplish its divine objectives."
+# title = Leader's Statements on IRGC Day
+# year = 2002
+1	"	"	PUNCT	``	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	willing	willing	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	through	through	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	perseverance	perseverance	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	devotion	devotion	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	high	high	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	spirits	spirit	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	other	other	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	devotees	devotee	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+20	Islamic	Islamic	PROPN	NNP	_	21	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+21	Revolution	Revolution	PROPN	NNP	_	18	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+22	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	nation	nation	NOUN	NN	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	will	will	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	soon	soon	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	able	able	ADJ	JJ	_	27	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	remove	remove	VERB	VB	_	28	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	remaining	remain	VERB	VBG	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	obstacles	obstacle	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	its	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	progress	progress	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	development	development	NOUN	NN	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	accomplish	accomplish	VERB	VB	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	its	-PRON-	DET	PRP$	_	43	poss	_	ent_type=_|ent_id=2|ent_iob=O
+42	divine	divine	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	objectives	objective	NOUN	NNS	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	"	"	PUNCT	''	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O

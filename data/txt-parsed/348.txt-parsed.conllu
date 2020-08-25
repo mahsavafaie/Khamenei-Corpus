@@ -1,0 +1,2114 @@
+# sent_id = 1
+# sent_len = 6
+# text = Today's meeting was very good
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Today	today	NOUN	NN	_	3	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	's	's	PART	POS	_	1	case	_	ent_type=_|ent_id=2|ent_iob=O
+3	meeting	meeting	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	very	very	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	good	good	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 20
+# text = and I really enjoyed listening to holy Quranic ayahs which were recited by the nightingales of the Quranic garden.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	really	really	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	enjoyed	enjoy	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	listening	listen	VERB	VBG	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	holy	holy	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	Quranic	quranic	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	ayahs	ayah	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	were	be	AUX	VBD	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	recited	recite	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	nightingales	nightingale	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Quranic	quranic	ADJ	JJ	_	19	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	garden	garden	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 38
+# text = I thank those who organized this glorious and valuable ceremony and I hope that by Allah's favor, we will find more opportunities - on a daily basis - to get close to the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	those	those	DET	DT	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	organized	organize	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	glorious	glorious	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	valuable	valuable	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	ceremony	ceremony	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	I	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	hope	hope	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	by	by	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Allah	Allah	PROPN	NNP	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	's	's	PART	POS	_	16	case	_	ent_type=_|ent_id=2|ent_iob=O
+18	favor	favor	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	we	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	will	will	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	find	find	VERB	VB	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	more	more	ADJ	JJR	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	opportunities	opportunity	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	-	-	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	on	on	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	daily	daily	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	basis	basis	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	-	-	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	get	get	AUX	VB	_	24	acl	_	ent_type=_|ent_id=2|ent_iob=O
+33	close	close	ADJ	JJ	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+36	Holy	Holy	PROPN	NNP	_	37	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+37	Quran	Quran	PROPN	NNP	_	34	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+38	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 14
+# text = The truth is that we are still far away from the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	truth	truth	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	still	still	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	far	far	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	away	away	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+12	Holy	Holy	PROPN	NNP	_	13	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+13	Quran	Quran	PROPN	NNP	_	10	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 6
+# text = Our hearts should become Quranic.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	hearts	heart	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	Quranic	Quranic	PROPN	NNP	_	4	acomp	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 10
+# text = Our lives should become close to the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	lives	life	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	close	close	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+8	Holy	Holy	PROPN	NNP	_	9	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+9	Quran	Quran	PROPN	NNP	_	6	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 33
+# text = If we can establish a close relationship with the Holy Quran and if we can fill our hearts and souls with Quranic teachings, our lives and our society will become Quranic.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	establish	establish	VERB	VB	_	31	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	close	close	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	relationship	relationship	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+10	Holy	Holy	PROPN	NNP	_	11	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+11	Quran	Quran	PROPN	NNP	_	8	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	if	if	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	we	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	can	can	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	fill	fill	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	hearts	heart	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	souls	soul	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	with	with	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Quranic	quranic	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	teachings	teaching	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	lives	life	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	our	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	society	society	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	will	will	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	become	become	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+32	Quranic	quranic	ADJ	JJ	_	31	acomp	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	.	.	PUNCT	.	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 20
+# text = If this is done, we will no longer need to formulate policies and adopt such and such measures.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	done	do	VERB	VBN	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	no	no	ADV	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	longer	longer	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	need	need	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	formulate	formulate	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	policies	policy	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	adopt	adopt	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	such	such	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	such	such	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	measures	measure	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 16
+# text = The main thing that we need is to really make our hearts and souls Quranic.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	main	main	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	thing	thing	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	need	need	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	really	really	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	make	make	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	hearts	heart	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	souls	soul	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	Quranic	Quranic	PROPN	NNP	_	10	ccomp	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 29
+# text = I will tell you that an effort has been made for many years to make the hearts of Muslims and the Islamic Ummah drift away from Quranic concepts.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	tell	tell	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	effort	effort	NOUN	NN	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	been	be	AUX	VBN	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	made	make	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	many	many	ADJ	JJ	_	13	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	years	year	NOUN	NNS	_	11	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	make	make	VERB	VB	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	hearts	heart	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Muslims	Muslims	PROPN	NNPS	_	18	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Islamic	Islamic	PROPN	NNP	_	23	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	Ummah	Ummah	PROPN	NNP	_	24	compound	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+24	drift	drift	NOUN	NN	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	away	away	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Quranic	quranic	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	concepts	concept	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 12
+# text = In the present time, the same effort is being made.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	In	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	present	present	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	time	time	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	same	same	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	effort	effort	NOUN	NN	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	being	be	AUX	VBG	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 28
+# text = Today, in many Islamic countries, rulers are prepared to remove jihad from their Islamic teachings in order to show considerations for the enemies of Islam.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Today	today	NOUN	NN	_	9	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	many	many	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islamic	islamic	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	countries	country	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	rulers	ruler	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	prepared	prepared	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	remove	remove	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	jihad	jihad	PROPN	NNP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islamic	islamic	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	teachings	teaching	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	order	order	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	show	show	VERB	VB	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+22	considerations	consideration	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	enemies	enemy	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Islam	Islam	PROPN	NNP	_	26	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 24
+# text = When Quranic teachings jeopardize the interests of the enemies, some rulers of Islamic countries are prepared to remove them from school lessons.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	Quranic	quranic	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	teachings	teaching	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	jeopardize	jeopardize	VERB	VBP	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	interests	interest	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	enemies	enemy	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	some	some	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	rulers	ruler	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	countries	country	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	prepared	prepared	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	remove	remove	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	them	-PRON-	PRON	PRP	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	from	from	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	school	school	NOUN	NN	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	lessons	lesson	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 13
+# text = They want to make their youth drift away from these Quranic teachings.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	want	want	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	youth	youth	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	drift	drift	NOUN	NN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	away	away	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Quranic	quranic	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	teachings	teaching	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 9
+# text = Today, the same effort is being made.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	same	same	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	effort	effort	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	being	be	AUX	VBG	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 10
+# text = The Holy Quran has promised us a pure life:
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+2	Holy	Holy	PROPN	NNP	_	3	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+3	Quran	Quran	PROPN	NNP	_	5	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	promised	promise	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	us	-PRON-	PRON	PRP	_	5	dative	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	pure	pure	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	life	life	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	:	:	PUNCT	:	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 30
+# text = "Verily, to them will We give a new Life, a life that is good and pure" [The Holy Quran, 16: 97].
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	"	"	PUNCT	``	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Verily	verily	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	them	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	We	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	give	give	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	new	new	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Life	Life	PROPN	NNP	_	8	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	life	life	NOUN	NN	_	11	appos	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	good	good	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	pure	pure	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	''	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	[	[	PUNCT	-LRB-	_	24	punct	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+22	The	the	DET	DT	_	24	det	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+23	Holy	Holy	PROPN	NNP	_	24	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+24	Quran	Quran	PROPN	NNP	_	11	appos	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+25	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	16	16	NUM	CD	_	24	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+27	:	:	PUNCT	:	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	97	97	NUM	CD	_	24	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+29	]	]	PUNCT	-RRB-	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 7
+# text = What does a pure life mean?
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	What	what	PRON	WP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	does	do	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	pure	pure	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	life	life	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	mean	mean	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	?	?	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 13
+# text = It means a life in which our bodies and souls enjoy happiness.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	life	life	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	which	which	DET	WDT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	bodies	body	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	souls	soul	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	enjoy	enjoy	VERB	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	happiness	happiness	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 12
+# text = It is a life that brings us worldly and otherworldly comfort.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	life	life	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	brings	bring	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	us	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	worldly	worldly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	otherworldly	otherworldly	ADV	RB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	comfort	comfort	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 9
+# text = Our individual life is secure in that world.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	individual	individual	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	life	life	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	secure	secure	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	world	world	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 11
+# text = Psychological tranquility and material comfort exist in such a life.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Psychological	psychological	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	tranquility	tranquility	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	material	material	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	comfort	comfort	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	exist	exist	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	DET	PDT	_	10	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	life	life	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 9
+# text = It contains social benefits, happiness and dignity.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	contains	contain	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	social	social	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	benefits	benefit	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	happiness	happiness	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	dignity	dignity	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 7
+# text = It contains public independence and freedom.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	contains	contain	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	public	public	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	independence	independence	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	freedom	freedom	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 10
+# text = The Holy Quran has promised these things to us.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+2	Holy	Holy	PROPN	NNP	_	3	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+3	Quran	Quran	PROPN	NNP	_	5	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	promised	promise	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	these	these	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	things	thing	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	5	dative	_	ent_type=_|ent_id=2|ent_iob=O
+9	us	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 25
+# text = When the Holy Quran says, "Verily, to them will We give a new Life, a life that is good and pure
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	When	when	ADV	WRB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	5	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+5	says	say	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	Verily	verily	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	them	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	We	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	give	give	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	new	new	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	Life	Life	PROPN	NNP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	life	life	NOUN	NN	_	17	appos	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	WDT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	good	good	ADJ	JJ	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	pure	pure	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 7
+# text = " it means all these things.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	PDT	_	6	predet	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	things	thing	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 25
+# text = It means a kind of life in which dignity, security, welfare, independence, knowledge, progress, morality and forgiveness exist.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	means	mean	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	kind	kind	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	life	life	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	dignity	dignity	NOUN	NN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	security	security	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	welfare	welfare	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	independence	independence	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	knowledge	knowledge	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	progress	progress	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	morality	morality	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	forgiveness	forgiveness	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	exist	exist	VERB	VB	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 12
+# text = We are away from these things and we should reach them.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	away	away	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	from	from	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	things	thing	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	reach	reach	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	them	-PRON-	PRON	PRP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 13
+# text = Familiarity with the Holy Quran helps us get close to these things.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Familiarity	Familiarity	PROPN	NNP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	with	with	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Holy	Holy	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	Quran	Quran	PROPN	NNP	_	2	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	helps	help	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	us	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	get	get	AUX	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	close	close	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	these	these	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	things	thing	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 13
+# text = This is the reason for the existence of Quranic meetings and competitions.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	reason	reason	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	existence	existence	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Quranic	quranic	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	meetings	meeting	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	competitions	competition	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 18
+# text = This is the reason why we have engaged in educating qura and memorizers of the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	reason	reason	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	why	why	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	engaged	engage	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	educating	educate	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	qura	qura	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	memorizers	memorizer	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+16	Holy	Holy	PROPN	NNP	_	17	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+17	Quran	Quran	PROPN	NNP	_	14	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 12
+# text = All these things are preliminary steps, but they are necessary.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	All	all	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	things	thing	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	preliminary	preliminary	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	steps	step	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	necessary	necessary	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 22
+# text = Once more, I would like to advise our youth to read the Holy Quran and establish a close relationship with it
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Once	once	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	more	more	ADV	RBR	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	advise	advise	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	youth	youth	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	read	read	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+14	Holy	Holy	PROPN	NNP	_	15	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+15	Quran	Quran	PROPN	NNP	_	12	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+16	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	establish	establish	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	close	close	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	relationship	relationship	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	with	with	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	it	-PRON-	PRON	PRP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 34
+# text = : "No one will sit beside this Quran but that when he rises he will achieve one addition or one diminution - addition in his guidance or elimination in his blindness" [
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	:	:	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	No	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	sit	sit	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	beside	beside	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Quran	Quran	PROPN	NNP	_	7	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	when	when	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	he	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	rises	rise	VERB	VBZ	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	he	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	achieve	achieve	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	one	one	NUM	CD	_	19	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	addition	addition	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	or	or	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	one	one	NUM	CD	_	22	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+22	diminution	diminution	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	PUNCT	HYPH	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	addition	addition	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	his	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	guidance	guidance	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	or	or	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	elimination	elimination	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	his	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	blindness	blindness	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	"	"	PUNCT	''	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	[	[	PUNCT	-LRB-	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 7
+# text = Nahjul Balaghah, Sermon 176].
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Nahjul	Nahjul	PROPN	NNP	_	2	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	Balaghah	Balaghah	PROPN	NNP	_	0	ROOT	_	ent_type=ORG|ent_id=1|ent_iob=I
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Sermon	Sermon	PROPN	NNP	_	2	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	176	176	NUM	CD	_	4	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	]	]	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 34
+# text = Each time you sit beside the Holy Quran, one curtain from the curtains of your ignorance will be removed and one spring from the springs of enlightenment will flow in your hearts.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Each	each	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	time	time	NOUN	NN	_	20	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	sit	sit	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	beside	beside	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+7	Holy	Holy	PROPN	NNP	_	8	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	Quran	Quran	PROPN	NNP	_	5	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	one	one	NUM	CD	_	11	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	curtain	curtain	NOUN	NN	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	curtains	curtain	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	your	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	ignorance	ignorance	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	will	will	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	be	be	AUX	VB	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	removed	remove	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	one	one	NUM	CD	_	23	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+23	spring	spring	NOUN	NN	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	from	from	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	springs	spring	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	enlightenment	enlightenment	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	will	will	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	flow	flow	VERB	VB	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	in	in	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	your	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	hearts	heart	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 14
+# text = Getting close to, sitting beside and understanding the Holy Quran are necessary.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Getting	get	VERB	VBG	_	12	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	close	close	ADJ	JJ	_	1	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	sitting	sit	VERB	VBG	_	1	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	beside	beside	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	understanding	understand	VERB	VBG	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+10	Holy	Holy	PROPN	NNP	_	11	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+11	Quran	Quran	PROPN	NNP	_	8	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	necessary	necessary	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 13
+# text = The condition for this is to read and memorize the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	condition	condition	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	read	read	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	memorize	memorize	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+11	Holy	Holy	PROPN	NNP	_	12	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	Quran	Quran	PROPN	NNP	_	9	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 8
+# text = Memorizing the Holy Quran is very helpful.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Memorizing	memorize	VERB	VBG	_	5	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	1	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	very	very	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	helpful	helpful	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 15
+# text = Young individuals should appreciate the value of youth and the ability to memorize things.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Young	young	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	individuals	individual	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	value	value	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	youth	youth	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	ability	ability	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	memorize	memorize	VERB	VB	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	things	thing	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 11
+# text = Families should encourage their children to memorize the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Families	family	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	encourage	encourage	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	children	child	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	memorize	memorize	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+9	Holy	Holy	PROPN	NNP	_	10	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+10	Quran	Quran	PROPN	NNP	_	7	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 9
+# text = Sometimes, they should make them do that.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Sometimes	sometimes	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	do	do	AUX	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	DT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 8
+# text = Memorizing the Holy Quran is very valuable.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Memorizing	memorize	VERB	VBG	_	5	csubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	4	det	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	1	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	very	very	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	valuable	valuable	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 17
+# text = Memorizing the Holy Quran will give the memorizer the opportunity to acquire expertise in understanding it.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Memorizing	memorize	VERB	VBG	_	6	csubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	4	det	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	1	dobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	give	give	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	memorizer	memorizer	NOUN	NN	_	6	dative	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	opportunity	opportunity	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	acquire	acquire	VERB	VB	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	expertise	expertise	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	understanding	understand	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 8
+# text = This is done through repetition of ayahs.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	This	this	DET	DT	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	done	do	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	through	through	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	repetition	repetition	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	ayahs	ayah	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 14
+# text = This is an opportunity and a boon and you should not miss it.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	opportunity	opportunity	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	boon	boon	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	miss	miss	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 16
+# text = Those who have memorized the Holy Quran should appreciate the value of this great blessing.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Those	those	DET	DT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	memorized	memorize	VERB	VBN	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+6	Holy	Holy	PROPN	NNP	_	7	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+7	Quran	Quran	PROPN	NNP	_	4	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	value	value	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	blessing	blessing	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 17
+# text = They should not allow their ability to decrease or - God forbid - to be lost.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	allow	allow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	ability	ability	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	decrease	decrease	VERB	VB	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	or	or	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	HYPH	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	God	God	PROPN	NNP	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	forbid	forbid	NOUN	NN	_	8	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	be	be	AUX	VB	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	lost	lose	VERB	VBN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 15
+# text = Reading the Holy Quran, from the beginning to the end, is necessary.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Reading	read	VERB	VBG	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	1	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	from	from	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	beginning	beginning	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	end	end	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	necessary	necessary	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 31
+# text = The Holy Quran should be read from the beginning to the end and this shall be repeated again so that our minds become familiar with all Quranic concepts at once.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Holy	Holy	PROPN	NNP	_	3	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	Quran	Quran	PROPN	NNP	_	6	nsubjpass	_	ent_type=PERSON|ent_id=1|ent_iob=I
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	read	read	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	beginning	beginning	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	end	end	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	shall	shall	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	repeated	repeat	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	again	again	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	so	so	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	minds	mind	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	become	become	VERB	VBP	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	familiar	familiar	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	with	with	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	all	all	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Quranic	quranic	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	concepts	concept	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	at	at	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	once	once	ADV	RB	_	29	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 23
+# text = Of course, we need certain teachers to interpret and explain Quranic ayahs for us and to resolve ambiguities in our minds.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	certain	certain	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	teachers	teacher	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	interpret	interpret	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	explain	explain	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	Quranic	quranic	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	ayahs	ayah	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	us	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	resolve	resolve	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	ambiguities	ambiguity	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	minds	mind	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 6
+# text = All these things are necessary.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	All	all	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	things	thing	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	necessary	necessary	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 21
+# text = If this is done, we will move forward as time goes by and we will never experience any pause.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	done	do	VERB	VBN	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	move	move	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	forward	forward	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	time	time	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	goes	go	VERB	VBZ	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADV	RB	_	12	prt	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	we	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	never	never	ADV	RB	_	18	neg	_	ent_type=_|ent_id=2|ent_iob=O
+18	experience	experience	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	any	any	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	pause	pause	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 17
+# text = And I will tell you that this forward movement has existed during the past 31 years.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	And	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	tell	tell	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	forward	forward	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	movement	movement	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	has	have	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	existed	exist	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	during	during	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	past	past	ADJ	JJ	_	16	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	31	31	NUM	CD	_	16	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	years	year	NOUN	NNS	_	12	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 16
+# text = Before the Revolution, there was no trace of the Holy Quran in our country.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Before	before	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	Revolution	Revolution	PROPN	NNP	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	there	there	PRON	EX	_	6	expl	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	no	no	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	trace	trace	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+11	Holy	Holy	PROPN	NNP	_	12	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	Quran	Quran	PROPN	NNP	_	9	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+13	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 28
+# text = Only some lovers of the Holy Quran used to organize a Quranic meeting in a corner of the country with 10, 15, 20 enthusiastic participants.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Only	only	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	some	some	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	lovers	lover	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+6	Holy	Holy	PROPN	NNP	_	7	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+7	Quran	Quran	PROPN	NNP	_	4	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	organize	organize	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Quranic	quranic	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	meeting	meeting	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	corner	corner	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	country	country	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	10	10	NUM	CD	_	27	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	15	15	NUM	CD	_	25	quantmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+24	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	20	20	NUM	CD	_	27	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+26	enthusiastic	enthusiastic	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	participants	participant	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 6
+# text = We used to witness this.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	witness	witness	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 13
+# text = Such a situation existed in all cities including Tehran and our Mashhad.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Such	such	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	situation	situation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	existed	exist	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	cities	city	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	including	include	VERB	VBG	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Tehran	Tehran	PROPN	NNP	_	8	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	Mashhad	Mashhad	PROPN	NNP	_	9	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 15
+# text = There was no trace of this great movement which has been launched by youth.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	trace	trace	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	movement	movement	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	has	have	AUX	VBZ	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	been	be	AUX	VBN	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	launched	launch	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+14	youth	youth	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 24
+# text = This enthusiasm to read and recite the Holy Quran and to build such a large number of qura did not exist at all.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enthusiasm	enthusiasm	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	read	read	VERB	VB	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	recite	recite	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+8	Holy	Holy	PROPN	NNP	_	9	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+9	Quran	Quran	PROPN	NNP	_	6	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	build	build	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	such	such	DET	PDT	_	16	predet	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	large	large	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	number	number	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	qura	qura	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	did	do	AUX	VBD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	not	not	PART	RB	_	21	neg	_	ent_type=_|ent_id=2|ent_iob=O
+21	exist	exist	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	at	at	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	all	all	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 13
+# text = The tradition to memorize the Holy Quran did not exist at all.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	tradition	tradition	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	memorize	memorize	VERB	VB	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+6	Holy	Holy	PROPN	NNP	_	7	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+7	Quran	Quran	PROPN	NNP	_	4	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	did	do	AUX	VBD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	exist	exist	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	at	at	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 8
+# text = There was no trace of such things.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	trace	trace	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	such	such	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	things	thing	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 32
+# text = When these youth - who have memorized the Holy Quran - come and recite the Holy Quran from memory, I thank Allah the Exalted from the bottom of my heart.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	When	when	ADV	WRB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	youth	youth	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	memorized	memorize	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+9	Holy	Holy	PROPN	NNP	_	10	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+10	Quran	Quran	PROPN	NNP	_	7	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	come	come	VERB	VB	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	recite	recite	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+16	Holy	Holy	PROPN	NNP	_	17	compound	_	ent_type=PRODUCT|ent_id=1|ent_iob=I
+17	Quran	Quran	PROPN	NNP	_	14	dobj	_	ent_type=PRODUCT|ent_id=1|ent_iob=I
+18	from	from	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	memory	memory	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	I	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	Allah	Allah	PROPN	NNP	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Exalted	exalt	VERB	VBN	_	23	appos	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	bottom	bottom	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	my	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	heart	heart	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 14
+# text = These achievements have been made in the shade of the Revolution and Islam.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	achievements	achievement	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	shade	shade	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Revolution	Revolution	PROPN	NNP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islam	Islam	PROPN	NNP	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 8
+# text = Therefore, you should appreciate their value.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	appreciate	appreciate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	value	value	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 32
+# text = When we get close to the Holy Quran, two things happen: one is that we become stronger and another is that our international enemies become more united against us.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	get	get	VERB	VBP	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	close	close	ADJ	JJ	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	Holy	Holy	PROPN	NNP	_	8	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	Quran	Quran	PROPN	NNP	_	5	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	two	two	NUM	CD	_	11	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	things	thing	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	happen	happen	VERB	VBP	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	:	:	PUNCT	:	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	one	one	NUM	CD	_	15	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+15	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	we	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	become	become	VERB	VBP	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	stronger	strong	ADJ	JJR	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	another	another	DET	DT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	international	international	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	enemies	enemy	NOUN	NNS	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	become	become	VERB	VBP	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	more	more	ADV	RBR	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	united	united	ADJ	JJ	_	27	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	against	against	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	us	-PRON-	PRON	PRP	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 9
+# text = Well, there is nothing wrong with this.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Well	well	INTJ	UH	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	nothing	nothing	PRON	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	wrong	wrong	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 25
+# text = The more we move towards the Holy Quran and the closer we get to it, the angrier the enemies of humanity will be.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	more	more	ADV	RBR	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	move	move	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	towards	towards	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+7	Holy	Holy	PROPN	NNP	_	8	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	Quran	Quran	PROPN	NNP	_	5	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	closer	closer	ADV	RBR	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	get	get	VERB	VBP	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	it	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	angrier	angrier	NOUN	NN	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	enemies	enemy	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	humanity	humanity	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	be	be	AUX	VB	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 49
+# text = As you can see, they make accusations, they lie, they spread rumors, they exert economic and political pleasures and they use all kinds of malevolent tricks against our people, but our capability to endure and to influence will increase on a daily basis.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	As	as	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	see	see	VERB	VB	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	make	make	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	accusations	accusation	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	lie	lie	VERB	VBP	_	14	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	spread	spread	VERB	VBP	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	rumors	rumor	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	exert	exert	VERB	VBP	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	economic	economic	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	political	political	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	pleasures	pleasure	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	they	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	use	use	VERB	VBP	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	all	all	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	kinds	kind	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	malevolent	malevolent	ADJ	JJ	_	30	compound	_	ent_type=_|ent_id=2|ent_iob=O
+30	tricks	trick	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	against	against	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	our	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	people	people	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	but	but	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	our	-PRON-	DET	PRP$	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	capability	capability	NOUN	NN	_	44	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	endure	endure	VERB	VB	_	37	acl	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	to	to	PART	TO	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	influence	influence	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	will	will	VERB	MD	_	44	aux	_	ent_type=_|ent_id=2|ent_iob=O
+44	increase	increase	VERB	VB	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	on	on	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	a	a	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	daily	daily	ADJ	JJ	_	48	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+48	basis	basis	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 13
+# text = In the present time, you can see that it has increased.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	In	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	present	present	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	time	time	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	has	have	AUX	VBZ	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	increased	increase	VERB	VBN	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 17
+# text = Take a look at the hostile camp which is opposed to the Islamic Republic of Iran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	look	look	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	hostile	hostile	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	camp	camp	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	opposed	oppose	VERB	VBN	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	Islamic	Islamic	PROPN	NNP	_	14	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	Republic	Republic	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	of	of	ADP	IN	_	14	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	Iran	Iran	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 42
+# text = It is a very large camp in which all shaitans and thugs of the world have gathered, ranging from the Zionists, the Americans and the most malevolent western governments to the meanest and most dependent non-western governments,
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	large	large	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	camp	camp	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	which	which	DET	WDT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	shaitans	shaitan	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	thugs	thug	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	world	world	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	have	have	AUX	VBP	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	gathered	gather	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	ranging	range	VERB	VBG	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	from	from	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Zionists	Zionists	PROPN	NNPS	_	20	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Americans	Americans	PROPN	NNPS	_	22	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	most	most	ADV	RBS	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	malevolent	malevolent	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	western	western	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	governments	government	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	meanest	mean	ADJ	JJS	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	most	most	ADV	RBS	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	dependent	dependent	ADJ	JJ	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	non	non	ADJ	JJ	_	39	dep	_	ent_type=_|ent_id=2|ent_iob=O
+39	-	-	ADJ	JJ	_	40	dep	_	ent_type=_|ent_id=2|ent_iob=O
+40	western	western	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	governments	government	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 9
+# text = let us not tighten the circle on this.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	us	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	tighten	tighten	VERB	VB	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	circle	circle	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 6
+# text = Everyone is in this camp.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Everyone	everyone	PRON	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	camp	camp	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 7
+# text = They are doing whatever they can.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	doing	do	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	whatever	whatever	DET	WDT	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 21
+# text = You should not think that our enemies forget about any single plot that they can hatch against the Islamic Republic.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	think	think	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemies	enemy	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	forget	forget	VERB	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	about	about	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	any	any	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	single	single	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	plot	plot	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	can	can	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	hatch	hatch	VERB	VB	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	against	against	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	Islamic	Islamic	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	Republic	Republic	PROPN	NNP	_	17	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 6
+# text = This is not the case.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 18
+# text = They have done whatever they could until now and they will continue to do whatever they can.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	done	do	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	whatever	whatever	DET	WDT	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	could	could	VERB	MD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	until	until	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	now	now	ADV	RB	_	7	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	continue	continue	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	do	do	AUX	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	whatever	whatever	DET	WDT	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	they	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	can	can	VERB	MD	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 14
+# text = If they fail to do something, it is because they cannot.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	fail	fail	VERB	VBP	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	something	something	PRON	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	because	because	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	can	can	VERB	MD	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 19
+# text = But the people of Iran have stood up against all of them with power, dignity and honor.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	But	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iran	Iran	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	stood	stand	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	up	up	ADP	RP	_	7	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	against	against	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	them	-PRON-	PRON	PRP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	power	power	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	dignity	dignity	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	honor	honor	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 31
+# text = There is a narration which says, "This rope has been stretched from heaven to earth" [Irshad al-Qulub, Volume 2, page 306].
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	narration	narration	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	which	which	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	says	say	VERB	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	This	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	rope	rope	NOUN	NN	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	has	have	AUX	VBZ	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	been	be	AUX	VBN	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	stretched	stretch	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	heaven	heaven	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	earth	earth	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	"	"	PUNCT	''	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	[	[	PUNCT	-LRB-	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	Irshad	Irshad	VERB	VBD	_	23	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+21	al	al	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+22	-	-	PUNCT	HYPH	_	23	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+23	Qulub	Qulub	PROPN	NNP	_	28	dep	_	ent_type=PERSON|ent_id=1|ent_iob=I
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	Volume	volume	NOUN	NN	_	23	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	2	2	NUM	CD	_	25	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+27	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	page	page	NOUN	NN	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+29	306	306	NUM	CD	_	28	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+30	]	]	PUNCT	-RRB-	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 8
+# text = This divine rope is the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	divine	divine	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	rope	rope	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+6	Holy	Holy	PROPN	NNP	_	7	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+7	Quran	Quran	PROPN	NNP	_	4	attr	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 8
+# text = It is a firm and divine rope.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	firm	firm	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	divine	divine	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	rope	rope	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 17
+# text = If we keep a firm hold on it, we will never fall and get lost.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	keep	keep	VERB	VBP	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	firm	firm	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	hold	hold	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	we	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	never	never	ADV	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	fall	fall	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	get	get	AUX	VB	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	lost	lose	VERB	VBN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 13
+# text = Dear God, make us live and die with the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	us	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	live	live	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	die	die	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+11	Holy	Holy	PROPN	NNP	_	12	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	Quran	Quran	PROPN	NNP	_	9	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 7
+# text = Associate us with the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Associate	associate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	us	-PRON-	PRON	PRP	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	with	with	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+5	Holy	Holy	PROPN	NNP	_	6	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+6	Quran	Quran	PROPN	NNP	_	3	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+7	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 11
+# text = Dear God, make the Holy Quran satisfied with us.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Holy	Holy	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	Quran	Quran	PROPN	NNP	_	8	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	satisfied	satisfied	ADJ	JJ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	us	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 20
+# text = Dear God, do not separate us from the Holy Quran and the Holy Prophet's (s.w.a.)
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	6	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VB	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	separate	separate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	us	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+10	Holy	Holy	PROPN	NNP	_	11	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+11	Quran	Quran	PROPN	NNP	_	8	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+14	Holy	Holy	PROPN	NNP	_	15	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Prophet	Prophet	PROPN	NNP	_	11	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	's	's	PART	POS	_	15	case	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	(	(	PUNCT	-LRB-	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	s.w.a	s.w.a	ADJ	JJ	_	15	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	)	)	PUNCT	-RRB-	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 7
+# text = household even for one single moment.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	household	household	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	even	even	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	for	for	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	6	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+5	single	single	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	moment	moment	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 23
+# text = Dear God, associate our dear martyrs and the immaculate soul of our magnanimous Imam (r.a.) with Your saints.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	associate	associate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	dear	dear	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	martyrs	martyr	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	immaculate	immaculate	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	soul	soul	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	magnanimous	magnanimous	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Imam	Imam	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	(	(	PUNCT	-LRB-	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	r.a	r.a	PROPN	NNP	_	18	dep	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	)	)	PUNCT	-RRB-	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Your	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	saints	saint	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 25
+# text = I thank all the dear guests, particularly the two honorable qura - Mr. Naeena and Mr. Shazli - who recited the Holy Quran.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	PDT	_	6	predet	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	dear	dear	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	guests	guest	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	particularly	particularly	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	two	two	NUM	CD	_	12	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+11	honorable	honorable	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	qura	qura	NOUN	NN	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	HYPH	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	Mr.	Mr.	PROPN	NNP	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	Naeena	Naeena	PROPN	NNP	_	6	appos	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	Mr.	Mr.	PROPN	NNP	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	Shazli	Shazli	PROPN	NNP	_	15	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	-	-	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	recited	recite	VERB	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+23	Holy	Holy	PROPN	NNP	_	24	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+24	Quran	Quran	PROPN	NNP	_	21	dobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 10
+# text = The recitation of both of them was very good.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	recitation	recitation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	both	both	DET	DT	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	very	very	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	good	good	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 10
+# text = I hope that God will bestow success on them.
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	God	God	PROPN	NNP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	bestow	bestow	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	success	success	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	them	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech in Meeting with Participants of 27th International Quran Competition
+# year = 2010
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

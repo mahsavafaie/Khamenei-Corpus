@@ -1,0 +1,442 @@
+# sent_id = 1
+# sent_len = 21
+# text = I am thankful to the Almighty for giving me the opportunity to visit this city and meet its honorable residents.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	thankful	thankful	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Almighty	Almighty	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	giving	give	VERB	VBG	_	7	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	me	-PRON-	PRON	PRP	_	8	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	opportunity	opportunity	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	visit	visit	VERB	VB	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	city	city	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	meet	meet	VERB	VB	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	its	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	honorable	honorable	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	residents	resident	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 32
+# text = The inhabitants of Varamin, Pishva, Qarchak, Javadabad and Pakdasht have a very brilliant revolutionary record, in addition to having strong faith and resolution and deep religious beliefs.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	inhabitants	inhabitant	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Varamin	Varamin	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Pishva	Pishva	PROPN	NNP	_	4	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	Qarchak	Qarchak	PROPN	NNP	_	6	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	Javadabad	Javadabad	PROPN	NNP	_	8	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	Pakdasht	Pakdasht	PROPN	NNP	_	10	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	very	very	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	brilliant	brilliant	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	revolutionary	revolutionary	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	record	record	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	addition	addition	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	having	have	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	strong	strong	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	faith	faith	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	resolution	resolution	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	deep	deep	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	religious	religious	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	beliefs	belief	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 49
+# text = In fact, on June 5, 1963, the people of this region made it clear that in order to protect their religion and their noble values, they were ready to have their blood shed at the hands of the cruel agents of the former regime.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	In	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	June	June	PROPN	NNP	_	4	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	5	5	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	,	,	PUNCT	,	_	5	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	1963	1963	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	region	region	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	clear	clear	ADJ	JJ	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	order	order	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	protect	protect	VERB	VB	_	20	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	religion	religion	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	noble	noble	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	values	value	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	they	-PRON-	PRON	PRP	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	were	be	AUX	VBD	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	ready	ready	ADJ	JJ	_	31	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	have	have	AUX	VB	_	32	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+35	their	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	blood	blood	NOUN	NN	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	shed	shed	VERB	VBN	_	34	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	at	at	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	hands	hand	NOUN	NNS	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	cruel	cruel	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	agents	agent	NOUN	NNS	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	of	of	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	former	former	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	regime	regime	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 16
+# text = Today, those unknown martyrs are shining luminaries in the sky of the Islamic Iran.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	those	those	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	unknown	unknown	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	martyrs	martyr	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	shining	shine	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	luminaries	luminary	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	sky	sky	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+15	Iran	Iran	PROPN	NNP	_	12	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 33
+# text = After the victory of the Islamic Revolution and with the outbreak of the Iraqi imposed war, the people of this region made great sacrifices in defending our country against foreign aggression.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	After	after	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	victory	victory	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+6	Islamic	Islamic	PROPN	NNP	_	7	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+7	Revolution	Revolution	PROPN	NNP	_	4	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+8	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	outbreak	outbreak	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iraqi	iraqi	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	imposed	impose	VERB	VBN	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	war	war	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	region	region	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	great	great	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	sacrifices	sacrifice	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	defending	defend	VERB	VBG	_	26	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	our	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	country	country	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	against	against	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	foreign	foreign	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	aggression	aggression	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 23
+# text = There are many families here whose two or three or even four children were martyred in the course of the sacred defense.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	families	family	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	here	here	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	whose	whose	DET	WP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	two	two	NUM	CD	_	13	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+8	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	three	three	NUM	CD	_	7	conj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+10	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	even	even	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	four	four	NUM	CD	_	9	conj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+13	children	child	NOUN	NNS	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	were	be	AUX	VBD	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	martyred	martyr	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	course	course	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	sacred	sacred	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	defense	defense	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 29
+# text = It is also worthy of mention that some 32 high-ranking officers of the armed forces who achieved martyrdom during the imposed war were from this region.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	worthy	worthy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	mention	mention	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	some	some	DET	DT	_	9	quantmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	32	32	NUM	CD	_	13	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+10	high	high	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	ranking	rank	VERB	VBG	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	officers	officer	NOUN	NNS	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	armed	armed	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	forces	force	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	achieved	achieve	VERB	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	martyrdom	martyrdom	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	during	during	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	imposed	impose	VERB	VBN	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	war	war	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	were	be	AUX	VBD	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+26	from	from	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	this	this	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	region	region	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 15
+# text = Some are trying to strip our devoted and honorable people of their past glories.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	Some	some	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	strip	strip	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	devoted	devoted	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	honorable	honorable	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	past	past	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	glories	glory	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 11
+# text = What invigorates a nation is its past honor and achievements.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	What	what	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	invigorates	invigorate	VERB	VBZ	_	5	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	nation	nation	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	its	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	past	past	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	honor	honor	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	achievements	achievement	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 10
+# text = But one should never rest on one's laurels.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	never	never	ADV	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	rest	rest	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	one	one	NOUN	NN	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	's	's	PART	POS	_	7	case	_	ent_type=_|ent_id=2|ent_iob=O
+9	laurels	laurel	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 14
+# text = Instead, one's past glories should motivate one to make greater strides.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	Instead	instead	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	PRON	PRP	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	's	's	PART	POS	_	3	case	_	ent_type=_|ent_id=2|ent_iob=O
+5	past	past	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	glories	glory	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	motivate	motivate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	one	one	PRON	PRP	_	8	dobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	make	make	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	greater	great	ADJ	JJR	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	strides	stride	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 32
+# text = This is what the Iranian people did and, as a result, they managed to bring about the victory of the Islamic Revolution and the establishment of our Islamic system.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	result	result	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	managed	manage	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	bring	bring	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	about	about	ADP	RP	_	17	prt	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	victory	victory	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+23	Islamic	Islamic	PROPN	NNP	_	24	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+24	Revolution	Revolution	PROPN	NNP	_	21	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+25	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	establishment	establishment	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	our	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	Islamic	islamic	ADJ	JJ	_	31	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+31	system	system	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 42
+# text = I once again express my gratitude to you, the esteemed inhabitants of Varamin and its districts like Pishva, Gharchak, Bagherabad and Javadabad and the honorable residents of Pakdasht, for your sincerity, perseverance and deep religious faith.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	once	once	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	again	again	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	express	express	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	my	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	gratitude	gratitude	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	4	dative	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	esteemed	esteemed	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	inhabitants	inhabitant	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Varamin	Varamin	PROPN	NNP	_	13	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	its	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	districts	district	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	like	like	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Pishva	Pishva	PROPN	NNP	_	18	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	Gharchak	Gharchak	PROPN	NNP	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	Bagherabad	Bagherabad	PROPN	NNP	_	21	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	Javadabad	Javadabad	PROPN	NNP	_	23	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	honorable	honorable	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	residents	resident	NOUN	NNS	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	Pakdasht	Pakdasht	PROPN	NNP	_	30	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+32	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	your	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	sincerity	sincerity	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	,	,	PUNCT	,	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	perseverance	perseverance	NOUN	NN	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	deep	deep	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	religious	religious	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	faith	faith	NOUN	NN	_	37	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 16
+# text = I am very happy that Almighty Allah gave me this opportunity to meet you today.
+# title = Leader's Speech in Varamin
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	happy	happy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	Almighty	Almighty	PROPN	NNP	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	Allah	Allah	PROPN	NNP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	gave	give	VERB	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	me	-PRON-	PRON	PRP	_	8	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	opportunity	opportunity	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	meet	meet	VERB	VB	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	today	today	NOUN	NN	_	13	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech in Varamin
+# year = 2003
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

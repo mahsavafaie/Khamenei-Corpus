@@ -1,0 +1,1713 @@
+# sent_id = 1
+# sent_len = 17
+# text = First, I would like to congratulate you on the auspicious birth anniversary of Hazrat Seddiqeh Tahereh
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	First	first	ADV	RB	_	5	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	congratulate	congratulate	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	auspicious	auspicious	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	birth	birth	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	anniversary	anniversary	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Hazrat	Hazrat	PROPN	NNP	_	17	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	Seddiqeh	Seddiqeh	PROPN	NNP	_	17	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	Tahereh	Tahereh	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+
+# sent_id = 2
+# sent_len = 14
+# text = (greetings be upon her) and the beginning of the Government Week.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	(	(	PUNCT	-LRB-	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	greetings	greeting	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	upon	upon	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	her	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	)	)	PUNCT	-RRB-	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	beginning	beginning	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+12	Government	Government	PROPN	NNP	_	13	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	Week	Week	PROPN	NNP	_	10	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 25
+# text = The reports presented at this meeting were very informative, and it is also necessary to inform the public of such details and statistics.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	reports	report	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	presented	present	VERB	VBN	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+4	at	at	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	meeting	meeting	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	very	very	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	informative	informative	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	also	also	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	necessary	necessary	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	inform	inform	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	public	public	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	such	such	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	details	detail	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	statistics	statistic	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 40
+# text = What I would like to stress is that it is the government that is the main player in different arenas of the country, and any success that it achieves is viewed as the success of the Islamic system.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	What	what	PRON	WP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	VERB	VB	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	stress	stress	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	it	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	government	government	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	main	main	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	player	player	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	different	different	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	arenas	arena	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	country	country	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	any	any	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	success	success	NOUN	NN	_	32	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	SCONJ	IN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	it	-PRON-	PRON	PRP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	achieves	achieve	VERB	VBZ	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	is	be	AUX	VBZ	_	32	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	viewed	view	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	as	as	SCONJ	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	success	success	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	Islamic	islamic	ADJ	JJ	_	39	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+39	system	system	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 32
+# text = If, God forbid, the government fails to make progress or succeed in its various activities, this failure or lack of success will be attributed to the whole system.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	forbid	forbid	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	government	government	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	fails	fail	VERB	VBZ	_	27	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	make	make	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	progress	progress	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	or	or	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	succeed	succeed	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	its	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	various	various	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	activities	activity	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	failure	failure	NOUN	NN	_	27	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	lack	lack	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	success	success	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	will	will	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	be	be	AUX	VB	_	27	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+27	attributed	attribute	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	whole	whole	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	system	system	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 21
+# text = In other words, it is not possible to separate the executive arms of the system from the system itself.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	possible	possible	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	separate	separate	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	executive	executive	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	arms	arm	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	system	system	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	system	system	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	itself	-PRON-	PRON	PRP	_	19	appos	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 19
+# text = It is not possible to say that our government is inefficient, but that our system is successful!
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	possible	possible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	government	government	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	inefficient	inefficient	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	system	system	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	successful	successful	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 23
+# text = The success of the system manifests itself in the success of the government, which is the main organ running the country.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	success	success	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	system	system	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	manifests	manifest	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	itself	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	success	success	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	government	government	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	which	which	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	main	main	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	organ	organ	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	running	run	VERB	VBG	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	country	country	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 18
+# text = Nobody should ignore the fact that the success of the government is a national and revolutionary aspiration.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Nobody	nobody	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	ignore	ignore	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	fact	fact	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	success	success	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	government	government	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	national	national	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	revolutionary	revolutionary	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	aspiration	aspiration	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 37
+# text = All those who care about the fate of the country and the system should pray for the success of the government in different areas, and they should also make every effort to achieve this goal.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	All	all	DET	PDT	_	2	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	those	those	DET	DT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	care	care	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	fate	fate	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	system	system	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	pray	pray	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	success	success	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	government	government	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	different	different	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	areas	area	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	they	-PRON-	PRON	PRP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	should	should	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	also	also	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	make	make	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	every	every	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	effort	effort	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	achieve	achieve	VERB	VB	_	32	acl	_	ent_type=_|ent_id=2|ent_iob=O
+35	this	this	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	goal	goal	NOUN	NN	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 36
+# text = If due to certain differences of opinion or based on some wrong political analyses, someone thinks otherwise or takes certain measures to hinder the government's success, this is by no means acceptable.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	If	if	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	due	due	ADP	IN	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	certain	certain	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	differences	difference	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	opinion	opinion	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	or	or	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	based	base	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	some	some	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	wrong	wrong	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	analyses	analysis	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	someone	someone	PRON	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	thinks	think	VERB	VBZ	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	otherwise	otherwise	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	or	or	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	takes	take	VERB	VBZ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	certain	certain	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	measures	measure	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	hinder	hinder	VERB	VB	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	government	government	NOUN	NN	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	's	's	PART	POS	_	26	case	_	ent_type=_|ent_id=2|ent_iob=O
+28	success	success	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	this	this	DET	DT	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+32	by	by	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	no	no	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	means	mean	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	acceptable	acceptable	ADJ	JJ	_	31	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 22
+# text = However, this does not mean that nobody should criticize the government, since criticism is different from weakening the government.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	does	do	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	mean	mean	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	nobody	nobody	PRON	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	criticize	criticize	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	government	government	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	since	since	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	criticism	criticism	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	different	different	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	from	from	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	weakening	weaken	VERB	VBG	_	18	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	government	government	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 12
+# text = If criticism is fair and constructive, it is even beneficial.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	criticism	criticism	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	fair	fair	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	constructive	constructive	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	even	even	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	beneficial	beneficial	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 22
+# text = But even if criticism is not fair, it will not be able to influence public opinion or change the realities.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	But	but	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	even	even	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	criticism	criticism	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	fair	fair	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	able	able	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	influence	influence	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	public	public	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	opinion	opinion	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	or	or	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	change	change	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	realities	reality	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 26
+# text = Thus, I do not intend to say that criticism should be forbidden, but I do say that mudslinging and defamation should be forbidden.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Thus	thus	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	intend	intend	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	say	say	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	criticism	criticism	NOUN	NN	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	forbidden	forbid	VERB	VBN	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	I	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	do	do	AUX	VBP	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	say	say	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	mudslinging	mudslinging	NOUN	NN	_	25	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	defamation	defamation	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	should	should	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	be	be	AUX	VB	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	forbidden	forbid	VERB	VBN	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 9
+# text = There is no justification for defaming the government.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	justification	justification	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	defaming	defame	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	government	government	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 12
+# text = There are of course certain problems and obstacles facing the government.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	course	course	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	certain	certain	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	problems	problem	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	obstacles	obstacle	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	facing	face	VERB	VBG	_	8	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	government	government	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 14
+# text = In general, there are hurdles in the way of all constructive activities.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	In	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	general	general	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	there	there	PRON	EX	_	5	expl	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	hurdles	hurdle	NOUN	NNS	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	way	way	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	constructive	constructive	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	activities	activity	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 22
+# text = In fact, ever since the victory of the Islamic Revolution, there have been many obstacles facing the whole system.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	In	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	ever	ever	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	since	since	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	victory	victory	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+10	Islamic	Islamic	PROPN	NNP	_	11	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+11	Revolution	Revolution	PROPN	NNP	_	8	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+12	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	there	there	PRON	EX	_	15	expl	_	ent_type=_|ent_id=2|ent_iob=O
+14	have	have	AUX	VBP	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	many	many	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	obstacles	obstacle	NOUN	NNS	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	facing	face	VERB	VBG	_	17	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	whole	whole	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	system	system	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 13
+# text = But nobody should be frightened, disappointed or stopped by the obstacles.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	nobody	nobody	PRON	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	frightened	frighten	VERB	VBN	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	disappointed	disappoint	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	stopped	stop	VERB	VBN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	obstacles	obstacle	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 15
+# text = Instead, efforts should be made to remove, surmount or circumvent these obstacles.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Instead	instead	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	efforts	effort	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	remove	remove	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	surmount	surmount	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	or	or	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	circumvent	circumvent	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	these	these	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	obstacles	obstacle	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 56
+# text = I believe if we perform our duties in a responsible manner and on a logical basis, even if there are certain flaws in our performance we will not be taken to task by the Almighty, as "Allah does not impose upon any soul a duty but to the extent of its ability;...
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	perform	perform	VERB	VBP	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	duties	duty	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	responsible	responsible	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	manner	manner	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	logical	logical	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	basis	basis	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	even	even	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	if	if	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	there	there	PRON	EX	_	21	expl	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	certain	certain	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	flaws	flaw	NOUN	NNS	_	21	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	performance	performance	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	we	-PRON-	PRON	PRP	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	will	will	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	not	not	PART	RB	_	31	neg	_	ent_type=_|ent_id=2|ent_iob=O
+30	be	be	AUX	VB	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	taken	take	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	task	task	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	by	by	ADP	IN	_	31	agent	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	Almighty	Almighty	PROPN	NNP	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	as	as	SCONJ	IN	_	43	mark	_	ent_type=_|ent_id=2|ent_iob=O
+39	"	"	PUNCT	``	_	43	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	Allah	Allah	PROPN	NNP	_	43	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+41	does	do	AUX	VBZ	_	43	aux	_	ent_type=_|ent_id=2|ent_iob=O
+42	not	not	PART	RB	_	43	neg	_	ent_type=_|ent_id=2|ent_iob=O
+43	impose	impose	VERB	VB	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+44	upon	upon	SCONJ	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	any	any	DET	DT	_	46	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	soul	soul	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	a	a	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	duty	duty	NOUN	NN	_	43	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	but	but	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	to	to	ADP	IN	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	52	det	_	ent_type=_|ent_id=2|ent_iob=O
+52	extent	extent	NOUN	NN	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	of	of	ADP	IN	_	52	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	its	-PRON-	DET	PRP$	_	55	poss	_	ent_type=_|ent_id=2|ent_iob=O
+55	ability;	ability;	PROPN	NNP	_	53	pobj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+56	...	...	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 2
+# text = "(2:286)
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	"(2:286	"(2:286	PUNCT	''	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	)	)	PUNCT	-RRB-	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 10
+# text = We will not be censured by the people either.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	We	-PRON-	PRON	PRP	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	censured	censure	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	5	agent	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	either	either	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 30
+# text = We should do our utmost and try to perform our duties on a logical basis, but of course it is clear that our logic is not always flawless.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	utmost	utmost	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	try	try	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	perform	perform	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	duties	duty	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	logical	logical	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	basis	basis	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	course	course	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	it	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	clear	clear	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	logic	logic	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	is	be	AUX	VBZ	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	not	not	PART	RB	_	26	neg	_	ent_type=_|ent_id=2|ent_iob=O
+28	always	always	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	flawless	flawless	ADJ	JJ	_	26	attr	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 12
+# text = The cabinet ministers can play an important part in this regard.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	cabinet	cabinet	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	ministers	minister	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	play	play	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	an	an	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	important	important	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	part	part	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	regard	regard	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 11
+# text = This is what I have often mentioned to Mr. Khatami.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	often	often	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	mentioned	mention	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Mr.	Mr.	PROPN	NNP	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	Khatami	Khatami	PROPN	NNP	_	8	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 10
+# text = I had also mentioned this to the former president.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	had	have	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	mentioned	mention	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	former	former	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	president	president	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 20
+# text = The cabinet ministers can play a crucial role in logical discussions that naturally lead to logical and effective decisions.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	cabinet	cabinet	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	ministers	minister	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	play	play	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	crucial	crucial	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	role	role	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	logical	logical	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	discussions	discussion	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	naturally	naturally	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	lead	lead	VERB	VBP	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	logical	logical	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	effective	effective	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	decisions	decision	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 39
+# text = Today, it is a great asset that our government officials are all devoted, revolutionary and perseverant in their efforts and that our esteemed president is doing his utmost to accomplish the objectives of the Islamic system.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	asset	asset	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	government	government	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	officials	official	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	all	all	DET	DT	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	devoted	devoted	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	revolutionary	revolutionary	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	perseverant	perseverant	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	efforts	effort	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	esteemed	esteemed	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	president	president	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	is	be	AUX	VBZ	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	doing	do	VERB	VBG	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	his	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	utmost	utmost	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	accomplish	accomplish	VERB	VB	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	objectives	objective	NOUN	NNS	_	32	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	Islamic	islamic	ADJ	JJ	_	38	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+38	system	system	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 21
+# text = And indeed, great efforts have been made both by the present cabinet and the first cabinet of President Khatami.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	And	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	indeed	indeed	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	efforts	effort	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	both	both	CCONJ	CC	_	10	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	present	present	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	cabinet	cabinet	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	first	first	ADJ	JJ	_	17	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+17	cabinet	cabinet	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	President	President	PROPN	NNP	_	20	compound	_	ent_type=_|ent_id=2|ent_iob=O
+20	Khatami	Khatami	PROPN	NNP	_	18	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+21	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 52
+# text = However, as I said earlier, the people are not well informed of the government's achievements, and those in charge of the public relations offices should conduct their information transmission more appropriately in order to inform the public of what has so far been achieved by the government.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	However	however	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	said	say	VERB	VBD	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	earlier	earlier	ADV	RBR	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	well	well	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	informed	inform	VERB	VBN	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	government	government	NOUN	NN	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	's	's	PART	POS	_	16	case	_	ent_type=_|ent_id=2|ent_iob=O
+18	achievements	achievement	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	those	those	DET	DT	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	charge	charge	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	public	public	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	relations	relation	NOUN	NNS	_	28	compound	_	ent_type=_|ent_id=2|ent_iob=O
+28	offices	office	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	should	should	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	conduct	conduct	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	their	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	information	information	NOUN	NN	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+33	transmission	transmission	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	more	more	ADV	RBR	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	appropriately	appropriately	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	in	in	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	order	order	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	inform	inform	VERB	VB	_	37	acl	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	public	public	NOUN	NN	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	what	what	PRON	WP	_	48	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+44	has	have	AUX	VBZ	_	48	aux	_	ent_type=_|ent_id=2|ent_iob=O
+45	so	so	ADV	RB	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+46	far	far	ADV	RB	_	48	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+47	been	be	AUX	VBN	_	48	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+48	achieved	achieve	VERB	VBN	_	42	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+49	by	by	ADP	IN	_	48	agent	_	ent_type=_|ent_id=2|ent_iob=O
+50	the	the	DET	DT	_	51	det	_	ent_type=_|ent_id=2|ent_iob=O
+51	government	government	NOUN	NN	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 25
+# text = Besides, a negative propaganda campaign has been launched against this country that is aimed at portraying our system and our government as inefficient.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Besides	besides	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	negative	negative	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	propaganda	propaganda	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	campaign	campaign	NOUN	NN	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	launched	launch	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	against	against	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	aimed	aim	VERB	VBN	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	at	at	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	portraying	portray	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	system	system	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	government	government	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	as	as	ADV	RB	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	inefficient	inefficient	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 60
+# text = These propagandists that divide our political circles into conservatives and reformists and claim that they support one camp and oppose the other have never said, for instance, that the Iranian Ministry of Industries has made such and such achievements, or a project to construct some 120 dams in this country is currently under study or implementation.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	propagandists	propagandist	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	divide	divide	VERB	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	political	political	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	circles	circle	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	into	into	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	conservatives	conservative	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	reformists	reformist	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	claim	claim	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	support	support	VERB	VBP	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	one	one	NUM	CD	_	18	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+18	camp	camp	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	oppose	oppose	VERB	VB	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	other	other	ADJ	JJ	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	have	have	AUX	VBP	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	never	never	ADV	RB	_	25	neg	_	ent_type=_|ent_id=2|ent_iob=O
+25	said	say	VERB	VBN	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	for	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	instance	instance	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	that	that	SCONJ	IN	_	37	mark	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+32	Iranian	Iranian	PROPN	NNP	_	33	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+33	Ministry	Ministry	PROPN	NNP	_	37	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+34	of	of	ADP	IN	_	33	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+35	Industries	Industries	PROPN	NNPS	_	34	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+36	has	have	AUX	VBZ	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	made	make	VERB	VBN	_	25	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	such	such	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+40	such	such	ADJ	JJ	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	achievements	achievement	NOUN	NNS	_	54	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+42	,	,	PUNCT	,	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+43	or	or	CCONJ	CC	_	41	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	a	a	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	project	project	NOUN	NN	_	41	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	to	to	PART	TO	_	47	aux	_	ent_type=_|ent_id=2|ent_iob=O
+47	construct	construct	VERB	VB	_	45	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+48	some	some	DET	DT	_	49	quantmod	_	ent_type=QUANTITY|ent_id=3|ent_iob=B
+49	120	120	NUM	CD	_	50	nummod	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+50	dams	dam	NOUN	NNS	_	47	dobj	_	ent_type=QUANTITY|ent_id=1|ent_iob=I
+51	in	in	ADP	IN	_	50	prep	_	ent_type=_|ent_id=2|ent_iob=O
+52	this	this	DET	DT	_	53	det	_	ent_type=_|ent_id=2|ent_iob=O
+53	country	country	NOUN	NN	_	51	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+54	is	be	AUX	VBZ	_	37	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+55	currently	currently	ADV	RB	_	54	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+56	under	under	ADP	IN	_	54	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	study	study	NOUN	NN	_	56	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+58	or	or	CCONJ	CC	_	57	cc	_	ent_type=_|ent_id=2|ent_iob=O
+59	implementation	implementation	NOUN	NN	_	57	conj	_	ent_type=_|ent_id=2|ent_iob=O
+60	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 19
+# text = They have never talked about the considerable rise in the number of Iranian students or their scientific achievements.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	never	never	ADV	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	talked	talk	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	considerable	considerable	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	rise	rise	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	number	number	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Iranian	iranian	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	students	student	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	or	or	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	scientific	scientific	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	achievements	achievement	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 34
+# text = In general, they never refer to the achievements of the Islamic Republic, even if such achievements have been made by the political camp that they call reformists and claim to support!
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	general	general	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	never	never	ADV	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	refer	refer	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	achievements	achievement	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	Republic	Republic	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	even	even	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	if	if	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	such	such	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	achievements	achievement	NOUN	NNS	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	have	have	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	been	be	AUX	VBN	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	made	make	VERB	VBN	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	21	agent	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	political	political	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	camp	camp	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	they	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	call	call	VERB	VBP	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	reformists	reformist	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	claim	claim	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	PART	TO	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	support	support	VERB	VB	_	31	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	!	!	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 7
+# text = What is the reason for this?
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	What	what	PRON	WP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	reason	reason	NOUN	NN	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 52
+# text = The reason is that due to their evil aims and hostile intentions against the Islamic system, they will never acknowledge our achievements, but if there is a flaw or shortcoming in some part of the system, they will magnify that shortcoming and attribute it to the whole system.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	reason	reason	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	due	due	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	evil	evil	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	aims	aim	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	hostile	hostile	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	intentions	intention	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	against	against	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islamic	islamic	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	system	system	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	never	never	ADV	RB	_	21	neg	_	ent_type=_|ent_id=2|ent_iob=O
+21	acknowledge	acknowledge	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	our	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	achievements	achievement	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	but	but	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	if	if	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	there	there	PRON	EX	_	28	expl	_	ent_type=_|ent_id=2|ent_iob=O
+28	is	be	AUX	VBZ	_	42	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	flaw	flaw	NOUN	NN	_	28	attr	_	ent_type=_|ent_id=2|ent_iob=O
+31	or	or	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	shortcoming	shortcome	VERB	VBG	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	some	some	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	part	part	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	system	system	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	they	-PRON-	PRON	PRP	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+41	will	will	VERB	MD	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+42	magnify	magnify	VERB	VB	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	that	that	SCONJ	IN	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	shortcoming	shortcome	VERB	VBG	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	44	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	attribute	attribute	VERB	VB	_	44	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	it	-PRON-	PRON	PRP	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	to	to	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	the	the	DET	DT	_	51	det	_	ent_type=_|ent_id=2|ent_iob=O
+50	whole	whole	ADJ	JJ	_	51	amod	_	ent_type=_|ent_id=2|ent_iob=O
+51	system	system	NOUN	NN	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 32
+# text = This propaganda campaign is aimed at portraying the Islamic system and its branches like the Executive and the Judiciary as inefficient as well as disappointing the people and dispiriting the officials.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	propaganda	propaganda	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	campaign	campaign	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	aimed	aim	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	at	at	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	portraying	portray	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Islamic	islamic	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	system	system	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	branches	branch	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	like	like	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Executive	Executive	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Judiciary	Judiciary	PROPN	NNP	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	inefficient	inefficient	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	well	well	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	as	as	SCONJ	IN	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	disappointing	disappoint	VERB	VBG	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	people	people	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	dispiriting	dispirit	VERB	VBG	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	officials	official	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 12
+# text = You should take the necessary action to counteract this propaganda campaign.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	take	take	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	necessary	necessary	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	action	action	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	counteract	counteract	VERB	VB	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	propaganda	propaganda	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	campaign	campaign	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 20
+# text = Infuse the managers and staff of different government organs with high spirits and inspire them to work more enthusiastically.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Infuse	infuse	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	managers	manager	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	staff	staff	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	different	different	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	government	government	NOUN	NN	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	organs	organ	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	high	high	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	spirits	spirit	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	inspire	inspire	VERB	VB	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	them	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	work	work	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	more	more	ADV	RBR	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	enthusiastically	enthusiastically	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 23
+# text = Another point that once again I would like to stress is that you should take the issue of combating corruption more seriously.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Another	another	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	point	point	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	once	once	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	again	again	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	would	would	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	like	like	VERB	VB	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	stress	stress	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	you	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	take	take	VERB	VB	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	issue	issue	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	combating	combat	VERB	VBG	_	18	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	corruption	corruption	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	more	more	ADV	RBR	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	seriously	seriously	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 36
+# text = You see, you do the planning for constructive activities and obtain the necessary budget and economize on spending in order to create more jobs in the industrial, agricultural, service or construction sectors.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	see	see	VERB	VBP	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	planning	planning	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	constructive	constructive	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	activities	activity	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	obtain	obtain	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	necessary	necessary	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	budget	budget	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	economize	economize	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	spending	spend	VERB	VBG	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	order	order	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	create	create	VERB	VB	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+24	more	more	ADJ	JJR	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	jobs	job	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	industrial	industrial	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	agricultural	agricultural	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	service	service	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	or	or	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	construction	construction	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	sectors	sector	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 25
+# text = But if this public money is funneled into the pockets of certain profiteers, this will be very worrying and harmful to the country.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	But	but	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	if	if	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	public	public	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	money	money	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	funneled	funnel	VERB	VBN	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	into	into	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	pockets	pocket	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	certain	certain	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	profiteers	profiteer	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	very	very	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	worrying	worrying	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	harmful	harmful	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	country	country	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 21
+# text = Today, some in the country are seeking to justify corruption, but some others are trying to exaggerate it.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	seeking	seek	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	justify	justify	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	corruption	corruption	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	but	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	some	some	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	others	other	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	trying	try	VERB	VBG	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	exaggerate	exaggerate	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	it	-PRON-	PRON	PRP	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 6
+# text = I believe both are wrong.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	both	both	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	wrong	wrong	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 13
+# text = We should neither seek to justify corruption nor try to magnify it.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	neither	neither	CCONJ	CC	_	4	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+4	seek	seek	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	justify	justify	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	corruption	corruption	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	nor	nor	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	try	try	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	magnify	magnify	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 10
+# text = Some wrongly believe that corruption is rife and prevalent!
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Some	some	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	wrongly	wrongly	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	corruption	corruption	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	rife	rife	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	prevalent	prevalent	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 28
+# text = There are clear signs indicating that this assumption mostly stems from the negative propaganda against this country, which is aimed at disheartening and frustrating the public.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	clear	clear	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	signs	sign	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	indicating	indicate	VERB	VBG	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	assumption	assumption	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	mostly	mostly	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	stems	stem	VERB	VBZ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	negative	negative	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	propaganda	propaganda	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	country	country	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	which	which	DET	WDT	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	is	be	AUX	VBZ	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	aimed	aim	VERB	VBN	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	at	at	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	disheartening	dishearten	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	frustrating	frustrate	VERB	VBG	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	public	public	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 31
+# text = However, others who are trying to justify corruption attempt to portray any measure against corruption as a political move and describe the anti-corruption campaign as politically motivated!
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	However	however	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	others	other	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	trying	try	VERB	VBG	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	justify	justify	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	corruption	corruption	NOUN	NN	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	attempt	attempt	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	portray	portray	VERB	VB	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	any	any	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	measure	measure	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	corruption	corruption	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	as	as	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	political	political	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	move	move	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	describe	describe	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	anti	anti	ADJ	JJ	_	25	dep	_	ent_type=_|ent_id=2|ent_iob=O
+25	-	-	ADJ	JJ	_	26	dep	_	ent_type=_|ent_id=2|ent_iob=O
+26	corruption	corruption	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	campaign	campaign	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	as	as	SCONJ	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	politically	politically	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	motivated	motivated	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 14
+# text = Their intention is to slow down or even derail the campaign against corruption.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Their	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	intention	intention	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	slow	slow	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	down	down	ADP	RP	_	5	prt	_	ent_type=_|ent_id=2|ent_iob=O
+7	or	or	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	even	even	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	derail	derail	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	campaign	campaign	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	against	against	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	corruption	corruption	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 22
+# text = I believe that everywhere in the world, combating corruption is mainly the task of the Executive rather than the Judiciary.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	everywhere	everywhere	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	world	world	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	combating	combat	VERB	VBG	_	11	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	corruption	corruption	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	mainly	mainly	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	task	task	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Executive	Executive	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	rather	rather	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	than	than	SCONJ	IN	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	Judiciary	Judiciary	PROPN	NNP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 18
+# text = Fortunately, our senior government officials like ministers and vice presidents are all honest and virtuous individuals.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Fortunately	fortunately	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	senior	senior	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	government	government	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	officials	official	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	like	like	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	ministers	minister	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	vice	vice	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	presidents	president	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	all	all	DET	DT	_	12	dep	_	ent_type=_|ent_id=2|ent_iob=O
+14	honest	honest	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	virtuous	virtuous	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	individuals	individual	NOUN	NNS	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 12
+# text = Therefore, they can play a major role in combating corruption.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	play	play	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	major	major	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	role	role	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	combating	combat	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	corruption	corruption	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 27
+# text = It is the duty of the Judiciary to take the final measures in this regard and conduct the necessary investigations at the request of the Executive.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	duty	duty	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Judiciary	Judiciary	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	take	take	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	final	final	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	measures	measure	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	regard	regard	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	conduct	conduct	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	necessary	necessary	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	investigations	investigation	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	at	at	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	request	request	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Executive	Executive	PROPN	NNP	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 26
+# text = Therefore, I would like to ask you to take the issue of combating corruption more seriously and take the necessary action in this respect.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	ask	ask	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	take	take	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	issue	issue	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	combating	combat	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	corruption	corruption	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	more	more	ADV	RBR	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	seriously	seriously	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	take	take	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	necessary	necessary	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	action	action	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	respect	respect	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 22
+# text = A few years ago, I said that the real reform in the country constitutes combating poverty, corruption and discrimination.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	A	a	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	few	few	ADJ	JJ	_	3	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	years	year	NOUN	NNS	_	4	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	ago	ago	ADV	RB	_	7	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	real	real	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	reform	reform	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	constitutes	constitute	VERB	VBZ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	combating	combat	VERB	VBG	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	poverty	poverty	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	corruption	corruption	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	discrimination	discrimination	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 16
+# text = Now as the days go by, my belief in this idea becomes even stronger.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Now	now	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	as	as	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	days	day	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	go	go	VERB	VBP	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADV	RB	_	5	prt	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	my	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	belief	belief	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	idea	idea	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	becomes	become	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	even	even	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	stronger	strong	ADJ	JJR	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 18
+# text = It is not possible to conduct any reform in the country without dealing with these maladies first.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	possible	possible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	conduct	conduct	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	any	any	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	reform	reform	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	without	without	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	dealing	deal	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	these	these	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	maladies	malady	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	first	first	ADV	RB	_	13	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 13
+# text = Combating poverty, corruption and indiscrimination is a prerequisite for all reforms.
+# title = Leader's Statements in a Meeting with Cabinet Members
+# year = 2002
+1	Combating	combat	VERB	VBG	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	poverty	poverty	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	corruption	corruption	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	indiscrimination	indiscrimination	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	prerequisite	prerequisite	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	reforms	reform	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O

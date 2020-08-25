@@ -1,0 +1,1351 @@
+# sent_id = 1
+# sent_len = 30
+# text = Allah, the Almighty, has bestowed every blessing on the Islamic Revolution Guards Corps (IRGC), which functions as the strong arm of the Iranian nation.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	has	have	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestowed	bestow	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	every	every	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	blessing	blessing	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	15	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Revolution	Revolution	PROPN	NNP	_	15	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	Guards	Guards	PROPN	NNPS	_	15	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Corps	Corps	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	(	(	PUNCT	-LRB-	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	IRGC	IRGC	PROPN	NNP	_	15	appos	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	)	)	PUNCT	-RRB-	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	which	which	DET	WDT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	functions	function	VERB	VBZ	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	strong	strong	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	arm	arm	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	Iranian	iranian	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+29	nation	nation	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 19
+# text = Following its formation, the IRGC was characterized by strong motivation to render sincere services to the nation.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Following	follow	VERB	VBG	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	its	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	formation	formation	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	IRGC	IRGC	PROPN	NNP	_	8	nsubjpass	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	was	be	AUX	VBD	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	characterized	characterize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	strong	strong	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	motivation	motivation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	render	render	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	sincere	sincere	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	services	service	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 27
+# text = Today also the IRGC, endowed with great spiritual blessings and divine guidance and assistance, is continuing with its valuable services to the Islamic Republic.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	IRGC	IRGC	NOUN	NNS	_	18	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	endowed	endow	VERB	VBN	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	great	great	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	spiritual	spiritual	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	divine	divine	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	guidance	guidance	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	assistance	assistance	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	continuing	continue	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	with	with	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	its	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	valuable	valuable	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	services	service	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	Islamic	Islamic	PROPN	NNP	_	26	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+26	Republic	Republic	PROPN	NNP	_	23	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 22
+# text = A military force should be mainly characterized by deep faith, strong determination, high morale and defense and combat preparedness.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	A	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	military	military	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	force	force	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	mainly	mainly	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	characterized	characterize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	deep	deep	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	faith	faith	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	strong	strong	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	determination	determination	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	high	high	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	morale	morale	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	defense	defense	NOUN	NN	_	21	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	combat	combat	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	preparedness	preparedness	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 24
+# text = Faith, motivation and high morale along with training, organization, discipline and equipment are like two wings for a military force.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Faith	faith	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	motivation	motivation	NOUN	NN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	high	high	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	morale	morale	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	along	along	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	training	training	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	organization	organization	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	discipline	discipline	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	equipment	equipment	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	like	like	SCONJ	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	two	two	NUM	CD	_	19	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	wings	wing	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	for	for	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	military	military	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	force	force	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 17
+# text = Thank God, today we can see that the IRGC is provided with these two wings.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Thank	thank	VERB	VBP	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	IRGC	IRGC	PROPN	NNP	_	12	nsubjpass	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	is	be	AUX	VBZ	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	provided	provide	VERB	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	these	these	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	two	two	NUM	CD	_	16	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+16	wings	wing	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 24
+# text = Brave and competent individuals are precious assets to any nation, since they act as strong fortifications of a nation in various confrontations.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Brave	brave	ADJ	JJ	_	5	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	competent	competent	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	individuals	individual	NOUN	NNS	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	precious	precious	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	assets	asset	NOUN	NNS	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	any	any	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	since	since	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	act	act	VERB	VBP	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	strong	strong	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	fortifications	fortification	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	nation	nation	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	various	various	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	confrontations	confrontation	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 31
+# text = There have always been countries with domineering and expansionist goals in the world, waging wars against other nations with the aim of plundering their resources and annexing their territories.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	There	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	always	always	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	countries	country	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	domineering	domineering	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	expansionist	expansionist	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	goals	goal	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	waging	wage	VERB	VBG	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	wars	war	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	against	against	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	other	other	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	nations	nation	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	aim	aim	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	plundering	plunder	VERB	VBG	_	23	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	resources	resource	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	annexing	annex	VERB	VBG	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	territories	territory	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 14
+# text = This practice has never stopped in the course of the history of mankind.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	practice	practice	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	never	never	ADV	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	stopped	stop	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	course	course	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	history	history	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	mankind	mankind	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 6
+# text = Such threats also exist today.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Such	such	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	threats	threat	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	exist	exist	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 43
+# text = Only a nation and country whose men and youngsters are characterized by valor, deep faith and high morale will be able to stand up to the bullying and hegemony of the aggressive powers and protect its identity, honor and independence.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Only	only	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	11	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	country	country	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	whose	whose	DET	WP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	men	man	NOUN	NNS	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	youngsters	youngster	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	characterized	characterize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	valor	valor	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	deep	deep	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	faith	faith	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	high	high	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	morale	morale	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	able	able	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	stand	stand	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	up	up	ADP	RP	_	24	prt	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	bullying	bullying	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	hegemony	hegemony	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	aggressive	aggressive	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	powers	power	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	protect	protect	VERB	VB	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	its	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	identity	identity	NOUN	NN	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+40	honor	honor	NOUN	NN	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	independence	independence	NOUN	NN	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 12
+# text = These qualities are the most important features of a military force.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	qualities	quality	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	most	most	ADV	RBS	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	important	important	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	features	feature	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	military	military	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	force	force	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 9
+# text = You should preserve and further strengthen these characteristics.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	preserve	preserve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	further	further	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	strengthen	strengthen	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	characteristics	characteristic	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 32
+# text = Today, expansionist powers like former aggressors in the course of history are ready to trample on the interests and rights of other nations in order to promote their own interests.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Today	today	NOUN	NN	_	13	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	expansionist	expansionist	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	powers	power	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	like	like	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	former	former	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	aggressors	aggressor	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	course	course	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	history	history	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	ready	ready	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	trample	trample	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	on	on	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	interests	interest	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	rights	right	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	other	other	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	nations	nation	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	order	order	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	promote	promote	VERB	VB	_	26	acl	_	ent_type=_|ent_id=2|ent_iob=O
+29	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	own	own	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	interests	interest	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 12
+# text = What can hinder these covetous powers is not submission and surrender.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	What	what	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	hinder	hinder	VERB	VB	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	covetous	covetous	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	powers	power	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	submission	submission	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	surrender	surrender	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 16
+# text = Weakness would not deter an expansionist power that aims to dominate other nations by force.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Weakness	weakness	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	deter	deter	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	expansionist	expansionist	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	aims	aim	VERB	VBZ	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	dominate	dominate	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	nations	nation	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	by	by	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	force	force	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 19
+# text = A nation can defend itself in the face of aggressors only through power, strong determination and preparedness.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	defend	defend	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	itself	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	face	face	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	aggressors	aggressor	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	only	only	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	through	through	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	power	power	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	strong	strong	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	determination	determination	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	preparedness	preparedness	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 18
+# text = Today, it is the duty of our armed forces to further strengthen such qualities in themselves.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	duty	duty	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	armed	armed	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	forces	force	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	further	further	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	strengthen	strengthen	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	such	such	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	qualities	quality	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	themselves	-PRON-	PRON	PRP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 34
+# text = The world is presently witnessing remarkable achievements in different fields, including in the area of military arms and equipment, but still the pivot of any victory or defeat is man himself.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	world	world	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	presently	presently	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	witnessing	witness	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	remarkable	remarkable	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	achievements	achievement	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	different	different	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	fields	field	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	including	include	VERB	VBG	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	area	area	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	military	military	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	arms	arm	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	equipment	equipment	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	but	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	still	still	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	pivot	pivot	NOUN	NN	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	any	any	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	victory	victory	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	or	or	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	defeat	defeat	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	is	be	AUX	VBZ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	man	man	VERB	VB	_	31	attr	_	ent_type=_|ent_id=2|ent_iob=O
+33	himself	-PRON-	PRON	PRP	_	32	appos	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 32
+# text = It is true that material equipment and capabilities play an important role, but the decisive role is still played by the deep faith and strong determination of a military force.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	true	true	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	material	material	ADJ	JJ	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	equipment	equipment	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	capabilities	capability	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	play	play	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	an	an	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	important	important	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	role	role	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	decisive	decisive	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	role	role	NOUN	NN	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	still	still	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	played	play	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	20	agent	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	deep	deep	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	faith	faith	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	strong	strong	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	determination	determination	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	a	a	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	military	military	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	force	force	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 10
+# text = This is what the arrogant powers do not have.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	arrogant	arrogant	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	powers	power	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	do	do	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 24
+# text = This is what infuses nations with the hopes of achieving victory, even victory over the powers that are armed to the teeth.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	infuses	infuse	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	nations	nation	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	hopes	hope	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	achieving	achieve	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	victory	victory	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	even	even	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	victory	victory	NOUN	NN	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+15	over	over	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	powers	power	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	DET	WDT	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	armed	armed	ADJ	JJ	_	19	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	teeth	tooth	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 40
+# text = Shortcomings, mistakes, lack of preparedness, evading responsibilities and lack of readiness to endure hardships are the major factors causing the weakness and decline of nations and destroying their identity, history, culture and future prospects.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Shortcomings	shortcoming	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	mistakes	mistake	NOUN	NNS	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	lack	lack	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	preparedness	preparedness	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	evading	evade	VERB	VBG	_	1	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	responsibilities	responsibility	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	lack	lack	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	readiness	readiness	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	endure	endure	VERB	VB	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	hardships	hardship	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	major	major	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	factors	factor	NOUN	NNS	_	18	attr	_	ent_type=_|ent_id=2|ent_iob=O
+22	causing	cause	VERB	VBG	_	21	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	weakness	weakness	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	decline	decline	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	nations	nation	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	destroying	destroy	VERB	VBG	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	their	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	identity	identity	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	history	history	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	culture	culture	NOUN	NN	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	future	future	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	prospects	prospect	NOUN	NNS	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 22
+# text = Today, bullying powers are disregarding the identity and historical background of weak nations and trying to destroy their future prospects.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Today	today	NOUN	NN	_	6	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	bullying	bully	VERB	VBG	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	powers	power	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	disregarding	disregard	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	identity	identity	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	historical	historical	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	background	background	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	weak	weak	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	nations	nation	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	trying	try	VERB	VBG	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	destroy	destroy	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	future	future	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	prospects	prospect	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 10
+# text = Therefore, other nations should try to become powerful.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	nations	nation	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	become	become	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	powerful	powerful	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 30
+# text = According to Islam and the teachings of all divine prophets, power is not meant for aggression and encroachment, but it is intended to defend justice and righteousness.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	According	accord	VERB	VBG	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	to	to	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	Islam	Islam	PROPN	NNP	_	2	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	teachings	teaching	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	divine	divine	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	prophets	prophet	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	power	power	NOUN	NN	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+15	meant	mean	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	for	for	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	aggression	aggression	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	encroachment	encroachment	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	but	but	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	it	-PRON-	PRON	PRP	_	24	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	intended	intend	VERB	VBN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	defend	defend	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	justice	justice	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	righteousness	righteousness	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 28
+# text = The IRGC personnel should try to preserve the identity of their military force, which is characterized by deep faith, strong determination, devotion and sincerity.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	IRGC	irgc	ADJ	JJ	_	3	amod	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	personnel	personnel	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	preserve	preserve	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	identity	identity	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	military	military	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	force	force	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	which	which	DET	WDT	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	characterized	characterize	VERB	VBN	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	17	agent	_	ent_type=_|ent_id=2|ent_iob=O
+19	deep	deep	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	faith	faith	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	strong	strong	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	determination	determination	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	devotion	devotion	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	sincerity	sincerity	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 46
+# text = Just as the IRGC has so far managed to combine modern military organization, order and discipline with spiritual and moral values and provide training and advanced equipment for its personnel, so in the future also it should increase its efforts in this direction.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Just	just	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	as	as	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	IRGC	IRGC	PROPN	NNP	_	8	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	so	so	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	far	far	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	managed	manage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	combine	combine	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	modern	modern	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	military	military	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	organization	organization	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	order	order	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	discipline	discipline	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	spiritual	spiritual	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	moral	moral	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	values	value	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	provide	provide	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	training	training	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	advanced	advanced	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	equipment	equipment	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	for	for	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	its	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	personnel	personnel	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	so	so	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	future	future	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	also	also	ADV	RB	_	40	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	it	-PRON-	PRON	PRP	_	40	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	should	should	VERB	MD	_	40	aux	_	ent_type=_|ent_id=2|ent_iob=O
+40	increase	increase	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+41	its	-PRON-	DET	PRP$	_	42	poss	_	ent_type=_|ent_id=2|ent_iob=O
+42	efforts	effort	NOUN	NNS	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	in	in	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	this	this	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	direction	direction	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 20
+# text = Modern military organization would not be so effective without certain decisive factors such as faith, devotion and awareness.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Modern	modern	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	military	military	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	organization	organization	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	so	so	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	effective	effective	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	without	without	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	certain	certain	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	decisive	decisive	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	factors	factor	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	such	such	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	faith	faith	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	devotion	devotion	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	awareness	awareness	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 29
+# text = Such features should be infused into a military organization, which should also be characterized by defense and combat readiness and appropriate use and maintenance of military equipment.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Such	such	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	features	feature	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	infused	infuse	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	into	into	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	military	military	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	organization	organization	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	which	which	DET	WDT	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	also	also	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	be	be	AUX	VB	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	characterized	characterize	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+17	defense	defense	NOUN	NN	_	20	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	combat	combat	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	readiness	readiness	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	appropriate	appropriate	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	use	use	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	maintenance	maintenance	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	military	military	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	equipment	equipment	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 6
+# text = You should always be prepared.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	You	-PRON-	PRON	PRP	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	always	always	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	prepared	prepare	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 15
+# text = There may be no aggression against our nation and country for many years ahead.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	There	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	may	may	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	no	no	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	aggression	aggression	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	against	against	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	many	many	ADJ	JJ	_	13	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	years	year	NOUN	NNS	_	11	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	ahead	ahead	ADV	RB	_	13	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 30
+# text = Our enemies may not dare to approach the perimeter of our homeland because of the state of preparedness of our nation and valor and devotion of our faithful youth.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	may	may	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	dare	dare	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	approach	approach	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	perimeter	perimeter	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	homeland	homeland	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	because	because	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	state	state	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	preparedness	preparedness	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	nation	nation	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	valor	valor	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	devotion	devotion	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	our	-PRON-	DET	PRP$	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	faithful	faithful	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	youth	youth	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 11
+# text = But this should not cause any weakening of your preparedness.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	cause	cause	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	any	any	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	weakening	weakening	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	preparedness	preparedness	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 30
+# text = The verses of the holy Qur'an teach us to be always prepared: "And prepare against them what force you can,..." (8: 60)
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	verses	verse	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	holy	holy	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	Qur'an	Qur'an	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	teach	teach	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	us	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	always	always	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	prepared	prepared	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	:	:	PUNCT	:	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	''	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	And	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	prepare	prepare	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	against	against	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	them	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	what	what	DET	WDT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	force	force	NOUN	NN	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	you	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	can	can	VERB	MD	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	...	...	PUNCT	:	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	"	"	PUNCT	''	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	(	(	PUNCT	-LRB-	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	8	8	NUM	CD	_	7	punct	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+28	:	:	SYM	SYM	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	60	60	NUM	CD	_	28	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+30	)	)	PUNCT	-RRB-	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 28
+# text = The Iranian nation should use whatever capability and potential it has to increase its preparedness against any likely encroachment and aggression by the domineering and expansionist powers.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	use	use	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	whatever	whatever	DET	WDT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	capability	capability	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	potential	potential	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	has	have	AUX	VBZ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	increase	increase	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	its	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	preparedness	preparedness	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	against	against	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	any	any	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	likely	likely	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	encroachment	encroachment	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	aggression	aggression	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	domineering	domineering	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	expansionist	expansionist	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	powers	power	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 26
+# text = The IRGC is composed of faithful and devoted commanders and young brave personnel, who have made great sacrifices in the post-revolution era.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	IRGC	IRGC	PROPN	NNP	_	4	nsubjpass	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	is	be	AUX	VBZ	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	composed	compose	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	faithful	faithful	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	devoted	devoted	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	commanders	commander	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	young	young	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	brave	brave	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	personnel	personnel	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	have	have	AUX	VBP	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	made	make	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	great	great	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	sacrifices	sacrifice	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	post	post	ADJ	JJ	_	23	dep	_	ent_type=_|ent_id=2|ent_iob=O
+23	-	-	ADJ	JJ	_	24	dep	_	ent_type=_|ent_id=2|ent_iob=O
+24	revolution	revolution	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	era	era	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 14
+# text = Thousands of IRGC servicemen achieved martyrdom in the course of the Sacred Defense.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Thousands	thousand	NOUN	NNS	_	5	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	IRGC	IRGC	PROPN	NNP	_	4	amod	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	servicemen	serviceman	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	achieved	achieve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	martyrdom	martyrdom	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	course	course	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	Sacred	Sacred	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Defense	Defense	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 21
+# text = What they handed down to the present generation is deep faith, strong devotion and determination as well as victory.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	What	what	PRON	WP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	handed	hand	VERB	VBD	_	9	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	down	down	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	present	present	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	generation	generation	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	deep	deep	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	faith	faith	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	strong	strong	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	devotion	devotion	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	determination	determination	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	as	as	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	well	well	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	SCONJ	IN	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	victory	victory	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 18
+# text = They were martyred, but your country repelled the enemy's aggression and remained free and independent.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	They	-PRON-	PRON	PRP	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	martyred	martyr	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	country	country	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	repelled	repel	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	enemy	enemy	NOUN	NN	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	's	's	PART	POS	_	10	case	_	ent_type=_|ent_id=2|ent_iob=O
+12	aggression	aggression	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	remained	remain	VERB	VBD	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	free	free	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	independent	independent	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 18
+# text = The Islamic Republic has since made considerable progress and taken great strides on the path to development.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	Republic	Republic	PROPN	NNP	_	6	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	since	since	SCONJ	IN	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	considerable	considerable	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	progress	progress	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	taken	take	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	great	great	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	strides	stride	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	path	path	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	development	development	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 19
+# text = By the favor of Allah, it will continue with its progress and development in the years ahead.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	By	by	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	favor	favor	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	it	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	continue	continue	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	its	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	progress	progress	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	development	development	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	years	year	NOUN	NNS	_	15	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	ahead	ahead	ADV	RB	_	17	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 20
+# text = We are grateful to the Almighty that the blood of our honorable martyrs bore fruit and was not wasted.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	grateful	grateful	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Almighty	Almighty	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	blood	blood	NOUN	NN	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	honorable	honorable	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	martyrs	martyr	NOUN	NNS	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	bore	bore	PROPN	NNP	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	fruit	fruit	PROPN	NNP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	was	be	AUX	VBD	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	wasted	waste	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 27
+# text = Through their self-sacrifice, our martyrs brought honor and dignity to our nation and opened the way to progress and development for our country.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Through	through	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	self	self	NOUN	NN	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	sacrifice	sacrifice	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	martyrs	martyr	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	brought	bring	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	honor	honor	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	dignity	dignity	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	nation	nation	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	opened	open	VERB	VBD	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	way	way	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	progress	progress	NOUN	NN	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	development	development	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	country	country	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 25
+# text = I hope you will remain in the vanguard of the campaign to attain spiritual, material and political power and to protect our identity.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	remain	remain	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	vanguard	vanguard	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	campaign	campaign	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	attain	attain	VERB	VB	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	spiritual	spiritual	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	material	material	ADJ	JJ	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	political	political	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	power	power	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	protect	protect	VERB	VB	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	identity	identity	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 15
+# text = I pray to Almighty Allah to bestow His grace and favor on you all.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	His	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	grace	grace	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	favor	favor	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	you	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	all	all	DET	DT	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 31
+# text = I also invoke the prayer of His Holiness Baqiyatollah-ul-A'zam (what remains with Allah on earth, Imam of the Age) for all of you.
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	invoke	invoke	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	prayer	prayer	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	His	-PRON-	DET	PRP$	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	Holiness	Holiness	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Baqiyatollah	Baqiyatollah	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	-	-	PUNCT	HYPH	_	13	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	ul	ul	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	-	-	PUNCT	HYPH	_	13	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	A'zam	A'zam	PROPN	NNP	_	8	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	(	(	PUNCT	-LRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	what	what	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	remains	remain	VERB	VBZ	_	3	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+17	with	with	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Allah	Allah	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	earth	earth	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	Imam	Imam	PROPN	NNP	_	16	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Age	Age	PROPN	NNP	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	)	)	PUNCT	-RRB-	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	all	all	DET	DT	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	you	-PRON-	PRON	PRP	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech to the IRGC Ground Forces Servicemen
+# year = 2005
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

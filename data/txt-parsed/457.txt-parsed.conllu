@@ -1,0 +1,2114 @@
+# sent_id = 1
+# sent_len = 11
+# text = Well, commemorating this personality is a very appropriate task.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Well	well	INTJ	UH	_	6	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	commemorating	commemorate	VERB	VBG	_	6	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	personality	personality	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	very	very	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	appropriate	appropriate	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	task	task	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 1
+# text = Commemorating
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Commemorating	commemorate	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 15
+# text = the late Hajj Mirza Ali Agha Qazi is a very valuable and great task.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	late	late	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Hajj	Hajj	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Mirza	Mirza	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	Ali	Ali	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	Agha	Agha	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	Qazi	Qazi	PROPN	NNP	_	8	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	very	very	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	valuable	valuable	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	great	great	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	task	task	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 20
+# text = The late Agha Qazi - Mirza Ali Agha Qazi - is one of the blessings of the contemporary era.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	late	late	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Agha	Agha	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Qazi	Qazi	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	Mirza	Mirza	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	Ali	Ali	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	Agha	Agha	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Qazi	Qazi	PROPN	NNP	_	11	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	-	-	PUNCT	:	_	11	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	one	one	NUM	CD	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	blessings	blessing	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	contemporary	contemporary	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	era	era	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 15
+# text = He was really an outstanding - if not peerless - scientific and pragmatic personality.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	really	really	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	outstanding	outstanding	ADJ	JJ	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+6	-	-	PUNCT	:	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	if	if	SCONJ	IN	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	peerless	peerless	ADJ	JJ	_	11	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	HYPH	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	scientific	scientific	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	pragmatic	pragmatic	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	personality	personality	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 12
+# text = In fact, there are few personalities who are like him.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	In	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	there	there	PRON	EX	_	5	expl	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	few	few	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	personalities	personality	NOUN	NNS	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	like	like	SCONJ	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	him	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 14
+# text = As well as his spiritual and mystic role, he built many students.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	As	as	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	well	well	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	spiritual	spiritual	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	mystic	mystic	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	role	role	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	he	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	built	build	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	many	many	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	students	student	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 5
+# text = This is very valuable.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	valuable	valuable	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 11
+# text = He built great students some of whom we have met.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	built	build	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	great	great	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	students	student	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	whom	whom	PRON	WP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	met	meet	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 27
+# text = His students were the late Mr. Tabatabai, the late Sayyid Mohammad Hassan Elahi - who was his brother - and the late Mirza Ibrahim Sharifi.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	students	student	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	late	late	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	Mr.	Mr.	PROPN	NNP	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	Tabatabai	Tabatabai	PROPN	NNP	_	3	attr	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	late	late	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Sayyid	Sayyid	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	Mohammad	Mohammad	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	Hassan	Hassan	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	Elahi	Elahi	PROPN	NNP	_	7	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+15	-	-	PUNCT	:	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	who	who	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	was	be	AUX	VBD	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	his	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	brother	brother	NOUN	NN	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	:	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	late	late	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	Mirza	Mirza	PROPN	NNP	_	26	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+25	Ibrahim	Ibrahim	PROPN	NNP	_	26	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+26	Sharifi	Sharifi	PROPN	NNP	_	19	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+27	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 10
+# text = Mr. Sharifi was his son-in-law.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Mr.	Mr.	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Sharifi	Sharifi	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	his	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	son	son	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	HYPH	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	law	law	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 15
+# text = He lived in Zabol and he was among the outstanding students of Mr. Qazi.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	lived	live	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Zabol	Zabol	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	he	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	among	among	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	outstanding	outstanding	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	students	student	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Mr.	Mr.	PROPN	NNP	_	14	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	Qazi	Qazi	PROPN	NNP	_	12	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 20
+# text = His other students were the late Hajj Sheikh Abbas Quchani and the late Mr. Bahjat who passed away recently.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	His	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	students	student	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	late	late	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	Hajj	Hajj	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	Sheikh	Sheikh	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Abbas	Abbas	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	Quchani	Quchani	PROPN	NNP	_	4	attr	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	late	late	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	Mr.	Mr.	PROPN	NNP	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	Bahjat	Bahjat	PROPN	NNP	_	10	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	who	who	PRON	WP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	passed	pass	VERB	VBD	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	away	away	ADP	RP	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	recently	recently	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 29
+# text = There were other great personalities as well such as the late Hajj Sheikh Mohammad Taghi Amoli, the late Hajj Sheikh Ali Mohammad Borujerdi and many other personalities.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	personalities	personality	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	as	as	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	well	well	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	as	as	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	late	late	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	Hajj	Hajj	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	Sheikh	Sheikh	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	Mohammad	Mohammad	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	Taghi	Taghi	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	Amoli	Amoli	PROPN	NNP	_	9	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	late	late	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	Hajj	Hajj	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+21	Sheikh	Sheikh	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+22	Ali	Ali	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+23	Mohammad	Mohammad	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+24	Borujerdi	Borujerdi	PROPN	NNP	_	16	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	many	many	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	other	other	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	personalities	personality	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 32
+# text = The most important issue in this regard is that we enjoy a framework and special orientation in our fiqh and hikmat in Islamic seminaries which can be a model for everyone.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	most	most	ADV	RBS	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	issue	issue	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	regard	regard	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	enjoy	enjoy	VERB	VBP	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	framework	framework	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	special	special	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	orientation	orientation	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	fiqh	fiqh	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	hikmat	hikmat	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Islamic	islamic	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	seminaries	seminary	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	which	which	DET	WDT	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	can	can	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	be	be	AUX	VB	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	model	model	NOUN	NN	_	27	attr	_	ent_type=_|ent_id=2|ent_iob=O
+30	for	for	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	everyone	everyone	PRON	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 19
+# text = It can be a model for both ulama of all levels and for all the people and youth.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	model	model	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	both	both	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	ulama	ulama	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	levels	level	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	all	all	DET	PDT	_	16	predet	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	people	people	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	youth	youth	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 8
+# text = This framework can really be a model.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	framework	framework	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	really	really	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	model	model	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 11
+# text = These personalities were not satisfied with extrinsic aspects of religion.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	personalities	personality	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	satisfied	satisfied	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	extrinsic	extrinsic	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	aspects	aspect	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	religion	religion	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 19
+# text = They made great efforts on the path of understanding, mysticism and monotheism and they reached lofty positions.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	great	great	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	efforts	effort	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	path	path	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	understanding	understanding	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	mysticism	mysticism	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	monotheism	monotheism	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	reached	reach	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	lofty	lofty	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	positions	position	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 29
+# text = What is important is that they did not reach high levels of mysticism by following fake and imaginary paths, such as a number of fake mystic schools.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	What	what	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	4	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	reach	reach	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	high	high	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	levels	level	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	mysticism	mysticism	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	by	by	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	following	follow	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	fake	fake	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	imaginary	imaginary	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	paths	path	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	such	such	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	number	number	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	fake	fake	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	mystic	mystic	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	schools	school	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 21
+# text = Rather, they reached these high levels by following the holy Islamic sharia and they acquired great expertise in it.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Rather	rather	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	reached	reach	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	high	high	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	levels	level	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	following	follow	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	holy	holy	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islamic	Islamic	PROPN	NNP	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	sharia	sharia	PROPN	NNP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	acquired	acquire	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	great	great	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	expertise	expertise	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	it	-PRON-	PRON	PRP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 30
+# text = All the members of Qazi family - that is to say, the family of outstanding personalities beginning from the late Hajj Sayyid Ali Shushtari - were excellent mujtahids.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	All	all	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	members	member	NOUN	NNS	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Qazi	Qazi	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	family	family	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	DT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	is	be	AUX	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	say	say	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	family	family	NOUN	NN	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	outstanding	outstanding	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	personalities	personality	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	beginning	begin	VERB	VBG	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	from	from	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	late	late	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	Hajj	Hajj	PROPN	NNP	_	23	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+23	Sayyid	Sayyid	PROPN	NNP	_	19	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+24	Ali	Ali	PROPN	NNP	_	25	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+25	Shushtari	Shushtari	PROPN	NNP	_	23	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+26	-	-	PUNCT	:	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	excellent	excellent	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	mujtahids	mujtahid	NOUN	NNS	_	27	attr	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 29
+# text = The late Sayyid Ali Shustari was a student of Sheikh [Sheikh Ansari] in fiqh and usul, but he was his teacher in mysticism and ethics.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	late	late	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Sayyid	Sayyid	PROPN	NNP	_	6	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Ali	Ali	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	Shustari	Shustari	PROPN	NNP	_	3	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	student	student	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Sheikh	Sheikh	PROPN	NNP	_	13	nmod	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	[	[	PUNCT	-LRB-	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Sheikh	Sheikh	PROPN	NNP	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	Ansari	Ansari	PROPN	NNP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	]	]	PUNCT	-RRB-	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	fiqh	fiqh	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	usul	usul	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	but	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	he	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	was	be	AUX	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	his	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	teacher	teacher	NOUN	NN	_	22	attr	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	mysticism	mysticism	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	ethics	ethic	NOUN	NNS	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 11
+# text = Sheikh used to benefit from his knowledge in such areas.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Sheikh	Sheikh	PROPN	NNP	_	2	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	benefit	benefit	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	his	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	knowledge	knowledge	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	such	such	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	areas	area	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 29
+# text = After the demise of Sheikh, Mr. Shustari - who also passed away shortly after - started to pick up Sheikh's lessons where he had left off.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	After	after	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	demise	demise	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Sheikh	Sheikh	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	Mr.	Mr.	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Shustari	Shustari	PROPN	NNP	_	6	intj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	-	-	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	also	also	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	passed	pass	VERB	VBD	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	away	away	ADP	RP	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	shortly	shortly	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	after	after	ADV	RB	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	started	start	VERB	VBD	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	pick	pick	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	up	up	ADP	RP	_	19	prt	_	ent_type=_|ent_id=2|ent_iob=O
+21	Sheikh	Sheikh	PROPN	NNP	_	23	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+22	's	's	PART	POS	_	21	case	_	ent_type=_|ent_id=2|ent_iob=O
+23	lessons	lesson	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	where	where	ADV	WRB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	he	-PRON-	PRON	PRP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	had	have	AUX	VBD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	left	leave	VERB	VBN	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	off	off	ADP	RP	_	27	prt	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 26
+# text = The students who took part in Hajj Sayyid Ali Shushtari's classes said that they did not find any difference between Sheikh and Mr. Shushtari.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	students	student	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	took	take	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	part	part	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Hajj	Hajj	PROPN	NNP	_	8	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+8	Sayyid	Sayyid	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Ali	Ali	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	Shushtari	Shushtari	PROPN	NNP	_	12	poss	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	's	's	PART	POS	_	10	case	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	classes	class	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	did	do	AUX	VBD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	not	not	PART	RB	_	18	neg	_	ent_type=_|ent_id=2|ent_iob=O
+18	find	find	VERB	VB	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	any	any	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	difference	difference	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	between	between	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	Sheikh	Sheikh	PROPN	NNP	_	21	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	Mr.	Mr.	PROPN	NNP	_	25	compound	_	ent_type=_|ent_id=2|ent_iob=O
+25	Shushtari	Shushtari	PROPN	NNP	_	22	conj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+26	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 11
+# text = He had reached such a level of excellence in fiqh.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	had	have	AUX	VBD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	reached	reach	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	such	such	DET	PDT	_	6	predet	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	level	level	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	excellence	excellence	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	fiqh	fiqh	PROPN	NNP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 27
+# text = The outstanding student of Sayyid Ai Shushtari was the late Akhund Mulla Hossein-Qoli Hamedani who was really the best in mystic and spiritual arenas.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	outstanding	outstanding	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	student	student	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Sayyid	Sayyid	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	Ai	Ai	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	Shushtari	Shushtari	PROPN	NNP	_	4	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	late	late	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Akhund	Akhund	PROPN	NNP	_	8	attr	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	Mulla	Mulla	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	Hossein	Hossein	PROPN	NNP	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	PUNCT	HYPH	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	Qoli	Qoli	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	Hamedani	Hamedani	PROPN	NNP	_	11	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	who	who	PRON	WP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	was	be	AUX	VBD	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	really	really	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	best	good	ADJ	JJS	_	18	attr	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	mystic	mystic	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	spiritual	spiritual	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	arenas	arena	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 15
+# text = The greatness of the late Akhund Hossein-Qoli Hamedani cannot be described.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	greatness	greatness	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	late	late	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	Akhund	Akhund	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	Hossein	Hossein	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	Qoli	Qoli	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	Hamedani	Hamedani	PROPN	NNP	_	3	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	can	can	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	described	describe	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 14
+# text = He was one of the outstanding students of Sheikh in fiqh and usul.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	outstanding	outstanding	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	students	student	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Sheikh	Sheikh	PROPN	NNP	_	8	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	fiqh	fiqh	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	usul	usul	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 15
+# text = However, he was drawn towards mysticism because he was interested in this path.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	However	however	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	he	-PRON-	PRON	PRP	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	drawn	draw	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	towards	towards	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	mysticism	mysticism	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	because	because	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	he	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	interested	interested	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	path	path	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 29
+# text = His students - the future teachers of Mr. Qazi - were the late Hajj Sayyid Ahmad Karbalai, the late Hajj Sheikh Mohammad Bahari and other such personalities.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	students	student	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	future	future	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	teachers	teacher	NOUN	NNS	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Mr.	Mr.	PROPN	NNP	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	Qazi	Qazi	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	-	-	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	late	late	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	Hajj	Hajj	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	Sayyid	Sayyid	PROPN	NNP	_	17	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	Ahmad	Ahmad	PROPN	NNP	_	17	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	Karbalai	Karbalai	PROPN	NNP	_	11	attr	_	ent_type=PERSON|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	late	late	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	Hajj	Hajj	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+22	Sheikh	Sheikh	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+23	Mohammad	Mohammad	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+24	Bahari	Bahari	PROPN	NNP	_	17	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	other	other	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	such	such	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	personalities	personality	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 13
+# text = All of them were people who had reached high levels of fiqh.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	All	all	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	them	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	had	have	AUX	VBD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	reached	reach	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	high	high	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	levels	level	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	fiqh	fiqh	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 27
+# text = The late Hajj Sayyid Ahmad Karbalai was such a great personality that the late Mirza Mohammad Taghi Shirazi used to go to him for ihtiyati issues.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	late	late	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Hajj	Hajj	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Sayyid	Sayyid	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	Ahmad	Ahmad	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	Karbalai	Karbalai	PROPN	NNP	_	7	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	DET	PDT	_	11	predet	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	great	great	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	personality	personality	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	late	late	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	Mirza	Mirza	PROPN	NNP	_	18	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	Mohammad	Mohammad	PROPN	NNP	_	18	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	Taghi	Taghi	PROPN	NNP	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	Shirazi	Shirazi	PROPN	NNP	_	19	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	used	use	VERB	VBD	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	go	go	VERB	VB	_	19	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	him	-PRON-	PRON	PRP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	ihtiyati	ihtiyati	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	issues	issue	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 27
+# text = Without a doubt, Sayyid Ahmad was a point of reference in the area of fiqh, but he himself refused to play such a role.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Without	without	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	doubt	doubt	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Sayyid	Sayyid	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	Ahmad	Ahmad	PROPN	NNP	_	7	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	point	point	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	reference	reference	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	area	area	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	fiqh	fiqh	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	but	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	he	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	himself	-PRON-	PRON	PRP	_	19	appos	_	ent_type=_|ent_id=2|ent_iob=O
+21	refused	refuse	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	play	play	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	such	such	DET	PDT	_	26	predet	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	role	role	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 15
+# text = He said, "Why do you come to me for ihtiyati issues?"
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	"	"	PUNCT	``	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Why	why	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	do	do	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	come	come	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	me	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	ihtiyati	ihtiyati	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	issues	issue	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 10
+# text = He preferred to live in a world of spirituality.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	preferred	prefer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	live	live	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	world	world	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	spirituality	spirituality	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 16
+# text = The late Sayyid Hashem Najaf Abadi, my grandfather, had met with Sayyid Ahmad.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	late	late	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	Sayyid	Sayyid	PROPN	NNP	_	4	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+4	Hashem	Hashem	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+5	Najaf	Najaf	PROPN	NNP	_	6	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	Abadi	Abadi	PROPN	NNP	_	12	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	my	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	grandfather	grandfather	NOUN	NN	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	had	have	AUX	VBD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	met	meet	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Sayyid	Sayyid	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	Ahmad	Ahmad	PROPN	NNP	_	13	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 37
+# text = Once he said, "Whenever we were going to or coming back from Sahleh Mosque at dawn or at night, we could hear the voice of Sayyid who was crying inside his house".
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Once	once	ADV	RB	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	he	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Whenever	whenever	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	going	go	VERB	VBG	_	25	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	coming	come	VERB	VBG	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	back	back	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Sahleh	Sahleh	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	Mosque	Mosque	PROPN	NNP	_	14	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	at	at	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	dawn	dawn	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	or	or	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	at	at	ADP	IN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	night	night	NOUN	NN	_	20	pobj	_	ent_type=TIME|ent_id=3|ent_iob=B
+22	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	we	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	could	could	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	hear	hear	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	voice	voice	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	Sayyid	Sayyid	PROPN	NNP	_	28	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+30	who	who	PRON	WP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	was	be	AUX	VBD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	crying	cry	VERB	VBG	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	inside	inside	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	his	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	house	house	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	"	"	PUNCT	''	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 6
+# text = These personalities had such characteristics.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	personalities	personality	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	such	such	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	characteristics	characteristic	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 11
+# text = Well, Mr. Qazi was the student of such personalities.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Well	well	INTJ	UH	_	5	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	Mr.	Mr.	PROPN	NNP	_	4	compound	_	ent_type=_|ent_id=2|ent_iob=O
+4	Qazi	Qazi	PROPN	NNP	_	5	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	student	student	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	such	such	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	personalities	personality	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 26
+# text = He was both the student of his father, the late Sayyid Hossein, and the student of Sayyid Ahmad when he moved to Najaf.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	both	both	DET	DT	_	5	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	student	student	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	his	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	father	father	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	late	late	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	Sayyid	Sayyid	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	Hossein	Hossein	PROPN	NNP	_	8	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	student	student	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Sayyid	Sayyid	PROPN	NNP	_	20	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+20	Ahmad	Ahmad	PROPN	NNP	_	18	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+21	when	when	ADV	WRB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	he	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	moved	move	VERB	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Najaf	Najaf	PROPN	NNP	_	24	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 18
+# text = Mr. Qazi was also the student of the late Sayyid Morteza Kashmiri for 10, 12 years.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Mr.	Mr.	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Qazi	Qazi	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	student	student	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	late	late	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	Sayyid	Sayyid	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	Morteza	Morteza	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	Kashmiri	Kashmiri	PROPN	NNP	_	10	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	10	10	NUM	CD	_	17	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	,	,	PUNCT	,	_	17	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	12	12	NUM	CD	_	17	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	years	year	NOUN	NNS	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 30
+# text = Of course, the late son of Mr. Qazi, Sayyid Mohammad Hassan, says in a book that his father was not a student of Sayyid Morteza Kashmiri.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	late	late	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	son	son	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Mr.	Mr.	PROPN	NNP	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	Qazi	Qazi	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	Sayyid	Sayyid	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	Mohammad	Mohammad	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	Hassan	Hassan	PROPN	NNP	_	6	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	says	say	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	book	book	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	DET	WDT	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	his	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	father	father	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	was	be	AUX	VBD	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	not	not	PART	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	student	student	NOUN	NN	_	22	attr	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Sayyid	Sayyid	PROPN	NNP	_	29	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+28	Morteza	Morteza	PROPN	NNP	_	29	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+29	Kashmiri	Kashmiri	PROPN	NNP	_	26	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+30	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 11
+# text = Mohammad Hassan says that his father was only his friend.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Mohammad	Mohammad	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Hassan	Hassan	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	says	say	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	father	father	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	only	only	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	his	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	friend	friend	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 45
+# text = But I saw in that book or in the writings of the late Sayyid Mohammad Hossein Tehrani - I do not remember where I saw it - that Mr. Qazi said, "I leant how to say prayers from Sayyid Morteza Kashmiri".
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	saw	see	VERB	VBD	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	book	book	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	or	or	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	writings	writing	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	late	late	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	Sayyid	Sayyid	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	Mohammad	Mohammad	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	Hossein	Hossein	PROPN	NNP	_	11	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	Tehrani	Tehrani	PROPN	NNP	_	16	appos	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	-	-	PUNCT	:	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	I	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	do	do	AUX	VBP	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	not	not	PART	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+22	remember	remember	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	where	where	ADV	WRB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	I	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	saw	see	VERB	VBD	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	it	-PRON-	PRON	PRP	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	-	-	PUNCT	:	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	SCONJ	IN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	Mr.	Mr.	PROPN	NNP	_	30	compound	_	ent_type=_|ent_id=2|ent_iob=O
+30	Qazi	Qazi	PROPN	NNP	_	31	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+31	said	say	VERB	VBD	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	"	"	PUNCT	``	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	I	-PRON-	PRON	PRP	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	leant	leant	VERB	VBP	_	31	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	how	how	ADV	WRB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	to	to	PART	TO	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	say	say	VERB	VB	_	35	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	prayers	prayer	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	from	from	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	Sayyid	Sayyid	PROPN	NNP	_	43	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+42	Morteza	Morteza	PROPN	NNP	_	43	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+43	Kashmiri	Kashmiri	PROPN	NNP	_	40	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+44	"	"	PUNCT	''	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 7
+# text = Notice how deep these words are.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Notice	notice	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	how	how	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	deep	deep	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	words	word	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 13
+# text = We too say prayers and we think that we do it well.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	too	too	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	say	say	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	prayers	prayer	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	think	think	VERB	VBP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	do	do	AUX	VBP	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	well	well	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 45
+# text = After this great mystic, who had been educated by his father in Tabriz for many years, went to Najaf and stayed with Mr. Kashmiri for 10 years, he said, "I learnt how to say prayers from Mr. Kashmiri".
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	After	after	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	great	great	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	mystic	mystic	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	had	have	AUX	VBD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	educated	educate	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	his	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	father	father	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Tabriz	Tabriz	PROPN	NNP	_	13	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	many	many	ADJ	JJ	_	17	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	years	year	NOUN	NNS	_	15	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Najaf	Najaf	PROPN	NNP	_	20	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+22	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	stayed	stay	VERB	VBD	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	with	with	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Mr.	Mr.	PROPN	NNP	_	26	compound	_	ent_type=_|ent_id=2|ent_iob=O
+26	Kashmiri	Kashmiri	PROPN	NNP	_	24	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+27	for	for	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	10	10	NUM	CD	_	29	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+29	years	year	NOUN	NNS	_	27	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+30	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	he	-PRON-	PRON	PRP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	said	say	VERB	VBD	_	36	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	"	"	PUNCT	``	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	I	-PRON-	PRON	PRP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	learnt	learn	VERB	VBD	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	how	how	ADV	WRB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	say	say	VERB	VB	_	36	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	prayers	prayer	NOUN	NNS	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	from	from	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	Mr.	Mr.	PROPN	NNP	_	43	compound	_	ent_type=_|ent_id=2|ent_iob=O
+43	Kashmiri	Kashmiri	PROPN	NNP	_	41	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+44	"	"	PUNCT	''	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 46
+# text = The students of Hajj Mirza Ali Agha Qazi say that despite all his problems - he had many problems in his life because he was poor and he had a large family to support - he forgot about everything when he engaged in saying prayers.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	students	student	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Hajj	Hajj	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Mirza	Mirza	PROPN	NNP	_	8	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	Ali	Ali	PROPN	NNP	_	8	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	Agha	Agha	PROPN	NNP	_	8	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	Qazi	Qazi	PROPN	NNP	_	3	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	say	say	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	despite	despite	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	DET	PDT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	his	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	problems	problem	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	:	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	he	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	had	have	AUX	VBD	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	many	many	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	problems	problem	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	his	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	life	life	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	because	because	SCONJ	IN	_	25	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	he	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	was	be	AUX	VBD	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	poor	poor	ADJ	JJ	_	25	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	he	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	had	have	AUX	VBD	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	a	a	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	large	large	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	family	family	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	PART	TO	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	support	support	VERB	VB	_	29	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+35	-	-	PUNCT	:	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	he	-PRON-	PRON	PRP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	forgot	forget	VERB	VBD	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	about	about	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	everything	everything	PRON	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	when	when	ADV	WRB	_	42	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+41	he	-PRON-	PRON	PRP	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+42	engaged	engage	VERB	VBD	_	37	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+43	in	in	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	saying	say	VERB	VBG	_	43	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+45	prayers	prayer	NOUN	NNS	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 24
+# text = That is to say, he was so absorbed in dhikr and supplication during praying that he used to forget about everything else.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	he	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	so	so	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	absorbed	absorb	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	dhikr	dhikr	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	supplication	supplication	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	during	during	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	praying	pray	VERB	VBG	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+17	he	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	used	use	VERB	VBD	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	forget	forget	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	about	about	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	everything	everything	PRON	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	else	else	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 10
+# text = Well, this is an excellent and special framework.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Well	well	INTJ	UH	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	excellent	excellent	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	special	special	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	framework	framework	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 14
+# text = It is special for us because we can realize that such things exist.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	special	special	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	us	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	because	because	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	realize	realize	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	such	such	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	things	thing	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	exist	exist	VERB	VBP	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 19
+# text = We can realize that such positions, movements, sincerity and purity in the way of God exist.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	realize	realize	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	such	such	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	positions	position	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	movements	movement	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	sincerity	sincerity	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	purity	purity	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	way	way	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	God	God	PROPN	NNP	_	16	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	exist	exist	VERB	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 9
+# text = These personalities never showed off their mystical powers.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	personalities	personality	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	never	never	ADV	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	showed	show	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	off	off	ADP	RP	_	4	prt	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	mystical	mystical	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	powers	power	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 10
+# text = Well, many things have been narrated about them.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Well	well	INTJ	UH	_	7	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	things	thing	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	narrated	narrate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	about	about	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	them	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 13
+# text = There are many reliable narrations about the extraordinary life of Mr. Qazi.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	reliable	reliable	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	narrations	narration	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	about	about	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	extraordinary	extraordinary	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	life	life	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Mr.	Mr.	PROPN	NNP	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	Qazi	Qazi	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 11
+# text = Of course, these things are only extraordinary for us.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	things	thing	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	only	only	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	extraordinary	extraordinary	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	us	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 10
+# text = There were many such cases and they are reliable.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	such	such	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	cases	case	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	reliable	reliable	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 8
+# text = We can be sure about their reliability.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	sure	sure	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	reliability	reliability	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 25
+# text = However, these things were not at all important and they did not play a significant role in the lives of these great personalities.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	However	however	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	things	thing	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	at	at	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	important	important	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	did	do	AUX	VBD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	play	play	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	significant	significant	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	role	role	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	lives	life	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	these	these	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	great	great	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	personalities	personality	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 34
+# text = Mr. Qazi himself used to say to his students, "If you have a feeling of mukashefe [mystical vision], you should ignore it and continue to do your work.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Mr.	Mr.	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Qazi	Qazi	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	himself	-PRON-	PRON	PRP	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+4	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	his	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	students	student	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	If	if	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	you	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	have	have	AUX	VBP	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	feeling	feeling	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	mukashefe	mukashefe	ADJ	JJ	_	21	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	[	[	PUNCT	-LRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	mystical	mystical	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	vision	vision	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	]	]	PUNCT	-RRB-	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	you	-PRON-	PRON	PRP	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	should	should	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	ignore	ignore	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	it	-PRON-	PRON	PRP	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	continue	continue	VERB	VB	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	do	do	AUX	VB	_	29	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	your	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	work	work	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 9
+# text = Engage in dhikr and preserve your humility".
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Engage	engage	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	dhikr	dhikr	PROPN	NNP	_	2	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	preserve	preserve	VERB	VB	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	humility	humility	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	''	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 7
+# text = These outstanding personalities had such positions.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	These	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	outstanding	outstanding	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	personalities	personality	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	such	such	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	positions	position	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 13
+# text = Anyway, it is very important to revive and introduce these personalities.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Anyway	anyway	INTJ	UH	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	very	very	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	important	important	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	revive	revive	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	introduce	introduce	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	these	these	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	personalities	personality	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 11
+# text = But you should benefit from experts in introducing these people.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	benefit	benefit	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	experts	expert	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	introducing	introduce	VERB	VBG	_	7	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 23
+# text = Those who can tell us about their positions in all areas should carry out this responsibility so that we can learn something.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Those	those	DET	DT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	tell	tell	VERB	VB	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	us	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	positions	position	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	areas	area	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	carry	carry	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	out	out	ADP	RP	_	13	prt	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	responsibility	responsibility	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	so	so	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	we	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	can	can	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	learn	learn	VERB	VB	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	something	something	PRON	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 29
+# text = Speaking about scholarly and fiqhi positions - in which they had great expertise - is not enough for introducing personalities like the late Hajj Mirza Ali Agha Qazi.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Speaking	speak	VERB	VBG	_	15	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	about	about	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	scholarly	scholarly	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	fiqhi	fiqhi	ADJ	JJ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	positions	position	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	had	have	AUX	VBD	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	great	great	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	expertise	expertise	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	not	not	PART	RB	_	15	neg	_	ent_type=_|ent_id=2|ent_iob=O
+17	enough	enough	ADJ	JJ	_	15	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	introducing	introduce	VERB	VBG	_	18	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	personalities	personality	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	like	like	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	late	late	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	Hajj	Hajj	PROPN	NNP	_	25	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+25	Mirza	Mirza	PROPN	NNP	_	28	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+26	Ali	Ali	PROPN	NNP	_	28	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+27	Agha	Agha	PROPN	NNP	_	28	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+28	Qazi	Qazi	PROPN	NNP	_	21	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+29	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 11
+# text = Well, thankfully, Mr. Qazi lived a long life.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Well	well	INTJ	UH	_	7	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	thankfully	thankfully	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	Mr.	Mr.	PROPN	NNP	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	Qazi	Qazi	PROPN	NNP	_	7	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	lived	live	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	long	long	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	life	life	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 9
+# text = He made many achievements and built many students.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	achievements	achievement	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	built	build	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	many	many	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	students	student	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 30
+# text = As for spiritual, mystic and other such areas - as I said - he is one of the personalities who had few equals, to say the least.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	As	as	SCONJ	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	for	for	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	spiritual	spiritual	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	mystic	mystic	ADJ	JJ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	other	other	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	such	such	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	areas	area	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	as	as	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	I	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	said	say	VERB	VBD	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	he	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	one	one	NUM	CD	_	16	attr	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	personalities	personality	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	who	who	PRON	WP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	had	have	AUX	VBD	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	few	few	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	equals	equal	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	say	say	VERB	VB	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	least	least	ADJ	JJS	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 6
+# text = His personality was really outstanding.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	personality	personality	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	really	really	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	outstanding	outstanding	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 34
+# text = In the book which his son - the late Sayyid Mohammad Hassan - wrote and which I came across a few years ago and read many times, there are a few letters.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	In	in	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	book	book	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	son	son	NOUN	NN	_	14	dep	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	:	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	late	late	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	Sayyid	Sayyid	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	Mohammad	Mohammad	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	Hassan	Hassan	PROPN	NNP	_	14	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	-	-	PUNCT	HYPH	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	wrote	write	VERB	VBD	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	I	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	came	come	VERB	VBD	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	across	across	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	22	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	few	few	ADJ	JJ	_	22	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	years	year	NOUN	NNS	_	23	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+23	ago	ago	ADV	RB	_	18	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+24	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	read	read	VERB	VBD	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	many	many	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	times	time	NOUN	NNS	_	25	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	there	there	PRON	EX	_	30	expl	_	ent_type=_|ent_id=2|ent_iob=O
+30	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	a	a	DET	DT	_	32	quantmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	few	few	ADJ	JJ	_	33	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+33	letters	letter	NOUN	NNS	_	30	attr	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 28
+# text = But this book has been annotated in a way that one cannot understand which part is the main text and which part is the annotated part.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	But	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	book	book	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	annotated	annotate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	way	way	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	one	one	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	can	can	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	understand	understand	VERB	VB	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	which	which	DET	WDT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	part	part	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	main	main	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	text	text	NOUN	NN	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	which	which	DET	WDT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	part	part	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	annotated	annotated	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	part	part	NOUN	NN	_	24	attr	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 28
+# text = In my opinion, if you can find the text of these letters and if you can publish them separately, it will be a very good.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	In	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	my	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	opinion	opinion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	can	can	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	find	find	VERB	VB	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	text	text	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	these	these	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	letters	letter	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	if	if	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	you	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	can	can	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	publish	publish	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	them	-PRON-	PRON	PRP	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	separately	separately	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	it	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	very	very	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	good	good	ADJ	JJ	_	24	attr	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 15
+# text = The relatives of these outstanding personalities certainly have the main text of these letters.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	relatives	relative	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	outstanding	outstanding	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	personalities	personality	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	certainly	certainly	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	main	main	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	text	text	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	these	these	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	letters	letter	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 7
+# text = There are four, five letters.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	four	four	NUM	CD	_	6	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	five	five	NUM	CD	_	6	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	letters	letter	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 9
+# text = One was most likely addressed to Mr. Tabatabai.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	One	one	NUM	CD	_	5	nsubjpass	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	was	be	AUX	VBD	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	most	most	ADV	RBS	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	likely	likely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	addressed	address	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Mr.	Mr.	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Tabatabai	Tabatabai	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 26
+# text = Of course, it does not have a title, but we can guess from the main text that it was addressed to Mr. Tabatabai.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	does	do	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	title	title	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	but	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	we	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	can	can	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	guess	guess	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	from	from	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	main	main	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	text	text	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	DET	WDT	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	it	-PRON-	PRON	PRP	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	was	be	AUX	VBD	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	addressed	address	VERB	VBN	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Mr.	Mr.	PROPN	NNP	_	25	compound	_	ent_type=_|ent_id=2|ent_iob=O
+25	Tabatabai	Tabatabai	PROPN	NNP	_	23	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+26	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 13
+# text = One was most likely addressed to the late Sayyid Mohammad Hassan Elahi.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	One	one	NUM	CD	_	5	nsubjpass	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	was	be	AUX	VBD	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	most	most	ADV	RBS	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	likely	likely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	addressed	address	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	late	late	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	Sayyid	Sayyid	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	Mohammad	Mohammad	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	Hassan	Hassan	PROPN	NNP	_	12	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	Elahi	Elahi	PROPN	NNP	_	6	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 23
+# text = One, two letters were addressed to the late Sheikh Ibrahim Sharifi Zaboli, who was his son-in-law.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	One	one	NUM	CD	_	6	npadvmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	two	two	NUM	CD	_	4	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	letters	letter	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	were	be	AUX	VBD	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	addressed	address	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	late	late	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	Sheikh	Sheikh	PROPN	NNP	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	Ibrahim	Ibrahim	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	Sharifi	Sharifi	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	Zaboli	Zaboli	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	was	be	AUX	VBD	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	his	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	son	son	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	-	-	PUNCT	HYPH	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	-	-	PUNCT	HYPH	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	law	law	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 22
+# text = One was addressed to his students on the occasion of the arrival of the month of Rajab or Dhul-Qada.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	One	one	NUM	CD	_	3	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	3	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	addressed	address	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	students	student	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	occasion	occasion	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	arrival	arrival	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	month	month	NOUN	NN	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Rajab	Rajab	PROPN	NNP	_	16	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	or	or	CCONJ	CC	_	17	cc	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	Dhul	Dhul	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	-	-	PUNCT	HYPH	_	21	punct	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Qada	Qada	PROPN	NNP	_	17	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 24
+# text = In this letter, he speaks about the arrival of the month of haraam and about the significance of the months of haraam.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	letter	letter	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	he	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	speaks	speak	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	arrival	arrival	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	month	month	NOUN	NN	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	of	of	ADP	IN	_	12	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	haraam	haraam	ADV	RB	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	about	about	ADP	IN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	significance	significance	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+21	months	month	NOUN	NNS	_	19	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	of	of	ADP	IN	_	21	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+23	haraam	haraam	NOUN	NN	_	22	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+24	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 11
+# text = And the other letters were probably addressed to other personalities.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	And	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	letters	letter	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	were	be	AUX	VBD	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	probably	probably	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	addressed	address	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	personalities	personality	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 31
+# text = Anyway, I thank the gentlemen in this meeting and I hope that, by Allah's favor, this task will be carried out in the best way possible.
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Anyway	anyway	INTJ	UH	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	gentlemen	gentleman	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	meeting	meeting	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	hope	hope	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	by	by	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Allah	Allah	PROPN	NNP	_	18	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	's	's	PART	POS	_	16	case	_	ent_type=_|ent_id=2|ent_iob=O
+18	favor	favor	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	task	task	NOUN	NN	_	24	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	carried	carry	VERB	VBN	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	out	out	ADP	RP	_	24	prt	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	best	good	ADJ	JJS	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	way	way	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	possible	possible	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech in Meeting with Officials of Ayatollah Sayyid Ali Qazi Commemoration Congres
+# year = 2012
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

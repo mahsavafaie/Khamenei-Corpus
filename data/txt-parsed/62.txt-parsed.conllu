@@ -1,0 +1,698 @@
+# sent_id = 1
+# sent_len = 48
+# text = Ayatollah Khamenei stressed that although there is a strong bond between the Shia and this auspicious occasion, the event which took place on the day of Ghadir relates to the whole Islamic world because this event was inspired by the real spirit and meaning of Islam.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	stressed	stress	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	although	although	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	there	there	PRON	EX	_	7	expl	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	29	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	strong	strong	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	bond	bond	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	between	between	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Shia	Shia	PROPN	NNPS	_	11	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	auspicious	auspicious	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	occasion	occasion	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	event	event	NOUN	NN	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	which	which	DET	WDT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	took	take	VERB	VBD	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	place	place	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	on	on	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+26	day	day	NOUN	NN	_	24	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	Ghadir	Ghadir	PROPN	NNP	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	relates	relate	VERB	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	whole	whole	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	Islamic	islamic	ADJ	JJ	_	34	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+34	world	world	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	because	because	SCONJ	IN	_	39	mark	_	ent_type=_|ent_id=2|ent_iob=O
+36	this	this	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	event	event	NOUN	NN	_	39	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+38	was	be	AUX	VBD	_	39	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+39	inspired	inspire	VERB	VBN	_	29	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+40	by	by	ADP	IN	_	39	agent	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	real	real	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	spirit	spirit	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	43	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	meaning	meaning	NOUN	NN	_	43	conj	_	ent_type=_|ent_id=2|ent_iob=O
+46	of	of	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+47	Islam	Islam	PROPN	NNP	_	46	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+48	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 23
+# text = "Almighty Allah tells the Prophet - despite all his endeavors - some 70 days before his departure that 'O Apostle!
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	"	"	PUNCT	``	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Almighty	Almighty	PROPN	NNP	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	tells	tell	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Prophet	Prophet	PROPN	NNP	_	4	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	-	-	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	despite	despite	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	PDT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	his	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	endeavors	endeavor	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	some	some	DET	DT	_	15	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	70	70	NUM	CD	_	15	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	days	day	NOUN	NNS	_	16	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	before	before	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	his	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	departure	departure	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	'	'	PUNCT	''	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	O	o	INTJ	UH	_	22	intj	_	ent_type=_|ent_id=2|ent_iob=O
+22	Apostle	Apostle	PROPN	NNP	_	4	ccomp	_	ent_type=PERSON|ent_id=3|ent_iob=B
+23	!	!	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 27
+# text = Deliver what has been revealed to you from your Lord; and if you do it not, then you have not delivered His message...'
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	Deliver	deliver	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	what	what	PRON	WP	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	revealed	reveal	VERB	VBN	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	you	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	Lord	Lord	PROPN	NNP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	;	;	PUNCT	:	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	if	if	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	do	do	AUX	VBP	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	not	not	PART	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	then	then	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	you	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	have	have	AUX	VBP	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	not	not	PART	RB	_	23	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	delivered	deliver	VERB	VBN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	His	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	message	message	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	...	...	PUNCT	:	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	'	'	PUNCT	''	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 3
+# text = (5:67)
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	(	(	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	5:67	5:67	NUM	CD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	)	)	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 29
+# text = "This verse clearly shows that what happened on the day of Ghadir was the manifestation of the real spirit and meaning of Islam," he noted.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	"	"	PUNCT	``	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	verse	verse	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	clearly	clearly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	shows	show	VERB	VBZ	_	28	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	what	what	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	happened	happen	VERB	VBD	_	14	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	day	day	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Ghadir	Ghadir	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	was	be	AUX	VBD	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	manifestation	manifestation	NOUN	NN	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	real	real	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	spirit	spirit	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	meaning	meaning	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islam	Islam	PROPN	NNP	_	23	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+25	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	"	"	PUNCT	''	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	he	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 8
+# text = The Leader went on to say: "
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	:	:	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 9
+# text = There are two important aspects to this event:
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	two	two	NUM	CD	_	5	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	important	important	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	aspects	aspect	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	event	event	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	:	:	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 55
+# text = First, the appointment of the Commander of the Faithful, Imam Ali (greetings be upon him), to the position of Velayat; and second, the criteria and reasons that Prophet Mohammad (peace be upon him) cited in his sermon on the day of Ghadir for this appointment.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	First	first	ADV	RB	_	0	ROOT	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	appointment	appointment	NOUN	NN	_	2	intj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Commander	Commander	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Faithful	faithful	ADJ	JJ	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Imam	Imam	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	Ali	Ali	PROPN	NNP	_	4	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	(	(	PUNCT	-LRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	greetings	greeting	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	13	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+17	upon	upon	SCONJ	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	him	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	)	)	PUNCT	-RRB-	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	intj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	position	position	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Velayat	Velayat	PROPN	NNP	_	24	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+26	;	;	PUNCT	:	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	second	second	ADV	RB	_	21	conj	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+29	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	criteria	criterion	NOUN	NNS	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	reasons	reason	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	that	that	DET	WDT	_	43	mark	_	ent_type=_|ent_id=2|ent_iob=O
+35	Prophet	Prophet	PROPN	NNP	_	36	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+36	Mohammad	Mohammad	PROPN	NNP	_	43	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+37	(	(	PUNCT	-LRB-	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	peace	peace	NOUN	NN	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+39	be	be	VERB	VBP	_	36	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+40	upon	upon	SCONJ	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	him	-PRON-	PRON	PRP	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	)	)	PUNCT	-RRB-	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+43	cited	cite	VERB	VBN	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+44	in	in	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	his	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+46	sermon	sermon	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	on	on	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	the	the	DET	DT	_	49	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+49	day	day	NOUN	NN	_	47	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+50	of	of	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	Ghadir	Ghadir	PROPN	NNPS	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	for	for	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+53	this	this	DET	DT	_	54	det	_	ent_type=_|ent_id=2|ent_iob=O
+54	appointment	appointment	NOUN	NN	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 39
+# text = "Prophet Mohammad (peace be upon him), referring to the qualities and characteristics of the Commander of the Faithful, said: 'He is the most righteous and the fairest among the people.'
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	"	"	PUNCT	``	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Prophet	Prophet	PROPN	NNP	_	3	compound	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Mohammad	Mohammad	PROPN	NNP	_	11	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	(	(	PUNCT	-LRB-	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	peace	peace	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	VERB	VBP	_	3	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+7	upon	upon	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	him	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	)	)	PUNCT	-RRB-	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	referring	refer	VERB	VBG	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	qualities	quality	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	characteristics	characteristic	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Commander	Commander	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Faithful	Faithful	PROPN	NNP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	:	:	PUNCT	:	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	'	'	PUNCT	``	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	He	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	is	be	AUX	VBZ	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	most	most	ADV	RBS	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	righteous	righteous	ADJ	JJ	_	28	attr	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	fairest	fair	ADJ	JJS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	among	among	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	people	people	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	'	'	PUNCT	''	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 23
+# text = "Indeed, Imam Ali (greetings be upon him) was the paragon of justice and virtue in its true sense.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	"	"	PUNCT	''	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Indeed	indeed	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Imam	Imam	PROPN	NNP	_	5	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	Ali	Ali	PROPN	NNP	_	12	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+6	(	(	PUNCT	-LRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	greetings	greeting	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	5	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+9	upon	upon	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	him	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	)	)	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	paragon	paragon	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	justice	justice	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	virtue	virtue	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	its	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	true	true	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	sense	sense	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 27
+# text = Even today, if we want to define justice, there is no better example than the conduct and behavior of the Commander of the Faithful.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	Even	even	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	12	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	if	if	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	want	want	VERB	VBP	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	define	define	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	justice	justice	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	there	there	PRON	EX	_	12	expl	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	no	no	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	better	well	ADJ	JJR	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	example	example	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	than	than	SCONJ	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	conduct	conduct	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	behavior	behavior	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Commander	Commander	PROPN	NNP	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Faithful	faithful	ADJ	JJ	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 23
+# text = This is why the Prophet introduced him to the people and appointed him to the position of Velayat on divine orders. "
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Prophet	Prophet	PROPN	NNP	_	6	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	introduced	introduce	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	him	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	appointed	appoint	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	him	-PRON-	PRON	PRP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	position	position	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Velayat	Velayat	PROPN	NNP	_	17	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	on	on	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	divine	divine	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	orders	order	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 37
+# text = Therefore, considering the important aspects of this event, it becomes clear that the main objectives of this appointment were to administer justice and equity, promote virtues and establish divine rule in Islamic society.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	considering	consider	VERB	VBG	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	important	important	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	aspects	aspect	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	event	event	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	becomes	become	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	clear	clear	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	main	main	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	objectives	objective	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	appointment	appointment	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	were	be	AUX	VBD	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	administer	administer	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	justice	justice	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	equity	equity	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	promote	promote	VERB	VB	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	virtues	virtue	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	establish	establish	VERB	VB	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	divine	divine	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	rule	rule	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Islamic	islamic	ADJ	JJ	_	36	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+36	society	society	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 13
+# text = This is why the issue of Ghadir relates to all Muslims."
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	issue	issue	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Ghadir	Ghadir	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	relates	relate	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Muslims	Muslims	PROPN	NNPS	_	9	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 21
+# text = Further in his remarks, Ayatollah Khamenei stated: "Today, nations throughout the world are thirsty for justice.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	Further	further	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Ayatollah	Ayatollah	PROPN	NNP	_	7	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	Khamenei	Khamenei	PROPN	NNP	_	8	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	:	:	PUNCT	:	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	"	"	PUNCT	``	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	Today	today	NOUN	NN	_	18	npadvmod	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	nations	nation	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	throughout	throughout	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	world	world	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	are	be	AUX	VBP	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	thirsty	thirsty	ADJ	JJ	_	18	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	justice	justice	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 52
+# text = Unfortunately, despite all the scientific achievements, discoveries and inventions and in spite of the remarkable progress and development in different fields of technology, there has been a sharp decline in morality, as the world powers are flagrantly bullying other nations and have no respect for human rights.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	Unfortunately	unfortunately	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	despite	despite	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	PDT	_	7	predet	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	scientific	scientific	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	achievements	achievement	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	discoveries	discovery	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	inventions	invention	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	spite	spite	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	remarkable	remarkable	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	progress	progress	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	development	development	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	different	different	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	fields	field	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	technology	technology	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	there	there	PRON	EX	_	29	expl	_	ent_type=_|ent_id=2|ent_iob=O
+28	has	have	AUX	VBZ	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+30	a	a	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	sharp	sharp	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	decline	decline	NOUN	NN	_	29	attr	_	ent_type=_|ent_id=2|ent_iob=O
+33	in	in	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	morality	morality	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	as	as	SCONJ	IN	_	42	mark	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	world	world	NOUN	NN	_	39	compound	_	ent_type=_|ent_id=2|ent_iob=O
+39	powers	power	NOUN	NNS	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	are	be	AUX	VBP	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	flagrantly	flagrantly	ADV	RB	_	42	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+42	bullying	bully	VERB	VBG	_	29	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+43	other	other	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	nations	nation	NOUN	NNS	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	have	have	AUX	VBP	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	no	no	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+48	respect	respect	NOUN	NN	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	for	for	ADP	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+50	human	human	ADJ	JJ	_	51	amod	_	ent_type=_|ent_id=2|ent_iob=O
+51	rights	right	NOUN	NNS	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 25
+# text = "Even some of these powers have openly said that the world public opposition would pose no obstacle to their military aggression against Iraq!
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Even	even	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	these	these	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	powers	power	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	openly	openly	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	said	say	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	world	world	NOUN	NN	_	14	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	public	public	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	opposition	opposition	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	would	would	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	pose	pose	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	no	no	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	obstacle	obstacle	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	military	military	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	aggression	aggression	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	against	against	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Iraq	Iraq	PROPN	NNP	_	23	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	!	!	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 22
+# text = This is quite a brutish attitude, since it reveals utter disregard for human rights, justice, morality and virtues.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	quite	quite	DET	PDT	_	6	predet	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	brutish	brutish	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	attitude	attitude	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	since	since	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	it	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	reveals	reveal	VERB	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	utter	utter	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	disregard	disregard	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	human	human	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	rights	right	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	justice	justice	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	morality	morality	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	virtues	virtue	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 14
+# text = "Despite all this, the realities of the world will never change.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	"	"	PUNCT	``	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Despite	despite	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	PDT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	realities	reality	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	world	world	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	never	never	ADV	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	change	change	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 28
+# text = These realities indicate that oppression and injustice cannot last long, and that the will of the nations and spirituality and morality will ultimately prevail."
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	realities	reality	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	indicate	indicate	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	oppression	oppression	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	injustice	injustice	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	can	can	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	last	last	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	long	long	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	nations	nation	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	spirituality	spirituality	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	morality	morality	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	will	will	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	ultimately	ultimately	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	prevail	prevail	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 47
+# text = In conclusion, Leader of the Islamic Republic prayed that some day the Islamic world and the whole mankind would enjoy the kind of justice that was introduced by the Commander of the Faithful and benefit from the blessings of Ghadir through divine grace and favor.
+# title = Leader's Speech on Eid-ul-Ghadir
+# year = 2003
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Leader	leader	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	prayed	pray	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	some	some	DET	DT	_	12	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	day	day	NOUN	NN	_	21	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	world	world	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	whole	whole	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	mankind	mankind	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	would	would	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	enjoy	enjoy	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	kind	kind	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	justice	justice	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	28	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+27	was	be	AUX	VBD	_	28	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	introduced	introduce	VERB	VBN	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	by	by	ADP	IN	_	28	agent	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	Commander	Commander	PROPN	NNP	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	of	of	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	Faithful	faithful	ADJ	JJ	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	benefit	benefit	VERB	VB	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	from	from	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	blessings	blessing	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	of	of	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	Ghadir	Ghadir	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	through	through	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	divine	divine	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	grace	grace	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	44	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	favor	favor	NOUN	NN	_	44	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O

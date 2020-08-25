@@ -1,0 +1,3087 @@
+# sent_id = 1
+# sent_len = 7
+# text = Dear brothers and sisters, welcome!
+# title = Leader's Address to Teachers
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	brothers	brother	NOUN	NNS	_	6	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	sisters	sister	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	welcome	welcome	INTJ	UH	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	!	!	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 26
+# text = I would like to congratulate all of you and all the teachers across the country as well as the Iranian nation on Teachers' Day.
+# title = Leader's Address to Teachers
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	congratulate	congratulate	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	PDT	_	12	predet	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	teachers	teacher	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	across	across	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	as	as	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	well	well	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	as	as	SCONJ	IN	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iranian	iranian	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	nation	nation	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	on	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Teachers	Teachers	PROPN	NNPS	_	25	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+24	'	'	PART	POS	_	23	case	_	ent_type=ORG|ent_id=1|ent_iob=I
+25	Day	day	NOUN	NN	_	22	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+26	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 24
+# text = There is a lesson in the fact that Teachers' Day was chosen to coincide with the day a great teacher was martyred.
+# title = Leader's Address to Teachers
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	lesson	lesson	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	fact	fact	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	Teachers	Teachers	PROPN	NNPS	_	11	poss	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	'	'	PART	POS	_	9	case	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Day	Day	PROPN	NNP	_	13	nsubjpass	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	was	be	AUX	VBD	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	chosen	choose	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	coincide	coincide	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+18	day	day	NOUN	NN	_	16	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	great	great	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	teacher	teacher	NOUN	NN	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	was	be	AUX	VBD	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	martyred	martyr	VERB	VBN	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 6
+# text = That was a symbolic decision.
+# title = Leader's Address to Teachers
+# year = 2010
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	symbolic	symbolic	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	decision	decision	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 45
+# text = That is to say, the greatness of teaching is so much that this praiseworthy and great job requires a combination of intellectual and scholarly work as well as presence in essential arenas of life - as was evident in Shahid Motahhari's life.
+# title = Leader's Address to Teachers
+# year = 2010
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	say	say	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	greatness	greatness	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	teaching	teaching	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	so	so	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	much	much	ADJ	JJ	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	praiseworthy	praiseworthy	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	great	great	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	job	job	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	requires	require	VERB	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	combination	combination	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	intellectual	intellectual	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	scholarly	scholarly	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	work	work	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	as	as	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	well	well	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	as	as	SCONJ	IN	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	presence	presence	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	in	in	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	essential	essential	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	arenas	arena	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	life	life	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	-	-	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	as	as	SCONJ	IN	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	was	be	AUX	VBD	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	evident	evident	ADJ	JJ	_	38	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	Shahid	Shahid	PROPN	NNP	_	42	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+42	Motahhari	Motahhari	PROPN	NNP	_	44	poss	_	ent_type=PERSON|ent_id=1|ent_iob=I
+43	's	's	PART	POS	_	42	case	_	ent_type=PERSON|ent_id=1|ent_iob=I
+44	life	life	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 22
+# text = One essential point is that the teaching community of our country should always keep the greatness of their job in mind.
+# title = Leader's Address to Teachers
+# year = 2010
+1	One	one	NUM	CD	_	3	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	essential	essential	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	teaching	teaching	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	community	community	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	always	always	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	keep	keep	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	greatness	greatness	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	job	job	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	mind	mind	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 65
+# text = If you know what a great job you are doing, your motivation, efforts, and faith will be doubled - just like a courageous soldier who is doing his job and making selfless efforts in a sensitive part of the front, and the role of his selfless efforts is so great that it can affect and benefit the entire friendly front.
+# title = Leader's Address to Teachers
+# year = 2010
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VBP	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	what	what	PRON	WP	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	great	great	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	job	job	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	you	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	doing	do	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	motivation	motivation	NOUN	NN	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	efforts	effort	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	faith	faith	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	doubled	double	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	-	-	PUNCT	:	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	just	just	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	like	like	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	courageous	courageous	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	soldier	soldier	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	who	who	PRON	WP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	is	be	AUX	VBZ	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	doing	do	VERB	VBG	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	his	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	job	job	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	making	make	VERB	VBG	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	selfless	selfless	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	efforts	effort	NOUN	NNS	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	in	in	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	a	a	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	sensitive	sensitive	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	part	part	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	front	front	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	role	role	NOUN	NN	_	52	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+48	of	of	ADP	IN	_	47	prep	_	ent_type=_|ent_id=2|ent_iob=O
+49	his	-PRON-	DET	PRP$	_	51	poss	_	ent_type=_|ent_id=2|ent_iob=O
+50	selfless	selfless	ADJ	JJ	_	51	amod	_	ent_type=_|ent_id=2|ent_iob=O
+51	efforts	effort	NOUN	NNS	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	is	be	AUX	VBZ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	so	so	ADV	RB	_	54	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+54	great	great	ADJ	JJ	_	52	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+55	that	that	SCONJ	IN	_	58	mark	_	ent_type=_|ent_id=2|ent_iob=O
+56	it	-PRON-	PRON	PRP	_	58	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+57	can	can	VERB	MD	_	58	aux	_	ent_type=_|ent_id=2|ent_iob=O
+58	affect	affect	VERB	VB	_	54	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+59	and	and	CCONJ	CC	_	58	cc	_	ent_type=_|ent_id=2|ent_iob=O
+60	benefit	benefit	VERB	VB	_	58	conj	_	ent_type=_|ent_id=2|ent_iob=O
+61	the	the	DET	DT	_	64	det	_	ent_type=_|ent_id=2|ent_iob=O
+62	entire	entire	ADJ	JJ	_	64	amod	_	ent_type=_|ent_id=2|ent_iob=O
+63	friendly	friendly	ADJ	JJ	_	64	amod	_	ent_type=_|ent_id=2|ent_iob=O
+64	front	front	NOUN	NN	_	60	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+65	.	.	PUNCT	.	_	52	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 26
+# text = If the soldier is aware of this, he will never get tired or bored, and nothing will undermine the hope in his heart.
+# title = Leader's Address to Teachers
+# year = 2010
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	soldier	soldier	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	aware	aware	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	he	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	will	will	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	never	never	ADV	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	tired	tired	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	or	or	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	bored	bored	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	nothing	nothing	PRON	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	will	will	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	undermine	undermine	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	hope	hope	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	his	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	heart	heart	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 21
+# text = Teachers play a vital role in society, and their role is not comparable to other important roles in society.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Teachers	teacher	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	play	play	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	vital	vital	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	role	role	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	society	society	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	role	role	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	comparable	comparable	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	other	other	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	important	important	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	roles	role	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	society	society	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 10
+# text = Our teachers should always keep this point in mind.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	teachers	teacher	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	always	always	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	keep	keep	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	point	point	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	mind	mind	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 7
+# text = Students are like a blank slate.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Students	student	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	blank	blank	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	slate	slate	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 14
+# text = There are many factors that shape the slate and give it an identity.
+# title = Leader's Address to Teachers
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	factors	factor	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	shape	shape	VERB	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	slate	slate	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	give	give	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	10	dative	_	ent_type=_|ent_id=2|ent_iob=O
+12	an	an	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	identity	identity	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 21
+# text = Parenting, social factors, advertisements, media, and other such factors all play a role in this regard.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Parenting	parenting	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	social	social	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	factors	factor	NOUN	NNS	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	advertisements	advertisement	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	media	medium	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	such	such	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	factors	factor	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	all	all	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+15	play	play	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	role	role	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	regard	regard	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 11
+# text = But the role of teachers stands out among other factors.
+# title = Leader's Address to Teachers
+# year = 2010
+1	But	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	role	role	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	teachers	teacher	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	stands	stand	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	out	out	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+8	among	among	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	factors	factor	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 11
+# text = Teachers can even liberate their students from their genetic tendencies.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Teachers	teacher	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	even	even	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	liberate	liberate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	students	student	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	genetic	genetic	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	tendencies	tendency	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 6
+# text = This has been scientifically proven.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	scientifically	scientifically	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	proven	prove	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 32
+# text = Just as the effect of genetic factors involved in some physical disorders can be offset through treatment and prevention, it is also possible to change inherited moral and spiritual factors.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Just	just	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	as	as	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	effect	effect	NOUN	NN	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	genetic	genetic	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	factors	factor	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	involved	involve	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	some	some	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	physical	physical	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	disorders	disorder	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	can	can	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	be	be	AUX	VB	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	offset	offset	VERB	VBN	_	22	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	through	through	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	treatment	treatment	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	prevention	prevention	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	it	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	also	also	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	possible	possible	ADJ	JJ	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	change	change	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	inherited	inherit	VERB	VBN	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	moral	moral	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	spiritual	spiritual	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	factors	factor	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 15
+# text = Teachers can teach their young students to be a thoughtful intellectual interested in research.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Teachers	teacher	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	teach	teach	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	young	young	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	students	student	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	thoughtful	thoughtful	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	intellectual	intellectual	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	interested	interested	ADJ	JJ	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	research	research	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 16
+# text = Conversely, they can make their students superficial individuals with no interest in acquiring knowledge.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Conversely	conversely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	students	student	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	superficial	superficial	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	individuals	individual	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	no	no	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	interest	interest	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	acquiring	acquire	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	knowledge	knowledge	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 20
+# text = They can teach their students to be honorable, noble, benevolent, good-natured, and truthful.
+# title = Leader's Address to Teachers
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	teach	teach	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	students	student	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	honorable	honorable	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	noble	noble	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	benevolent	benevolent	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	good	good	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	HYPH	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	natured	natured	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	truthful	truthful	ADJ	JJ	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 12
+# text = Conversely, they can make them bad-natured and malevolent.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Conversely	conversely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	bad	bad	ADJ	JJ	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	natured	natured	ADJ	JJ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	malevolent	malevolent	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 27
+# text = They can train their students to be optimistic, self-confident, hopeful, and hardworking, or they can make them hopeless and isolated.
+# title = Leader's Address to Teachers
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	train	train	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	students	student	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	optimistic	optimistic	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	self	self	NOUN	NN	_	12	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	confident	confident	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	hopeful	hopeful	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	hardworking	hardworking	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	or	or	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	can	can	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	make	make	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	hopeless	hopeless	ADJ	JJ	_	22	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	isolated	isolated	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 10
+# text = They can help their students become pious and faithful.
+# title = Leader's Address to Teachers
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	their	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	students	student	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	become	become	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	pious	pious	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	faithful	faithful	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 19
+# text = Conversely, they can make them unprincipled individuals who have no respect for moral values and religious education.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Conversely	conversely	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	them	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	unprincipled	unprincipled	ADJ	JJ	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	individuals	individual	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	no	no	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	respect	respect	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	moral	moral	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	values	value	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	religious	religious	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	education	education	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 22
+# text = Teachers can even overcome the effect of factors that are external to education, including the media and other such things.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Teachers	teacher	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	even	even	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	overcome	overcome	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	effect	effect	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	factors	factor	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	external	external	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	education	education	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	including	include	VERB	VBG	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	media	medium	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	other	other	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	such	such	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	things	thing	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 14
+# text = They can even overcome the effect of parenting through years of continued education.
+# title = Leader's Address to Teachers
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	even	even	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	overcome	overcome	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	effect	effect	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	parenting	parent	VERB	VBG	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	through	through	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	years	year	NOUN	NNS	_	9	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	continued	continued	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	education	education	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 9
+# text = This shows the importance of teachers' role.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	importance	importance	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	teachers	teacher	NOUN	NNS	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	'	'	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	role	role	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 36
+# text = Society needs faithful, motivated, patient, hopeful, optimistic, innovative, thoughtful, and scholarly individuals who are committed to pursuing public interests and reaching the peaks of individual and social perfection.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Society	Society	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	needs	need	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	faithful	faithful	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	motivated	motivated	ADJ	JJ	_	4	intj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	patient	patient	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	hopeful	hopeful	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	optimistic	optimistic	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	innovative	innovative	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	thoughtful	thoughtful	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	scholarly	scholarly	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	individuals	individual	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	committed	commit	VERB	VBN	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	pursuing	pursue	VERB	VBG	_	23	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	public	public	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	interests	interest	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	reaching	reach	VERB	VBG	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	peaks	peak	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	individual	individual	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	social	social	ADJ	JJ	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	perfection	perfection	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 6
+# text = Who can educate such individuals?
+# title = Leader's Address to Teachers
+# year = 2010
+1	Who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	educate	educate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	such	such	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	individuals	individual	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	?	?	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 10
+# text = That is where the role of teachers becomes clear.
+# title = Leader's Address to Teachers
+# year = 2010
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	where	where	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	role	role	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	teachers	teacher	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	becomes	become	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	clear	clear	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 10
+# text = The education system has this important and sensitive role.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	education	education	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	system	system	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	important	important	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	sensitive	sensitive	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	role	role	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 17
+# text = Of course many different things have been said about educational issues and the role of teachers.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	many	many	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	different	different	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	things	thing	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	said	say	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	about	about	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	educational	educational	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	issues	issue	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	role	role	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	teachers	teacher	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 14
+# text = Today we do not have the luxury of limiting ourselves to words only.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	do	do	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	luxury	luxury	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	limiting	limit	VERB	VBG	_	8	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	ourselves	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	words	word	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	only	only	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 4
+# text = We need action.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	action	action	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 11
+# text = The education system can determine the future of this country.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	education	education	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	system	system	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	determine	determine	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	future	future	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 28
+# text = It is true that making fundamental changes in the education system is essential, and I have repeatedly advised the officials in charge of the education system.
+# title = Leader's Address to Teachers
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	true	true	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	making	make	VERB	VBG	_	12	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	fundamental	fundamental	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	changes	change	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	education	education	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	system	system	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	essential	essential	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	I	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	repeatedly	repeatedly	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	advised	advise	VERB	VBN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	officials	official	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	charge	charge	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	education	education	NOUN	NN	_	27	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	system	system	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 44
+# text = Thankfully, the honorable Minister said that good steps have been taken in this regard and that there must be a fundamental change in the education system on the basis of our needs, lofty goals, and great national and human capacities.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Thankfully	thankfully	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	honorable	honorable	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	Minister	Minister	PROPN	NNP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	good	good	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	steps	step	NOUN	NNS	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	been	be	AUX	VBN	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	taken	take	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	regard	regard	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	there	there	PRON	EX	_	20	expl	_	ent_type=_|ent_id=2|ent_iob=O
+19	must	must	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	be	be	AUX	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	fundamental	fundamental	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	change	change	NOUN	NN	_	20	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	education	education	NOUN	NN	_	27	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	system	system	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	basis	basis	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	our	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	needs	need	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	lofty	lofty	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	goals	goal	NOUN	NNS	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	,	,	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	great	great	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	national	national	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	human	human	ADJ	JJ	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	capacities	capacity	NOUN	NNS	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 15
+# text = These are all true, and I would like to emphasize the same points.
+# title = Leader's Address to Teachers
+# year = 2010
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	true	true	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	I	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	would	would	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	like	like	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	emphasize	emphasize	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	same	same	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	points	point	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 6
+# text = Do not stop these efforts.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Do	do	AUX	VB	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+3	stop	stop	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	efforts	effort	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 13
+# text = Pursue these goals with enthusiasm, inexhaustible motivation, and intensified effort.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Pursue	pursue	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	goals	goal	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	enthusiasm	enthusiasm	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	inexhaustible	inexhaustible	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	motivation	motivation	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	intensified	intensify	VERB	VBD	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	effort	effort	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 36
+# text = I know that it is difficult to achieve these goals, but teachers cannot just put their motivation and sense of responsibility on hold until a favorable situation is created in the education system.
+# title = Leader's Address to Teachers
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	difficult	difficult	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	achieve	achieve	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	these	these	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	goals	goal	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	teachers	teacher	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	can	can	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	17	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	just	just	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	put	put	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	motivation	motivation	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	sense	sense	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	responsibility	responsibility	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	on	on	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	hold	hold	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	until	until	ADP	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	favorable	favorable	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	situation	situation	NOUN	NN	_	31	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	is	be	AUX	VBZ	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+31	created	create	VERB	VBN	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	education	education	NOUN	NN	_	35	compound	_	ent_type=_|ent_id=2|ent_iob=O
+35	system	system	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 18
+# text = I advise all dear teachers across the country to develop faith in the greatness of their role.
+# title = Leader's Address to Teachers
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	advise	advise	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	dear	dear	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	teachers	teacher	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	across	across	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	develop	develop	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	faith	faith	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	greatness	greatness	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	role	role	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 17
+# text = You should know that you are playing a key role in the future of this country.
+# title = Leader's Address to Teachers
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	playing	play	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	key	key	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	role	role	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	future	future	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	country	country	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 13
+# text = For several centuries, our country has suffered great losses and backwardness.
+# title = Leader's Address to Teachers
+# year = 2010
+1	For	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	several	several	ADJ	JJ	_	3	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	centuries	century	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	suffered	suffer	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	great	great	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	losses	loss	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	backwardness	backwardness	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 8
+# text = Lack of care has caused irreparable damage.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Lack	lack	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	care	care	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	caused	cause	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	irreparable	irreparable	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	damage	damage	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 11
+# text = And today this situation is what we are left with.
+# title = Leader's Address to Teachers
+# year = 2010
+1	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	situation	situation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	what	what	PRON	WP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	we	-PRON-	PRON	PRP	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	left	leave	VERB	VBN	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 20
+# text = After the Islamic Revolution and this new movement, the country should tread the path that our nation deserves.
+# title = Leader's Address to Teachers
+# year = 2010
+1	After	after	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+3	Islamic	Islamic	PROPN	NNP	_	4	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+4	Revolution	Revolution	PROPN	NNP	_	1	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	new	new	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	movement	movement	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	country	country	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	tread	tread	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	path	path	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	DET	WDT	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	deserves	deserve	VERB	VBZ	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 17
+# text = The country should tread the path that is good enough for our historical legacy and religion.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	country	country	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	tread	tread	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	path	path	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	good	good	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	enough	enough	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	historical	historical	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	legacy	legacy	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	religion	religion	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 5
+# text = This requires great action.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	requires	require	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	great	great	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	action	action	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 34
+# text = The dear teachers should know what kind of people we need for the future of this country and what characteristics our men and women should have in order to reconstruct this country appropriately.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	teachers	teacher	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	what	what	PRON	WP	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	kind	kind	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	need	need	VERB	VBP	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	future	future	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	country	country	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	what	what	PRON	WP	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	characteristics	characteristic	VERB	VBZ	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	men	man	NOUN	NNS	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	women	woman	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	should	should	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	have	have	AUX	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	order	order	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	reconstruct	reconstruct	VERB	VB	_	28	acl	_	ent_type=_|ent_id=2|ent_iob=O
+31	this	this	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	country	country	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	appropriately	appropriately	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 7
+# text = This is all in your hands.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	hands	hand	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 14
+# text = You have control over the children and adolescents who sit in your classrooms.
+# title = Leader's Address to Teachers
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	control	control	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	over	over	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	children	child	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	adolescents	adolescent	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	sit	sit	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	your	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	classrooms	classroom	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 14
+# text = You can fill them with self-confidence through your words and behavior.
+# title = Leader's Address to Teachers
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	fill	fill	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	them	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	self	self	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	confidence	confidence	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	through	through	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	words	word	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	behavior	behavior	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 7
+# text = You can fill them with hope.
+# title = Leader's Address to Teachers
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	fill	fill	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	them	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	hope	hope	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 8
+# text = You can encourage them to take action.
+# title = Leader's Address to Teachers
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	encourage	encourage	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	them	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	take	take	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	action	action	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 11
+# text = You can infuse them with the spirit of religious faith.
+# title = Leader's Address to Teachers
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	infuse	infuse	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	them	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	spirit	spirit	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	religious	religious	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	faith	faith	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 19
+# text = You can teach them to be resourceful, hardworking, sociable, and interested in the common good.
+# title = Leader's Address to Teachers
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	teach	teach	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	them	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	resourceful	resourceful	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	hardworking	hardworking	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	sociable	sociable	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	interested	interested	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	common	common	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	good	good	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 11
+# text = You can revive the spirit of innovation in your students.
+# title = Leader's Address to Teachers
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	revive	revive	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	spirit	spirit	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	innovation	innovation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	students	student	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 15
+# text = A wise teacher can do all of this within the confines of the classroom.
+# title = Leader's Address to Teachers
+# year = 2010
+1	A	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	wise	wise	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	teacher	teacher	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	within	within	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	confines	confine	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	classroom	classroom	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 16
+# text = This is the duty that should be fulfilled by all teachers from across the country.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	duty	duty	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	fulfilled	fulfil	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	teachers	teacher	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	from	from	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	across	across	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 19
+# text = Of course in order to fulfill this duty, teachers need guidance from visionary intellectuals and education experts.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	order	order	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	fulfill	fulfill	VERB	VB	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	duty	duty	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	teachers	teacher	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	guidance	guidance	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	visionary	visionary	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	intellectuals	intellectual	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	education	education	NOUN	NN	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+18	experts	expert	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 8
+# text = This need will bring about a response.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	bring	bring	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	RP	_	4	prt	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	response	response	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 28
+# text = When this need for guidance is felt by teachers, other parts of the country will be informed immediately, and they will try to address it.
+# title = Leader's Address to Teachers
+# year = 2010
+1	When	when	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	need	need	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	guidance	guidance	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	felt	feel	VERB	VBN	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	teachers	teacher	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	parts	part	NOUN	NNS	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	informed	inform	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	immediately	immediately	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	they	-PRON-	PRON	PRP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	try	try	VERB	VB	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	address	address	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	it	-PRON-	PRON	PRP	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 14
+# text = Our needs will not be fulfilled unless we first feel and express them.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	needs	need	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	fulfilled	fulfil	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	unless	unless	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	first	first	ADV	RB	_	10	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+10	feel	feel	VERB	VBP	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	express	express	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	them	-PRON-	PRON	PRP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 10
+# text = That is the role the education system should play.
+# title = Leader's Address to Teachers
+# year = 2010
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	role	role	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	education	education	NOUN	NN	_	7	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	system	system	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	play	play	VERB	VB	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 14
+# text = I would also like to briefly talk about our esteemed martyr Ayatollah Motahhari.
+# title = Leader's Address to Teachers
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	briefly	briefly	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	talk	talk	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	about	about	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	esteemed	esteemed	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	martyr	martyr	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	Ayatollah	Ayatollah	PROPN	NNP	_	13	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	Motahhari	Motahhari	PROPN	NNP	_	11	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 20
+# text = The behavior of that great man was indeed a manifestation of a perfect teacher with a sense of responsibility.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	behavior	behavior	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	man	man	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	indeed	indeed	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	manifestation	manifestation	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	perfect	perfect	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	teacher	teacher	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	sense	sense	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	responsibility	responsibility	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 15
+# text = He did not refuse to enter any arena where an Islamic intellectual was needed.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	did	do	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	refuse	refuse	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	enter	enter	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	any	any	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	arena	arena	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	where	where	ADV	WRB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	an	an	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islamic	islamic	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	intellectual	intellectual	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	needed	need	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 19
+# text = He was not thwarted by any considerations or interests - both on political fronts and in intellectual matters.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	thwarted	thwart	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	any	any	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	considerations	consideration	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	or	or	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	interests	interest	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	both	both	CCONJ	CC	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	fronts	front	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	intellectual	intellectual	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	matters	matter	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 36
+# text = When answering different questions that preoccupied me and other youth at that time, Shahid Motahhari was not like certain so-called religious intellectuals who used to present non-religious concepts as religion.
+# title = Leader's Address to Teachers
+# year = 2010
+1	When	when	ADV	WRB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	answering	answer	VERB	VBG	_	17	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	different	different	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	questions	question	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	preoccupied	preoccupy	VERB	VBD	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	me	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	youth	youth	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	at	at	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	time	time	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	Shahid	Shahid	PROPN	NNP	_	16	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+16	Motahhari	Motahhari	PROPN	NNP	_	17	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+17	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	17	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	like	like	INTJ	UH	_	17	intj	_	ent_type=_|ent_id=2|ent_iob=O
+20	certain	certain	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	so	so	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	-	-	PUNCT	HYPH	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	called	call	VERB	VBN	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	religious	religious	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	intellectuals	intellectual	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	who	who	PRON	WP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	used	use	VERB	VBD	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	present	present	VERB	VB	_	27	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	non	non	ADJ	JJ	_	31	dep	_	ent_type=_|ent_id=2|ent_iob=O
+31	-	-	ADJ	JJ	_	32	dep	_	ent_type=_|ent_id=2|ent_iob=O
+32	religious	religious	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	concepts	concept	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	as	as	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	religion	religion	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 21
+# text = Rather, he used to provide genuine religious concepts to his audience on the basis of their needs and questions.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Rather	rather	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	he	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	provide	provide	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	genuine	genuine	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	religious	religious	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	concepts	concept	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	his	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	audience	audience	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	basis	basis	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	needs	need	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	questions	question	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 14
+# text = He was not after attracting praise from a particular group or intellectual association.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	after	after	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	attracting	attract	VERB	VBG	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	praise	praise	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	particular	particular	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	group	group	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	or	or	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	intellectual	intellectual	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	association	association	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 20
+# text = He fought reactionary attitudes, dogmatism, and wrong thoughts as vigorously as he fought heretic and misguided thoughts.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	fought	fight	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	reactionary	reactionary	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	attitudes	attitude	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	dogmatism	dogmatism	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	wrong	wrong	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	thoughts	thought	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	as	as	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	vigorously	vigorously	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	as	as	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	he	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	fought	fight	VERB	VBD	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	heretic	heretic	ADJ	JJ	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	misguided	misguided	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	thoughts	thought	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 9
+# text = This was the characteristic of that great man.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	characteristic	characteristic	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	great	great	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	man	man	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 5
+# text = He never got tired.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	never	never	ADV	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+3	got	get	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	tired	tired	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 5
+# text = He never stopped trying.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	never	never	ADV	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+3	stopped	stop	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	trying	try	VERB	VBG	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 15
+# text = He was not after fame or a position in the university or Islamic seminary.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	after	after	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	fame	fame	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	or	or	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	position	position	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	university	university	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	or	or	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islamic	islamic	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	seminary	seminary	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 8
+# text = He stepped in as an intellectual soldier.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	stepped	step	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	RP	_	2	prt	_	ent_type=_|ent_id=2|ent_iob=O
+4	as	as	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	intellectual	intellectual	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	soldier	soldier	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 12
+# text = He worked sincerely, and Allah the Exalted blessed his work.
+# title = Leader's Address to Teachers
+# year = 2010
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	worked	work	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	sincerely	sincerely	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Exalted	Exalted	PROPN	NNP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	blessed	bless	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	his	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	work	work	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 19
+# text = Today his ideas are still alive and novel even after the passage of 30 years since his martyrdom.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	his	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	ideas	idea	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	still	still	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	alive	alive	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	novel	novel	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	even	even	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	after	after	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	passage	passage	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	30	30	NUM	CD	_	15	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	years	year	NOUN	NNS	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	since	since	SCONJ	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	his	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	martyrdom	martyrdom	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 14
+# text = His ideas look as if they have been formulated for today's world.
+# title = Leader's Address to Teachers
+# year = 2010
+1	His	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	ideas	idea	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	look	look	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	as	as	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	formulated	formulate	VERB	VBN	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	today	today	NOUN	NN	_	13	poss	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	's	's	PART	POS	_	11	case	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 18
+# text = At that time, his thoughts and ideas provided answers for different people at various intellectual levels.
+# title = Leader's Address to Teachers
+# year = 2010
+1	At	at	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	time	time	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	his	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	thoughts	thought	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	ideas	idea	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	provided	provide	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	answers	answer	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	different	different	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	at	at	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	various	various	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	intellectual	intellectual	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	levels	level	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 29
+# text = Today many intellectual advances have been made and many intellectual problems have been resolved, but Shahid Motahhari's thoughts and ideas still provide answers to new questions.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	many	many	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	intellectual	intellectual	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	advances	advance	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	many	many	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	intellectual	intellectual	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	problems	problem	NOUN	NNS	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	been	be	AUX	VBN	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	resolved	resolve	VERB	VBN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	but	but	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	Shahid	Shahid	PROPN	NNP	_	18	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+18	Motahhari	Motahhari	PROPN	NNP	_	20	poss	_	ent_type=PERSON|ent_id=1|ent_iob=I
+19	's	's	PART	POS	_	18	case	_	ent_type=PERSON|ent_id=1|ent_iob=I
+20	thoughts	thought	NOUN	NNS	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	ideas	idea	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	still	still	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	provide	provide	VERB	VBP	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	answers	answer	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	new	new	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	questions	question	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 14
+# text = This is the characteristic of a profound thought that is accompanied by sincerity.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	characteristic	characteristic	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	profound	profound	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	thought	thought	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	accompanied	accompany	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	11	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	sincerity	sincerity	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 4
+# text = Sincerity works miracles.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Sincerity	Sincerity	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	works	work	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	miracles	miracle	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 18
+# text = When someone sets out on a path for the sake of God, He blesses their efforts.
+# title = Leader's Address to Teachers
+# year = 2010
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	someone	someone	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	sets	set	VERB	VBZ	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	out	out	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	path	path	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	sake	sake	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	God	God	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	He	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	blesses	bless	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	efforts	effort	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 22
+# text = That is why a few decades of work by that esteemed martyr continues to be an inexhaustible resource for our society.
+# title = Leader's Address to Teachers
+# year = 2010
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	why	why	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	few	few	ADJ	JJ	_	6	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	decades	decade	NOUN	NNS	_	13	nsubj	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	work	work	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	esteemed	esteemed	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	martyr	martyr	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	continues	continue	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	be	be	AUX	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	inexhaustible	inexhaustible	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	resource	resource	NOUN	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	for	for	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	society	society	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 37
+# text = Three decades have passed since the second greatest event in our country - that is to say, the establishment of the Islamic Republic which was the second most important event after the introduction of Islam.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Three	three	NUM	CD	_	2	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	decades	decade	NOUN	NNS	_	4	nsubj	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	passed	pass	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	since	since	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	second	second	ADJ	JJ	_	9	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+8	greatest	great	ADJ	JJS	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	event	event	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	DT	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	say	say	VERB	VB	_	15	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	establishment	establishment	NOUN	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+23	Islamic	Islamic	PROPN	NNP	_	24	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+24	Republic	Republic	PROPN	NNP	_	21	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+25	which	which	DET	WDT	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	was	be	AUX	VBD	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	second	second	ADJ	JJ	_	31	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+29	most	most	ADV	RBS	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	important	important	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	event	event	NOUN	NN	_	26	attr	_	ent_type=_|ent_id=2|ent_iob=O
+32	after	after	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	introduction	introduction	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	Islam	Islam	PROPN	NNP	_	35	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+37	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 8
+# text = The Revolution awakened the world of Islam.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Revolution	Revolution	PROPN	NNP	_	3	nsubj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+3	awakened	awaken	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	world	world	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islam	Islam	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 17
+# text = It affected the political equations not just in the region, but in the entire world.
+# title = Leader's Address to Teachers
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	affected	affect	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	political	political	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	equations	equation	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	8	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+7	just	just	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	region	region	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	entire	entire	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	world	world	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 17
+# text = Thankfully, our nation has made many advances on different fronts during the past 30 years.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Thankfully	thankfully	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	nation	nation	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	many	many	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	advances	advance	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	different	different	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	fronts	front	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	during	during	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	past	past	ADJ	JJ	_	16	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	30	30	NUM	CD	_	16	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	years	year	NOUN	NNS	_	12	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 24
+# text = Today it behooves our intellectuals to consider future prospects of the country and see what they want and what they want to do.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Today	today	NOUN	NN	_	3	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	it	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	behooves	behoove	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	intellectuals	intellectual	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	consider	consider	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	future	future	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	prospects	prospect	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	see	see	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	what	what	PRON	WP	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	they	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	want	want	VERB	VBP	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	what	what	PRON	WP	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	want	want	VERB	VBP	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	do	do	AUX	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 7
+# text = The world of Islam is divided.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	world	world	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Islam	Islam	PROPN	NNP	_	3	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	is	be	AUX	VBZ	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	divided	divide	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 28
+# text = In spite of the fact that Muslims have access to the Holy Quran and firm religious teachings, they are suffering from backwardness due to various reasons.
+# title = Leader's Address to Teachers
+# year = 2010
+1	In	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	spite	spite	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	fact	fact	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	Muslims	Muslims	PROPN	NNPS	_	8	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	have	have	AUX	VBP	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	access	access	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+12	Holy	Holy	PROPN	NNP	_	13	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+13	Quran	Quran	PROPN	NNP	_	10	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+14	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	firm	firm	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	religious	religious	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	teachings	teaching	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	suffering	suffer	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	from	from	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	backwardness	backwardness	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	due	due	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	ADP	IN	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	various	various	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	reasons	reason	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 5
+# text = What are these reasons?
+# title = Leader's Address to Teachers
+# year = 2010
+1	What	what	PRON	WP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	reasons	reason	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 6
+# text = We need to identify them.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	identify	identify	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	them	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 33
+# text = The Iranian nation should try to achieve a position that all its actions, moves, and intellectual output are referred to by the world of Islam and its intellectuals as authoritative.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	achieve	achieve	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	position	position	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	PDT	_	13	predet	_	ent_type=_|ent_id=2|ent_iob=O
+12	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	actions	action	NOUN	NNS	_	21	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	moves	move	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	intellectual	intellectual	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	output	output	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	referred	refer	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	by	by	ADP	IN	_	21	agent	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	world	world	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Islam	Islam	PROPN	NNP	_	26	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	its	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	intellectuals	intellectual	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	as	as	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	authoritative	authoritative	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 10
+# text = This is the historical responsibility of the Iranian nation.
+# title = Leader's Address to Teachers
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	historical	historical	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	responsibility	responsibility	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Iranian	iranian	ADJ	JJ	_	9	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+9	nation	nation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 19
+# text = And this is the path that lies ahead of us, and we should tread this path appropriately.
+# title = Leader's Address to Teachers
+# year = 2010
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	path	path	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	lies	lie	VERB	VBZ	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	ahead	ahead	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	us	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	we	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	tread	tread	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	path	path	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	appropriately	appropriately	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 9
+# text = We should move forward with self-confidence.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	move	move	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	forward	forward	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	self	self	NOUN	NN	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	confidence	confidence	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 29
+# text = We should make use of all our power, our human and intellectual capacities, and the talents that Allah the Exalted has bestowed on the Iranian nation.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	use	use	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	power	power	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	human	human	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	intellectual	intellectual	ADJ	JJ	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	capacities	capacity	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	talents	talent	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	DET	WDT	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	Allah	Allah	PROPN	NNP	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Exalted	Exalted	PROPN	NNP	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+23	has	have	AUX	VBZ	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	bestowed	bestow	VERB	VBN	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Iranian	iranian	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	nation	nation	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 26
+# text = If this happens, the fate of the world of Islam will be changed, which will lead to changing the fate of the world.
+# title = Leader's Address to Teachers
+# year = 2010
+1	If	if	SCONJ	IN	_	3	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	happens	happen	VERB	VBZ	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	fate	fate	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	world	world	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Islam	Islam	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	changed	change	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	lead	lead	VERB	VB	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	changing	change	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	fate	fate	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	world	world	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 10
+# text = The modern world is moving in an inappropriate direction.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	modern	modern	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	world	world	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	moving	move	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	an	an	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	inappropriate	inappropriate	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	direction	direction	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 7
+# text = It is in a bad situation.
+# title = Leader's Address to Teachers
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	bad	bad	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	situation	situation	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 7
+# text = Moral values have been trampled upon.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Moral	moral	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	values	value	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	trampled	trample	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	upon	upon	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 27
+# text = People of the world are suffering from the consequences of this moral degeneration, and intellectuals living in different countries are aware of this great tragedy.
+# title = Leader's Address to Teachers
+# year = 2010
+1	People	People	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	world	world	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	suffering	suffer	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	consequences	consequence	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	moral	moral	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	degeneration	degeneration	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	intellectuals	intellectual	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	living	live	VERB	VBG	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	different	different	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	countries	country	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	aware	aware	ADJ	JJ	_	21	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	great	great	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	tragedy	tragedy	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 10
+# text = They are troubled, and they express their concerns.
+# title = Leader's Address to Teachers
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	troubled	troubled	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	express	express	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	concerns	concern	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 15
+# text = We can tread a path that will be a source of salvation for humanity.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	tread	tread	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	path	path	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	source	source	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	salvation	salvation	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	humanity	humanity	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 14
+# text = It is possible to change the appalling fate that humanity is heading towards.
+# title = Leader's Address to Teachers
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	possible	possible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	change	change	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	appalling	appalling	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	fate	fate	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	humanity	humanity	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	heading	head	VERB	VBG	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	towards	towards	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 13
+# text = The first step is to transform ourselves, which starts with education.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	first	first	ADJ	JJ	_	3	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	step	step	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	transform	transform	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	ourselves	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	starts	start	VERB	VBZ	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	education	education	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 17
+# text = Thankfully, the appropriate infrastructures have been created on different fronts during the past 30 years.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Thankfully	thankfully	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	appropriate	appropriate	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	infrastructures	infrastructure	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	created	create	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	different	different	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	fronts	front	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	during	during	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	past	past	ADJ	JJ	_	16	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	30	30	NUM	CD	_	16	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	years	year	NOUN	NNS	_	12	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 9
+# text = We can move ahead relying on these infrastructures.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	move	move	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	ahead	ahead	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	relying	rely	VERB	VBG	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	infrastructures	infrastructure	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 9
+# text = The responsibility we have to shoulder is heavy.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	responsibility	responsibility	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	shoulder	shoulder	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	heavy	heavy	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 9
+# text = The path we have to tread is long.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	path	path	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	tread	tread	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	long	long	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 9
+# text = The work we have to do is difficult.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	work	work	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	do	do	AUX	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	difficult	difficult	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 16
+# text = But there are bright prospects that have been bestowed on us by Allah the Exalted.
+# title = Leader's Address to Teachers
+# year = 2010
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	there	there	PRON	EX	_	3	expl	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	bright	bright	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	prospects	prospect	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	bestowed	bestow	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	us	-PRON-	PRON	PRP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	Allah	Allah	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Exalted	Exalted	PROPN	NNP	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 6
+# text = One can see those prospects.
+# title = Leader's Address to Teachers
+# year = 2010
+1	One	one	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	those	those	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	prospects	prospect	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 6
+# text = There are good future prospects.
+# title = Leader's Address to Teachers
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	good	good	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	future	future	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	prospects	prospect	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 7
+# text = We can tread this path properly.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	tread	tread	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	path	path	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	properly	properly	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 8
+# text = We will face enmity on our path.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	face	face	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	enmity	enmity	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	on	on	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	path	path	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 121
+# sent_len = 15
+# text = Each achievement that the Iranian nation makes will disappoint certain people in the world.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Each	each	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	achievement	achievement	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nation	nation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	makes	make	VERB	VBZ	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	disappoint	disappoint	VERB	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	certain	certain	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 122
+# sent_len = 18
+# text = Superpowers will naturally deploy their forces against the movements that are not in line with their interests.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Superpowers	superpower	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	naturally	naturally	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	deploy	deploy	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	forces	force	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	against	against	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	movements	movement	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	line	line	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	interests	interest	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 123
+# sent_len = 19
+# text = These things are not surprising and should be expected by any nation that enters great arenas of life.
+# title = Leader's Address to Teachers
+# year = 2010
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	things	thing	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	surprising	surprising	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	expected	expect	VERB	VBN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	9	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	any	any	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	nation	nation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	enters	enter	VERB	VBZ	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	great	great	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	arenas	arena	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	life	life	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 124
+# sent_len = 6
+# text = We expect to face enmity.
+# title = Leader's Address to Teachers
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	expect	expect	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	face	face	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	enmity	enmity	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 125
+# sent_len = 21
+# text = Since the beginning of the Revolution, our nation has continued its path in the face of all these obstacles.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Since	since	SCONJ	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	beginning	beginning	NOUN	NN	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	the	the	DET	DT	_	6	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	Revolution	Revolution	PROPN	NNP	_	4	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	nation	nation	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	has	have	AUX	VBZ	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	continued	continue	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	its	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	path	path	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	face	face	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	all	all	DET	PDT	_	20	predet	_	ent_type=_|ent_id=2|ent_iob=O
+19	these	these	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	obstacles	obstacle	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 126
+# sent_len = 5
+# text = Such problems are nothing.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Such	such	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	problems	problem	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	nothing	nothing	PRON	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 127
+# sent_len = 30
+# text = The experience of the Iranian nation has shown that their threats, statements, and opposition cannot at all slow down the speed of our nation's progress.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	experience	experience	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nation	nation	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	shown	show	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	threats	threat	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	statements	statement	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	opposition	opposition	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	can	can	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	20	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	at	at	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	all	all	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	slow	slow	VERB	VB	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	down	down	ADP	RP	_	21	prt	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	speed	speed	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	nation	nation	NOUN	NN	_	29	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	's	's	PART	POS	_	27	case	_	ent_type=_|ent_id=2|ent_iob=O
+29	progress	progress	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 128
+# sent_len = 7
+# text = Our nation will continue its path.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	will	will	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	continue	continue	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	its	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	path	path	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 129
+# sent_len = 15
+# text = The important point is that everyone should know the role they have to play.
+# title = Leader's Address to Teachers
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	important	important	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	everyone	everyone	PRON	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	know	know	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	role	role	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VBP	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	play	play	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 130
+# sent_len = 12
+# text = Everyone should be able to appropriately identify and fulfill their role.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Everyone	everyone	PRON	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	able	able	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	appropriately	appropriately	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	identify	identify	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	fulfill	fulfill	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	role	role	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 131
+# sent_len = 12
+# text = Hopefully, Allah the Exalted will help us on this path.
+# title = Leader's Address to Teachers
+# year = 2010
+1	Hopefully	hopefully	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	help	help	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	us	-PRON-	PRON	PRP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	path	path	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 132
+# sent_len = 34
+# text = I hope the officials in charge of the Ministry of Education will pay attention to these important realities and heavy responsibilities and will pursue this great goal through intensified work and serious efforts.
+# title = Leader's Address to Teachers
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	officials	official	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	charge	charge	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	Ministry	Ministry	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	of	of	ADP	IN	_	9	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Education	Education	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	will	will	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	pay	pay	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	attention	attention	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	these	these	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	important	important	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	realities	reality	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	heavy	heavy	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	responsibilities	responsibility	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	pursue	pursue	VERB	VB	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	great	great	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	goal	goal	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	through	through	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	intensified	intensify	VERB	VBN	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	work	work	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	serious	serious	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	efforts	effort	NOUN	NNS	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 133
+# sent_len = 27
+# text = And I hope you dear teachers will further this goal optimistically by relying on Allah the Exalted and expecting divine reward, grace, and guidance.
+# title = Leader's Address to Teachers
+# year = 2010
+1	And	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	6	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	dear	dear	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	teachers	teacher	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	will	will	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	further	further	ADV	RB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	goal	goal	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	optimistically	optimistically	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	relying	rely	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Allah	Allah	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Exalted	exalted	ADJ	JJ	_	15	appos	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	expecting	expect	VERB	VBG	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	divine	divine	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	reward	reward	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	grace	grace	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	guidance	guidance	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 134
+# sent_len = 37
+# text = I hope God will reward you all and make the holy souls of our dear martyrs happy with us, the esteemed martyrs who prepared the ground for our nation to deal with these important matters.
+# title = Leader's Address to Teachers
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	reward	reward	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	all	all	DET	DT	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	make	make	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	holy	holy	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	souls	soul	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	dear	dear	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	martyrs	martyr	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	happy	happy	ADJ	JJ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	with	with	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	us	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	esteemed	esteem	VERB	VBN	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	martyrs	martyr	NOUN	NNS	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	prepared	prepare	VERB	VBD	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	ground	ground	NOUN	NN	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	for	for	ADP	IN	_	32	mark	_	ent_type=_|ent_id=2|ent_iob=O
+29	our	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	nation	nation	NOUN	NN	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	deal	deal	VERB	VB	_	25	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+33	with	with	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	these	these	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	important	important	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	matters	matter	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 135
+# sent_len = 34
+# text = May Allah the Exalted associate the immaculate soul of our magnanimous Imam (r.a.) - who opened up this path for our nation - with the holy souls of His saints.
+# title = Leader's Address to Teachers
+# year = 2010
+1	May	May	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Exalted	exalted	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	associate	associate	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	immaculate	immaculate	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	soul	soul	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	magnanimous	magnanimous	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	Imam	Imam	PROPN	NNP	_	9	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	(	(	PUNCT	-LRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	r.a	r.a	PROPN	NNP	_	15	dep	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	)	)	PUNCT	-RRB-	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	:	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	who	who	PRON	WP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	opened	open	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	up	up	ADP	RP	_	19	prt	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	path	path	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	nation	nation	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	-	-	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	holy	holy	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	souls	soul	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	His	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	saints	saint	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 136
+# sent_len = 27
+# text = I hope all of you will benefit from the prayers of the Imam of the Age (may our souls be sacrificed for his sake).
+# title = Leader's Address to Teachers
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	you	-PRON-	PRON	PRP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	benefit	benefit	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	prayers	prayer	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Imam	Imam	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Age	Age	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	(	(	PUNCT	-LRB-	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	may	may	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	souls	soul	NOUN	NNS	_	22	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	be	be	AUX	VB	_	22	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	sacrificed	sacrifice	VERB	VBN	_	7	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	his	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	sake	sake	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	)	)	PUNCT	-RRB-	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 137
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address to Teachers
+# year = 2010
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

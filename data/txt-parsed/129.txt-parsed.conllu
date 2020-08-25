@@ -1,0 +1,2785 @@
+# sent_id = 1
+# sent_len = 97
+# text = This is an auspicious and very valuable gathering, and I am grateful to Almighty Allah for the opportunity to meet the honorable parents and wives of our dear martyrs, a group of our esteemed war-disabled veterans who devoted their youth to the revolution and spent the best years of their lives in the way of the Almighty, a group of venerable ex-prisoners of war and also a number of political activists who suffered torture and long prison terms before the victory of the Islamic Revolution under the former regime.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	auspicious	auspicious	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	very	very	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	valuable	valuable	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	gathering	gathering	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	I	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	am	be	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	grateful	grateful	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Almighty	Almighty	PROPN	NNP	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	Allah	Allah	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	opportunity	opportunity	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	meet	meet	VERB	VB	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	honorable	honorable	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	parents	parent	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	wives	wife	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	our	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	dear	dear	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	martyrs	martyr	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	a	a	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	group	group	NOUN	NN	_	12	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	our	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	esteemed	esteemed	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	war	war	NOUN	NN	_	39	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+38	-	-	PUNCT	HYPH	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	disabled	disabled	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	veterans	veteran	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	who	who	PRON	WP	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+42	devoted	devote	VERB	VBD	_	33	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+43	their	-PRON-	DET	PRP$	_	44	poss	_	ent_type=_|ent_id=2|ent_iob=O
+44	youth	youth	NOUN	NN	_	42	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	to	to	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	revolution	revolution	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	spent	spend	VERB	VBD	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+50	the	the	DET	DT	_	52	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+51	best	good	ADJ	JJS	_	52	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+52	years	year	NOUN	NNS	_	49	dobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+53	of	of	ADP	IN	_	52	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	their	-PRON-	DET	PRP$	_	55	poss	_	ent_type=_|ent_id=2|ent_iob=O
+55	lives	life	NOUN	NNS	_	53	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+56	in	in	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	the	the	DET	DT	_	58	det	_	ent_type=_|ent_id=2|ent_iob=O
+58	way	way	NOUN	NN	_	56	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	of	of	ADP	IN	_	58	prep	_	ent_type=_|ent_id=2|ent_iob=O
+60	the	the	DET	DT	_	61	det	_	ent_type=_|ent_id=2|ent_iob=O
+61	Almighty	Almighty	PROPN	NNP	_	59	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+62	,	,	PUNCT	,	_	61	punct	_	ent_type=_|ent_id=2|ent_iob=O
+63	a	a	DET	DT	_	64	det	_	ent_type=_|ent_id=2|ent_iob=O
+64	group	group	NOUN	NN	_	61	appos	_	ent_type=_|ent_id=2|ent_iob=O
+65	of	of	ADP	IN	_	64	prep	_	ent_type=_|ent_id=2|ent_iob=O
+66	venerable	venerable	ADJ	JJ	_	69	compound	_	ent_type=_|ent_id=2|ent_iob=O
+67	ex	ex	NOUN	NNS	_	68	dep	_	ent_type=_|ent_id=2|ent_iob=O
+68	-	-	NOUN	NNS	_	69	dep	_	ent_type=_|ent_id=2|ent_iob=O
+69	prisoners	prisoner	NOUN	NNS	_	65	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+70	of	of	ADP	IN	_	69	prep	_	ent_type=_|ent_id=2|ent_iob=O
+71	war	war	NOUN	NN	_	70	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+72	and	and	CCONJ	CC	_	64	cc	_	ent_type=_|ent_id=2|ent_iob=O
+73	also	also	ADV	RB	_	75	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+74	a	a	DET	DT	_	75	det	_	ent_type=_|ent_id=2|ent_iob=O
+75	number	number	NOUN	NN	_	64	conj	_	ent_type=_|ent_id=2|ent_iob=O
+76	of	of	ADP	IN	_	75	prep	_	ent_type=_|ent_id=2|ent_iob=O
+77	political	political	ADJ	JJ	_	78	amod	_	ent_type=_|ent_id=2|ent_iob=O
+78	activists	activist	NOUN	NNS	_	76	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+79	who	who	PRON	WP	_	80	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+80	suffered	suffer	VERB	VBD	_	75	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+81	torture	torture	NOUN	NN	_	80	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+82	and	and	CCONJ	CC	_	81	cc	_	ent_type=_|ent_id=2|ent_iob=O
+83	long	long	ADJ	JJ	_	85	amod	_	ent_type=_|ent_id=2|ent_iob=O
+84	prison	prison	NOUN	NN	_	85	compound	_	ent_type=_|ent_id=2|ent_iob=O
+85	terms	term	NOUN	NNS	_	81	conj	_	ent_type=_|ent_id=2|ent_iob=O
+86	before	before	ADP	IN	_	80	prep	_	ent_type=_|ent_id=2|ent_iob=O
+87	the	the	DET	DT	_	88	det	_	ent_type=_|ent_id=2|ent_iob=O
+88	victory	victory	NOUN	NN	_	86	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+89	of	of	ADP	IN	_	88	prep	_	ent_type=_|ent_id=2|ent_iob=O
+90	the	the	DET	DT	_	92	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+91	Islamic	Islamic	PROPN	NNP	_	92	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+92	Revolution	Revolution	PROPN	NNP	_	89	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+93	under	under	ADP	IN	_	88	prep	_	ent_type=_|ent_id=2|ent_iob=O
+94	the	the	DET	DT	_	96	det	_	ent_type=_|ent_id=2|ent_iob=O
+95	former	former	ADJ	JJ	_	96	amod	_	ent_type=_|ent_id=2|ent_iob=O
+96	regime	regime	NOUN	NN	_	93	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+97	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 15
+# text = Those present at this gathering are the spiritual elites and luminaries of our nation.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Those	those	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	present	present	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	at	at	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	gathering	gathering	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	spiritual	spiritual	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	elites	elite	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	luminaries	luminary	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	nation	nation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 21
+# text = Today is a very important day in our history: it is the 23rd anniversary of the liberation of Khorramshahr.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Today	today	NOUN	NN	_	2	nsubj	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	is	be	AUX	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	important	important	ADJ	JJ	_	6	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	day	day	NOUN	NN	_	2	attr	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	history	history	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	:	:	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	23rd	23rd	ADJ	JJ	_	15	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	anniversary	anniversary	NOUN	NN	_	12	attr	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	liberation	liberation	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	Khorramshahr	Khorramshahr	PROPN	NNP	_	19	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+21	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 17
+# text = The day has also been designated as the National Day of Resistance, Devotion and Victory.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	day	day	NOUN	NN	_	6	nsubjpass	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	has	have	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	designated	designate	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	as	as	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+9	National	National	PROPN	NNP	_	10	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+10	Day	Day	PROPN	NNP	_	7	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+11	of	of	ADP	IN	_	10	prep	_	ent_type=EVENT|ent_id=1|ent_iob=I
+12	Resistance	Resistance	PROPN	NNP	_	11	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=EVENT|ent_id=1|ent_iob=I
+14	Devotion	Devotion	PROPN	NNP	_	12	conj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=EVENT|ent_id=1|ent_iob=I
+16	Victory	victory	NOUN	NN	_	14	conj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 33
+# text = It is a symbol of the devotion, resistance and victory of the Iranian people, a victory achieved as a result of their deep faith and earnest struggle against the enemies.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	symbol	symbol	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	devotion	devotion	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	resistance	resistance	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	victory	victory	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iranian	iranian	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	victory	victory	NOUN	NN	_	4	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	achieved	achieve	VERB	VBN	_	18	acl	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	result	result	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	deep	deep	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	faith	faith	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	earnest	earnest	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	struggle	struggle	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	against	against	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	enemies	enemy	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 8
+# text = We should not stop in the past.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	stop	stop	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	past	past	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 21
+# text = The past should always be used by nations as a ladder for ascension toward a bright future and further progress.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	past	past	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	always	always	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	nations	nation	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	as	as	SCONJ	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	ladder	ladder	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	ascension	ascension	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	toward	toward	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	bright	bright	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	future	future	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	further	further	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	progress	progress	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 19
+# text = Still, the past should never be forgotten; the memories of the past should be kept alive.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Still	still	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	past	past	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	never	never	ADV	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	forgotten	forget	VERB	VBN	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	;	;	PUNCT	:	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	memories	memory	NOUN	NNS	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	past	past	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	should	should	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	be	be	AUX	VB	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	kept	keep	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	alive	alive	ADJ	JJ	_	17	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 38
+# text = Those bearing ill-will toward Islam and the Iranian nation are trying to make the glorious past of our nation fall into oblivion; they are trying to estrange the Iranian people from their glorious past.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Those	those	DET	DT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	bearing	bear	VERB	VBG	_	1	acl	_	ent_type=_|ent_id=2|ent_iob=O
+3	ill	ill	ADV	RB	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	toward	toward	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islam	Islam	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iranian	iranian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	nation	nation	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	trying	try	VERB	VBG	_	28	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	make	make	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	glorious	glorious	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	past	past	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	nation	nation	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	fall	fall	VERB	VBP	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	into	into	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	oblivion	oblivion	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	;	;	PUNCT	:	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	they	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	are	be	AUX	VBP	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	estrange	estrange	VERB	VB	_	28	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	Iranian	iranian	ADJ	JJ	_	33	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+33	people	people	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	from	from	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	their	-PRON-	DET	PRP$	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	glorious	glorious	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	past	past	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 7
+# text = This is an act of treason.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	act	act	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	treason	treason	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 14
+# text = The glorious past of our nation and our honorable history should be preserved.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	glorious	glorious	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	past	past	NOUN	NN	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	honorable	honorable	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	history	history	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	should	should	VERB	MD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	be	be	AUX	VB	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	preserved	preserve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 26
+# text = The victories achieved by our brave and faithful youth in the course of the eight years of the Sacred Defense should never fall into oblivion.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	victories	victory	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	achieved	achieve	VERB	VBN	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	3	agent	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	brave	brave	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	faithful	faithful	ADJ	JJ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	youth	youth	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	course	course	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	eight	eight	NUM	CD	_	16	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	years	year	NOUN	NNS	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=LAW|ent_id=3|ent_iob=B
+19	Sacred	Sacred	PROPN	NNP	_	20	compound	_	ent_type=LAW|ent_id=1|ent_iob=I
+20	Defense	Defense	PROPN	NNP	_	17	pobj	_	ent_type=LAW|ent_id=1|ent_iob=I
+21	should	should	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	never	never	ADV	RB	_	23	neg	_	ent_type=_|ent_id=2|ent_iob=O
+23	fall	fall	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	into	into	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	oblivion	oblivion	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 26
+# text = These victories bear great significance, since they were achieved not just over one aggressor regime, but actually over a circle of arrogant powers.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	victories	victory	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	bear	bear	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	significance	significance	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	since	since	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	were	be	AUX	VBD	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	achieved	achieve	VERB	VBN	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	just	just	ADV	RB	_	14	advmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+13	over	over	ADP	IN	_	14	quantmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+14	one	one	NUM	CD	_	16	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+15	aggressor	aggressor	NOUN	NN	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	regime	regime	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	actually	actually	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	over	over	ADP	IN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	circle	circle	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	arrogant	arrogant	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	powers	power	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 57
+# text = These powers, noticing that all their calculations had proved wrong because of the uprising of a nation in a sensitive part of the world like Iran and its achieving independence under the banner of Islam, extended all kinds of support and assistance to the Iraqi regime in its military aggression against the Islamic Republic.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	powers	power	NOUN	NNS	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	noticing	notice	VERB	VBG	_	38	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	PDT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	calculations	calculation	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	had	have	AUX	VBD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	proved	prove	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	wrong	wrong	ADJ	JJ	_	10	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+12	because	because	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	uprising	uprising	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	sensitive	sensitive	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	part	part	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	world	world	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	like	like	SCONJ	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Iran	Iran	PROPN	NNP	_	26	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+28	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	its	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	achieving	achieving	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	independence	independence	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	under	under	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	banner	banner	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	Islam	Islam	PROPN	NNP	_	35	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+37	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	extended	extend	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+39	all	all	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	kinds	kind	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	support	support	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	assistance	assistance	NOUN	NN	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	to	to	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	Iraqi	iraqi	ADJ	JJ	_	48	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+48	regime	regime	NOUN	NN	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+50	its	-PRON-	DET	PRP$	_	52	poss	_	ent_type=_|ent_id=2|ent_iob=O
+51	military	military	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+52	aggression	aggression	NOUN	NN	_	49	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	against	against	ADP	IN	_	52	prep	_	ent_type=_|ent_id=2|ent_iob=O
+54	the	the	DET	DT	_	56	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+55	Islamic	Islamic	PROPN	NNP	_	56	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+56	Republic	Republic	PROPN	NNP	_	53	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+57	.	.	PUNCT	.	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 26
+# text = The victory of the Iranian nation in various arenas over the past 26 years has been the Iranian nation's victory over all these enemies.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	victory	victory	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nation	nation	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	various	various	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	arenas	arena	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	over	over	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	past	past	ADJ	JJ	_	14	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	26	26	NUM	CD	_	14	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	years	year	NOUN	NNS	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	has	have	AUX	VBZ	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	nation	nation	NOUN	NN	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	's	's	PART	POS	_	19	case	_	ent_type=_|ent_id=2|ent_iob=O
+21	victory	victory	NOUN	NN	_	16	attr	_	ent_type=_|ent_id=2|ent_iob=O
+22	over	over	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	all	all	DET	PDT	_	25	predet	_	ent_type=_|ent_id=2|ent_iob=O
+24	these	these	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	enemies	enemy	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 14
+# text = This serves as a lesson to other nations and to our future generations.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	serves	serve	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	as	as	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	lesson	lesson	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	other	other	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	nations	nation	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	future	future	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	generations	generation	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 28
+# text = The lesson is that if a nation combines efforts and perseverance with strong belief and determination, it will definitely achieve victory over all kinds of enemies.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	lesson	lesson	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	if	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	nation	nation	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	combines	combine	VERB	VBZ	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	efforts	effort	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	perseverance	perseverance	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	strong	strong	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	belief	belief	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	determination	determination	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	it	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	definitely	definitely	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	achieve	achieve	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	victory	victory	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	over	over	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	all	all	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	kinds	kind	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	enemies	enemy	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 22
+# text = We should also make the most of this lesson, which should never fall into oblivion, in the years ahead.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	most	most	ADJ	JJS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	lesson	lesson	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	which	which	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	never	never	ADV	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	fall	fall	VERB	VB	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	into	into	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	oblivion	oblivion	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+20	years	year	NOUN	NNS	_	18	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	ahead	ahead	ADV	RB	_	20	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 8
+# text = We still have a long way ahead.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	still	still	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	long	long	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	way	way	NOUN	NN	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	ahead	ahead	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 19
+# text = This is because we are aiming to build our country and society in conformity with the Islamic precepts.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	aiming	aim	VERB	VBG	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	build	build	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	society	society	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	conformity	conformity	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Islamic	islamic	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	precepts	precept	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 9
+# text = What are the characteristics of an Islamic society?
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	What	what	PRON	WP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	characteristics	characteristic	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	an	an	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	islamic	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	society	society	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 35
+# text = It is a society characterized by justice, freedom of expression, the development of talents, morality, dignity, honor, noble aspirations and the absence of poverty, corruption and discrimination.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	society	society	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	characterized	characterize	VERB	VBN	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	5	agent	_	ent_type=_|ent_id=2|ent_iob=O
+7	justice	justice	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	freedom	freedom	NOUN	NN	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	expression	expression	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	development	development	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	talents	talent	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	morality	morality	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	dignity	dignity	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	honor	honor	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	noble	noble	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	aspirations	aspiration	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	absence	absence	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	poverty	poverty	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	,	,	PUNCT	,	_	30	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	corruption	corruption	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	discrimination	discrimination	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 35
+# text = Islam calls for the establishment of a society in which science thrives and advances and all social institutions are built on scientific foundations, a society which serves as an example to other nations.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Islam	Islam	PROPN	NNP	_	2	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	calls	call	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	establishment	establishment	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	society	society	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	which	which	DET	WDT	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	science	science	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	thrives	thrive	NOUN	NNS	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	advances	advance	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	all	all	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	social	social	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	institutions	institution	NOUN	NNS	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	are	be	AUX	VBP	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+20	built	build	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	scientific	scientific	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	foundations	foundation	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	society	society	NOUN	NN	_	23	appos	_	ent_type=_|ent_id=2|ent_iob=O
+27	which	which	DET	WDT	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	serves	serve	VERB	VBZ	_	26	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	as	as	SCONJ	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	an	an	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	example	example	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	other	other	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	nations	nation	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 15
+# text = The establishment of this society is also the main objective of the Iranian nation.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	establishment	establishment	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	society	society	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	also	also	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	main	main	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	objective	objective	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Iranian	iranian	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	nation	nation	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 27
+# text = Valuable efforts have been made in our country following the revolution to accomplish this objective, and today we can see the results of these endeavors.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Valuable	valuable	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	efforts	effort	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	been	be	AUX	VBN	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	following	follow	VERB	VBG	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	revolution	revolution	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	accomplish	accomplish	VERB	VB	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	objective	objective	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	today	today	NOUN	NN	_	21	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	we	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	can	can	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	see	see	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	results	result	NOUN	NNS	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	these	these	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	endeavors	endeavor	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 32
+# text = We have made considerable progress in various areas of science and technology, and the self-confidence of our talented youth in different scientific and technological areas has greatly increased.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	considerable	considerable	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	progress	progress	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	various	various	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	areas	area	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	science	science	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	technology	technology	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	self	self	NOUN	NN	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	HYPH	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	confidence	confidence	NOUN	NN	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	talented	talented	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	youth	youth	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	different	different	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	scientific	scientific	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	technological	technological	ADJ	JJ	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	areas	area	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	has	have	AUX	VBZ	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	greatly	greatly	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	increased	increase	VERB	VBN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 35
+# text = Before the revolution, attempts were made to convince the Iranian people that they could not make progress, and that they had to beg for and obtain what they needed from other nations.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Before	before	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	revolution	revolution	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	attempts	attempt	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	were	be	AUX	VBD	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	convince	convince	VERB	VB	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iranian	iranian	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	people	people	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	could	could	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	not	not	PART	RB	_	17	neg	_	ent_type=_|ent_id=2|ent_iob=O
+17	make	make	VERB	VB	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	progress	progress	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	they	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	had	have	AUX	VBD	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	beg	beg	VERB	VB	_	23	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	for	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	obtain	obtain	VERB	VB	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	what	what	PRON	WP	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	they	-PRON-	PRON	PRP	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	needed	need	VERB	VBD	_	28	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	from	from	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	other	other	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	nations	nation	NOUN	NNS	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 24
+# text = But today, the Iranian people have attained self-sufficiency in most areas and opened up new horizons in science and technology.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	But	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	people	people	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	attained	attain	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	self	self	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	HYPH	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	sufficiency	sufficiency	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	most	most	ADJ	JJS	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	areas	area	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	opened	open	VERB	VBD	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	up	up	ADP	RP	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	new	new	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	horizons	horizon	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	science	science	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	technology	technology	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 21
+# text = We have made considerable progress, but we still have a long way ahead and should make much greater progress.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	considerable	considerable	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	progress	progress	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	we	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	still	still	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	long	long	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	way	way	NOUN	NN	_	14	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	ahead	ahead	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	should	should	VERB	MD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	make	make	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	much	much	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	greater	great	ADJ	JJR	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	progress	progress	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 21
+# text = We should try to dispense social justice, promote moral values and make our society Islamic in its real sense.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	dispense	dispense	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	social	social	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	justice	justice	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	promote	promote	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	moral	moral	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	values	value	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	make	make	VERB	VB	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	society	society	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islamic	islamic	ADJ	JJ	_	13	ccomp	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	its	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	real	real	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	sense	sense	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 20
+# text = Achieving this objective requires more efforts combined with faith, piety and the struggle in the way of Allah.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Achieving	achieve	VERB	VBG	_	4	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	objective	objective	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	requires	require	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	more	more	ADJ	JJR	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	efforts	effort	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	combined	combine	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	faith	faith	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	piety	piety	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	struggle	struggle	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	way	way	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Allah	Allah	PROPN	NNP	_	18	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 10
+# text = Is the struggle in the way of Allah effective?
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	struggle	struggle	NOUN	NN	_	1	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	way	way	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Allah	Allah	PROPN	NNP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	effective	effective	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	?	?	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 7
+# text = Does it bear any concrete results?
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Does	do	AUX	VBZ	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	bear	bear	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	any	any	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	concrete	concrete	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	results	result	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	?	?	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 5
+# text = Of course it does.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	does	do	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 35
+# text = The most important evidence proving this is the liberation of Khorramshahr from the Iraqi occupation, or the victories achieved by our faithful and valorous youth during the eight years of the Sacred Defense.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	most	most	ADV	RBS	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	evidence	evidence	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	proving	prove	VERB	VBG	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	liberation	liberation	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Khorramshahr	Khorramshahr	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iraqi	iraqi	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	occupation	occupation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	or	or	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	victories	victory	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	achieved	achieve	VERB	VBN	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	20	agent	_	ent_type=_|ent_id=2|ent_iob=O
+22	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	faithful	faithful	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	valorous	valorous	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	youth	youth	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	during	during	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+29	eight	eight	NUM	CD	_	30	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+30	years	year	NOUN	NNS	_	27	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+31	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	34	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+33	Sacred	Sacred	PROPN	NNP	_	34	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+34	Defense	Defense	PROPN	NNP	_	31	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+35	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 23
+# text = Our brave and devoted youngsters had no previous military training, nor were they equipped with modern weapons and advanced military equipment.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	brave	brave	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	devoted	devoted	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	youngsters	youngster	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	no	no	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	previous	previous	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	military	military	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	training	training	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	nor	nor	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	were	be	AUX	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	equipped	equip	VERB	VBN	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	modern	modern	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	weapons	weapon	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	advanced	advanced	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	military	military	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	equipment	equipment	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 35
+# text = The Iraqi aggressors who were supported by the United States and other Western powers, those falsely claiming to advocate human rights, were equipped with modern tanks and aircraft and sophisticated military equipment.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iraqi	iraqi	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	aggressors	aggressor	NOUN	NNS	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	were	be	AUX	VBD	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	supported	support	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	United	United	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	States	States	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	other	other	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	Western	western	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	powers	power	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	those	those	DET	DT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	falsely	falsely	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	claiming	claim	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	advocate	advocate	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	human	human	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	rights	right	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	were	be	AUX	VBD	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	equipped	equip	VERB	VBN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	with	with	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	modern	modern	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	tanks	tank	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	aircraft	aircraft	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	sophisticated	sophisticated	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	military	military	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+34	equipment	equipment	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 16
+# text = But our youngsters did not even have R.P.G.'s (rocket-propelled grenades).
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	But	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	youngsters	youngster	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	did	do	AUX	VBD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	even	even	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	R.P.G.	R.P.G.	PROPN	NNP	_	14	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	's	's	PART	POS	_	8	case	_	ent_type=_|ent_id=2|ent_iob=O
+10	(	(	PUNCT	-LRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	rocket	rocket	NOUN	NN	_	13	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	-	-	PUNCT	HYPH	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	propelled	propel	VERB	VBN	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	grenades	grenade	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	)	)	PUNCT	-RRB-	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 8
+# text = They fought the enemy only with rifles.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	fought	fight	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enemy	enemy	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	only	only	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	rifles	rifle	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 16
+# text = However, our youngsters were characterized by deep faith in the Almighty and strong determination.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	youngsters	youngster	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	were	be	AUX	VBD	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	characterized	characterize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	deep	deep	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	faith	faith	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Almighty	Almighty	PROPN	NNP	_	15	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	strong	strong	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	determination	determination	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 26
+# text = Consequently, they achieved victory over the enemy, despite the fact that they did not have any advanced weapons or any previous military training.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Consequently	consequently	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	achieved	achieve	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	victory	victory	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	over	over	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	enemy	enemy	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	despite	despite	SCONJ	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	fact	fact	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	did	do	AUX	VBD	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	not	not	PART	RB	_	17	neg	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VB	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	any	any	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	advanced	advanced	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	weapons	weapon	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	any	any	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	previous	previous	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	military	military	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	training	training	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 46
+# text = On Khordad 3, 1361 (May 24, 1982), just a few hours after Khorramshahr had been liberated from occupation, the late army commander Major General Sayyad-Shirazi telephoned me to present a report on the condition of the battlefield.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	On	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Khordad	Khordad	PROPN	NNP	_	1	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	3	3	NUM	CD	_	2	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	1361	1361	NUM	CD	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+6	(	(	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	May	May	PROPN	NNP	_	2	appos	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	24	24	NUM	CD	_	7	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	,	,	PUNCT	,	_	7	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	1982	1982	NUM	CD	_	7	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	)	)	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	just	just	ADV	RB	_	15	advmod	_	ent_type=TIME|ent_id=3|ent_iob=B
+14	a	a	DET	DT	_	15	quantmod	_	ent_type=TIME|ent_id=1|ent_iob=I
+15	few	few	ADJ	JJ	_	16	amod	_	ent_type=TIME|ent_id=1|ent_iob=I
+16	hours	hour	NOUN	NNS	_	21	npadvmod	_	ent_type=TIME|ent_id=1|ent_iob=I
+17	after	after	ADP	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	Khorramshahr	Khorramshahr	PROPN	NNP	_	21	nsubjpass	_	ent_type=PERSON|ent_id=3|ent_iob=B
+19	had	have	AUX	VBD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	been	be	AUX	VBN	_	21	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	liberated	liberate	VERB	VBN	_	34	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	from	from	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	occupation	occupation	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	late	late	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	army	army	NOUN	NN	_	28	compound	_	ent_type=_|ent_id=2|ent_iob=O
+28	commander	commander	NOUN	NN	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+29	Major	Major	PROPN	NNP	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+30	General	General	PROPN	NNP	_	33	compound	_	ent_type=_|ent_id=2|ent_iob=O
+31	Sayyad	Sayyad	PROPN	NNP	_	33	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+32	-	-	PUNCT	HYPH	_	33	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+33	Shirazi	Shirazi	PROPN	NNP	_	34	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+34	telephoned	telephone	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+35	me	-PRON-	PRON	PRP	_	34	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	PART	TO	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	present	present	VERB	VB	_	34	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	a	a	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	report	report	NOUN	NN	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	on	on	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	condition	condition	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	battlefield	battlefield	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 9
+# text = I was the Islamic Republic's president then.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	7	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	's	's	PART	POS	_	5	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	president	president	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	then	then	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 20
+# text = He told me that thousands of Iraqi soldiers and officers had lined up to surrender to the Iranian forces!
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	told	tell	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	me	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	thousands	thousand	NOUN	NNS	_	12	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iraqi	iraqi	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	soldiers	soldier	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	officers	officer	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	had	have	AUX	VBD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	lined	line	VERB	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	up	up	ADP	RP	_	12	prt	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	surrender	surrender	VERB	VB	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Iranian	iranian	ADJ	JJ	_	19	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	forces	force	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 12
+# text = This is the manifestation of the spiritual power of a nation.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	manifestation	manifestation	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	spiritual	spiritual	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	power	power	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	nation	nation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 28
+# text = This power was manifested not only in the liberation of Khorramshahr but also in other military operations such as Karbala-5, Valfajr-8, Khaybar and Badr operations.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	power	power	NOUN	NN	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	manifested	manifest	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	7	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+6	only	only	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	liberation	liberation	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Khorramshahr	Khorramshahr	PROPN	NNP	_	10	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+12	but	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	also	also	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	other	other	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	military	military	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	operations	operation	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	such	such	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	Karbala-5	Karbala-5	PROPN	NNP	_	19	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+21	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	Valfajr-8	Valfajr-8	PROPN	NNP	_	20	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	Khaybar	Khaybar	PROPN	NNP	_	22	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	Badr	Badr	PROPN	NNP	_	24	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	operations	operation	NOUN	NNS	_	20	appos	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 19
+# text = Indeed, our great nation displayed its spiritual power during all the eight years of the Sacred Defense.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Indeed	indeed	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	nation	nation	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	displayed	display	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	its	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	spiritual	spiritual	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	power	power	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	during	during	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	PDT	_	14	predet	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	the	the	DET	DT	_	14	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	eight	eight	NUM	CD	_	14	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	years	year	NOUN	NNS	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	Sacred	Sacred	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Defense	Defense	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 37
+# text = What is clear is that sincere efforts and struggle combined with faith will always result in victory, not only on the battlefield but in various economic, political, social and academic arenas as well.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	What	what	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	4	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	clear	clear	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	sincere	sincere	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	efforts	effort	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	struggle	struggle	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	combined	combine	VERB	VBN	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	faith	faith	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	will	will	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	always	always	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	result	result	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	victory	victory	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	not	not	PART	RB	_	21	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+20	only	only	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	battlefield	battlefield	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	but	but	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	various	various	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	economic	economic	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	political	political	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	social	social	ADJ	JJ	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	academic	academic	ADJ	JJ	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	arenas	arena	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	as	as	ADV	RB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+36	well	well	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 33
+# text = When a nation decides to be self-reliant and when it combines faith with pious deeds and struggle in the way of Allah, it will achieve victory in all arenas.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	decides	decide	VERB	VBZ	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	self	self	NOUN	NN	_	9	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	reliant	reliant	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	when	when	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	it	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	combines	combine	VERB	VBZ	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	faith	faith	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	pious	pious	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	deeds	deed	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	struggle	struggle	VERB	VB	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	way	way	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Allah	Allah	PROPN	NNP	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	it	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	will	will	VERB	MD	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	achieve	achieve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+29	victory	victory	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	all	all	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	arenas	arena	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 13
+# text = This is the lesson that we learned from the liberation of Khorramshahr.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	lesson	lesson	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	learned	learn	VERB	VBD	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	liberation	liberation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Khorramshahr	Khorramshahr	PROPN	NNP	_	11	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 9
+# text = The Iranian nation should never forget this lesson.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	never	never	ADV	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	forget	forget	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	lesson	lesson	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 19
+# text = The enemies have realized what your strong points are and are also aware of their own weak points.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	realized	realize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	your	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	strong	strong	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	points	point	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	also	also	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	aware	aware	ADJ	JJ	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	own	own	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	weak	weak	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	points	point	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 23
+# text = Your strong points include your deep faith, devotion, struggle in the way of Allah and also your solidarity and harmony.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Your	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	strong	strong	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	points	point	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	include	include	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	deep	deep	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	faith	faith	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	devotion	devotion	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	struggle	struggle	VERB	VBP	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	way	way	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Allah	Allah	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	also	also	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	your	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	solidarity	solidarity	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	harmony	harmony	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 34
+# text = The weak point of the enemies lies in the fact that they have no way to overcome the power of a nation that is characterized by firm belief and strong will and determination.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	weak	weak	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	enemies	enemy	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	lies	lie	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	fact	fact	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	they	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	have	have	AUX	VBP	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	no	no	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	way	way	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	overcome	overcome	VERB	VB	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	power	power	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	nation	nation	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	DET	WDT	_	25	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	is	be	AUX	VBZ	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+25	characterized	characterize	VERB	VBN	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	by	by	ADP	IN	_	25	agent	_	ent_type=_|ent_id=2|ent_iob=O
+27	firm	firm	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	belief	belief	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	strong	strong	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	will	will	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	determination	determination	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 17
+# text = The enemies know that military equipment is of no use and value in overcoming your power.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	military	military	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	equipment	equipment	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	no	no	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	use	use	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	value	value	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	overcoming	overcome	VERB	VBG	_	13	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	your	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	power	power	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 17
+# text = Therefore, they are trying to undermine your resistance, faith, national solidarity and harmony.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	undermine	undermine	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	your	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	resistance	resistance	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	faith	faith	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	national	national	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	solidarity	solidarity	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	harmony	harmony	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 33
+# text = Whenever you see that someone is weakening the faith, unity and resistance of our nation, you should know that he is intentionally or inadvertently following the line of the enemies.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Whenever	whenever	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	see	see	VERB	VBP	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	someone	someone	PRON	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	weakening	weaken	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	faith	faith	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	unity	unity	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	resistance	resistance	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	nation	nation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	you	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	should	should	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+22	he	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	intentionally	intentionally	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	or	or	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	inadvertently	inadvertently	ADV	RB	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	following	follow	VERB	VBG	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	line	line	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	enemies	enemy	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 17
+# text = The next presidential election will be held in our country just a few weeks from now.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	next	next	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	presidential	presidential	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	election	election	NOUN	NN	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	held	hold	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	just	just	ADV	RB	_	13	advmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	a	a	DET	DT	_	13	quantmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	few	few	ADJ	JJ	_	14	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	weeks	week	NOUN	NNS	_	15	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	from	from	ADP	IN	_	7	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	now	now	ADV	RB	_	15	pcomp	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 23
+# text = The scene of elections is one of the important scenes on which the Iranian people display their solidarity and freedom of choice.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	scene	scene	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	elections	election	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	one	one	NUM	CD	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	important	important	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	scenes	scene	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iranian	iranian	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	people	people	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	display	display	VERB	VBP	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	solidarity	solidarity	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	freedom	freedom	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	choice	choice	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 19
+# text = Before the victory of the Islamic Revolution, the Iranian people were deprived of their right to choose.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Before	before	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	victory	victory	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+6	Islamic	Islamic	PROPN	NNP	_	7	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+7	Revolution	Revolution	PROPN	NNP	_	4	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+8	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iranian	iranian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	people	people	NOUN	NNS	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	were	be	AUX	VBD	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	deprived	deprive	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	right	right	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	choose	choose	VERB	VB	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 28
+# text = The right to choose and the opportunity to take part in handling the affairs of their country were vested in the Iranian people by the Islamic Revolution.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	right	right	NOUN	NN	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	choose	choose	VERB	VB	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	opportunity	opportunity	NOUN	NN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	take	take	VERB	VB	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+10	part	part	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	handling	handle	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	affairs	affair	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	country	country	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	were	be	AUX	VBD	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	vested	vest	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Iranian	iranian	ADJ	JJ	_	23	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	people	people	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	by	by	ADP	IN	_	19	agent	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+26	Islamic	Islamic	PROPN	NNP	_	27	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+27	Revolution	Revolution	PROPN	NNP	_	24	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+28	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 18
+# text = Before the revolution, the Iranian people were mere onlookers on the political scene of the country.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Before	before	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	revolution	revolution	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	people	people	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	mere	mere	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	onlookers	onlooker	NOUN	NNS	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	scene	scene	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	country	country	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 10
+# text = Outside powers usually installed our high-ranking officials.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Outside	outside	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	powers	power	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	usually	usually	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	installed	instal	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	high	high	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	ranking	rank	VERB	VBG	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	officials	official	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 23
+# text = One day the Iranian officials were installed by the Russians, one day by the British and one day by the Americans.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	One	one	NUM	CD	_	2	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	day	day	NOUN	NN	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iranian	iranian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	officials	official	NOUN	NNS	_	7	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	were	be	AUX	VBD	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	installed	instal	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Russians	Russians	PROPN	NNPS	_	8	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NUM	CD	_	13	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	day	day	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	by	by	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	British	british	ADJ	JJ	_	14	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	one	one	NUM	CD	_	19	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+19	day	day	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Americans	Americans	PROPN	NNPS	_	20	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 12
+# text = The Iranian people had no role in deciding their political fate.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	no	no	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	role	role	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	deciding	decide	VERB	VBG	_	7	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	political	political	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	fate	fate	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 47
+# text = The freedom of choice and democracy that has been vested in our nation by the Islamic Revolution did not exist even at the time of Prime Minister Mosaddeq, the time that has been described as the time of relative freedom and democracy in our country.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	freedom	freedom	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	choice	choice	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	democracy	democracy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	been	be	AUX	VBN	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	vested	vest	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	nation	nation	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+17	Revolution	Revolution	PROPN	NNP	_	14	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	did	do	AUX	VBD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	not	not	PART	RB	_	20	neg	_	ent_type=_|ent_id=2|ent_iob=O
+20	exist	exist	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	even	even	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	at	at	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	time	time	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Prime	Prime	PROPN	NNP	_	27	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	Minister	Minister	PROPN	NNP	_	28	compound	_	ent_type=_|ent_id=2|ent_iob=O
+28	Mosaddeq	Mosaddeq	PROPN	NNP	_	25	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+29	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	time	time	NOUN	NN	_	20	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	that	that	DET	WDT	_	35	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	has	have	AUX	VBZ	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	been	be	AUX	VBN	_	35	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+35	described	describe	VERB	VBN	_	31	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	as	as	SCONJ	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	time	time	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	relative	relative	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	freedom	freedom	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	and	and	CCONJ	CC	_	41	cc	_	ent_type=_|ent_id=2|ent_iob=O
+43	democracy	democracy	NOUN	NN	_	41	conj	_	ent_type=_|ent_id=2|ent_iob=O
+44	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	our	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+46	country	country	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 24
+# text = Dr. Mosaddeq dissolved the National Consultative Assembly, which was superficially the symbol of democracy but was in reality devoid of any democracy.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Dr.	Dr.	PROPN	NNP	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	Mosaddeq	Mosaddeq	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+3	dissolved	dissolve	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	National	National	PROPN	NNP	_	7	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	Consultative	Consultative	PROPN	NNP	_	7	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	Assembly	Assembly	PROPN	NNP	_	3	dobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	superficially	superficially	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	symbol	symbol	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	democracy	democracy	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	but	but	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	was	be	AUX	VBD	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	reality	reality	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	devoid	devoid	ADJ	JJ	_	17	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	any	any	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	democracy	democracy	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 16
+# text = During his nearly two years in office, he ran the government with absolute power.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	During	during	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	his	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	nearly	nearly	ADV	RB	_	4	advmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	two	two	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	years	year	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	office	office	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	he	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	ran	run	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	government	government	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	with	with	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	absolute	absolute	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	power	power	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 15
+# text = He enacted the laws and endorsed them himself and then carried them into effect.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	enacted	enact	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	laws	law	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	endorsed	endorse	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	them	-PRON-	PRON	PRP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	himself	-PRON-	PRON	PRP	_	6	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	then	then	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	carried	carry	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	them	-PRON-	PRON	PRP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	into	into	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	effect	effect	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 10
+# text = This is not comparable with the Islamic Republic system.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	comparable	comparable	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	Republic	Republic	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	system	system	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 32
+# text = During the past 26 years since the establishment of the Islamic Republic, the Iranian nation has not lived even a single day without the Islamic Consultative assembly and its parliamentarians.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	During	during	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	5	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	past	past	ADJ	JJ	_	5	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	26	26	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	years	year	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	since	since	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	establishment	establishment	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iranian	iranian	ADJ	JJ	_	16	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+16	nation	nation	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	has	have	AUX	VBZ	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	not	not	PART	RB	_	19	neg	_	ent_type=_|ent_id=2|ent_iob=O
+19	lived	live	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	even	even	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	single	single	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	day	day	NOUN	NN	_	19	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	without	without	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Islamic	Islamic	PROPN	NNP	_	27	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+27	Consultative	Consultative	PROPN	NNP	_	28	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+28	assembly	assembly	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	its	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	parliamentarians	parliamentarian	NOUN	NNS	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 10
+# text = During this period, elections have regularly been held.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	During	during	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	period	period	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	elections	election	NOUN	NNS	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	regularly	regularly	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	held	hold	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 23
+# text = During the past 26 years since the formation of the Islamic Republic, almost 26 elections have been held in our country.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	During	during	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	5	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	past	past	ADJ	JJ	_	5	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	26	26	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	years	year	NOUN	NNS	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	since	since	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	formation	formation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	Islamic	Islamic	PROPN	NNP	_	12	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+12	Republic	Republic	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+13	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	almost	almost	ADV	RB	_	15	advmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+15	26	26	NUM	CD	_	16	nummod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+16	elections	election	NOUN	NNS	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	been	be	AUX	VBN	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	held	hold	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	country	country	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 14
+# text = The Iranian nation was provided with this opportunity only by the Islamic Revolution.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	provided	provide	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	opportunity	opportunity	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	only	only	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	5	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+13	Revolution	Revolution	PROPN	NNP	_	10	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 46
+# text = The United States and other enemies of the Iranian nation are trying to restore in Iran the same dark dictatorship that existed under the Pahlavi regime, but in a new and modern guise, and make this country once again dependent on outside powers.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	United	United	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNP	_	12	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	other	other	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	enemies	enemy	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iranian	iranian	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	nation	nation	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	restore	restore	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iran	Iran	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	same	same	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	dark	dark	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	dictatorship	dictatorship	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	WDT	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	existed	exist	VERB	VBD	_	20	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	under	under	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Pahlavi	Pahlavi	PROPN	NNP	_	26	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	regime	regime	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	but	but	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	a	a	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	new	new	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	modern	modern	ADJ	JJ	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	guise	guise	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	make	make	VERB	VB	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	this	this	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	country	country	NOUN	NN	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+40	once	once	ADV	RB	_	41	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+41	again	again	ADV	RB	_	42	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+42	dependent	dependent	ADJ	JJ	_	37	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	on	on	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	outside	outside	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+45	powers	power	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 25
+# text = However, our nation is going to keep its presence on the scene and, as always, foil the enemies in their attempts.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	nation	nation	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	going	go	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	keep	keep	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	its	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	presence	presence	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	scene	scene	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	as	as	SCONJ	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	always	always	ADV	RB	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	foil	foil	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	enemies	enemy	NOUN	NNS	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	attempts	attempt	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 39
+# text = The Iranian people should be thankful to Almighty Allah for enjoying the freedom of choice and the opportunity to take part in handling the affairs of their country, the privileges granted to them by the Islamic Revolution.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	thankful	thankful	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Almighty	Almighty	PROPN	NNP	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	Allah	Allah	PROPN	NNP	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	enjoying	enjoy	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	freedom	freedom	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	choice	choice	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	opportunity	opportunity	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	take	take	VERB	VB	_	18	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	part	part	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	handling	handle	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	affairs	affair	NOUN	NNS	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	their	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	country	country	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	privileges	privilege	NOUN	NNS	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	granted	grant	VERB	VBN	_	31	acl	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	them	-PRON-	PRON	PRP	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	by	by	ADP	IN	_	32	agent	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	38	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+37	Islamic	Islamic	PROPN	NNP	_	38	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+38	Revolution	Revolution	PROPN	NNP	_	35	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+39	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 14
+# text = We should all be grateful to the Almighty for enjoying these divine blessings.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	grateful	grateful	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	Almighty	Almighty	PROPN	NNP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	enjoying	enjoy	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	these	these	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	divine	divine	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	blessings	blessing	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 28
+# text = The real gratitude can be expressed through a massive presence on the political and social scenes and by creating an amicable and brotherly atmosphere in our society.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	real	real	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	gratitude	gratitude	NOUN	NN	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	expressed	express	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	through	through	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	massive	massive	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	presence	presence	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	social	social	ADJ	JJ	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	scenes	scene	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	creating	create	VERB	VBG	_	18	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	an	an	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	amicable	amicable	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	brotherly	brotherly	ADJ	JJ	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	atmosphere	atmosphere	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	society	society	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 35
+# text = I would like to sincerely call on all presidential candidates and their supporters to abstain from engaging in disputes and other activities that are harmful to the friendly and peaceful atmosphere in our society.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	sincerely	sincerely	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	call	call	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	RP	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	all	all	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	presidential	presidential	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	candidates	candidate	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	supporters	supporter	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	abstain	abstain	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	from	from	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	engaging	engage	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	disputes	dispute	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	other	other	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	activities	activity	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	that	that	DET	WDT	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	are	be	AUX	VBP	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	harmful	harmful	ADJ	JJ	_	24	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	friendly	friendly	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	peaceful	peaceful	ADJ	JJ	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	atmosphere	atmosphere	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	our	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	society	society	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 26
+# text = A cordial atmosphere should prevail, and every candidate should have an opportunity to express his views and talk about his future plans and programs.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	A	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	cordial	cordial	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	atmosphere	atmosphere	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	prevail	prevail	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	every	every	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	candidate	candidate	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	an	an	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	opportunity	opportunity	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	express	express	VERB	VB	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	his	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	views	view	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	talk	talk	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	about	about	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	his	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+22	future	future	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	plans	plan	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	programs	program	NOUN	NNS	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 31
+# text = The Iranian people, for their part, should try to find out which presidential candidate is the most competent and suitable for the office through necessary investigations and consultations.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	part	part	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	find	find	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	out	out	ADP	RP	_	12	prt	_	ent_type=_|ent_id=2|ent_iob=O
+14	which	which	DET	WDT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	presidential	presidential	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	candidate	candidate	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	most	most	ADV	RBS	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	competent	competent	ADJ	JJ	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	suitable	suitable	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	office	office	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	through	through	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	necessary	necessary	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	investigations	investigation	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	consultations	consultation	NOUN	NNS	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 14
+# text = Today, there exists a vast area in the country for constructive measures.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	there	there	PRON	EX	_	4	expl	_	ent_type=_|ent_id=2|ent_iob=O
+4	exists	exist	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	vast	vast	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	area	area	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	constructive	constructive	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	measures	measure	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 25
+# text = It is quite possible to solve most of the problems currently facing the people, especially those problems that are of an economic nature.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	quite	quite	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	possible	possible	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	solve	solve	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	most	most	ADJ	JJS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	problems	problem	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	currently	currently	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	facing	face	VERB	VBG	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	especially	especially	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	those	those	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	problems	problem	NOUN	NNS	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	DET	WDT	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	are	be	AUX	VBP	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	an	an	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	economic	economic	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	nature	nature	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 19
+# text = Fortunately, the previous governments have taken many positive measures and built an appropriate infrastructure in the country.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Fortunately	fortunately	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	previous	previous	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	governments	government	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	taken	take	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	many	many	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	positive	positive	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	measures	measure	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	built	build	VERB	VBD	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	an	an	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	appropriate	appropriate	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	infrastructure	infrastructure	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 42
+# text = Any competent and efficient candidate who is elected president by the Iranian people should follow up the positive measures taken by the previous governments and make those measures show their positive effects on the lives of the public through increased efforts.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Any	any	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	competent	competent	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	efficient	efficient	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	candidate	candidate	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	elected	elect	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	president	president	NOUN	NN	_	8	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iranian	iranian	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	follow	follow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	up	up	ADP	RP	_	15	prt	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	positive	positive	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	measures	measure	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	taken	take	VERB	VBN	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+21	by	by	ADP	IN	_	20	agent	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	previous	previous	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	governments	government	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	make	make	VERB	VB	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	those	those	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	measures	measure	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	show	show	VERB	VB	_	26	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	positive	positive	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	effects	effect	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	on	on	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	lives	life	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	public	public	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	through	through	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	increased	increase	VERB	VBN	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	efforts	effort	NOUN	NNS	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 32
+# text = He should also try to eliminate poverty from the country, administer justice and launch an all-out campaign against discrimination and corruption by removing corrupt individuals from state organizations.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	He	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	eliminate	eliminate	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	poverty	poverty	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	administer	administer	VERB	VB	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	justice	justice	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	launch	launch	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	an	an	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	all	all	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	PUNCT	HYPH	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	out	out	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	campaign	campaign	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	against	against	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	discrimination	discrimination	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	corruption	corruption	NOUN	NN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	by	by	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	removing	remove	VERB	VBG	_	25	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	corrupt	corrupt	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	individuals	individual	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	from	from	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	state	state	NOUN	NN	_	31	compound	_	ent_type=_|ent_id=2|ent_iob=O
+31	organizations	organization	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 38
+# text = What we should feel sure about is that if we endeavor in the way of Allah, seek assistance from the Almighty and try to do our best, favorable results will be granted by the Almighty.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	What	what	PRON	WP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	feel	feel	VERB	VB	_	7	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	sure	sure	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	about	about	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	if	if	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	we	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	endeavor	endeavor	VERB	VBP	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	way	way	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Allah	Allah	PROPN	NNP	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	seek	seek	VERB	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	assistance	assistance	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	from	from	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Almighty	Almighty	PROPN	NNP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	try	try	VERB	VB	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	do	do	AUX	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	our	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	best	good	ADJ	JJS	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	favorable	favorable	ADJ	JJ	_	31	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	results	result	NOUN	NNS	_	34	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	will	will	VERB	MD	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	be	be	AUX	VB	_	34	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+34	granted	grant	VERB	VBN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	by	by	ADP	IN	_	34	agent	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	Almighty	Almighty	PROPN	NNP	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 19
+# text = By divine assistance, the Iranian nation will also emerge from this great trial with honor and glory.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	By	by	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	divine	divine	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	assistance	assistance	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Iranian	iranian	ADJ	JJ	_	7	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+7	nation	nation	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	also	also	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	emerge	emerge	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	from	from	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	great	great	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	trial	trial	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	honor	honor	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	glory	glory	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 61
+# text = I pray to Almighty Allah to associate the blessed souls of our martyrs and the heavenly soul of our magnanimous Imam Khomeini, who led and guided us on this path, with the hallowed souls of the prophets and infallible saints, and to bestow His grace and favor and immediate cure on our honorable war-disabled veterans.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Almighty	Almighty	PROPN	NNP	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	associate	associate	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	blessed	bless	VERB	VBN	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	souls	soul	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	martyrs	martyr	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	heavenly	heavenly	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	soul	soul	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	magnanimous	magnanimous	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	Imam	Imam	PROPN	NNP	_	22	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+22	Khomeini	Khomeini	PROPN	NNP	_	18	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+23	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	led	lead	VERB	VBD	_	22	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	guided	guide	VERB	VBD	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	us	-PRON-	PRON	PRP	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	on	on	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	this	this	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	path	path	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	hallowed	hallowed	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	souls	soul	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	prophets	prophet	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	infallible	infallible	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	saints	saint	NOUN	NNS	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+45	to	to	PART	TO	_	46	aux	_	ent_type=_|ent_id=2|ent_iob=O
+46	bestow	bestow	VERB	VB	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	His	-PRON-	DET	PRP$	_	48	poss	_	ent_type=_|ent_id=2|ent_iob=O
+48	grace	grace	NOUN	NN	_	46	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	48	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	favor	favor	NOUN	NN	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	and	and	CCONJ	CC	_	50	cc	_	ent_type=_|ent_id=2|ent_iob=O
+52	immediate	immediate	ADJ	JJ	_	53	amod	_	ent_type=_|ent_id=2|ent_iob=O
+53	cure	cure	NOUN	NN	_	50	conj	_	ent_type=_|ent_id=2|ent_iob=O
+54	on	on	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+55	our	-PRON-	DET	PRP$	_	60	poss	_	ent_type=_|ent_id=2|ent_iob=O
+56	honorable	honorable	ADJ	JJ	_	60	amod	_	ent_type=_|ent_id=2|ent_iob=O
+57	war	war	NOUN	NN	_	59	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+58	-	-	PUNCT	HYPH	_	59	punct	_	ent_type=_|ent_id=2|ent_iob=O
+59	disabled	disabled	ADJ	JJ	_	60	amod	_	ent_type=_|ent_id=2|ent_iob=O
+60	veterans	veteran	NOUN	NNS	_	54	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+61	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 15
+# text = I also pray to the Almighty to make His Holiness Vali-ye-Asr
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	Almighty	Almighty	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	make	make	VERB	VB	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	His	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	Holiness	Holiness	PROPN	NNP	_	8	dobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	Vali	Vali	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	-	-	PUNCT	HYPH	_	15	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+13	ye	ye	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+14	-	-	PUNCT	HYPH	_	15	punct	_	ent_type=PERSON|ent_id=1|ent_iob=I
+15	Asr	Asr	PROPN	NNP	_	10	appos	_	ent_type=PERSON|ent_id=1|ent_iob=I
+
+# sent_id = 92
+# sent_len = 28
+# text = (Imam of the Age) - may our souls be sacrificed for his sake - pleased and contented with us and to hasten his auspicious reappearance.
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	(	(	PUNCT	-LRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Imam	Imam	PROPN	NNP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Age	Age	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	)	)	PUNCT	-RRB-	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	may	may	VERB	MD	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	souls	soul	NOUN	NNS	_	12	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	be	be	AUX	VB	_	12	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	sacrificed	sacrifice	VERB	VBN	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	his	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	sake	sake	NOUN	NN	_	17	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	HYPH	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	pleased	please	VERB	VBN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	contented	contented	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	us	-PRON-	PRON	PRP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	hasten	hasten	VERB	VB	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	his	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	auspicious	auspicious	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	reappearance	reappearance	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address to Families of Martyrs, War-Disabled Veterans and Ex-POWs
+# year = 2005
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

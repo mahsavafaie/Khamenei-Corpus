@@ -1,0 +1,2827 @@
+# sent_id = 1
+# sent_len = 7
+# text = Dear  brothers and sisters, welcome.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	brothers	brother	NOUN	NNS	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	sisters	sister	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	welcome	welcome	INTJ	UH	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 31
+# text = Dear friendly people of Gilan, I would  like to welcome all of you, especially the honorable families of martyrs  and war veterans and the good-natured youth.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	friendly	friendly	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Gilan	Gilan	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	I	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	would	would	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	welcome	welcome	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	all	all	DET	DT	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	you	-PRON-	PRON	PRP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	especially	especially	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	honorable	honorable	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	families	family	NOUN	NNS	_	13	appos	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	martyrs	martyr	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	war	war	NOUN	NN	_	26	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	veterans	veteran	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	good	good	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	-	-	PUNCT	HYPH	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	natured	natured	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	youth	youth	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 17
+# text = Thank  you all for your determination to travel from Rasht and Gilan to attend  this meeting.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+4	for	for	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	your	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	determination	determination	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	travel	travel	VERB	VB	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Rasht	Rasht	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	Gilan	Gilan	PROPN	NNP	_	11	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+13	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	attend	attend	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	meeting	meeting	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 20
+# text = We have noticed determination among the people of Gilan -  both in their ancient history and their contemporary history.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	noticed	notice	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	determination	determination	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	among	among	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	Gilan	Gilan	PROPN	NNP	_	12	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	both	both	DET	DT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	ancient	ancient	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	history	history	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	contemporary	contemporary	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	history	history	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 66
+# text = I believe  the biggest achievement of the people of Gilan is that in spite of the  propaganda and schemes of the satanic Pahlavi regime to ideologically  corrupt the people of Gilan over many years, the people of that region  had so much faith, sincerity and vigilance and made so many selfless  efforts that they are considered among the prominent provinces of the  country.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	biggest	big	ADJ	JJS	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	achievement	achievement	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Gilan	Gilan	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	45	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	spite	spite	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	propaganda	propaganda	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	schemes	scheme	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	satanic	satanic	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	Pahlavi	Pahlavi	PROPN	NNP	_	26	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+24	regime	regime	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	ADP	IN	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	ideologically	ideologically	ADV	RB	_	30	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	corrupt	corrupt	VERB	VB	_	14	intj	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	people	people	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	Gilan	Gilan	PROPN	NNP	_	33	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+32	over	over	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	many	many	ADJ	JJ	_	37	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+34	years	year	NOUN	NNS	_	35	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+35	,	,	PUNCT	,	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	people	people	NOUN	NNS	_	45	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	that	that	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	region	region	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	had	have	AUX	VBD	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+42	so	so	ADV	RB	_	47	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+43	much	much	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	faith	faith	NOUN	NN	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	,	,	PUNCT	,	_	48	punct	_	ent_type=_|ent_id=2|ent_iob=O
+46	sincerity	sincerity	NOUN	NN	_	48	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	and	and	CCONJ	CC	_	50	cc	_	ent_type=_|ent_id=2|ent_iob=O
+48	vigilance	vigilance	NOUN	NN	_	50	conj	_	ent_type=_|ent_id=2|ent_iob=O
+49	and	and	CCONJ	CC	_	45	cc	_	ent_type=_|ent_id=2|ent_iob=O
+50	made	make	VERB	VBD	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+51	so	so	ADV	RB	_	56	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+52	many	many	ADJ	JJ	_	59	amod	_	ent_type=_|ent_id=2|ent_iob=O
+53	selfless	selfless	ADJ	JJ	_	59	amod	_	ent_type=_|ent_id=2|ent_iob=O
+54	efforts	effort	NOUN	NNS	_	54	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	that	that	SCONJ	IN	_	63	mark	_	ent_type=_|ent_id=2|ent_iob=O
+56	they	-PRON-	PRON	PRP	_	63	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+57	are	be	AUX	VBP	_	63	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+58	considered	consider	VERB	VBN	_	59	acl	_	ent_type=_|ent_id=2|ent_iob=O
+59	among	among	ADP	IN	_	63	prep	_	ent_type=_|ent_id=2|ent_iob=O
+60	the	the	DET	DT	_	67	det	_	ent_type=_|ent_id=2|ent_iob=O
+61	prominent	prominent	ADJ	JJ	_	67	amod	_	ent_type=_|ent_id=2|ent_iob=O
+62	provinces	province	NOUN	NNS	_	64	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+63	of	of	ADP	IN	_	67	prep	_	ent_type=_|ent_id=2|ent_iob=O
+64	the	the	DET	DT	_	71	det	_	ent_type=_|ent_id=2|ent_iob=O
+65	country	country	NOUN	NN	_	68	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+66	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 5
+# text = This is very important.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 41
+# text = The malevolent, corrupting and corrupt  organizations of the satanic Pahlavi regime used all their resources to  attract the people towards corruption, yet the people preserved their  religion, faith, beliefs and determination and demonstrated them when  necessary.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	malevolent	malevolent	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	corrupting	corrupting	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	corrupt	corrupt	ADJ	JJ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	organizations	organization	NOUN	NNS	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	satanic	satanic	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	Pahlavi	Pahlavi	PROPN	NNP	_	13	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	regime	regime	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	all	all	DET	PDT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	resources	resource	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	attract	attract	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	people	people	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	towards	towards	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	corruption	corruption	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	yet	yet	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	people	people	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	preserved	preserve	VERB	VBD	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	their	-PRON-	DET	PRP$	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	religion	religion	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	faith	faith	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	beliefs	belief	NOUN	NNS	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	determination	determination	NOUN	NN	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	demonstrated	demonstrate	VERB	VBD	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	them	-PRON-	PRON	PRP	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	when	when	ADV	WRB	_	44	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+40	necessary	necessary	ADJ	JJ	_	40	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 24
+# text = There were the organizations of the satanic Pahlavi regime on  the one hand, and the anti-religion grouplets on the other.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	organizations	organization	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	satanic	satanic	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	Pahlavi	Pahlavi	PROPN	NNP	_	9	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	regime	regime	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NUM	CD	_	14	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+13	hand	hand	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	anti	anti	ADJ	JJ	_	19	dep	_	ent_type=_|ent_id=2|ent_iob=O
+18	-	-	ADJ	JJ	_	20	dep	_	ent_type=_|ent_id=2|ent_iob=O
+19	religion	religion	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	grouplets	grouplet	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	other	other	ADJ	JJ	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 17
+# text = I  made a trip to Rasht during the early years after the victory of the  Revolution.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	trip	trip	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	Rasht	Rasht	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	during	during	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	early	early	ADJ	JJ	_	11	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	years	year	NOUN	NNS	_	8	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	after	after	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	victory	victory	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	18	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+16	Revolution	Revolution	PROPN	NNP	_	15	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 14
+# text = Shahid Azodi took me to the big square in the city of Rasht.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Shahid	Shahid	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Azodi	Azodi	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	took	take	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	me	-PRON-	PRON	PRP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	big	big	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	square	square	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	city	city	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Rasht	Rasht	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 11
+# text = Different grouplets had filled everywhere with their placards and  slogans.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Different	different	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	grouplets	grouplet	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	filled	fill	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	everywhere	everywhere	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	placards	placard	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	slogans	slogan	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 18
+# text = They had taken full control of the university, and they thought  that Gilan belonged to them.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	had	have	AUX	VBD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	taken	take	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	full	full	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	control	control	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	university	university	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	thought	think	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	DT	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	Gilan	Gilan	PROPN	NNP	_	16	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	belonged	belong	VERB	VBD	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	them	-PRON-	PRON	PRP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 44
+# text = The faithful people of Gilan - the  faithful and revolutionary youth of that province - entered the scene  without the help of any organization and raised the flag of Islam,  monotheism and the Revolution, forcing all those people off the scene.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	faithful	faithful	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Gilan	Gilan	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	-	-	PUNCT	:	_	3	punct	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	the	the	DET	DT	_	12	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	faithful	faithful	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	revolutionary	revolutionary	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	youth	youth	NOUN	NN	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	province	province	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	-	-	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	entered	enter	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	scene	scene	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	without	without	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	help	help	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	any	any	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	organization	organization	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	raised	raise	VERB	VBD	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	flag	flag	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	Islam	Islam	PROPN	NNP	_	31	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+31	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	monotheism	monotheism	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	Revolution	Revolution	PROPN	NNP	_	35	conj	_	ent_type=PRODUCT|ent_id=3|ent_iob=B
+36	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	forcing	force	VERB	VBG	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+38	all	all	DET	PDT	_	43	predet	_	ent_type=_|ent_id=2|ent_iob=O
+39	those	those	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	people	people	NOUN	NNS	_	40	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	off	off	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	46	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	scene	scene	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 10
+# text = This shows how faithful the people of Gilan are.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	how	how	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	faithful	faithful	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Gilan	Gilan	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 48
+# text = It  is true that Mirza Kuchak Khan Jangali is the symbol of the bravery and  jihad of the people of Gilan - the man who rose up against foreigners  and aggressors for the sake of Islam and the Quran, and his memory  should never be forgotten.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	true	true	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	Mirza	Mirza	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	Kuchak	Kuchak	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+7	Khan	Khan	PROPN	NNP	_	9	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+8	Jangali	Jangali	PROPN	NNP	_	10	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+9	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	symbol	symbol	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	bravery	bravery	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	jihad	jihad	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	Gilan	Gilan	PROPN	NNP	_	22	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+22	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	man	man	NOUN	NN	_	12	appos	_	ent_type=_|ent_id=2|ent_iob=O
+25	who	who	PRON	WP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	rose	rise	VERB	VBD	_	26	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	up	up	ADP	RP	_	28	prt	_	ent_type=_|ent_id=2|ent_iob=O
+28	against	against	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	foreigners	foreigner	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	aggressors	aggressor	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	for	for	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	sake	sake	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	Islam	Islam	PROPN	NNP	_	38	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+37	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	Quran	Quran	PROPN	NNP	_	39	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+40	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	his	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+43	memory	memory	NOUN	NN	_	51	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+44	should	should	VERB	MD	_	51	aux	_	ent_type=_|ent_id=2|ent_iob=O
+45	never	never	ADV	RB	_	51	neg	_	ent_type=_|ent_id=2|ent_iob=O
+46	be	be	AUX	VB	_	51	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+47	forgotten	forget	VERB	VBN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+48	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 26
+# text = But after the Islamic Revolution, there has  been no shortage of the people who have managed to make Gilan a symbol  in different arenas.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	But	but	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	after	after	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+5	Revolution	Revolution	PROPN	NNP	_	2	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+6	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	there	there	PRON	EX	_	10	expl	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	no	no	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	shortage	shortage	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	who	who	PRON	WP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	have	have	AUX	VBP	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	managed	manage	VERB	VBN	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	make	make	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	Gilan	Gilan	PROPN	NNP	_	23	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+21	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	symbol	symbol	NOUN	NN	_	20	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	different	different	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	arenas	arena	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 50
+# text = The Quds Army of Gilan, the basijis of Gilan, the  faithful youth of Gilan, the students and intellectuals of Gilan, the  academics of Gilan and the honorable religious scholars of Gilan played a  prominent role in different eras, which was manifested in different  ways.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	Quds	Quds	PROPN	NNPS	_	3	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+3	Army	Army	PROPN	NNP	_	38	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Gilan	Gilan	PROPN	NNP	_	4	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+6	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	basijis	basijis	NOUN	NN	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Gilan	Gilan	PROPN	NNP	_	9	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	faithful	faithful	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	youth	youth	NOUN	NN	_	10	appos	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	Gilan	Gilan	PROPN	NNP	_	16	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	students	student	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	intellectuals	intellectual	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Gilan	Gilan	PROPN	NNP	_	23	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+24	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	academics	academic	NOUN	NNS	_	10	appos	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	Gilan	Gilan	PROPN	NNP	_	29	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+29	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	honorable	honorable	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	religious	religious	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	scholars	scholar	NOUN	NNS	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Gilan	Gilan	PROPN	NNP	_	36	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+36	played	play	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+37	a	a	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	prominent	prominent	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	role	role	NOUN	NN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	different	different	ADJ	JJ	_	45	amod	_	ent_type=_|ent_id=2|ent_iob=O
+42	eras	era	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	45	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	which	which	DET	WDT	_	49	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+45	was	be	AUX	VBD	_	49	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+46	manifested	manifest	VERB	VBN	_	45	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+47	in	in	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	different	different	ADJ	JJ	_	53	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	ways	way	NOUN	NNS	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	.	.	PUNCT	.	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 54
+# text = And one would end up with a long list if one was determined to  list all the ways in which the people of Gilan manifested their  prominent role - whether during the Sacred Defense Era, or during the  fight against the anti-revolutionaries, or after the imposed war had  ended.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	And	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	end	end	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	up	up	ADP	RP	_	4	prt	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	long	long	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	list	list	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	if	if	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	one	one	PRON	PRP	_	13	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	was	be	AUX	VBD	_	13	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	determined	determine	VERB	VBN	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	list	list	VERB	VB	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	all	all	DET	PDT	_	19	predet	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	ways	way	NOUN	NNS	_	13	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	which	which	DET	WDT	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	people	people	NOUN	NNS	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	Gilan	Gilan	PROPN	NNP	_	24	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+25	manifested	manifest	VERB	VBD	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	their	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	prominent	prominent	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	role	role	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	-	-	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	whether	whether	SCONJ	IN	_	57	mark	_	ent_type=_|ent_id=2|ent_iob=O
+31	during	during	ADP	IN	_	57	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	37	det	_	ent_type=LAW|ent_id=3|ent_iob=B
+33	Sacred	Sacred	PROPN	NNP	_	37	compound	_	ent_type=LAW|ent_id=1|ent_iob=I
+34	Defense	Defense	PROPN	NNP	_	37	compound	_	ent_type=LAW|ent_id=1|ent_iob=I
+35	Era	Era	PROPN	NNP	_	33	pobj	_	ent_type=LAW|ent_id=1|ent_iob=I
+36	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	or	or	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	during	during	ADP	IN	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	fight	fight	NOUN	NN	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	against	against	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	anti	anti	ADJ	JJ	_	47	dep	_	ent_type=_|ent_id=2|ent_iob=O
+44	-	-	NOUN	NNS	_	48	dep	_	ent_type=_|ent_id=2|ent_iob=O
+45	revolutionaries	revolutionary	NOUN	NNS	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	,	,	PUNCT	,	_	40	punct	_	ent_type=_|ent_id=2|ent_iob=O
+47	or	or	CCONJ	CC	_	40	cc	_	ent_type=_|ent_id=2|ent_iob=O
+48	after	after	ADP	IN	_	40	conj	_	ent_type=_|ent_id=2|ent_iob=O
+49	the	the	DET	DT	_	54	det	_	ent_type=_|ent_id=2|ent_iob=O
+50	imposed	impose	VERB	VBN	_	54	amod	_	ent_type=_|ent_id=2|ent_iob=O
+51	war	war	NOUN	NN	_	51	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	had	have	AUX	VBD	_	57	aux	_	ent_type=_|ent_id=2|ent_iob=O
+53	ended	end	VERB	VBN	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+54	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 31
+# text = But one clear instance of this was manifested on the 9th of Dey  last year, when the Iranian nation decided to step onto the scene in a  unified manner.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	But	but	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	NUM	CD	_	4	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	clear	clear	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	instance	instance	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	manifested	manifest	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	9th	9th	NOUN	NN	_	9	pobj	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	Dey	Dey	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	last	last	ADJ	JJ	_	16	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	year	year	NOUN	NN	_	8	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	when	when	ADV	WRB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Iranian	iranian	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	nation	nation	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	decided	decide	VERB	VBD	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	step	step	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	onto	onto	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	scene	scene	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	a	a	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	unified	unified	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	manner	manner	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 20
+# text = Rasht was among the first few cities that entered the  arena one day before the rest of the country.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Rasht	Rasht	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	among	among	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	first	first	ADJ	JJ	_	7	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+6	few	few	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	cities	city	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	entered	enter	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	arena	arena	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NUM	CD	_	14	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	day	day	NOUN	NN	_	15	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	before	before	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	rest	rest	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	country	country	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 38
+# text = On the 8th of Dey - which  coincides with today - the people of Gilan manifested this insight, this  determination and this perceived need to enter the scene one day before  the rest of the country.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	On	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	8th	8th	NOUN	NN	_	1	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Dey	Dey	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	-	-	NOUN	NN	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	coincides	coincide	NOUN	NNS	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	today	today	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	:	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Gilan	Gilan	PROPN	NNP	_	15	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	manifested	manifest	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	insight	insight	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	determination	determination	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	perceived	perceive	VERB	VBN	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	need	need	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	enter	enter	VERB	VB	_	27	acl	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	scene	scene	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	one	one	NUM	CD	_	33	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+31	day	day	NOUN	NN	_	34	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+32	before	before	ADV	RB	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	rest	rest	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	country	country	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 6
+# text = These qualities should be preserved.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	qualities	quality	NOUN	NNS	_	5	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	5	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	preserved	preserve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 22
+# text = The  essential assets of a nation are the same things that are indicative of  insight, determination, vigilance and awareness.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	essential	essential	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	assets	asset	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	same	same	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	things	thing	NOUN	NNS	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	are	be	AUX	VBP	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	indicative	indicative	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	insight	insight	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	determination	determination	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	vigilance	vigilance	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	awareness	awareness	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 8
+# text = It is necessary to  preserve these things.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	preserve	preserve	VERB	VB	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	things	thing	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 36
+# text = Dear brothers and sisters,  our nation was pressured for many years by the corrupt leaders who  ruled this country and by the arrogant powers that were seeking to  spread their domination over the world.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	brothers	brother	NOUN	NNS	_	10	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	sisters	sister	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	nation	nation	NOUN	NN	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	was	be	AUX	VBD	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	pressured	pressure	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	for	for	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	many	many	ADJ	JJ	_	13	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+12	years	year	NOUN	NNS	_	11	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	corrupt	corrupt	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	leaders	leader	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	who	who	PRON	WP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	ruled	rule	VERB	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	country	country	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	arrogant	arrogant	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	powers	power	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	DET	WDT	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	were	be	AUX	VBD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	seeking	seek	VERB	VBG	_	27	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	spread	spread	VERB	VB	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	their	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	domination	domination	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	over	over	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	world	world	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 5
+# text = They kept us backward.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	kept	keep	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	us	-PRON-	PRON	PRP	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	backward	backward	ADV	RB	_	2	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 36
+# text = In terms  of scientific and historical legacy, our people are not a nation that  would rank one of the last nations if all scientists, scholars,  luminaries and global scientific innovations were listed.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	In	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	terms	term	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	scientific	scientific	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	historical	historical	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	legacy	legacy	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	nation	nation	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	would	would	VERB	MD	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	rank	rank	VERB	VB	_	15	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	one	one	NUM	CD	_	19	dobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+19	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	last	last	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	nations	nation	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	if	if	SCONJ	IN	_	29	mark	_	ent_type=_|ent_id=2|ent_iob=O
+24	all	all	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	scientists	scientist	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	scholars	scholar	NOUN	NNS	_	38	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	luminaries	luminary	NOUN	NNS	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	global	global	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	scientific	scientific	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	innovations	innovation	NOUN	NNS	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	were	be	AUX	VBD	_	38	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+35	listed	list	VERB	VBN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 8
+# text = We would be  listed at the top.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	listed	list	VERB	VBN	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	at	at	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	top	top	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 5
+# text = This is our record.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	record	record	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 5
+# text = These are our talents.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	talents	talent	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 46
+# text = Those who  kept our great country, our civilized country, our Islamic country  backward over many years in the arena of science and in the arena of  material and spiritual progress - these people betrayed the Iranian  nation and committed a crime against it.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Those	those	DET	DT	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	kept	keep	VERB	VBD	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	civilized	civilized	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	country	country	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	backward	backward	ADV	RB	_	4	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+16	over	over	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	many	many	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	years	year	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	arena	arena	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	science	science	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	arena	arena	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	material	material	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	spiritual	spiritual	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	progress	progress	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	-	-	PUNCT	:	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	these	these	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	people	people	NOUN	NNS	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	betrayed	betray	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	Iranian	iranian	ADJ	JJ	_	43	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+39	nation	nation	NOUN	NN	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	committed	commit	VERB	VBD	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	a	a	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	crime	crime	NOUN	NN	_	45	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	against	against	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	it	-PRON-	PRON	PRP	_	48	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	39	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 9
+# text = The Revolution put an end to  their influence.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Revolution	Revolution	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	put	put	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	end	end	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	influence	influence	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 6
+# text = We must pursue this path.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	pursue	pursue	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	path	path	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 6
+# text = We  need to be determined.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+5	determined	determine	VERB	VBN	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 19
+# text = We need to change the wrong orders that have  brought about backwardness for nations, especially our nation.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	change	change	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	wrong	wrong	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	orders	order	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	brought	bring	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	about	about	ADP	IN	_	11	prt	_	ent_type=_|ent_id=2|ent_iob=O
+12	backwardness	backwardness	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	11	dative	_	ent_type=_|ent_id=2|ent_iob=O
+14	nations	nation	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	especially	especially	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	15	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 14
+# text = We need  to make up for the backwardness we have suffered so far.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	up	up	ADP	RP	_	5	prt	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	backwardness	backwardness	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	we	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	suffered	suffer	VERB	VBN	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	so	so	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	far	far	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 8
+# text = All these  things require determination and hope.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	All	all	DET	PDT	_	4	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	things	thing	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	require	require	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	determination	determination	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	hope	hope	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 30
+# text = If a nation loses hope in the  future or its determination to open up new paths and move towards the  goals is undermined, it will lose its dignity.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	If	if	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	loses	lose	VERB	VBZ	_	25	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	hope	hope	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	future	future	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	or	or	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	its	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	determination	determination	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	open	open	VERB	VB	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+14	up	up	ADP	RP	_	14	prt	_	ent_type=_|ent_id=2|ent_iob=O
+15	new	new	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	paths	path	NOUN	NNS	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	move	move	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	towards	towards	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	goals	goal	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	undermined	undermine	VERB	VBN	_	29	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	it	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	will	will	VERB	MD	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	lose	lose	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	its	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+29	dignity	dignity	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 20
+# text = The Iranian nation needs  to preserve this determination all the time and increase this hope on a  daily basis.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	needs	need	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	preserve	preserve	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	determination	determination	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	PDT	_	12	predet	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	time	time	NOUN	NN	_	7	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	increase	increase	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	hope	hope	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	daily	daily	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	basis	basis	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 6
+# text = Our country has this attitude.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	country	country	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	attitude	attitude	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 10
+# text = Thankfully, our people have  been demonstrating this attitude.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Thankfully	thankfully	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	been	be	AUX	VBN	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	demonstrating	demonstrate	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	attitude	attitude	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 19
+# text = Therefore, we have made far more  progress during the past 30 years than an ordinary nation could.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	made	make	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	far	far	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	more	more	ADJ	JJR	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	progress	progress	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	during	during	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	14	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	past	past	ADJ	JJ	_	14	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	30	30	NUM	CD	_	14	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	years	year	NOUN	NNS	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	than	than	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	ordinary	ordinary	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	nation	nation	NOUN	NN	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	could	could	VERB	MD	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 7
+# text = Even  our enemies admit this fact.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Even	even	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	enemies	enemy	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	admit	admit	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	fact	fact	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 8
+# text = But our slogan is a global one.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	slogan	slogan	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	global	global	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	one	one	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 8
+# text = Our slogans  are about the entire humanity.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	slogans	slogan	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	entire	entire	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	humanity	humanity	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 24
+# text = Our slogans are about putting an end to  the interference of the arrogant powers in the affairs of our country  and our nation.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	slogans	slogan	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	about	about	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	putting	put	VERB	VBG	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	an	an	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	end	end	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	interference	interference	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	arrogant	arrogant	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	powers	power	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	affairs	affair	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	country	country	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	nation	nation	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 8
+# text = The arrogant powers cannot tolerate this.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	arrogant	arrogant	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	powers	power	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	can	can	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	tolerate	tolerate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 6
+# text = Therefore,  they design plots.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Therefore	therefore	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	design	design	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	plots	plot	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 15
+# text = Last year's fitna was a  manifestation of the plots designed by the enemies.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Last	last	ADJ	JJ	_	2	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	year	year	NOUN	NN	_	4	poss	_	ent_type=DATE|ent_id=1|ent_iob=I
+3	's	's	PART	POS	_	2	case	_	ent_type=DATE|ent_id=1|ent_iob=I
+4	fitna	fitna	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	manifestation	manifestation	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	plots	plot	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	designed	design	VERB	VBN	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	by	by	ADP	IN	_	12	agent	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	enemies	enemy	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 27
+# text = What happened was a  fitna, which means that some people used righteous slogans to convey  purely wrong messages with the purpose of deceiving the people.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	What	what	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	happened	happen	VERB	VBD	_	3	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	fitna	fitna	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	which	which	DET	WDT	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	means	mean	VERB	VBZ	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	some	some	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	used	use	VERB	VBD	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	righteous	righteous	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	slogans	slogan	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	convey	convey	VERB	VB	_	13	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	purely	purely	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	wrong	wrong	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	messages	message	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	purpose	purpose	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	deceiving	deceive	VERB	VBG	_	25	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	people	people	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 4
+# text = But they  failed.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	failed	fail	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 11
+# text = The purpose of a fitna is to mislead the people.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	purpose	purpose	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	fitna	fitna	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	mislead	mislead	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 14
+# text = Notice that it  was our people themselves who stood up against the fitna.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Notice	notice	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	that	that	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	was	be	AUX	VBD	_	1	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	themselves	-PRON-	PRON	PRP	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	stood	stand	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	up	up	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+11	against	against	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	fitna	fitna	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 17
+# text = The 9th of  Dey gave the elements of the fitna a powerful punch in the mouth.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	9th	9th	NOUN	NN	_	6	nsubj	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Dey	Dey	PROPN	NNP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	gave	give	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	elements	element	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	fitna	fitna	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	powerful	powerful	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	punch	punch	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	mouth	mouth	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 9
+# text = And it  was the people who did this.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	And	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 23
+# text = As analysts, luminaries and others have  repeatedly pointed out, the movement was one that was started by the  people themselves.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	As	as	SCONJ	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	analysts	analyst	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	luminaries	luminary	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	others	other	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	repeatedly	repeatedly	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	pointed	point	VERB	VBN	_	15	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	out	out	ADP	RP	_	10	prt	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	movement	movement	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	one	one	NUM	CD	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	DET	WDT	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	was	be	AUX	VBD	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	started	start	VERB	VBN	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	by	by	ADP	IN	_	19	agent	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	people	people	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	themselves	-PRON-	PRON	PRP	_	23	appos	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 7
+# text = This is a very significant point.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	significant	significant	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	point	point	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 8
+# text = It shows that our  people are vigilant.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	vigilant	vigilant	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 9
+# text = Our enemies should try to understand this message.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	understand	understand	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	message	message	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 29
+# text = Those who think that they can separate the people from the Islamic  system should try to understand that this Islamic system is one that  belongs to the people.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Those	those	DET	DT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	who	who	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	think	think	VERB	VBP	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	can	can	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	separate	separate	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	from	from	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Islamic	islamic	ADJ	JJ	_	14	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	system	system	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	should	should	VERB	MD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	understand	understand	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Islamic	islamic	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	system	system	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	one	one	NUM	CD	_	23	attr	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	DET	WDT	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	belongs	belong	VERB	VBZ	_	24	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	people	people	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 15
+# text = The advantage that our Islamic system enjoys is  that it belongs to the people.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	advantage	advantage	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	Islamic	islamic	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	system	system	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	enjoys	enjoy	VERB	VBZ	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	belongs	belong	VERB	VBZ	_	8	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 29
+# text = Primarily, it is the people themselves  who are making every effort to preserve Islam and the Islamic system and  to keep this flag flying in the country.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Primarily	primarily	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	themselves	-PRON-	PRON	PRP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	making	make	VERB	VBG	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	every	every	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	effort	effort	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	preserve	preserve	VERB	VB	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	Islam	Islam	PROPN	NNP	_	15	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+16	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Islamic	islamic	ADJ	JJ	_	20	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+19	system	system	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	keep	keep	VERB	VB	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	flag	flag	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	flying	fly	VERB	VBG	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	country	country	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 8
+# text = Our enemies should try to  understand this.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	understand	understand	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 16
+# text = The leaders of the arrogant governments - headed by  America - speak against our nation.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	leaders	leader	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	arrogant	arrogant	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	governments	government	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	headed	head	VERB	VBN	_	2	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	by	by	ADP	IN	_	8	agent	_	ent_type=_|ent_id=2|ent_iob=O
+10	America	America	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	-	-	PUNCT	:	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	speak	speak	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	against	against	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	nation	nation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 5
+# text = Sometimes they design plots.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Sometimes	sometimes	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	design	design	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	plots	plot	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 6
+# text = Other  times they shout slogans.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	times	time	NOUN	NNS	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	shout	shout	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	slogans	slogan	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 6
+# text = Sometimes they make hypocritical comments.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Sometimes	sometimes	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	hypocritical	hypocritical	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	comments	comment	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 7
+# text = Other times they explicitly oppose us.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Other	other	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	times	time	NOUN	NNS	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	explicitly	explicitly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	oppose	oppose	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	us	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 8
+# text = Yet other times they disguise  their enmity.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Yet	yet	CCONJ	CC	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	times	time	NOUN	NNS	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	disguise	disguise	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	enmity	enmity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 22
+# text = These are all due to the fact that they do not have an  appropriate understanding of Iran and the Iranian nation.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	dep	_	ent_type=_|ent_id=2|ent_iob=O
+4	due	due	ADJ	JJ	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	fact	fact	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	they	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	do	do	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	12	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VB	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	an	an	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	appropriate	appropriate	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	understanding	understanding	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iran	Iran	PROPN	NNP	_	17	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iranian	iranian	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	nation	nation	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 5
+# text = Our nation is  vigilant.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	vigilant	vigilant	NOUN	NN	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 17
+# text = I would like to emphatically advise our  people to preserve this determination and this intensified effort.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	emphatically	emphatically	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	advise	advise	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	people	people	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	preserve	preserve	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	determination	determination	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	intensified	intensify	VERB	VBN	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	effort	effort	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 14
+# text = I  named this year "The Year of Intensified Effort and Labor".
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	named	name	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	5	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	year	year	NOUN	NN	_	3	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	The	the	DET	DT	_	8	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+7	Year	Year	PROPN	NNP	_	3	oprd	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+8	of	of	ADP	IN	_	8	prep	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+9	Intensified	Intensified	PROPN	NNP	_	11	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+10	Effort	Effort	PROPN	NNP	_	9	pobj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+11	and	and	CCONJ	CC	_	11	cc	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+12	Labor	Labor	PROPN	NNP	_	11	conj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+13	"	"	PUNCT	''	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 16
+# text = Fortunately,  the signs of intensified effort are visible in different matters across  the country.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Fortunately	fortunately	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	signs	sign	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	intensified	intensified	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	effort	effort	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	visible	visible	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	different	different	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	matters	matter	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	across	across	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 22
+# text = Our government officials, our luminaries and our  high-ranking managers in charge of different sectors are adopting good  measures.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	government	government	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	officials	official	NOUN	NNS	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	luminaries	luminary	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	high	high	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	ranking	rank	VERB	VBG	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	managers	manager	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	charge	charge	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	different	different	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	sectors	sector	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	adopting	adopt	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	good	good	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	measures	measure	NOUN	NNS	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 16
+# text = This intensified effort is something necessary, but it is not  limited to this year.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	intensified	intensified	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	effort	effort	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	something	something	PRON	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	necessary	necessary	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	it	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+12	limited	limit	VERB	VBN	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	16	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	year	year	NOUN	NN	_	14	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 12
+# text = It is necessary to continue making intensified  effort in the future.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	necessary	necessary	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	continue	continue	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	making	make	VERB	VBG	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	intensified	intensify	VERB	VBN	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	effort	effort	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	future	future	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 27
+# text = Our dear nation should continue moving forward and  conquer such peaks that the enemies are completely disappointed at  taking control of the destiny of this nation.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	continue	continue	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	moving	move	VERB	VBG	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	forward	forward	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	conquer	conquer	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	such	such	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	peaks	peak	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	enemies	enemy	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	12	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	completely	completely	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	disappointed	disappoint	VERB	VBN	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	at	at	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	taking	take	VERB	VBG	_	19	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	control	control	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	destiny	destiny	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	this	this	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	nation	nation	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 7
+# text = You should make the enemy  disappointed.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemy	enemy	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	disappointed	disappoint	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 17
+# text = When the enemy of a nation is disappointed, the nation  will get rid of it.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	When	when	ADV	WRB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	enemy	enemy	NOUN	NN	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	disappointed	disappoint	VERB	VBN	_	14	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	nation	nation	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	will	will	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	get	get	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	rid	rid	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	it	-PRON-	PRON	PRP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 17
+# text = The big sin that some  seditionists commit in the country is to make the enemy hopeful.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	big	big	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	sin	sin	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	WDT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	some	some	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	seditionists	seditionist	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	commit	commit	VERB	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	make	make	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	enemy	enemy	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	hopeful	hopeful	ADJ	JJ	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 25
+# text = They  make the enemy feel hopeful that it can create a hole among the people,  among different elements, among the government officials.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enemy	enemy	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	feel	feel	VERB	VB	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	hopeful	hopeful	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	it	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	create	create	VERB	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	hole	hole	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	among	among	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	people	people	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	among	among	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	different	different	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	elements	element	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	among	among	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	government	government	NOUN	NN	_	26	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	officials	official	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 9
+# text = Their actions  made the enemy hopeful last year.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Their	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	actions	action	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	made	make	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemy	enemy	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	hopeful	hopeful	ADJ	JJ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	last	last	ADJ	JJ	_	9	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	year	year	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 32
+# text = This was while that impressive  election, that great public presence and that impressive voter turnout  could go a long way and make the Iranian nation successful in many  political arenas.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	while	while	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	impressive	impressive	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	election	election	NOUN	NN	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	great	great	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	public	public	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	presence	presence	NOUN	NN	_	7	appos	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	impressive	impressive	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	voter	voter	NOUN	NN	_	17	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	turnout	turnout	NOUN	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	could	could	VERB	MD	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	go	go	VERB	VB	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	long	long	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	way	way	NOUN	NN	_	20	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	make	make	VERB	VB	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Iranian	iranian	ADJ	JJ	_	28	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	nation	nation	NOUN	NN	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	successful	successful	ADJ	JJ	_	25	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	in	in	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	many	many	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	political	political	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	arenas	arena	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 5
+# text = They caused a fitna.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	caused	cause	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	fitna	fitna	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 23
+# text = Therefore, the enemy that should  have been disappointed by the great public movement became hopeful that  it can harm the Revolution.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Therefore	therefore	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enemy	enemy	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	10	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	10	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	disappointed	disappoint	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	great	great	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	public	public	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	movement	movement	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	became	become	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	hopeful	hopeful	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	it	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	can	can	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	harm	harm	VERB	VB	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Revolution	Revolution	PROPN	NNP	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 6
+# text = It was a great  challenge.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	challenge	challenge	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 19
+# text = On the one hand, the enemy was supporting them, providing  political help and mentioning their names.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	On	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	one	one	NUM	CD	_	4	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+4	hand	hand	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	enemy	enemy	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	was	be	AUX	VBD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	supporting	support	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	them	-PRON-	PRON	PRP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	providing	provide	VERB	VBG	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	help	help	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	mentioning	mention	VERB	VBG	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	their	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	names	name	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 10
+# text = The enemy was mentioning the  names of the seditionists.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemy	enemy	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	mentioning	mention	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	names	name	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	seditionists	seditionist	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 18
+# text = On the other hand, the Iranian nation was  standing firm and was present on the scene.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	On	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	hand	hand	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranian	iranian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	nation	nation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	standing	stand	VERB	VBG	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	firm	firm	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	present	present	ADJ	JJ	_	14	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	scene	scene	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 38
+# text = Just as the Iranian nation  demonstrated innovation, bravery, selflessness and presence in different  arenas for eight years during the Sacred Defense Era, so it truly  demonstrated skill for eight months during the soft war.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Just	just	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	as	as	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iranian	iranian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	nation	nation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	demonstrated	demonstrate	VERB	VBN	_	32	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	innovation	innovation	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	bravery	bravery	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	selflessness	selflessness	NOUN	NN	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	presence	presence	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	different	different	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	arenas	arena	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	eight	eight	NUM	CD	_	21	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+19	years	year	NOUN	NNS	_	19	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	during	during	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	26	det	_	ent_type=LAW|ent_id=3|ent_iob=B
+22	Sacred	Sacred	PROPN	NNP	_	26	compound	_	ent_type=LAW|ent_id=1|ent_iob=I
+23	Defense	Defense	PROPN	NNP	_	26	compound	_	ent_type=LAW|ent_id=1|ent_iob=I
+24	Era	Era	PROPN	NNP	_	22	pobj	_	ent_type=LAW|ent_id=1|ent_iob=I
+25	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	so	so	SCONJ	IN	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	it	-PRON-	PRON	PRP	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	truly	truly	ADV	RB	_	32	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	demonstrated	demonstrated	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	skill	skill	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+31	for	for	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	eight	eight	NUM	CD	_	36	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+33	months	month	NOUN	NNS	_	34	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+34	during	during	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	soft	soft	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	war	war	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 36
+# text = When one takes a  look at the issues and tries to consider things from a higher  perspective, one gets astonished at how the hand of divine power guides  hearts and souls towards His goals.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	When	when	ADV	WRB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	PRON	PRP	_	3	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+3	takes	take	VERB	VBZ	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	look	look	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	at	at	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	issues	issue	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	tries	try	VERB	VBZ	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	consider	consider	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	things	thing	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	higher	high	ADJ	JJR	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	perspective	perspective	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	one	one	PRON	PRP	_	23	nsubjpass	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+20	gets	get	VERB	VBZ	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	astonished	astonish	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	at	at	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	how	how	ADV	WRB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	hand	hand	NOUN	NN	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	divine	divine	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	power	power	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	guides	guide	VERB	VBZ	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	hearts	heart	NOUN	NNS	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	33	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	souls	soul	NOUN	NNS	_	33	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	towards	towards	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	His	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	goals	goal	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 7
+# text = It was an act of God.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	an	an	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	act	act	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	God	God	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 5
+# text = God is with  you.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	God	God	PROPN	NNP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	with	with	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 7
+# text = It is God who guides you.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	guides	guide	VERB	VBZ	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 14
+# text = It is God who makes our hearts pay  attention to the right path.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	God	God	PROPN	NNP	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+4	who	who	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	makes	make	VERB	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	hearts	heart	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	pay	pay	VERB	VB	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	attention	attention	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	right	right	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	path	path	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 11
+# text = We need to preserve  and strengthen our relationship with God.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	need	need	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	preserve	preserve	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	strengthen	strengthen	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	relationship	relationship	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	God	God	PROPN	NNP	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 26
+# text = Willpower of the people, their  actions, their determination and their presence accompanied by  attention to God and hearts that are prepared for supplication -
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Willpower	willpower	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	people	people	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	actions	action	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	determination	determination	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	presence	presence	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	accompanied	accompany	VERB	VBN	_	11	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+16	attention	attention	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	God	God	PROPN	NNP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	hearts	heart	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	that	that	DET	WDT	_	25	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	are	be	AUX	VBP	_	25	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	prepared	prepare	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	for	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	supplication	supplication	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	-	-	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 9
+# text = these  are the characteristics of a divine movement.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	these	these	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	characteristics	characteristic	NOUN	NNS	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	divine	divine	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	movement	movement	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 5
+# text = These are very important.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	These	these	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	important	important	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 8
+# text = We should strengthen our relationship with God.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	strengthen	strengthen	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	relationship	relationship	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	God	God	PROPN	NNP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 19
+# text = We should not let our  hearts go in a direction that would make us drift away from God.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	hearts	heart	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	go	go	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	direction	direction	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	that	that	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	would	would	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	make	make	VERB	VB	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	us	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	drift	drift	VERB	VB	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	away	away	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	from	from	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	God	God	PROPN	NNP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 1
+# text = "
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	"	"	PUNCT	``	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 21
+# text = Our  Lord, make not our hearts deviate after You have guided us, and grant  mercy on us."
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	Lord	Lord	PROPN	NNP	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	hearts	heart	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	deviate	deviate	NOUN	NN	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	after	after	ADP	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	You	-PRON-	PRON	PRP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	guided	guide	VERB	VBN	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	us	-PRON-	PRON	PRP	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	grant	grant	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	mercy	mercy	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	us	-PRON-	PRON	PRP	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	"	"	PUNCT	''	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 20
+# text = [The Holy Quran, 3: 8] This is the dua that the Holy Quran  teaches us.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	[	[	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+3	Holy	Holy	PROPN	NNP	_	4	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+4	Quran	Quran	PROPN	NNP	_	11	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	3	3	NUM	CD	_	4	appos	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+7	:	:	SYM	SYM	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	8	8	NUM	CD	_	6	prep	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+9	]	]	PUNCT	-RRB-	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	This	this	DET	DT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	dua	dua	NOUN	NN	_	11	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	WDT	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+16	Holy	Holy	PROPN	NNP	_	17	compound	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+17	Quran	Quran	PROPN	NNP	_	19	nsubj	_	ent_type=WORK_OF_ART|ent_id=1|ent_iob=I
+18	teaches	teach	VERB	VBZ	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	us	-PRON-	PRON	PRP	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 21
+# text = Fortunately, our youth attract divine  mercy with their pure and enlightened hearts and their presence in  different religious ceremonies.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Fortunately	fortunately	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	youth	youth	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	attract	attract	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	divine	divine	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	mercy	mercy	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	pure	pure	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	enlightened	enlighten	VERB	VBN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	hearts	heart	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	presence	presence	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	different	different	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	religious	religious	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	ceremonies	ceremony	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 15
+# text = And one of the instances of attracting  divine mercy was the 9th of Dey.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	And	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	NUM	CD	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	instances	instance	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	attracting	attract	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	divine	divine	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	mercy	mercy	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	9th	9th	NOUN	NN	_	11	attr	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+13	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	Dey	Dey	PROPN	NNP	_	14	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 38
+# text = By the blessedness of the memory of  Hussein ibn Ali, the Lord of the Martyrs (a.s.), the people stepped onto  the scene and put an end to the activities of the seditionists.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	By	by	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	blessedness	blessedness	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	memory	memory	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Hussein	Hussein	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	ibn	ibn	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	Ali	Ali	PROPN	NNP	_	7	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Lord	Lord	PROPN	NNP	_	11	appos	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Martyrs	Martyrs	PROPN	NNPS	_	15	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	(	(	PUNCT	-LRB-	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	a.s	a.s	PROPN	NNP	_	20	dep	_	ent_type=GPE|ent_id=3|ent_iob=B
+19	.	.	PROPN	NNP	_	17	appos	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	)	)	PUNCT	-RRB-	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	people	people	NOUN	NNS	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	stepped	step	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	onto	onto	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	scene	scene	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	put	put	VERB	VB	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	an	an	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	end	end	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	activities	activity	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	seditionists	seditionist	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 6
+# text = Today  we should be vigilant.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Today	today	NOUN	NN	_	5	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	we	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	vigilant	vigilant	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 16
+# text = We should not let our determination be  undermined in any area in the slightest way.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	let	let	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	determination	determination	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	undermined	undermine	VERB	VBN	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	any	any	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	area	area	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	slightest	slight	ADJ	JJS	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	way	way	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 9
+# text = Our government officials  are responsible in this regard.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	government	government	NOUN	NN	_	3	compound	_	ent_type=_|ent_id=2|ent_iob=O
+3	officials	official	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	responsible	responsible	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	regard	regard	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 21
+# text = The vigilant groups of people who are  aware of the issues of our society have a heavier responsibility to  shoulder.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	vigilant	vigilant	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	groups	group	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	aware	aware	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	issues	issue	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+14	society	society	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	heavier	heavy	ADJ	JJR	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	responsibility	responsibility	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	shoulder	shoulder	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 8
+# text = Our youth have a responsibility to fulfill.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	responsibility	responsibility	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	fulfill	fulfill	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 8
+# text = People from  different social backgrounds are responsible.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	People	People	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	from	from	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	different	different	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	social	social	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	backgrounds	background	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	responsible	responsible	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 5
+# text = Rely on divine grace.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Rely	rely	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	on	on	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	divine	divine	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	grace	grace	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 6
+# text = Be  confident about divine guidance.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	confident	confident	ADJ	JJ	_	1	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	about	about	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	divine	divine	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	guidance	guidance	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 17
+# text = You should know that Allah the Exalted  has determined a good destiny for our honorable nation.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	Allah	Allah	PROPN	NNP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Exalted	exalted	ADJ	JJ	_	5	appos	_	ent_type=_|ent_id=2|ent_iob=O
+8	has	have	AUX	VBZ	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	determined	determine	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	good	good	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	destiny	destiny	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	honorable	honorable	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	nation	nation	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 9
+# text = We should make  efforts to reach that destiny.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	We	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	make	make	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	efforts	effort	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	reach	reach	VERB	VB	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	destiny	destiny	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 23
+# text = Dear God, by the  blessedness of Muhammad (s.w.a.) and his household, bestow Your  blessings on this nation.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	compound	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	18	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	by	by	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	blessedness	blessedness	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Muhammad	Muhammad	PROPN	NNP	_	8	pobj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	(	(	PUNCT	-LRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	s.w.a	s.w.a	NOUN	NN	_	9	appos	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	)	)	PUNCT	-RRB-	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	his	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	household	household	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	bestow	bestow	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	Your	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	blessings	blessing	NOUN	NNS	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	nation	nation	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 37
+# text = Dear God, associate the pure souls of our dear  martyrs and the holy soul of our magnanimous Imam - who opened up this  path in front of us - with Your saints in the hereafter.
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	4	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	associate	associate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	pure	pure	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	souls	soul	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	dear	dear	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	martyrs	martyr	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	holy	holy	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	soul	soul	NOUN	NN	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	magnanimous	magnanimous	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	Imam	Imam	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	:	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	who	who	PRON	WP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	opened	open	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	up	up	ADP	RP	_	23	prt	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	path	path	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	front	front	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	us	-PRON-	PRON	PRP	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	-	-	PUNCT	:	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	with	with	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	Your	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	saints	saint	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	hereafter	hereafter	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 121
+# sent_len = 31
+# text = Dear God,  reward those who render services to the people, and convey our greetings  to the Imam of the Age (Allah's greetings be upon him).
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Dear	dear	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	God	God	PROPN	NNP	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	reward	reward	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	render	render	VERB	VBP	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	services	service	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	convey	convey	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	greetings	greeting	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Imam	Imam	PROPN	NNP	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	Age	Age	PROPN	NNP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	(	(	PUNCT	-LRB-	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	Allah	Allah	PROPN	NNP	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	's	's	PART	POS	_	26	case	_	ent_type=_|ent_id=2|ent_iob=O
+26	greetings	greeting	NOUN	NNS	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	be	be	AUX	VB	_	15	parataxis	_	ent_type=_|ent_id=2|ent_iob=O
+28	upon	upon	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	him	-PRON-	PRON	PRP	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	)	)	PUNCT	-RRB-	_	29	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 122
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Speech to People of Gilan
+# year = 2010
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

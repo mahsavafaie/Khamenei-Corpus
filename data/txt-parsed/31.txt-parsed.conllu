@@ -1,0 +1,2614 @@
+# sent_id = 1
+# sent_len = 16
+# text = Further in his speech, the Leader referred to U.S. hostilities against the Islamic Republic.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Further	further	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	speech	speech	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Leader	leader	NOUN	NN	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	referred	refer	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	U.S.	U.S.	PROPN	NNP	_	11	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	hostilities	hostility	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	against	against	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	Republic	Republic	PROPN	NNP	_	12	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 44
+# text = He stressed that such animosities stem from the fact that the Iranian people, motivated by Islam and the revolution and their strong belief in Almighty Allah, have decided to be independent and refuse to bow to the hegemony of big powers.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	He	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	stressed	stress	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	such	such	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	animosities	animosity	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	stem	stem	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	fact	fact	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	30	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iranian	iranian	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	people	people	NOUN	NNS	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	motivated	motivate	VERB	VBN	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	by	by	ADP	IN	_	15	agent	_	ent_type=_|ent_id=2|ent_iob=O
+17	Islam	Islam	PROPN	NNP	_	16	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	revolution	revolution	NOUN	NN	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	strong	strong	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	belief	belief	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Almighty	Almighty	PROPN	NNP	_	27	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	Allah	Allah	PROPN	NNP	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	have	have	AUX	VBP	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	decided	decide	VERB	VBN	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	PART	TO	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+32	be	be	AUX	VB	_	30	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	independent	independent	ADJ	JJ	_	32	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	refuse	refuse	VERB	VB	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	PART	TO	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	bow	bow	VERB	VB	_	35	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	hegemony	hegemony	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	of	of	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	big	big	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	powers	power	NOUN	NNS	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 51
+# text = Regarding the remarks made by U.S. President George W. Bush about Iran, Ayatollah Khamenei pointed out that the statement should be carefully studied by political experts, as it includes many points that throw light on the domineering U.S. policies, particularly its hostile attitude toward the Iranian nation.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Regarding	regard	VERB	VBG	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	remarks	remark	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	made	make	VERB	VBN	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	4	agent	_	ent_type=_|ent_id=2|ent_iob=O
+6	U.S.	U.S.	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	President	President	PROPN	NNP	_	10	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	George	George	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+9	W.	W.	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=1|ent_iob=I
+10	Bush	Bush	PROPN	NNP	_	5	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Iran	Iran	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	Ayatollah	Ayatollah	PROPN	NNP	_	15	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	Khamenei	Khamenei	PROPN	NNP	_	16	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+16	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	out	out	ADP	RP	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	statement	statement	NOUN	NN	_	24	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	should	should	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	be	be	AUX	VB	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	carefully	carefully	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	studied	study	VERB	VBN	_	16	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	by	by	ADP	IN	_	24	agent	_	ent_type=_|ent_id=2|ent_iob=O
+26	political	political	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	experts	expert	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	as	as	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+30	it	-PRON-	PRON	PRP	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	includes	include	VERB	VBZ	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	many	many	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	points	point	NOUN	NNS	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	that	that	DET	WDT	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+35	throw	throw	VERB	VBP	_	33	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+36	light	light	NOUN	NN	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	on	on	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+39	domineering	domineering	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	U.S.	U.S.	PROPN	NNP	_	41	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+41	policies	policy	NOUN	NNS	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	,	,	PUNCT	,	_	41	punct	_	ent_type=_|ent_id=2|ent_iob=O
+43	particularly	particularly	ADV	RB	_	46	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+44	its	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+45	hostile	hostile	ADJ	JJ	_	46	amod	_	ent_type=_|ent_id=2|ent_iob=O
+46	attitude	attitude	NOUN	NN	_	41	appos	_	ent_type=_|ent_id=2|ent_iob=O
+47	toward	toward	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	the	the	DET	DT	_	50	det	_	ent_type=_|ent_id=2|ent_iob=O
+49	Iranian	iranian	ADJ	JJ	_	50	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+50	nation	nation	NOUN	NN	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+51	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 29
+# text = The Leader noted that because of Iranian people's refusal to submit to U.S. domination, the White House officials aim to take revenge on this great nation.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	21	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	because	because	SCONJ	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranian	iranian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	people	people	NOUN	NNS	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	's	's	PART	POS	_	8	case	_	ent_type=_|ent_id=2|ent_iob=O
+10	refusal	refusal	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	submit	submit	VERB	VB	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	U.S.	U.S.	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	domination	domination	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	White	White	PROPN	NNP	_	19	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	House	House	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	officials	official	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	aim	aim	VERB	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	take	take	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	revenge	revenge	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	on	on	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	this	this	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	great	great	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	nation	nation	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 27
+# text = Ayatollah Khamenei further said that the remarks also reveal the confusion of U.S. politicians and policy-makers in the face of this nation and revolution.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	remarks	remark	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	also	also	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	reveal	reveal	VERB	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	confusion	confusion	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	U.S.	U.S.	PROPN	NNP	_	14	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	politicians	politician	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	policy	policy	NOUN	NN	_	18	compound	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	HYPH	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	makers	maker	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	face	face	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	nation	nation	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	revolution	revolution	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 13
+# text = "They are really confused and do not know what to do!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	really	really	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	confused	confused	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	do	do	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	know	know	VERB	VB	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	what	what	PRON	WP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	do	do	AUX	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 5
+# text = They clutch at straws!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	clutch	clutch	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	at	at	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	straws	straws	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 19
+# text = Once in while, they change their tone and try every political ploy to deceive the Iranian people!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Once	once	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	while	while	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	change	change	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	tone	tone	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	try	try	VERB	VB	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	every	every	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	political	political	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	ploy	ploy	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	deceive	deceive	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iranian	iranian	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	people	people	NOUN	NNS	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	!	!	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 16
+# text = But they always fail to achieve their goals and all their efforts prove futile!"
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	always	always	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	fail	fail	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	achieve	achieve	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	goals	goal	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	PDT	_	12	predet	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	efforts	effort	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	prove	prove	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	futile	futile	ADJ	JJ	_	13	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+15	!	!	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	"	"	PUNCT	''	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 39
+# text = Concerning the points in Bush's remarks, the Leader said: "The first point that is deduced from this statement is that U.S. government has not yet lost its insatiable greed for domination of our country.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Concerning	concern	VERB	VBG	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	points	point	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Bush	Bush	PROPN	NNP	_	7	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+6	's	's	PART	POS	_	5	case	_	ent_type=_|ent_id=2|ent_iob=O
+7	remarks	remark	NOUN	NNS	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Leader	leader	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	:	:	PUNCT	:	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	``	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	The	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	first	first	ADJ	JJ	_	17	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+16	point	point	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	WDT	_	20	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	20	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	deduced	deduce	VERB	VBN	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+20	from	from	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	this	this	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	statement	statement	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+25	U.S.	U.S.	PROPN	NNP	_	27	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	government	government	NOUN	NN	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	has	have	AUX	VBZ	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	not	not	PART	RB	_	31	neg	_	ent_type=_|ent_id=2|ent_iob=O
+29	yet	yet	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	lost	lose	VERB	VBN	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	its	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	insatiable	insatiable	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	greed	greed	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	for	for	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	domination	domination	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	our	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+38	country	country	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 35
+# text = They are still thinking of restoring their evil domination of Iran, which intensified with the coup on August 19, 1953, and continued until the victory of the Islamic Revolution in 1979.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	still	still	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	thinking	think	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	restoring	restore	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	evil	evil	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	domination	domination	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iran	Iran	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	which	which	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	intensified	intensify	VERB	VBD	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	coup	coup	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	August	August	PROPN	NNP	_	18	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+20	19	19	NUM	CD	_	19	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	,	,	PUNCT	,	_	19	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+22	1953	1953	NUM	CD	_	19	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+23	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	continued	continue	VERB	VBD	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	until	until	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	victory	victory	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+31	Islamic	Islamic	PROPN	NNP	_	32	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+32	Revolution	Revolution	PROPN	NNP	_	29	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+33	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	1979	1979	NUM	CD	_	33	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+35	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 37
+# text = They are still dreaming of the days when the head of state in this country, namely the corrupt and treacherous Mohammad Reza [Pahlavi], made no decisions until he consulted with U.S. officials.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	still	still	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	dreaming	dream	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	days	day	NOUN	NNS	_	5	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	when	when	ADV	WRB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	head	head	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	state	state	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	this	this	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	country	country	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	namely	namely	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	corrupt	corrupt	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	treacherous	treacherous	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	Mohammad	Mohammad	PROPN	NNP	_	23	nmod	_	ent_type=PERSON|ent_id=3|ent_iob=B
+23	Reza	Reza	PROPN	NNP	_	19	conj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+24	[	[	PUNCT	-LRB-	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	Pahlavi	Pahlavi	PROPN	NNP	_	10	appos	_	ent_type=ORG|ent_id=3|ent_iob=B
+26	]	]	PUNCT	-RRB-	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	made	make	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	no	no	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	decisions	decision	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	until	until	ADP	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+32	he	-PRON-	PRON	PRP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	consulted	consult	VERB	VBD	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+34	with	with	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	U.S.	U.S.	PROPN	NNP	_	36	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+36	officials	official	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 47
+# text = Actually, he had to consult with the U.S. ambassador in Tehran even about minor affairs related to a minister or prime minister or about any political measure that he intended to take, and he had to get directives from the U.S. ambassador first."
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Actually	actually	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	he	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	consult	consult	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	U.S.	U.S.	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+10	ambassador	ambassador	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Tehran	Tehran	PROPN	NNP	_	11	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+13	even	even	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	about	about	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	minor	minor	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	affairs	affair	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	related	relate	VERB	VBN	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	minister	minister	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	prime	prime	PROPN	NNP	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	minister	minister	PROPN	NNP	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	or	or	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	about	about	ADP	IN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	any	any	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	political	political	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	measure	measure	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	that	that	DET	WDT	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	he	-PRON-	PRON	PRP	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	intended	intend	VERB	VBD	_	28	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	to	to	PART	TO	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	take	take	VERB	VB	_	31	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	he	-PRON-	PRON	PRP	_	37	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	had	have	AUX	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	get	get	AUX	VB	_	37	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	directives	directive	NOUN	NNS	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	from	from	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	U.S.	U.S.	PROPN	NNP	_	44	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+44	ambassador	ambassador	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	first	first	ADV	RB	_	39	advmod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+46	.	.	PUNCT	.	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+47	"	"	PUNCT	''	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 49
+# text = Ayatollah Khamenei went on to say, "Despite claims of advocating democracy and human rights often repeated by U.S. officials, who wrongly claim that they support democracy and elected governments, Washington is currently pinning its hopes on the scummy remnants of the corrupt royal regime.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	went	go	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	on	on	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	say	say	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Despite	despite	SCONJ	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	claims	claim	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	advocating	advocate	VERB	VBG	_	11	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	democracy	democracy	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	human	human	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	rights	right	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	often	often	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	repeated	repeat	VERB	VBN	_	10	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	by	by	ADP	IN	_	18	agent	_	ent_type=_|ent_id=2|ent_iob=O
+20	U.S.	U.S.	PROPN	NNP	_	21	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+21	officials	official	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	wrongly	wrongly	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+25	claim	claim	VERB	VBP	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	that	that	SCONJ	IN	_	28	mark	_	ent_type=_|ent_id=2|ent_iob=O
+27	they	-PRON-	PRON	PRP	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	support	support	VERB	VBP	_	25	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	democracy	democracy	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	elected	elect	VERB	VBN	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	governments	government	NOUN	NNS	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	37	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	Washington	Washington	PROPN	NNP	_	37	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+35	is	be	AUX	VBZ	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	currently	currently	ADV	RB	_	37	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	pinning	pin	VERB	VBG	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	its	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	hopes	hope	NOUN	NNS	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	on	on	ADP	IN	_	37	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	scummy	scummy	ADJ	JJ	_	43	amod	_	ent_type=_|ent_id=2|ent_iob=O
+43	remnants	remnant	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	of	of	ADP	IN	_	43	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	corrupt	corrupt	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+47	royal	royal	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+48	regime	regime	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 25
+# text = U.S. officials are still looking to the remnants of the corrupt and subservient Pahlavi regime, aiming to restore that regime in this country.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	U.S.	U.S.	PROPN	NNP	_	2	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	officials	official	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	are	be	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	still	still	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	looking	look	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	remnants	remnant	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	corrupt	corrupt	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	subservient	subservient	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	Pahlavi	pahlavi	ADJ	JJ	_	15	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+15	regime	regime	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	aiming	aim	VERB	VBG	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	to	to	PART	TO	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	restore	restore	VERB	VB	_	17	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	regime	regime	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	this	this	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	country	country	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 24
+# text = "In fact, U.S. officials have no belief in the principles of democracy and elected governments that they often claim to advocate.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	``	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	In	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	fact	fact	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	U.S.	U.S.	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	officials	official	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	no	no	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	belief	belief	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	principles	principle	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	democracy	democracy	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	elected	elect	VERB	VBN	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	governments	government	NOUN	NNS	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	often	often	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	claim	claim	VERB	VBP	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	PART	TO	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	advocate	advocate	VERB	VB	_	21	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 26
+# text = Of course, we do not expect them to be truthful to the Iranian nation, as they even lie to their own people!"
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	do	do	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	expect	expect	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	them	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	truthful	truthful	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iranian	iranian	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	nation	nation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	as	as	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	even	even	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	lie	lie	VERB	VBP	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	own	own	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	people	people	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	!	!	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+26	"	"	PUNCT	''	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 76
+# text = As regards the next point inferred from the statement issued by the U.S. president, the Leader stated, "The second point that is worthy of consideration in this statement is that the United States is repeating the serious mistakes of the past by trying to sow discord among different officials and political factions in this country, despite the fact that the futility of this policy has been proved on several occasions. "
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	next	next	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	point	point	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	inferred	infer	VERB	VBN	_	5	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	from	from	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	statement	statement	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	issued	issue	VERB	VBN	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	10	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	U.S.	U.S.	PROPN	NNP	_	14	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	president	president	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Leader	leader	NOUN	NN	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	``	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	The	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	second	second	ADJ	JJ	_	23	amod	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+23	point	point	NOUN	NN	_	32	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	DET	WDT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	is	be	AUX	VBZ	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	worthy	worthy	ADJ	JJ	_	25	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	consideration	consideration	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	this	this	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	statement	statement	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	is	be	AUX	VBZ	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+33	that	that	SCONJ	IN	_	38	mark	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+35	United	United	PROPN	NNP	_	36	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+36	States	States	PROPN	NNP	_	38	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+37	is	be	AUX	VBZ	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	repeating	repeat	VERB	VBG	_	32	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	serious	serious	ADJ	JJ	_	41	amod	_	ent_type=_|ent_id=2|ent_iob=O
+41	mistakes	mistake	NOUN	NNS	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	past	past	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	by	by	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	trying	try	VERB	VBG	_	45	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+47	to	to	PART	TO	_	48	aux	_	ent_type=_|ent_id=2|ent_iob=O
+48	sow	sow	VERB	VB	_	46	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+49	discord	discord	NOUN	NN	_	48	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	among	among	ADP	IN	_	48	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	different	different	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+52	officials	official	NOUN	NNS	_	50	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+53	and	and	CCONJ	CC	_	52	cc	_	ent_type=_|ent_id=2|ent_iob=O
+54	political	political	ADJ	JJ	_	55	amod	_	ent_type=_|ent_id=2|ent_iob=O
+55	factions	faction	NOUN	NNS	_	52	conj	_	ent_type=_|ent_id=2|ent_iob=O
+56	in	in	ADP	IN	_	52	prep	_	ent_type=_|ent_id=2|ent_iob=O
+57	this	this	DET	DT	_	58	det	_	ent_type=_|ent_id=2|ent_iob=O
+58	country	country	NOUN	NN	_	56	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+59	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+60	despite	despite	SCONJ	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+61	the	the	DET	DT	_	62	det	_	ent_type=_|ent_id=2|ent_iob=O
+62	fact	fact	NOUN	NN	_	60	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+63	that	that	SCONJ	IN	_	71	mark	_	ent_type=_|ent_id=2|ent_iob=O
+64	the	the	DET	DT	_	65	det	_	ent_type=_|ent_id=2|ent_iob=O
+65	futility	futility	NOUN	NN	_	71	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+66	of	of	ADP	IN	_	65	prep	_	ent_type=_|ent_id=2|ent_iob=O
+67	this	this	DET	DT	_	68	det	_	ent_type=_|ent_id=2|ent_iob=O
+68	policy	policy	NOUN	NN	_	66	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+69	has	have	AUX	VBZ	_	71	aux	_	ent_type=_|ent_id=2|ent_iob=O
+70	been	be	AUX	VBN	_	71	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+71	proved	prove	VERB	VBN	_	62	acl	_	ent_type=_|ent_id=2|ent_iob=O
+72	on	on	ADP	IN	_	71	prep	_	ent_type=_|ent_id=2|ent_iob=O
+73	several	several	ADJ	JJ	_	74	amod	_	ent_type=_|ent_id=2|ent_iob=O
+74	occasions	occasion	NOUN	NNS	_	72	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+75	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+76	"	"	PUNCT	''	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 71
+# text = However, this time, considering that their previous attempts including the subversive and spying measures have all ended in failure, the U.S. president has personally intervened to create divisions in society by saying that Washington approves of this and disapproves of that official, as if the Iranian people have been waiting to see which one of their officials or political factions is approved or disapproved by Washington!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	However	however	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	time	time	NOUN	NN	_	28	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	considering	consider	VERB	VBG	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	19	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	previous	previous	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	attempts	attempt	NOUN	NNS	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	including	include	VERB	VBG	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	subversive	subversive	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	spying	spy	VERB	VBG	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	measures	measure	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	have	have	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	all	all	DET	DT	_	19	dep	_	ent_type=_|ent_id=2|ent_iob=O
+19	ended	end	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	failure	failure	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	U.S.	U.S.	PROPN	NNP	_	25	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+25	president	president	NOUN	NN	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	has	have	AUX	VBZ	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	personally	personally	ADV	RB	_	28	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+28	intervened	intervene	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	PART	TO	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	create	create	VERB	VB	_	28	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+31	divisions	division	NOUN	NNS	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	in	in	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	society	society	NOUN	NN	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	by	by	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	saying	say	VERB	VBG	_	34	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	that	that	SCONJ	IN	_	38	mark	_	ent_type=_|ent_id=2|ent_iob=O
+37	Washington	Washington	PROPN	NNP	_	38	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+38	approves	approve	VERB	VBZ	_	35	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	this	this	DET	DT	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	and	and	CCONJ	CC	_	38	cc	_	ent_type=_|ent_id=2|ent_iob=O
+42	disapproves	disapprove	VERB	VBZ	_	38	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	that	that	DET	DT	_	45	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	official	official	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+47	as	as	SCONJ	IN	_	54	mark	_	ent_type=_|ent_id=2|ent_iob=O
+48	if	if	SCONJ	IN	_	54	mark	_	ent_type=_|ent_id=2|ent_iob=O
+49	the	the	DET	DT	_	51	det	_	ent_type=_|ent_id=2|ent_iob=O
+50	Iranian	iranian	ADJ	JJ	_	51	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+51	people	people	NOUN	NNS	_	54	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+52	have	have	AUX	VBP	_	54	aux	_	ent_type=_|ent_id=2|ent_iob=O
+53	been	be	AUX	VBN	_	54	aux	_	ent_type=_|ent_id=2|ent_iob=O
+54	waiting	wait	VERB	VBG	_	38	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+55	to	to	PART	TO	_	56	aux	_	ent_type=_|ent_id=2|ent_iob=O
+56	see	see	VERB	VB	_	54	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+57	which	which	DET	WDT	_	58	det	_	ent_type=_|ent_id=2|ent_iob=O
+58	one	one	NUM	CD	_	66	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+59	of	of	ADP	IN	_	58	prep	_	ent_type=_|ent_id=2|ent_iob=O
+60	their	-PRON-	DET	PRP$	_	61	poss	_	ent_type=_|ent_id=2|ent_iob=O
+61	officials	official	NOUN	NNS	_	59	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+62	or	or	CCONJ	CC	_	58	cc	_	ent_type=_|ent_id=2|ent_iob=O
+63	political	political	ADJ	JJ	_	64	amod	_	ent_type=_|ent_id=2|ent_iob=O
+64	factions	faction	NOUN	NNS	_	58	conj	_	ent_type=_|ent_id=2|ent_iob=O
+65	is	be	AUX	VBZ	_	66	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+66	approved	approve	VERB	VBN	_	56	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+67	or	or	CCONJ	CC	_	66	cc	_	ent_type=_|ent_id=2|ent_iob=O
+68	disapproved	disapprove	VERB	VBN	_	66	conj	_	ent_type=_|ent_id=2|ent_iob=O
+69	by	by	ADP	IN	_	68	agent	_	ent_type=_|ent_id=2|ent_iob=O
+70	Washington	Washington	PROPN	NNP	_	69	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+71	!	!	PUNCT	.	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 7
+# text = "But they are still lying!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	``	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	But	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	are	be	AUX	VBP	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	still	still	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	lying	lie	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	!	!	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 21
+# text = In other words, they do not really approve of those officials or political factions that they claim to support!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	do	do	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	really	really	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	approve	approve	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	those	those	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	officials	official	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	or	or	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	political	political	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	factions	faction	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	that	that	SCONJ	IN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	claim	claim	VERB	VBP	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	support	support	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	!	!	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 39
+# text = Otherwise, if the Iranian people make sure that certain officials or political factions are really supported by the United States, they will oppose those officials or factions because of their resentment toward the United States!"
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Otherwise	otherwise	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	make	make	VERB	VBP	_	25	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	sure	sure	ADJ	JJ	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	certain	certain	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	officials	official	NOUN	NNS	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+12	or	or	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	factions	faction	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	really	really	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	supported	support	VERB	VBN	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	17	agent	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	United	United	PROPN	NNP	_	21	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	States	States	PROPN	NNP	_	18	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+22	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	they	-PRON-	PRON	PRP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+24	will	will	VERB	MD	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	oppose	oppose	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+26	those	those	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	officials	official	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	or	or	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	factions	faction	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	because	because	SCONJ	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	of	of	ADP	IN	_	30	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	their	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	resentment	resentment	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	toward	toward	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	37	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+36	United	United	PROPN	NNP	_	37	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+37	States	States	PROPN	NNP	_	34	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+38	!	!	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	"	"	PUNCT	''	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 31
+# text = Regarding the outcome of this U.S. policy, Ayatollah Khamenei noted, "However, this U.S. policy has so far failed and will not succeed in the future either!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Regarding	regard	VERB	VBG	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	outcome	outcome	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	U.S.	U.S.	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	policy	policy	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	Ayatollah	Ayatollah	PROPN	NNP	_	10	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+10	Khamenei	Khamenei	PROPN	NNP	_	11	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+11	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	"	"	PUNCT	``	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	However	however	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	U.S.	U.S.	PROPN	NNP	_	18	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	policy	policy	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	has	have	AUX	VBZ	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	so	so	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	far	far	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	failed	fail	VERB	VBN	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	will	will	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	not	not	PART	RB	_	26	neg	_	ent_type=_|ent_id=2|ent_iob=O
+26	succeed	succeed	VERB	VB	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	future	future	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	either	either	ADV	RB	_	26	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	!	!	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 24
+# text = Our respected president, by the stance that he took on this matter, gave a very sharp response to the U.S. president.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	respected	respected	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	president	president	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	by	by	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	stance	stance	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	DET	WDT	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	he	-PRON-	PRON	PRP	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	took	take	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	on	on	ADP	RP	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	matter	matter	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	gave	give	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	very	very	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	sharp	sharp	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	response	response	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	U.S.	U.S.	PROPN	NNP	_	23	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+23	president	president	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 34
+# text = Furthermore, although different political factions in the country have some differences of opinion on certain issues, they took a united stance on this issue, as was quite expected from them.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Furthermore	furthermore	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	although	although	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	different	different	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	political	political	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	factions	faction	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	some	some	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	differences	difference	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	opinion	opinion	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	certain	certain	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	issues	issue	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	took	take	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	united	united	ADJ	JJ	_	23	compound	_	ent_type=_|ent_id=2|ent_iob=O
+23	stance	stance	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	on	on	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	this	this	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	issue	issue	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	as	as	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+29	was	be	AUX	VBD	_	31	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	quite	quite	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	expected	expect	VERB	VBN	_	20	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+32	from	from	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	them	-PRON-	PRON	PRP	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 12
+# text = They all told the U.S. administration: Mind your own business!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	all	all	DET	DT	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+3	told	tell	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	U.S.	U.S.	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	administration	administration	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	:	:	PUNCT	:	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	Mind	mind	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	your	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	own	own	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	business	business	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 8
+# text = Stop meddling in our internal affairs!"
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Stop	stop	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	meddling	meddle	VERB	VBG	_	1	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	internal	internal	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	affairs	affair	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	!	!	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	"	"	PUNCT	''	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 31
+# text = Further referring to Bush's statement, the Leader said, "Moreover, in his statement, the U.S. president has talked about human rights and support of nations.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Further	further	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	referring	refer	VERB	VBG	_	10	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Bush	Bush	PROPN	NNP	_	6	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+5	's	's	PART	POS	_	4	case	_	ent_type=_|ent_id=2|ent_iob=O
+6	statement	statement	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Leader	leader	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	"	"	PUNCT	``	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	Moreover	moreover	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	his	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	statement	statement	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	U.S.	U.S.	PROPN	NNP	_	21	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+21	president	president	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	has	have	AUX	VBZ	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	talked	talk	VERB	VBN	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	about	about	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	human	human	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	rights	right	NOUN	NNS	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	support	support	NOUN	NN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	nations	nation	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 12
+# text = To make these remarks, one should really be very impudent!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	To	to	PART	TO	_	2	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	make	make	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	one	one	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	really	really	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	very	very	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	impudent	impudent	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	!	!	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 20
+# text = The United States has committed all sorts of crimes in many countries, the last of which was Afghanistan.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+2	United	United	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+3	States	States	PROPN	NNP	_	5	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	committed	commit	VERB	VBN	_	18	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	sorts	sort	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	crimes	crime	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	many	many	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	countries	country	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	last	last	ADJ	JJ	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	which	which	DET	WDT	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	Afghanistan	Afghanistan	PROPN	NNP	_	18	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 43
+# text = Besides the great suffering that the U.S. forces inflicted on innocent people during their attacks on that country under the pretext of fighting the Taliban or a certain group, more disasters and tragedies are still being created by them in Afghanistan.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Besides	besides	SCONJ	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	great	great	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	suffering	suffering	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	U.S.	U.S.	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+8	forces	force	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	inflicted	inflict	VERB	VBN	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	innocent	innocent	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	people	people	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	during	during	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	attacks	attack	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	under	under	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	pretext	pretext	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	fighting	fight	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Taliban	Taliban	PROPN	NNP	_	23	dobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+26	or	or	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	a	a	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	certain	certain	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	group	group	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	more	more	ADJ	JJR	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	disasters	disaster	NOUN	NNS	_	38	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	tragedies	tragedy	NOUN	NNS	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	are	be	AUX	VBP	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+36	still	still	ADV	RB	_	38	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+37	being	be	AUX	VBG	_	38	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+38	created	create	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+39	by	by	ADP	IN	_	38	agent	_	ent_type=_|ent_id=2|ent_iob=O
+40	them	-PRON-	PRON	PRP	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	Afghanistan	Afghanistan	PROPN	NNP	_	41	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+43	.	.	PUNCT	.	_	38	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 22
+# text = The U.S. planes regularly bomb various parts of that country, killing tens of innocent people and injuring hundreds of others.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	planes	plane	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	regularly	regularly	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	bomb	bomb	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	various	various	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	parts	part	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	country	country	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	killing	kill	VERB	VBG	_	5	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	tens	ten	NOUN	NNS	_	12	dobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	innocent	innocent	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	people	people	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	injuring	injure	VERB	VBG	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	hundreds	hundred	NOUN	NNS	_	18	dobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	others	other	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 21
+# text = Then U.S. officials announce that they have made a mistake, but they stop short of apologizing for their mistake!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Then	then	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	officials	official	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	announce	announce	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	made	make	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	mistake	mistake	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	stop	stop	VERB	VBP	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	short	short	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	apologizing	apologize	VERB	VBG	_	16	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	for	for	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	mistake	mistake	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	!	!	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 28
+# text = For instance, the U.S. planes recently bombed a group of Afghan people who were heading for the capital Kabul to take part in a political ceremony.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	For	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	instance	instance	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	U.S.	U.S.	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	planes	plane	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	recently	recently	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	bombed	bomb	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	group	group	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Afghan	afghan	ADJ	JJ	_	13	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+13	people	people	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	who	who	PRON	WP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	were	be	AUX	VBD	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	heading	head	VERB	VBG	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	capital	capital	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	Kabul	Kabul	PROPN	NNP	_	19	appos	_	ent_type=GPE|ent_id=3|ent_iob=B
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	take	take	VERB	VB	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	part	part	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	political	political	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	ceremony	ceremony	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 16
+# text = Then U.S. officials said they had thought those people were members of a certain group!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Then	then	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	officials	official	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	said	say	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	had	have	AUX	VBD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	thought	think	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	those	those	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	people	people	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	were	be	AUX	VBD	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	members	member	NOUN	NNS	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	certain	certain	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	group	group	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	!	!	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 11
+# text = But they did not apologize for killing those innocent people!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	But	but	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	did	do	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	apologize	apologize	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	killing	kill	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	those	those	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	innocent	innocent	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	!	!	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 9
+# text = This is what they call love for mankind!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	they	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	call	call	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	love	love	NOUN	NN	_	5	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	mankind	mankind	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 29
+# text = "Besides, the United States is definitely complicit in the crimes that are being committed by savage Zionists against innocent Palestinians in the occupied territories of Palestine.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	''	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Besides	besides	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	United	United	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	States	States	PROPN	NNP	_	7	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	definitely	definitely	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	complicit	complicit	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	crimes	crime	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	being	be	AUX	VBG	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	committed	commit	VERB	VBN	_	12	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	by	by	ADP	IN	_	16	agent	_	ent_type=_|ent_id=2|ent_iob=O
+18	savage	savage	NOUN	NN	_	19	compound	_	ent_type=_|ent_id=2|ent_iob=O
+19	Zionists	zionist	NOUN	NNS	_	17	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	against	against	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	innocent	innocent	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	Palestinians	Palestinians	PROPN	NNPS	_	20	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+23	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	occupied	occupy	VERB	VBN	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	territories	territory	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	Palestine	Palestine	PROPN	NNP	_	27	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+29	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 15
+# text = These crimes had never been committed in the past even by the former colonialists!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	crimes	crime	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	AUX	VBD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	never	never	ADV	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	committed	commit	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	past	past	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	even	even	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	former	former	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	colonialists	colonialist	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	!	!	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 27
+# text = Undoubtedly, at least half of the blame for these crimes should be put on U.S. officials because of their blind support for the Zionist regime.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Undoubtedly	undoubtedly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	at	at	ADV	RB	_	4	advmod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+4	least	least	ADJ	JJS	_	5	advmod	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+5	half	half	NOUN	NN	_	14	nsubjpass	_	ent_type=CARDINAL|ent_id=1|ent_iob=I
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	blame	blame	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	these	these	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	crimes	crime	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	should	should	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	be	be	AUX	VB	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	put	put	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	U.S.	U.S.	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	officials	official	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	because	because	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	of	of	ADP	IN	_	18	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+20	their	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	blind	blind	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	support	support	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	for	for	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Zionist	zionist	ADJ	JJ	_	26	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	regime	regime	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 29
+# text = Now the U.S. president, who is on record as expressing his approval for further Zionist atrocities against Palestinians, is claiming to support nations and human rights!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Now	now	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	U.S.	U.S.	PROPN	NNP	_	4	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	president	president	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	who	who	PRON	WP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	record	record	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	as	as	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	expressing	express	VERB	VBG	_	10	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	his	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	approval	approval	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	further	further	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	Zionist	zionist	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	atrocities	atrocity	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	against	against	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Palestinians	Palestinians	PROPN	NNPS	_	18	pobj	_	ent_type=NORP|ent_id=3|ent_iob=B
+20	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	is	be	AUX	VBZ	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	claiming	claim	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	to	to	PART	TO	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	support	support	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	nations	nation	NOUN	NNS	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	human	human	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	rights	right	NOUN	NNS	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	!	!	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 7
+# text = This really shows utmost impudence!"
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	really	really	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	utmost	utmost	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	impudence	impudence	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	"	"	PUNCT	''	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 31
+# text = As regards the next point in the statement, Ayatollah Khamenei stated, "In his statement, Bush also said that the Iranian people are eager to make progress.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	As	as	SCONJ	IN	_	2	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	regards	regard	VERB	VBZ	_	12	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	next	next	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	point	point	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	statement	statement	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	Ayatollah	Ayatollah	PROPN	NNP	_	11	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+11	Khamenei	Khamenei	PROPN	NNP	_	12	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+12	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	"	"	PUNCT	``	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	In	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	his	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	statement	statement	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	Bush	Bush	PROPN	NNP	_	21	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+20	also	also	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	said	say	VERB	VBD	_	12	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Iranian	iranian	ADJ	JJ	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	people	people	NOUN	NNS	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	are	be	AUX	VBP	_	21	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	eager	eager	ADJ	JJ	_	26	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	make	make	VERB	VB	_	27	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	progress	progress	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 19
+# text = There is no doubt about this, as Iranians are working hard to make progress and achieve development.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	doubt	doubt	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	about	about	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	as	as	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iranians	Iranians	PROPN	NNPS	_	11	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	are	be	AUX	VBP	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	working	work	VERB	VBG	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	hard	hard	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	make	make	VERB	VB	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	progress	progress	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	achieve	achieve	VERB	VB	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	development	development	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 28
+# text = The Islamic Revolution paved the way for progress and development in this country, and both Iranian people and officials are making great efforts in this regard.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+3	Revolution	Revolution	PROPN	NNP	_	4	nsubj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+4	paved	pave	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	way	way	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	for	for	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	progress	progress	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	development	development	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	both	both	CCONJ	CC	_	18	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iranian	iranian	ADJ	JJ	_	18	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+18	people	people	NOUN	NNS	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	officials	official	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	are	be	AUX	VBP	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	making	make	VERB	VBG	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	great	great	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	efforts	effort	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	regard	regard	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 19
+# text = But, in fact, it is the United States that cannot tolerate our progress and development.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	But	but	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	fact	fact	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	it	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	United	United	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	States	States	PROPN	NNP	_	7	attr	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	that	that	DET	WDT	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	can	can	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	tolerate	tolerate	VERB	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	progress	progress	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	development	development	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 28
+# text = The U.S. officials, because of their hostility toward this nation, are trying hard to create hurdles in the way of Iran's progress and development.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	officials	official	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	because	because	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	hostility	hostility	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	toward	toward	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	nation	nation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	trying	try	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	hard	hard	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	create	create	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	hurdles	hurdle	NOUN	NNS	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	way	way	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iran	Iran	PROPN	NNP	_	25	poss	_	ent_type=GPE|ent_id=3|ent_iob=B
+24	's	's	PART	POS	_	23	case	_	ent_type=_|ent_id=2|ent_iob=O
+25	progress	progress	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	development	development	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 33
+# text = As you can see, in the international arena and in political and economic spheres, they are using every pressure lever and hatching every plot against the Iranian nation and government.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	As	as	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	you	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	see	see	VERB	VB	_	19	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	international	international	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	arena	arena	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	political	political	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	economic	economic	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	spheres	sphere	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	they	-PRON-	PRON	PRP	_	19	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	19	aux	_	ent_type=_|ent_id=2|ent_iob=O
+19	using	use	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+20	every	every	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	pressure	pressure	NOUN	NN	_	22	compound	_	ent_type=_|ent_id=2|ent_iob=O
+22	lever	lever	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	hatching	hatch	VERB	VBG	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	every	every	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	plot	plot	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	against	against	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	Iranian	iranian	ADJ	JJ	_	30	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+30	nation	nation	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	government	government	NOUN	NN	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 13
+# text = "It is true that the Iranian nation wants to make progress.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	``	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	It	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	true	true	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranian	iranian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	nation	nation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	wants	want	VERB	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	make	make	VERB	VB	_	9	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	progress	progress	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 21
+# text = But it is also true that Iranians, like many other nations across the world, hate the U.S. government!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	it	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	true	true	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranians	Iranians	PROPN	NNPS	_	17	nsubj	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	like	like	SCONJ	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	many	many	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	nations	nation	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	across	across	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	world	world	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	hate	hate	VERB	VBP	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	U.S.	U.S.	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	government	government	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 6
+# text = This is also a reality!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	reality	reality	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 36
+# text = The results of an opinion poll conducted a couple of months ago showed that the U.S. administration is the most hated government in the eyes of Muslim nations as well as other nations in Asia!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	results	result	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	opinion	opinion	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	poll	poll	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	conducted	conduct	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+9	couple	couple	NOUN	NN	_	7	dobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	of	of	ADP	IN	_	9	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	months	month	NOUN	NNS	_	10	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	ago	ago	ADV	RB	_	7	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	showed	show	VERB	VBD	_	7	dep	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	U.S.	U.S.	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	administration	administration	NOUN	NN	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	most	most	ADV	RBS	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	hated	hate	VERB	VBN	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	government	government	NOUN	NN	_	18	attr	_	ent_type=_|ent_id=2|ent_iob=O
+23	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	eyes	eye	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Muslim	muslim	ADJ	JJ	_	28	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	nations	nation	NOUN	NNS	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	as	as	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	well	well	ADV	RB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+31	as	as	SCONJ	IN	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	other	other	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	nations	nation	NOUN	NNS	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Asia	Asia	PROPN	NNP	_	34	pobj	_	ent_type=LOC|ent_id=3|ent_iob=B
+36	!	!	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 17
+# text = In other words, it is not only the Iranian nation that hates the United States.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	words	word	NOUN	NNS	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	only	only	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iranian	iranian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	nation	nation	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	that	that	DET	WDT	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	hates	hate	VERB	VBZ	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	United	United	PROPN	NNP	_	16	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	States	States	PROPN	NNP	_	13	dobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 30
+# text = "Of course one day it was only in Iran that the U.S. flag or effigy of the U.S. president or some other American symbol was set on fire.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	``	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Of	of	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	course	course	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	one	one	NUM	CD	_	5	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+5	day	day	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+6	it	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	only	only	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iran	Iran	PROPN	NNP	_	9	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+11	that	that	SCONJ	IN	_	27	mark	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	U.S.	U.S.	PROPN	NNP	_	14	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	flag	flag	NOUN	NN	_	27	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	or	or	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	effigy	effigy	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	U.S.	U.S.	PROPN	NNP	_	20	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+20	president	president	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	or	or	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	some	some	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	other	other	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	American	american	ADJ	JJ	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	symbol	symbol	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	was	be	AUX	VBD	_	27	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+27	set	set	VERB	VBN	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	on	on	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	fire	fire	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 21
+# text = But today almost everywhere in the world, even in European countries, the U.S. flag is set on fire!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	But	but	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	today	today	NOUN	NN	_	18	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+3	almost	almost	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	everywhere	everywhere	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	world	world	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	even	even	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	European	european	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	countries	country	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	U.S.	U.S.	PROPN	NNP	_	16	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	flag	flag	NOUN	NN	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	set	set	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	fire	fire	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	!	!	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 21
+# text = This is because the dictatorial regime of the United States is of ill repute and hated throughout the world."
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	dictatorial	dictatorial	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	regime	regime	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	United	United	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	States	States	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	is	be	AUX	VBZ	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	ill	ill	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	repute	repute	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	hated	hate	VERB	VBD	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	throughout	throughout	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	world	world	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 27
+# text = Elsewhere in his remarks, Leader of the Islamic Republic pointed out that U.S. president has claimed that he supports a faction called reformists in Iran.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Elsewhere	elsewhere	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	his	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	remarks	remark	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	Leader	leader	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	pointed	point	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+12	out	out	ADP	RP	_	11	prt	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	U.S.	U.S.	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+15	president	president	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	has	have	AUX	VBZ	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	claimed	claim	VERB	VBN	_	11	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	he	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	supports	support	VERB	VBZ	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	faction	faction	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	called	call	VERB	VBN	_	22	acl	_	ent_type=_|ent_id=2|ent_iob=O
+24	reformists	reformist	NOUN	NNS	_	23	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	Iran	Iran	PROPN	NNP	_	25	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+27	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 28
+# text = The Leader noted that the claim is a sheer lie, since the United States supports no faction from among the factions faithful to the Islamic Revolution.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	noted	note	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	claim	claim	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	sheer	sheer	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	lie	lie	NOUN	NN	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	since	since	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+14	United	United	PROPN	NNP	_	15	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+15	States	States	PROPN	NNP	_	16	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+16	supports	support	VERB	VBZ	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	no	no	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	faction	faction	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	from	from	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	among	among	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	factions	faction	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	faithful	faithful	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+26	Islamic	Islamic	PROPN	NNP	_	27	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+27	Revolution	Revolution	PROPN	NNP	_	24	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+28	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 40
+# text = "Besides, U.S. officials are not even in favor of real reform in this country because any real reform here will surely be against the interests and policies of the dictatorial and domineering regime of the United States!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	''	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Besides	besides	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	U.S.	U.S.	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	officials	official	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	even	even	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	favor	favor	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	real	real	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	reform	reform	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	country	country	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	because	because	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	any	any	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	real	real	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	reform	reform	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	here	here	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	surely	surely	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	be	be	AUX	VB	_	6	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	against	against	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	interests	interest	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	policies	policy	NOUN	NNS	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	dictatorial	dictatorial	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	domineering	domineering	ADJ	JJ	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	regime	regime	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	39	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+38	United	United	PROPN	NNP	_	39	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+39	States	States	PROPN	NNP	_	36	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+40	!	!	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 27
+# text = Furthermore, if the United States itself prescribes something called reform for the Iranian people, this nation will definitely throw it into the wastebasket!"
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Furthermore	furthermore	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	United	United	PROPN	NNP	_	6	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	States	States	PROPN	NNP	_	8	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	itself	-PRON-	PRON	PRP	_	6	appos	_	ent_type=_|ent_id=2|ent_iob=O
+8	prescribes	prescribe	VERB	VBZ	_	21	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	something	something	PRON	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	called	call	VERB	VBN	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+11	reform	reform	NOUN	NN	_	10	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Iranian	iranian	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	nation	nation	NOUN	NN	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	will	will	VERB	MD	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	definitely	definitely	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	throw	throw	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+22	it	-PRON-	PRON	PRP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	into	into	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	wastebasket	wastebasket	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	!	!	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	"	"	PUNCT	''	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 25
+# text = The Leader further stated that the greatest reformist move in this country was taken through the Islamic Revolution under the leadership of Imam Khomeini.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Leader	Leader	PROPN	NNP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	further	further	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	greatest	great	ADJ	JJS	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	reformist	reformist	NOUN	NN	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	move	move	NOUN	NN	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	was	be	AUX	VBD	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	taken	take	VERB	VBN	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	through	through	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+18	Revolution	Revolution	PROPN	NNP	_	15	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+19	under	under	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	leadership	leadership	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Imam	Imam	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+24	Khomeini	Khomeini	PROPN	NNP	_	22	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+25	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 36
+# text = "Even today, any action that is taken to consolidate the foundations of the revolution and enforce our progressive constitution is undoubtedly a reformist move, and it will be supported by the people.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	``	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	Even	even	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	today	today	NOUN	NN	_	22	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	any	any	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	action	action	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	WDT	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	is	be	AUX	VBZ	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	taken	take	VERB	VBN	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	consolidate	consolidate	VERB	VB	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	foundations	foundation	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	revolution	revolution	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	enforce	enforce	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	progressive	progressive	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	constitution	constitution	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	undoubtedly	undoubtedly	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	reformist	reformist	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	move	move	NOUN	NN	_	22	attr	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	it	-PRON-	PRON	PRP	_	32	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	will	will	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	be	be	AUX	VB	_	32	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	supported	support	VERB	VBN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	by	by	ADP	IN	_	32	agent	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	people	people	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 38
+# text = In general, any measure intended to promote progress in political, economic, social, scientific, ethical and religious areas is a reformist move, and it will be welcomed by the Iranian nation."
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	general	general	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	any	any	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	measure	measure	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	intended	intend	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	promote	promote	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	progress	progress	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	political	political	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	economic	economic	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	social	social	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	scientific	scientific	ADJ	JJ	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	ethical	ethical	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	religious	religious	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	areas	area	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	is	be	AUX	VBZ	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	reformist	reformist	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	move	move	NOUN	NN	_	23	attr	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	it	-PRON-	PRON	PRP	_	32	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+30	will	will	VERB	MD	_	32	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	be	be	AUX	VB	_	32	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+32	welcomed	welcome	VERB	VBN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	by	by	ADP	IN	_	32	agent	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	Iranian	iranian	ADJ	JJ	_	36	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+36	nation	nation	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	.	.	PUNCT	.	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	"	"	PUNCT	''	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 21
+# text = Ayatollah Khamenei added that what constitutes the basis of real reforms is the struggle against poverty, corruption and discrimination.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Ayatollah	Ayatollah	PROPN	NNP	_	2	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	Khamenei	Khamenei	PROPN	NNP	_	3	nsubj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+3	added	add	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	12	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	constitutes	constitute	VERB	VBZ	_	12	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	basis	basis	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	real	real	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	reforms	reform	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	struggle	struggle	NOUN	NN	_	12	attr	_	ent_type=_|ent_id=2|ent_iob=O
+15	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	poverty	poverty	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	corruption	corruption	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	discrimination	discrimination	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 26
+# text = "The worst kinds of corruption in society are the rise in poverty and the widening of the gap between the rich and the poor.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	``	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	worst	bad	ADJ	JJS	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	kinds	kind	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	corruption	corruption	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	society	society	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	rise	rise	NOUN	NN	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	poverty	poverty	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	widening	widening	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	gap	gap	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	between	between	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	rich	rich	ADJ	JJ	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	poor	poor	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 23
+# text = Economic and financial corruption and using the public purse to further one's interests are also among the worst types of corruption.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Economic	economic	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	and	and	CCONJ	CC	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+3	financial	financial	ADJ	JJ	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+4	corruption	corruption	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	using	use	VERB	VBG	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	public	public	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	purse	purse	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	further	further	ADJ	JJ	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	one	one	NOUN	NN	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	's	's	PART	POS	_	12	case	_	ent_type=_|ent_id=2|ent_iob=O
+14	interests	interest	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	also	also	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	among	among	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	worst	bad	ADJ	JJS	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	types	type	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	of	of	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	corruption	corruption	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 24
+# text = Discrimination in the enforcement of law and disregard for the capabilities and qualifications of individuals are also among the worst kinds of corruption.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Discrimination	discrimination	NOUN	NN	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	enforcement	enforcement	NOUN	NN	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	law	law	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	disregard	disregard	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	capabilities	capability	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	qualifications	qualification	NOUN	NNS	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	individuals	individual	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	also	also	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	among	among	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	worst	bad	ADJ	JJS	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	kinds	kind	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	corruption	corruption	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 21
+# text = Iranian people have underlined that they consider measures to eliminate poverty, corruption and discrimination to be the real reforms.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Iranian	iranian	ADJ	JJ	_	2	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+2	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	underlined	underline	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	they	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	consider	consider	VERB	VBP	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	measures	measure	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	eliminate	eliminate	VERB	VB	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	poverty	poverty	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	corruption	corruption	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	discrimination	discrimination	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	be	be	AUX	VB	_	7	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	real	real	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	reforms	reform	NOUN	NNS	_	17	attr	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 8
+# text = This is what the Iranian people want.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	people	people	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	want	want	VERB	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 10
+# text = But this is not what the United States wants!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	But	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	this	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+7	United	United	PROPN	NNP	_	8	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	States	States	PROPN	NNP	_	9	nsubj	_	ent_type=GPE|ent_id=1|ent_iob=I
+9	wants	want	VERB	VBZ	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 16
+# text = The U.S. president would not like such measures to be taken in this country!"
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	U.S.	U.S.	PROPN	NNP	_	3	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	president	president	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	such	such	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	measures	measure	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	be	be	AUX	VB	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	taken	take	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	country	country	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	!	!	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	"	"	PUNCT	''	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 33
+# text = In conclusion, Leader of the Islamic Republic stated: "Today, in the face of such hostilities, what is most important for the Iranian nation is unity and brotherhood.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	In	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	Leader	leader	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Islamic	Islamic	PROPN	NNP	_	8	compound	_	ent_type=_|ent_id=2|ent_iob=O
+8	Republic	Republic	PROPN	NNP	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	stated	state	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	:	:	PUNCT	:	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	"	"	PUNCT	``	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	Today	today	NOUN	NN	_	23	npadvmod	_	ent_type=WORK_OF_ART|ent_id=3|ent_iob=B
+13	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	face	face	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	such	such	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	hostilities	hostility	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	what	what	PRON	WP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	30	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	most	most	ADV	RBS	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	important	important	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	for	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	Iranian	iranian	ADJ	JJ	_	29	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+28	nation	nation	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	is	be	AUX	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	unity	unity	NOUN	NN	_	30	attr	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	brotherhood	brotherhood	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 19
+# text = Different factions should further try to bridge over their differences and not weaken people's hopes and aspirations.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Different	different	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	factions	faction	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	should	should	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	further	further	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	try	try	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bridge	bridge	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	over	over	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	differences	difference	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	weaken	weaken	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	's	's	PART	POS	_	14	case	_	ent_type=_|ent_id=2|ent_iob=O
+16	hopes	hope	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	aspirations	aspiration	NOUN	NNS	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 16
+# text = Unfortunately, some in the country infuse hope into the enemy due to their indiscretion.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Unfortunately	unfortunately	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	some	some	DET	DT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	infuse	infuse	ADP	IN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	hope	hope	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	into	into	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	enemy	enemy	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	due	due	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	ADP	IN	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	their	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	indiscretion	indiscretion	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 31
+# text = Bush had wrongly hoped that there would be a student uprising against the Islamic system in Tehran on July 9, but our vigilant and wise students disappointed the enemy.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Bush	Bush	PROPN	NNP	_	4	nsubj	_	ent_type=PERSON|ent_id=3|ent_iob=B
+2	had	have	AUX	VBD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	wrongly	wrongly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	hoped	hope	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	there	there	PRON	EX	_	8	expl	_	ent_type=_|ent_id=2|ent_iob=O
+7	would	would	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	student	student	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+11	uprising	uprising	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	against	against	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	islamic	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+15	system	system	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Tehran	Tehran	PROPN	NNP	_	16	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	July	July	PROPN	NNP	_	18	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+20	9	9	NUM	CD	_	19	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+21	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	vigilant	vigilant	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	wise	wise	ADJ	JJ	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	students	student	NOUN	NNS	_	28	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	disappointed	disappoint	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	enemy	enemy	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 1
+# text = "
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	``	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 6
+# text = My dear brothers and sisters!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	My	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	dear	dear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	brothers	brother	NOUN	NNS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	sisters	sister	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+6	!	!	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 23
+# text = What will frustrate the enemy and preserve the honor and dignity of this nation is unity pivoting on Islam and the revolution.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	What	what	PRON	WP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	frustrate	frustrate	VERB	VB	_	15	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemy	enemy	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	preserve	preserve	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	honor	honor	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	dignity	dignity	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	nation	nation	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	unity	unity	NOUN	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	pivoting	pivot	VERB	VBG	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	Islam	Islam	PROPN	NNP	_	18	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	revolution	revolution	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 18
+# text = The enemy claims that we are seeking weapons of mass destruction in order to strengthen our system.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemy	enemy	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	claims	claim	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	seeking	seek	VERB	VBG	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	weapons	weapon	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	mass	mass	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	destruction	destruction	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	order	order	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	strengthen	strengthen	VERB	VB	_	13	acl	_	ent_type=_|ent_id=2|ent_iob=O
+16	our	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	system	system	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 11
+# text = This is another wrong assumption and analysis on their part.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	This	this	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	another	another	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	wrong	wrong	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	assumption	assumption	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	analysis	analysis	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	part	part	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 26
+# text = We believe that a resolved, devoted and united nation is much stronger than an atomic bomb, as no power can overcome this nation!
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	We	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	believe	believe	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	resolved	resolve	VERB	VBN	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	devoted	devoted	ADJ	JJ	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	united	united	ADJ	JJ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	is	be	AUX	VBZ	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	much	much	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	stronger	strong	ADJ	JJR	_	11	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	than	than	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	an	an	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	atomic	atomic	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	bomb	bomb	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	as	as	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	no	no	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	power	power	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	can	can	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	overcome	overcome	VERB	VB	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	nation	nation	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	!	!	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 27
+# text = "As you all know, there have been all sorts of hostilities and plots against this country ever since the victory of the Islamic Revolution.
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	"	"	PUNCT	''	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+2	As	as	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	DT	_	3	appos	_	ent_type=_|ent_id=2|ent_iob=O
+5	know	know	VERB	VBP	_	9	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	there	there	PRON	EX	_	9	expl	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	sorts	sort	NOUN	NNS	_	9	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	hostilities	hostility	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	plots	plot	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	against	against	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	this	this	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	ever	ever	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	since	since	SCONJ	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	victory	victory	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+25	Islamic	Islamic	PROPN	NNP	_	26	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+26	Revolution	Revolution	PROPN	NNP	_	23	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+27	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 12
+# text = Did we neutralize these plots and hostilities with an atomic bomb?
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Did	do	AUX	VBD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	we	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	neutralize	neutralize	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	these	these	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	plots	plot	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	hostilities	hostility	NOUN	NNS	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	an	an	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	atomic	atomic	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	bomb	bomb	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	?	?	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 24
+# text = Indeed, what has preserved the dignity of this nation, brought honor on the Islamic system and perpetuated the name of Imam Khomeini
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	Indeed	indeed	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	preserved	preserve	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	dignity	dignity	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	brought	bring	VERB	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	honor	honor	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Islamic	islamic	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	system	system	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	perpetuated	perpetuate	VERB	VBD	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	name	name	NOUN	NN	_	19	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	Imam	Imam	PROPN	NNP	_	24	compound	_	ent_type=PERSON|ent_id=3|ent_iob=B
+24	Khomeini	Khomeini	PROPN	NNP	_	22	pobj	_	ent_type=PERSON|ent_id=1|ent_iob=I
+
+# sent_id = 85
+# sent_len = 20
+# text = has been the firm resolve and strong belief of Iranian people as well as their unity and solidarity."
+# title = Leader's Address to Education Ministry Officials
+# year = 2002
+1	has	have	AUX	VBZ	_	2	aux	_	ent_type=_|ent_id=2|ent_iob=O
+2	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	firm	firm	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	resolve	resolve	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	strong	strong	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	belief	belief	NOUN	NN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iranian	iranian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	people	people	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	well	well	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	unity	unity	NOUN	NN	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	solidarity	solidarity	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	"	"	PUNCT	''	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O

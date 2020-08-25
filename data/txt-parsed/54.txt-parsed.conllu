@@ -1,0 +1,1341 @@
+# sent_id = 1
+# sent_len = 15
+# text = I would like to express my warm welcome to you, the dear brothers.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	express	express	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	my	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	warm	warm	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	welcome	welcome	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	5	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	dear	dear	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	brothers	brother	NOUN	NNS	_	5	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 46
+# text = I would also like to congratulate every serviceman in the Army of the Islamic Republic, especially those who have played a major part over the past decades in the formation and development of our honorable army, on the occasion of the Army Day.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	congratulate	congratulate	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	every	every	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	serviceman	serviceman	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+11	Army	Army	PROPN	NNP	_	9	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	of	of	ADP	IN	_	11	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	the	the	DET	DT	_	15	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+15	Republic	Republic	PROPN	NNP	_	12	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	especially	especially	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	those	those	DET	DT	_	8	appos	_	ent_type=_|ent_id=2|ent_iob=O
+19	who	who	PRON	WP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	have	have	AUX	VBP	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	played	play	VERB	VBN	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	major	major	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	part	part	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	over	over	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	28	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+27	past	past	ADJ	JJ	_	28	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+28	decades	decade	NOUN	NNS	_	25	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+29	in	in	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	formation	formation	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	development	development	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	31	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	our	-PRON-	DET	PRP$	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+36	honorable	honorable	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+37	army	army	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+39	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	the	the	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	occasion	occasion	NOUN	NN	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	of	of	ADP	IN	_	41	prep	_	ent_type=_|ent_id=2|ent_iob=O
+43	the	the	DET	DT	_	45	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+44	Army	Army	PROPN	NNP	_	45	compound	_	ent_type=DATE|ent_id=1|ent_iob=I
+45	Day	Day	PROPN	NNP	_	42	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+46	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 23
+# text = The reality on the ground indicates that the Army of the Islamic Republic is quite distinguished among other armies in the world.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	reality	reality	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	on	on	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	ground	ground	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	indicates	indicate	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	Army	Army	PROPN	NNP	_	16	nsubjpass	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	of	of	ADP	IN	_	9	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	Islamic	Islamic	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Republic	Republic	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	is	be	AUX	VBZ	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	quite	quite	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	distinguished	distinguished	ADJ	JJ	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	among	among	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	other	other	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	armies	army	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	world	world	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 21
+# text = However, this does not mean that our army is equipped with ultramodern weapons or the most sophisticated military equipment.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	However	however	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	does	do	AUX	VBZ	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	mean	mean	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	army	army	NOUN	NN	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	equipped	equip	VERB	VBN	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	with	with	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	ultramodern	ultramodern	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	weapons	weapon	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	or	or	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	most	most	ADV	RBS	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	sophisticated	sophisticated	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	military	military	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	equipment	equipment	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 27
+# text = Indeed, even ultramodern weapons by themselves are not enough, since these weapons in the hands of incompetent soldiers may even cause their own destruction.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Indeed	indeed	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	even	even	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	ultramodern	ultramodern	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	weapons	weapon	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	by	by	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	themselves	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	not	not	PART	RB	_	8	neg	_	ent_type=_|ent_id=2|ent_iob=O
+10	enough	enough	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	since	since	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+13	these	these	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	weapons	weapon	NOUN	NNS	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	hands	hand	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	incompetent	incompetent	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	soldiers	soldier	NOUN	NNS	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	may	may	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	even	even	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+23	cause	cause	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	their	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	own	own	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	destruction	destruction	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 34
+# text = Therefore, the real criteria for evaluating the power and worth of an army are knowledge, expertise, faith and morale of its personnel and their adherence to spiritual and moral values.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	real	real	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	criteria	criterion	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	evaluating	evaluate	VERB	VBG	_	6	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	power	power	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	worth	worth	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	an	an	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	army	army	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	knowledge	knowledge	NOUN	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	expertise	expertise	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	faith	faith	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	morale	morale	NOUN	NN	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	its	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	personnel	personnel	NOUN	NNS	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	their	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	adherence	adherence	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	spiritual	spiritual	ADJ	JJ	_	33	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	30	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	moral	moral	ADJ	JJ	_	30	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	values	value	NOUN	NNS	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 49
+# text = Today, it is possible to prevent many armies and nations in the world from having modern weapons, but it is not possible to prevent them from attaining high moral and spiritual levels or bar them from advancing and making progress in the scientific and technological areas.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Today	today	NOUN	NN	_	4	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	possible	possible	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	prevent	prevent	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	many	many	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	armies	army	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	nations	nation	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	world	world	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	from	from	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	having	have	VERB	VBG	_	15	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	modern	modern	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	weapons	weapon	NOUN	NNS	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	but	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	it	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	not	not	PART	RB	_	22	neg	_	ent_type=_|ent_id=2|ent_iob=O
+24	possible	possible	ADJ	JJ	_	22	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	prevent	prevent	VERB	VB	_	22	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	them	-PRON-	PRON	PRP	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	from	from	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	attaining	attain	VERB	VBG	_	28	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	high	high	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+31	moral	moral	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	spiritual	spiritual	ADJ	JJ	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	levels	level	NOUN	NNS	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	or	or	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	bar	bar	VERB	VB	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	them	-PRON-	PRON	PRP	_	36	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	from	from	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	advancing	advance	VERB	VBG	_	38	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	making	make	VERB	VBG	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	progress	progress	NOUN	NN	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	in	in	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	the	the	DET	DT	_	48	det	_	ent_type=_|ent_id=2|ent_iob=O
+45	scientific	scientific	ADJ	JJ	_	48	amod	_	ent_type=_|ent_id=2|ent_iob=O
+46	and	and	CCONJ	CC	_	45	cc	_	ent_type=_|ent_id=2|ent_iob=O
+47	technological	technological	ADJ	JJ	_	45	conj	_	ent_type=_|ent_id=2|ent_iob=O
+48	areas	area	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 38
+# text = In fact, the Armed Forces of the Islamic Republic, including the army and the Islamic Revolution Guards Corps, have been moving in this direction and increasing their knowledge and expertise ever since their formation.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	In	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+5	Armed	Armed	PROPN	NNP	_	6	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+6	Forces	Forces	PROPN	NNPS	_	24	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+7	of	of	ADP	IN	_	6	prep	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	the	the	DET	DT	_	10	det	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	including	include	VERB	VBG	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	army	army	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	20	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+18	Revolution	Revolution	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+19	Guards	Guards	PROPN	NNPS	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	Corps	Corps	PROPN	NNP	_	14	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	have	have	AUX	VBP	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	been	be	AUX	VBN	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	moving	move	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	this	this	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	direction	direction	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	increasing	increase	VERB	VBG	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	knowledge	knowledge	NOUN	NN	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	expertise	expertise	NOUN	NN	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+34	ever	ever	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	since	since	SCONJ	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	their	-PRON-	DET	PRP$	_	37	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	formation	formation	NOUN	NN	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 27
+# text = The Iranian nation witnessed the achievements of our armed forces and the results of their endeavors during the period of sacred defense against the Iraqi aggression.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	witnessed	witness	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	achievements	achievement	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	armed	armed	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	forces	force	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	results	result	NOUN	NNS	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	endeavors	endeavor	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	during	during	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	period	period	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	sacred	sacred	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	defense	defense	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	against	against	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	Iraqi	iraqi	ADJ	JJ	_	26	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+26	aggression	aggression	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 17
+# text = This great success stemmed from the faith, virtues and strong resolve of our committed servicemen.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	great	great	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	success	success	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	stemmed	stem	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	from	from	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	faith	faith	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	virtues	virtue	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	strong	strong	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	resolve	resolve	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	committed	committed	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	servicemen	serviceman	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 54
+# text = Most of you, who were soldiers at the time of the Iraqi imposed war, know very well that the eight-year war was not only a war between two countries, but that it was a war waged by a coalition made up of many countries on the Islamic Republic.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Most	Most	ADJ	JJS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	you	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	,	,	PUNCT	,	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	who	who	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	were	be	AUX	VBD	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	soldiers	soldier	NOUN	NNS	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	at	at	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	time	time	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	Iraqi	iraqi	ADJ	JJ	_	15	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+14	imposed	impose	VERB	VBN	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	war	war	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	know	know	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+18	very	very	ADV	RB	_	19	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	well	well	ADV	RB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	SCONJ	IN	_	26	mark	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	eight	eight	NUM	CD	_	24	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+23	-	-	PUNCT	HYPH	_	24	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+24	year	year	NOUN	NN	_	25	compound	_	ent_type=DATE|ent_id=1|ent_iob=I
+25	war	war	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	was	be	AUX	VBD	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	not	not	PART	RB	_	26	neg	_	ent_type=_|ent_id=2|ent_iob=O
+28	only	only	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	a	a	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	war	war	NOUN	NN	_	26	attr	_	ent_type=_|ent_id=2|ent_iob=O
+31	between	between	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	two	two	NUM	CD	_	33	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+33	countries	country	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	but	but	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	that	that	SCONJ	IN	_	38	mark	_	ent_type=_|ent_id=2|ent_iob=O
+37	it	-PRON-	PRON	PRP	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	was	be	AUX	VBD	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	a	a	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	war	war	NOUN	NN	_	38	attr	_	ent_type=_|ent_id=2|ent_iob=O
+41	waged	wage	VERB	VBN	_	40	acl	_	ent_type=_|ent_id=2|ent_iob=O
+42	by	by	ADP	IN	_	41	agent	_	ent_type=_|ent_id=2|ent_iob=O
+43	a	a	DET	DT	_	44	det	_	ent_type=_|ent_id=2|ent_iob=O
+44	coalition	coalition	NOUN	NN	_	42	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	made	make	VERB	VBN	_	44	acl	_	ent_type=_|ent_id=2|ent_iob=O
+46	up	up	ADP	RP	_	45	prt	_	ent_type=_|ent_id=2|ent_iob=O
+47	of	of	ADP	IN	_	45	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	many	many	ADJ	JJ	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	countries	country	NOUN	NNS	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	on	on	ADP	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+51	the	the	DET	DT	_	53	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+52	Islamic	Islamic	PROPN	NNP	_	53	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+53	Republic	Republic	PROPN	NNP	_	50	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+54	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 28
+# text = This war was aimed at exerting maximum military, political and economic pressure on the Iranian people in order to stop them from treading their revolutionary path.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	war	war	NOUN	NN	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	aimed	aim	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	at	at	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	exerting	exert	VERB	VBG	_	5	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	maximum	maximum	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	military	military	NOUN	NN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	political	political	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	economic	economic	ADJ	JJ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	pressure	pressure	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	Iranian	iranian	ADJ	JJ	_	17	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+17	people	people	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	order	order	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	to	to	PART	TO	_	21	aux	_	ent_type=_|ent_id=2|ent_iob=O
+21	stop	stop	VERB	VB	_	19	acl	_	ent_type=_|ent_id=2|ent_iob=O
+22	them	-PRON-	PRON	PRP	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	from	from	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	treading	tread	VERB	VBG	_	23	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	their	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	revolutionary	revolutionary	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	path	path	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 11
+# text = But those behind this war failed to achieve their goal.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	But	but	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	those	those	DET	DT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	behind	behind	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	war	war	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	failed	fail	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	achieve	achieve	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	goal	goal	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 40
+# text = The coalition, which helped and supported the Iraqi regime in every possible way in its military aggression against our country, comprised both the Western bloc and NATO and the Eastern bloc, including the former Soviet Union.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	coalition	coalition	NOUN	NN	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	which	which	DET	WDT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	helped	help	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	supported	support	VERB	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	Iraqi	iraqi	ADJ	JJ	_	10	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	regime	regime	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	every	every	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	possible	possible	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	way	way	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	its	-PRON-	DET	PRP$	_	18	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	military	military	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	aggression	aggression	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	against	against	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	our	-PRON-	DET	PRP$	_	21	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	country	country	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	comprised	comprise	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	both	both	CCONJ	CC	_	27	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Western	western	ADJ	JJ	_	27	amod	_	ent_type=_|ent_id=2|ent_iob=O
+27	bloc	bloc	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	NATO	NATO	PROPN	NNP	_	27	conj	_	ent_type=ORG|ent_id=3|ent_iob=B
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	33	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+32	Eastern	Eastern	PROPN	NNP	_	33	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+33	bloc	bloc	NOUN	NN	_	29	conj	_	ent_type=LOC|ent_id=1|ent_iob=I
+34	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	including	include	VERB	VBG	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	former	former	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	Soviet	Soviet	PROPN	NNP	_	39	compound	_	ent_type=GPE|ent_id=3|ent_iob=B
+39	Union	Union	PROPN	NNP	_	35	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+40	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 18
+# text = These countries provided the Iraqi regime with arms and military equipment as well as with military intelligence.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	These	these	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	countries	country	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	provided	provide	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iraqi	iraqi	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	regime	regime	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	arms	arm	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	military	military	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	equipment	equipment	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	well	well	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	military	military	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	intelligence	intelligence	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 28
+# text = On the other hand, we did not have even enough simple weapons such as rocket-propelled grenades, rifles, or cannon and mortar shells.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	On	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	other	other	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	hand	hand	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	we	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	have	have	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	even	even	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	enough	enough	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	simple	simple	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	weapons	weapon	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	such	such	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	as	as	SCONJ	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	rocket	rocket	NOUN	NN	_	18	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	HYPH	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	propelled	propel	VERB	VBN	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	grenades	grenade	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	rifles	rifle	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	or	or	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	cannon	cannon	NOUN	NN	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+26	mortar	mortar	NOUN	NN	_	27	compound	_	ent_type=_|ent_id=2|ent_iob=O
+27	shells	shell	NOUN	NNS	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 33
+# text = Despite the fact that those states in the Eastern bloc that sold arms were mostly poor countries, they refused to sell even simple weapons and military equipment to the Islamic Republic.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Despite	despite	SCONJ	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	fact	fact	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	those	those	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	states	state	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+9	Eastern	eastern	ADJ	JJ	_	10	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+10	bloc	bloc	NOUN	NN	_	7	pobj	_	ent_type=LOC|ent_id=1|ent_iob=I
+11	that	that	DET	WDT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	sold	sell	VERB	VBD	_	6	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	arms	arm	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	were	be	AUX	VBD	_	3	acl	_	ent_type=_|ent_id=2|ent_iob=O
+15	mostly	mostly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	poor	poor	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	countries	country	NOUN	NNS	_	14	attr	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	they	-PRON-	PRON	PRP	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	refused	refuse	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+21	to	to	PART	TO	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	sell	sell	VERB	VB	_	20	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	even	even	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	simple	simple	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	weapons	weapon	NOUN	NNS	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+27	military	military	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	equipment	equipment	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	to	to	ADP	IN	_	22	dative	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	32	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+31	Islamic	Islamic	PROPN	NNP	_	32	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+32	Republic	Republic	PROPN	NNP	_	29	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+33	.	.	PUNCT	.	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 16
+# text = I remember that once we needed barbed wire, and we purchased it from abroad.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	remember	remember	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	once	once	SCONJ	IN	_	6	mark	_	ent_type=_|ent_id=2|ent_iob=O
+5	we	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	needed	need	VERB	VBD	_	3	intj	_	ent_type=_|ent_id=2|ent_iob=O
+7	barbed	barbed	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	wire	wire	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	we	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	purchased	purchase	VERB	VBD	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	from	from	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	abroad	abroad	ADV	RB	_	14	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 32
+# text = The cargo had to pass through one of the Eastern bloc countries in order to reach Iran, but that country did not issue permission for the transit of this cargo!
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	cargo	cargo	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	pass	pass	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	through	through	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	one	one	NUM	CD	_	6	pobj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Eastern	Eastern	PROPN	NNP	_	11	compound	_	ent_type=LOC|ent_id=3|ent_iob=B
+11	bloc	bloc	PROPN	NNP	_	12	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+12	countries	country	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	order	order	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	reach	reach	VERB	VB	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iran	Iran	PROPN	NNP	_	16	dobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	country	country	NOUN	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	did	do	AUX	VBD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	not	not	PART	RB	_	24	neg	_	ent_type=_|ent_id=2|ent_iob=O
+24	issue	issue	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	permission	permission	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	for	for	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	transit	transit	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	of	of	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+30	this	this	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	cargo	cargo	NOUN	NN	_	29	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	!	!	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 31
+# text = Therefore, while the Iraqi regime was being provided with all kinds of weapons and military equipment, immense pressure was being exerted on the Islamic Republic by this coalition.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	23	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	while	while	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iraqi	iraqi	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	regime	regime	NOUN	NN	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	was	be	AUX	VBD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	being	be	AUX	VBG	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	provided	provide	VERB	VBN	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	with	with	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	all	all	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	kinds	kind	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	weapons	weapon	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	and	and	CCONJ	CC	_	14	cc	_	ent_type=_|ent_id=2|ent_iob=O
+16	military	military	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	equipment	equipment	NOUN	NN	_	14	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	immense	immense	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	pressure	pressure	NOUN	NN	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+21	was	be	AUX	VBD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	being	be	AUX	VBG	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	exerted	exert	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+24	on	on	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	27	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+26	Islamic	Islamic	PROPN	NNP	_	27	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+27	Republic	Republic	PROPN	NNP	_	24	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+28	by	by	ADP	IN	_	23	agent	_	ent_type=_|ent_id=2|ent_iob=O
+29	this	this	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	coalition	coalition	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 39
+# text = Nevertheless, in spite of all the pressures and sanctions, our armed forces, which enjoyed strong popular support, put up a brave resistance and foiled the Iraqi aggressors and their supporters in their evil objectives.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Nevertheless	nevertheless	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	spite	spite	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	PDT	_	8	predet	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	pressures	pressure	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	sanctions	sanction	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	14	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	armed	armed	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	forces	force	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	which	which	DET	WDT	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	enjoyed	enjoy	VERB	VBD	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	strong	strong	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	popular	popular	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	support	support	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	put	put	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	up	up	ADP	RP	_	22	prt	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	brave	brave	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	resistance	resistance	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	foiled	foil	VERB	VBD	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	Iraqi	iraqi	ADJ	JJ	_	31	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+31	aggressors	aggressor	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+33	their	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+34	supporters	supporter	NOUN	NNS	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	in	in	ADP	IN	_	34	prep	_	ent_type=_|ent_id=2|ent_iob=O
+36	their	-PRON-	DET	PRP$	_	38	poss	_	ent_type=_|ent_id=2|ent_iob=O
+37	evil	evil	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	objectives	objective	NOUN	NNS	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 25
+# text = Our committed and faithful armed forces safeguarded our borders and did not allow the enemies to annex even a single inch of our territories.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	committed	committed	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	faithful	faithful	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	armed	armed	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	forces	force	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	safeguarded	safeguard	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	borders	border	NOUN	NNS	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	did	do	AUX	VBD	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	not	not	PART	RB	_	13	neg	_	ent_type=_|ent_id=2|ent_iob=O
+13	allow	allow	VERB	VB	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	enemies	enemy	NOUN	NNS	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	PART	TO	_	17	aux	_	ent_type=_|ent_id=2|ent_iob=O
+17	annex	annex	VERB	VB	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	even	even	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	single	single	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	inch	inch	NOUN	NN	_	17	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	territories	territory	NOUN	NNS	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 19
+# text = Besides, they dealt such a heavy blow to the Iraqi aggressors that they surprised the whole world.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Besides	besides	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	dealt	deal	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	such	such	DET	PDT	_	8	predet	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	heavy	heavy	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	blow	blow	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	4	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iraqi	iraqi	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	aggressors	aggressor	NOUN	NNS	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	that	that	DET	WDT	_	15	mark	_	ent_type=_|ent_id=2|ent_iob=O
+14	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+15	surprised	surprise	VERB	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	whole	whole	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	world	world	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 31
+# text = Thus, it is clear that when the armed forces of a country are infused with spirituality and virtues, they will be able to accomplish great and heroic deeds.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Thus	thus	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	it	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	clear	clear	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	23	mark	_	ent_type=_|ent_id=2|ent_iob=O
+7	when	when	ADV	WRB	_	15	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	armed	armed	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	forces	force	NOUN	NNS	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	are	be	AUX	VBP	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	infused	infuse	VERB	VBN	_	23	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	spirituality	spirituality	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	virtues	virtue	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	they	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	23	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	able	able	ADJ	JJ	_	23	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	accomplish	accomplish	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	great	great	ADJ	JJ	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	heroic	heroic	ADJ	JJ	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	deeds	deed	NOUN	NNS	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 41
+# text = In general, when someone has faith, self-confidence, trust in Almighty Allah and belief in his own abilities, his capabilities will begin to develop, and he will be able to realize his full potential.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	In	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	general	general	ADJ	JJ	_	1	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	when	when	ADV	WRB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	someone	someone	PRON	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	has	have	AUX	VBZ	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	faith	faith	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	self	self	NOUN	NN	_	11	compound	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	HYPH	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	confidence	confidence	NOUN	NN	_	13	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	trust	trust	NOUN	NN	_	1	intj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Almighty	Almighty	PROPN	NNP	_	16	compound	_	ent_type=_|ent_id=2|ent_iob=O
+16	Allah	Allah	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	belief	belief	NOUN	NN	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	his	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	own	own	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	abilities	ability	NOUN	NNS	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	his	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+25	capabilities	capability	NOUN	NNS	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	will	will	VERB	MD	_	27	aux	_	ent_type=_|ent_id=2|ent_iob=O
+27	begin	begin	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	develop	develop	VERB	VB	_	27	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	he	-PRON-	PRON	PRP	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	will	will	VERB	MD	_	34	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	be	be	AUX	VB	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	able	able	ADJ	JJ	_	34	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	to	to	PART	TO	_	37	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	realize	realize	VERB	VB	_	35	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+38	his	-PRON-	DET	PRP$	_	40	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	full	full	ADJ	JJ	_	40	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	potential	potential	NOUN	NN	_	37	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 36
+# text = However, when the military forces of a country are devoid of such qualities, they will act in the way that the Iraqi forces did during the recent U.S. military attack on their country!
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	However	however	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	when	when	ADV	WRB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	military	military	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	forces	force	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	country	country	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	are	be	AUX	VBP	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	devoid	devoid	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	such	such	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	qualities	quality	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	they	-PRON-	PRON	PRP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	act	act	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	way	way	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	that	that	DET	WDT	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Iraqi	iraqi	ADJ	JJ	_	25	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+25	forces	force	NOUN	NNS	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	did	do	AUX	VBD	_	21	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+27	during	during	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	recent	recent	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	U.S.	U.S.	PROPN	NNP	_	32	nmod	_	ent_type=GPE|ent_id=3|ent_iob=B
+31	military	military	ADJ	JJ	_	32	amod	_	ent_type=_|ent_id=2|ent_iob=O
+32	attack	attack	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	on	on	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	their	-PRON-	DET	PRP$	_	35	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	country	country	NOUN	NN	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	!	!	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 7
+# text = The Iraqi military personnel lacked faith.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iraqi	iraqi	ADJ	JJ	_	4	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	military	military	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	personnel	personnel	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	lacked	lack	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	faith	faith	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 16
+# text = Therefore, they did not defend their country in the way they should have done.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	they	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	did	do	AUX	VBD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	defend	defend	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	country	country	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	way	way	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	they	-PRON-	PRON	PRP	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	should	should	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	have	have	AUX	VB	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	done	do	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 40
+# text = Besides, the Iraqi military force known as the Republican Guard brought even more shame and disgrace on the Iraqi regime by putting up no resistance and by not defending the capital, which it was expected to protect.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Besides	besides	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iraqi	iraqi	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	military	military	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	force	force	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	known	know	VERB	VBN	_	6	acl	_	ent_type=_|ent_id=2|ent_iob=O
+8	as	as	SCONJ	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	Republican	Republican	PROPN	NNP	_	11	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Guard	Guard	PROPN	NNP	_	8	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	brought	bring	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	even	even	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	more	more	ADJ	JJR	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	shame	shame	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	and	and	CCONJ	CC	_	15	cc	_	ent_type=_|ent_id=2|ent_iob=O
+17	disgrace	disgrace	NOUN	NN	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	on	on	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	Iraqi	iraqi	ADJ	JJ	_	21	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	regime	regime	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	by	by	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	putting	put	VERB	VBG	_	22	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+24	up	up	ADP	RP	_	23	prt	_	ent_type=_|ent_id=2|ent_iob=O
+25	no	no	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	resistance	resistance	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	by	by	ADP	IN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	not	not	PART	RB	_	30	neg	_	ent_type=_|ent_id=2|ent_iob=O
+30	defending	defend	VERB	VBG	_	28	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	capital	capital	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	which	which	DET	WDT	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	it	-PRON-	PRON	PRP	_	37	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+36	was	be	AUX	VBD	_	37	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+37	expected	expect	VERB	VBN	_	32	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+38	to	to	PART	TO	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	protect	protect	VERB	VB	_	37	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 43
+# text = The point is not whether the Iraqi forces could have won a victory, although I believe that if they had put up a proper resistance, they could have stopped the advance of the aggressors and ultimately forced them to retreat.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	point	point	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	3	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	whether	whether	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iraqi	iraqi	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	forces	force	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	could	could	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VB	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	won	win	VERB	VBN	_	3	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	victory	victory	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	although	although	SCONJ	IN	_	17	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	I	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	believe	believe	VERB	VBP	_	3	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	31	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	if	if	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	had	have	AUX	VBD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	put	put	VERB	VBN	_	31	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+23	up	up	ADP	RP	_	22	prt	_	ent_type=_|ent_id=2|ent_iob=O
+24	a	a	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	proper	proper	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	resistance	resistance	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	they	-PRON-	PRON	PRP	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+29	could	could	VERB	MD	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	have	have	AUX	VB	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	stopped	stop	VERB	VBN	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	advance	advance	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	of	of	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	aggressors	aggressor	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	ultimately	ultimately	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+39	forced	force	VERB	VBD	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+40	them	-PRON-	PRON	PRP	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	to	to	PART	TO	_	42	aux	_	ent_type=_|ent_id=2|ent_iob=O
+42	retreat	retreat	VERB	VB	_	39	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 31
+# text = But the point is that allowing a city to fall to the enemies without any resistance will bring eternal disgrace on the military forces that are tasked to defend it.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	But	but	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	allowing	allow	VERB	VBG	_	18	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	city	city	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	fall	fall	VERB	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	enemies	enemy	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	without	without	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	any	any	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	resistance	resistance	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	bring	bring	VERB	VB	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	eternal	eternal	ADJ	JJ	_	20	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	disgrace	disgrace	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	military	military	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	forces	force	NOUN	NNS	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	that	that	DET	WDT	_	27	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	are	be	AUX	VBP	_	27	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+27	tasked	task	VERB	VBN	_	24	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	PART	TO	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	defend	defend	VERB	VB	_	27	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	it	-PRON-	PRON	PRP	_	29	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 22
+# text = The military forces of the Islamic Republic should be grateful to Almighty Allah for the great popular support that they enjoy.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	military	military	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	forces	force	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+6	Islamic	Islamic	PROPN	NNP	_	7	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	Republic	Republic	PROPN	NNP	_	4	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+8	should	should	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	grateful	grateful	ADJ	JJ	_	9	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	Almighty	Almighty	PROPN	NNP	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	Allah	Allah	PROPN	NNP	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	great	great	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	popular	popular	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	support	support	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	enjoy	enjoy	VERB	VBP	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 16
+# text = They should highly value this support and be proud of our devoted and honorable nation.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	should	should	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	highly	highly	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	value	value	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	support	support	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	proud	proud	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	devoted	devoted	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	honorable	honorable	ADJ	JJ	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	nation	nation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 38
+# text = The Iranian people's support for their military forces is, as far as I know, unique in the world, and this is mostly due to our servicemen's adherence to moral and spiritual values.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	people	people	NOUN	NNS	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	's	's	PART	POS	_	3	case	_	ent_type=_|ent_id=2|ent_iob=O
+5	support	support	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	military	military	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	forces	force	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	as	as	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	far	far	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	as	as	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	I	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	know	know	VERB	VBP	_	13	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	unique	unique	ADJ	JJ	_	10	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	world	world	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	is	be	AUX	VBZ	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	mostly	mostly	ADV	RB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	due	due	ADJ	JJ	_	25	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+28	to	to	ADP	IN	_	27	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	our	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	servicemen	serviceman	NOUN	NNS	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	's	's	PART	POS	_	30	case	_	ent_type=_|ent_id=2|ent_iob=O
+32	adherence	adherence	NOUN	NN	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	to	to	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	moral	moral	ADJ	JJ	_	37	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+36	spiritual	spiritual	ADJ	JJ	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	values	value	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 27
+# text = Thus, the Iranian people should also be proud of their military forces, including the army, the Islamic Revolution Guards Corps and the Basijis.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Thus	thus	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iranian	iranian	ADJ	JJ	_	5	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+5	people	people	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	should	should	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	also	also	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	proud	proud	ADJ	JJ	_	8	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	military	military	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	forces	force	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	including	include	VERB	VBG	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	army	army	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	23	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	Islamic	Islamic	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Revolution	Revolution	PROPN	NNP	_	23	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	Guards	Guards	PROPN	NNPS	_	23	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	Corps	Corps	PROPN	NNP	_	17	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	Basijis	Basijis	PROPN	NNPS	_	23	conj	_	ent_type=GPE|ent_id=3|ent_iob=B
+27	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 46
+# text = In conclusion, I would like to once again pay tribute to the immaculate souls of our esteemed martyrs, and I pray to Almighty Allah to confer His grace and favor on those who struggled in His way and achieved martyrdom or suffered disabilities.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	In	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	conclusion	conclusion	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	I	-PRON-	PRON	PRP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	once	once	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	again	again	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	pay	pay	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	tribute	tribute	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	immaculate	immaculate	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	souls	soul	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	our	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	esteemed	esteem	VERB	VBN	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	martyrs	martyr	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	I	-PRON-	PRON	PRP	_	23	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	pray	pray	VERB	VBP	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	Almighty	Almighty	PROPN	NNP	_	26	compound	_	ent_type=_|ent_id=2|ent_iob=O
+26	Allah	Allah	PROPN	NNP	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	confer	confer	VERB	VB	_	23	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	His	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	grace	grace	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	28	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	favor	favor	NOUN	NN	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	on	on	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	those	those	DET	DT	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	who	who	PRON	WP	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	struggled	struggle	VERB	VBD	_	34	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+37	in	in	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	His	-PRON-	DET	PRP$	_	39	poss	_	ent_type=_|ent_id=2|ent_iob=O
+39	way	way	NOUN	NN	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	achieved	achieve	VERB	VBD	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	martyrdom	martyrdom	NOUN	NN	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	or	or	CCONJ	CC	_	41	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	suffered	suffer	VERB	VBN	_	41	conj	_	ent_type=_|ent_id=2|ent_iob=O
+45	disabilities	disability	NOUN	NNS	_	44	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+46	.	.	PUNCT	.	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 39
+# text = I also pray to Almighty Allah to assist the Iranian people, especially our dear youngsters who are a valuable asset to our great nation, in making more progress and in accomplishing their lofty ideals and objectives.
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	pray	pray	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	Almighty	Almighty	PROPN	NNP	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	assist	assist	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	Iranian	iranian	ADJ	JJ	_	11	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+11	people	people	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	especially	especially	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	dear	dear	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	youngsters	youngster	NOUN	NNS	_	11	appos	_	ent_type=_|ent_id=2|ent_iob=O
+17	who	who	PRON	WP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	a	a	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	valuable	valuable	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	asset	asset	NOUN	NN	_	18	attr	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	great	great	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	nation	nation	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	making	make	VERB	VBG	_	27	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+29	more	more	ADJ	JJR	_	30	amod	_	ent_type=_|ent_id=2|ent_iob=O
+30	progress	progress	NOUN	NN	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	in	in	ADP	IN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	accomplishing	accomplish	VERB	VBG	_	32	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	their	-PRON-	DET	PRP$	_	36	poss	_	ent_type=_|ent_id=2|ent_iob=O
+35	lofty	lofty	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	ideals	ideal	NOUN	NNS	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	36	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	objectives	objective	NOUN	NNS	_	36	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 10
+# text = Greetings be upon you and Allah's mercy and blessings
+# title = Leader's Address to Army Commanders
+# year = 2003
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O

@@ -1,0 +1,3183 @@
+# sent_id = 1
+# sent_len = 11
+# text = I would like to extend a warm welcome to you.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	extend	extend	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	warm	warm	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	welcome	welcome	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	ADP	IN	_	5	dative	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 2
+# sent_len = 24
+# text = I am very happy to see the cheerful and youthful faces of the personnel of the Islamic Republic of Iran's Air Force.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	am	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	very	very	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	happy	happy	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	see	see	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	cheerful	cheerful	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	youthful	youthful	ADJ	JJ	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	faces	face	NOUN	NNS	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	personnel	personnel	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	Republic	Republic	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	of	of	ADP	IN	_	18	prep	_	ent_type=GPE|ent_id=1|ent_iob=I
+20	Iran	Iran	PROPN	NNP	_	23	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+21	's	's	PART	POS	_	20	case	_	ent_type=_|ent_id=2|ent_iob=O
+22	Air	Air	PROPN	NNP	_	23	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+23	Force	Force	PROPN	NNP	_	19	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 3
+# sent_len = 7
+# text = All of us - both you and
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	All	all	DET	DT	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	us	-PRON-	PRON	PRP	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	:	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	both	both	CCONJ	CC	_	6	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	1	appos	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 4
+# sent_len = 32
+# text = I - must be grateful to those who created and safeguarded 19th of Bahman [February 8, 1979] through their action (not just words) and their determination.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	-	-	PUNCT	:	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	grateful	grateful	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	those	those	DET	DT	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	who	who	PRON	WP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	created	create	VERB	VBD	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	safeguarded	safeguard	VERB	VBD	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	19th	19th	NOUN	NN	_	11	dobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	of	of	ADP	IN	_	12	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	Bahman	Bahman	PROPN	NNP	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	[	[	PUNCT	-LRB-	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	February	February	PROPN	NNP	_	14	appos	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	8	8	NUM	CD	_	16	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	16	punct	_	ent_type=DATE|ent_id=1|ent_iob=I
+19	1979	1979	NUM	CD	_	16	appos	_	ent_type=DATE|ent_id=1|ent_iob=I
+20	]	]	PUNCT	-RRB-	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	through	through	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	action	action	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	(	(	PUNCT	-LRB-	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	not	not	PART	RB	_	27	neg	_	ent_type=_|ent_id=2|ent_iob=O
+26	just	just	ADV	RB	_	27	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	words	word	NOUN	NNS	_	4	dep	_	ent_type=_|ent_id=2|ent_iob=O
+28	)	)	PUNCT	-RRB-	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	determination	determination	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 5
+# sent_len = 21
+# text = A sincere and well-thought-out measure, implemented in an appropriate manner, is characterized by permanency.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	A	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	sincere	sincere	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	well	well	ADV	RB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	thought	think	VERB	VBN	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	-	-	PUNCT	HYPH	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	out	out	ADP	RP	_	6	prt	_	ent_type=_|ent_id=2|ent_iob=O
+9	measure	measure	NOUN	NN	_	18	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	implemented	implement	VERB	VBN	_	9	acl	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	an	an	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	appropriate	appropriate	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	manner	manner	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	is	be	AUX	VBZ	_	18	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+18	characterized	characterize	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	by	by	ADP	IN	_	18	agent	_	ent_type=_|ent_id=2|ent_iob=O
+20	permanency	permanency	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 6
+# sent_len = 8
+# text = Many of our actions may be stagy.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Many	many	ADJ	JJ	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	our	-PRON-	DET	PRP$	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	actions	action	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	may	may	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	stagy	stagy	NOUN	NNS	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 7
+# sent_len = 10
+# text = Carrying out orders may not be accompanied by sincerity.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Carrying	carry	VERB	VBG	_	7	csubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+2	out	out	ADP	RP	_	1	prt	_	ent_type=_|ent_id=2|ent_iob=O
+3	orders	order	NOUN	NNS	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	may	may	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	be	be	AUX	VB	_	7	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+7	accompanied	accompany	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	by	by	ADP	IN	_	7	agent	_	ent_type=_|ent_id=2|ent_iob=O
+9	sincerity	sincerity	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 8
+# sent_len = 6
+# text = Such actions disappear with time.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Such	such	ADJ	JJ	_	2	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	actions	action	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	disappear	disappear	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	with	with	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	time	time	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 9
+# sent_len = 13
+# text = The events that took place on Bahman 19 were not like these.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	events	event	NOUN	NNS	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	took	take	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	place	place	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Bahman	Bahman	PROPN	NNP	_	6	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+8	19	19	NUM	CD	_	7	nummod	_	ent_type=ORG|ent_id=1|ent_iob=I
+9	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	9	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	like	like	SCONJ	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	these	these	DET	DT	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 10
+# sent_len = 15
+# text = Those events originated in the faith, sincerity, and determination of the people.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Those	those	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	events	event	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	originated	originate	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	faith	faith	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	sincerity	sincerity	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	determination	determination	NOUN	NN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 11
+# sent_len = 37
+# text = Although those events took place only a few days before the final victory of the Islamic Revolution, at that time nobody could predict that 19th of Bahman would bring about what happened on Bahman 22.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Although	although	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	those	those	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	events	event	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	took	take	VERB	VBD	_	24	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	place	place	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	only	only	ADV	RB	_	8	advmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+7	a	a	DET	DT	_	8	quantmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	few	few	ADJ	JJ	_	9	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	days	day	NOUN	NNS	_	10	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	before	before	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	final	final	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	victory	victory	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	of	of	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+17	Revolution	Revolution	PROPN	NNP	_	14	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	at	at	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	that	that	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	time	time	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	nobody	nobody	PRON	NN	_	24	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+23	could	could	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	predict	predict	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+25	that	that	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+26	19th	19th	NOUN	NN	_	30	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+27	of	of	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	Bahman	Bahman	PROPN	NNP	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	would	would	VERB	MD	_	30	aux	_	ent_type=_|ent_id=2|ent_iob=O
+30	bring	bring	VERB	VB	_	24	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	about	about	ADP	IN	_	30	prt	_	ent_type=_|ent_id=2|ent_iob=O
+32	what	what	PRON	WP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	happened	happen	VERB	VBD	_	30	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	on	on	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	Bahman	Bahman	PROPN	NNP	_	34	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+36	22	22	NUM	CD	_	35	nummod	_	ent_type=ORG|ent_id=1|ent_iob=I
+37	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 12
+# sent_len = 13
+# text = No one could predict what happened on Bahman 22 with any certainty.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	No	no	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	one	one	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	could	could	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	predict	predict	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	what	what	PRON	WP	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	happened	happen	VERB	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	on	on	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	Bahman	Bahman	PROPN	NNP	_	7	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+9	22	22	NUM	CD	_	8	nummod	_	ent_type=ORG|ent_id=1|ent_iob=I
+10	with	with	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	any	any	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	certainty	certainty	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 13
+# sent_len = 40
+# text = The youth of that time, who were like you, were firmly determined to show - through their action - their faith, unity, and deep understanding of the significance of the events that were taking place.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	youth	youth	NOUN	NN	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	that	that	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	time	time	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	who	who	PRON	WP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	were	be	AUX	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	like	like	SCONJ	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	you	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	firmly	firmly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	determined	determined	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	show	show	VERB	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	-	-	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	through	through	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	their	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	action	action	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	-	-	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+22	their	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	faith	faith	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	,	,	PUNCT	,	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	unity	unity	NOUN	NN	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	deep	deep	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	understanding	understanding	NOUN	NN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	significance	significance	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+35	events	event	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	that	that	DET	WDT	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	were	be	AUX	VBD	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	taking	take	VERB	VBG	_	35	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	place	place	NOUN	NN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 14
+# sent_len = 20
+# text = It was of course dangerous, but they took that measure and 19th of Bahman went down in history.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	course	course	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	dangerous	dangerous	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	took	take	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	measure	measure	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	19th	19th	NOUN	NN	_	11	conj	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+14	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	Bahman	Bahman	PROPN	NNP	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	went	go	VERB	VBD	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	down	down	ADV	RB	_	16	prt	_	ent_type=_|ent_id=2|ent_iob=O
+18	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	history	history	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 15
+# sent_len = 11
+# text = 19th of Bahman was not a sudden, isolated event.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	19th	19th	NOUN	NN	_	4	nsubj	_	ent_type=ORDINAL|ent_id=3|ent_iob=B
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	Bahman	Bahman	PROPN	NNP	_	2	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+4	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	sudden	sudden	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	isolated	isolated	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	event	event	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 16
+# sent_len = 12
+# text = What the Air Force did was a deep-rooted phenomenon.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	What	what	PRON	WP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+3	Air	Air	PROPN	NNP	_	4	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	Force	Force	PROPN	NNP	_	5	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+5	did	do	AUX	VBD	_	6	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	deep	deep	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	HYPH	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	rooted	root	VERB	VBN	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	phenomenon	phenomenon	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 17
+# sent_len = 23
+# text = The roots of this measure could be traced back to the imposed war, both in defense as well as offensive operations.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	roots	root	NOUN	NNS	_	8	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	this	this	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	measure	measure	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	could	could	VERB	MD	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	be	be	AUX	VB	_	8	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+8	traced	trace	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	back	back	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	imposed	impose	VERB	VBN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	war	war	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	both	both	CCONJ	CC	_	16	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	defense	defense	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	as	as	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	well	well	ADV	RB	_	20	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	SCONJ	IN	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	offensive	offensive	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	operations	operation	NOUN	NNS	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 18
+# sent_len = 39
+# text = The Air Force showed that Bahman 19 was a deep-rooted event during the 8 years of defense, when the Iranian nation felt insecure and when the enemies attacked our country and dropped bombs on us.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+2	Air	Air	PROPN	NNP	_	3	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+3	Force	Force	PROPN	NNP	_	4	nsubj	_	ent_type=ORG|ent_id=1|ent_iob=I
+4	showed	show	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	8	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	Bahman	Bahman	PROPN	NNP	_	8	nsubj	_	ent_type=FAC|ent_id=3|ent_iob=B
+7	19	19	NUM	CD	_	6	nummod	_	ent_type=FAC|ent_id=1|ent_iob=I
+8	was	be	AUX	VBD	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	a	a	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	deep	deep	ADV	RB	_	12	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	-	-	PUNCT	HYPH	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	rooted	root	VERB	VBN	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	event	event	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	during	during	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+16	8	8	NUM	CD	_	17	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	years	year	NOUN	NNS	_	14	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	defense	defense	NOUN	NN	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	when	when	ADV	WRB	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	Iranian	iranian	ADJ	JJ	_	24	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+24	nation	nation	NOUN	NN	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	felt	feel	VERB	VBD	_	17	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	insecure	insecure	ADJ	JJ	_	25	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	when	when	ADV	WRB	_	31	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	enemies	enemy	NOUN	NNS	_	31	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+31	attacked	attack	VERB	VBD	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	our	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	country	country	NOUN	NN	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	31	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	dropped	drop	VERB	VBD	_	31	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	bombs	bomb	NOUN	NNS	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	on	on	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+38	us	-PRON-	PRON	PRP	_	37	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 19
+# sent_len = 28
+# text = During the Sacred Defense the best, the earliest, and the most glorious moves were made by the Air Force of the Islamic Republic of Iran.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	During	during	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	4	det	_	ent_type=LAW|ent_id=3|ent_iob=B
+3	Sacred	Sacred	PROPN	NNP	_	4	compound	_	ent_type=LAW|ent_id=1|ent_iob=I
+4	Defense	Defense	PROPN	NNP	_	1	pobj	_	ent_type=LAW|ent_id=1|ent_iob=I
+5	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	best	good	ADJ	JJS	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	earliest	early	ADJ	JJS	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	most	most	ADV	RBS	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	glorious	glorious	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	moves	move	NOUN	NNS	_	17	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	were	be	AUX	VBD	_	17	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+17	made	make	VERB	VBN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	by	by	ADP	IN	_	17	agent	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	Air	Air	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Force	Force	PROPN	NNP	_	18	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	of	of	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	Islamic	Islamic	PROPN	NNP	_	25	compound	_	ent_type=_|ent_id=2|ent_iob=O
+25	Republic	Republic	PROPN	NNP	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	Iran	Iran	PROPN	NNP	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	.	.	PUNCT	.	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 20
+# sent_len = 20
+# text = What they did then was the offshoot of other events and even today none of their measures are isolated.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	What	what	PRON	WP	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	did	do	AUX	VBD	_	5	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	then	then	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	offshoot	offshoot	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	events	event	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	even	even	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	today	today	NOUN	NN	_	19	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	none	none	NOUN	NN	_	19	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	of	of	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+17	measures	measure	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	are	be	AUX	VBP	_	19	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+19	isolated	isolate	VERB	VBN	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 21
+# sent_len = 20
+# text = The important point is to have a clear understanding and evaluation of the developments that take place around us.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	important	important	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	point	point	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	clear	clear	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	understanding	understanding	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	evaluation	evaluation	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	developments	development	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	WDT	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	take	take	VERB	VBP	_	14	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	place	place	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	around	around	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	us	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 22
+# sent_len = 23
+# text = There are several things that are invisible to many people, but visionaries can discern what will happen in a certain situation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	several	several	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	things	thing	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	are	be	AUX	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	invisible	invisible	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	many	many	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	people	people	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	but	but	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	visionaries	visionary	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	can	can	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	discern	discern	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	what	what	PRON	WP	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	will	will	VERB	MD	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	happen	happen	VERB	VB	_	15	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	in	in	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	a	a	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	certain	certain	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	situation	situation	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 23
+# sent_len = 7
+# text = That is a very important point.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	very	very	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	important	important	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	point	point	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 24
+# sent_len = 14
+# text = The transformation that took place during the Islamic Revolution was one such example.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	transformation	transformation	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	took	take	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	place	place	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	during	during	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+8	Islamic	Islamic	PROPN	NNP	_	9	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+9	Revolution	Revolution	PROPN	NNP	_	6	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+10	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	one	one	NUM	CD	_	13	nummod	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+12	such	such	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	example	example	NOUN	NN	_	10	attr	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 25
+# sent_len = 7
+# text = Some people could not perceive it.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Some	some	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	could	could	VERB	MD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+5	perceive	perceive	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	it	-PRON-	PRON	PRP	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 26
+# sent_len = 24
+# text = Some other people mistook it for a blind move - which is common in different parts of the world - and acted accordingly.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Some	some	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	other	other	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	mistook	mistake	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	it	-PRON-	PRON	PRP	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	blind	blind	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	move	move	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	-	-	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	which	which	DET	WDT	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	is	be	AUX	VBZ	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	common	common	ADJ	JJ	_	12	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	different	different	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	parts	part	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	world	world	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	-	-	PUNCT	,	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	acted	act	VERB	VBD	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	accordingly	accordingly	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 27
+# sent_len = 18
+# text = Some opportunistic and greedy people tried to take advantage of this event and further their personal interests.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Some	some	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	opportunistic	opportunistic	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+4	greedy	greedy	ADJ	JJ	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	people	people	NOUN	NNS	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	tried	try	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	take	take	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	advantage	advantage	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	event	event	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	further	further	ADV	RBR	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	their	-PRON-	DET	PRP$	_	17	poss	_	ent_type=_|ent_id=2|ent_iob=O
+16	personal	personal	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	interests	interest	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 28
+# sent_len = 9
+# text = That was all due to lack of foresight.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	DT	_	2	dep	_	ent_type=_|ent_id=2|ent_iob=O
+4	due	due	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	lack	lack	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	foresight	foresight	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 29
+# sent_len = 22
+# text = The Revolution was first and foremost a transformation in the Iranian society and then a transformation in the entire Muslim Ummah.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Revolution	Revolution	PROPN	NNP	_	3	nsubj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	first	first	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	foremost	foremost	ADV	RB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	a	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	transformation	transformation	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	Iranian	iranian	ADJ	JJ	_	12	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+12	society	society	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	then	then	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	transformation	transformation	NOUN	NN	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	in	in	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	entire	entire	ADJ	JJ	_	21	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	Muslim	Muslim	PROPN	NNP	_	21	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+21	Ummah	Ummah	PROPN	NNP	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 30
+# sent_len = 14
+# text = The Revolution was also a transformation in the political equations of the world.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Revolution	Revolution	PROPN	NNP	_	3	nsubj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+3	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	transformation	transformation	NOUN	NN	_	3	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	political	political	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	equations	equation	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 31
+# sent_len = 16
+# text = Our Revolution transformed the balance of power, especially in some parts of the world.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	Revolution	Revolution	PROPN	NNP	_	3	nsubj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+3	transformed	transform	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	balance	balance	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	especially	especially	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	some	some	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	parts	part	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	world	world	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 32
+# sent_len = 7
+# text = That was such a great event.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	such	such	DET	PDT	_	6	predet	_	ent_type=_|ent_id=2|ent_iob=O
+4	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	great	great	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	event	event	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 33
+# sent_len = 10
+# text = Today the magnitude of this event is being reflected.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Today	today	NOUN	NN	_	9	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	magnitude	magnitude	NOUN	NN	_	9	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	this	this	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	event	event	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	being	be	AUX	VBG	_	9	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+9	reflected	reflect	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 34
+# sent_len = 39
+# text = What happened in Iran was the fundamental transformation that was required to wrest power from a despotic, oppressive, and bullying regime and its greedy, immoral, self-seeking, inhuman, and dependant rulers.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	What	what	PRON	WP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	happened	happen	VERB	VBD	_	5	csubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Iran	Iran	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	fundamental	fundamental	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	transformation	transformation	NOUN	NN	_	5	attr	_	ent_type=_|ent_id=2|ent_iob=O
+9	that	that	DET	WDT	_	11	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+10	was	be	AUX	VBD	_	11	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+11	required	require	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	wrest	wrest	VERB	VB	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	power	power	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	from	from	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	despotic	despotic	ADJ	JJ	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	oppressive	oppressive	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	bullying	bully	VERB	VBG	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	regime	regime	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	23	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	its	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	greedy	greedy	ADJ	JJ	_	23	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+28	immoral	immoral	ADJ	JJ	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	28	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	self	self	NOUN	NN	_	32	compound	_	ent_type=_|ent_id=2|ent_iob=O
+31	-	-	PUNCT	HYPH	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	seeking	seek	VERB	VBG	_	28	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	32	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	inhuman	inhuman	NOUN	NN	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	34	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	dependant	dependant	ADJ	JJ	_	38	amod	_	ent_type=_|ent_id=2|ent_iob=O
+38	rulers	ruler	NOUN	NNS	_	34	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 35
+# sent_len = 24
+# text = This fundamental transformation turned our country into a brave, vigilant, firmly determined society with free, honorable, and influential people.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	This	this	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	fundamental	fundamental	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	transformation	transformation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	turned	turn	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	country	country	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	into	into	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	brave	brave	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	vigilant	vigilant	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	firmly	firmly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+14	determined	determine	VERB	VBD	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	society	society	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	with	with	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	free	free	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	,	,	PUNCT	,	_	17	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	honorable	honorable	ADJ	JJ	_	17	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	influential	influential	ADJ	JJ	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	people	people	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 36
+# sent_len = 9
+# text = That was the great transformation which took place.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	great	great	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	transformation	transformation	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	which	which	DET	WDT	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	took	take	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	place	place	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 37
+# sent_len = 24
+# text = You see, hear, and read that all the world powers believe that Iran has a decisive role in various regional issues.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	see	see	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	,	,	PUNCT	,	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+4	hear	hear	VERB	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	read	read	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	all	all	DET	PDT	_	12	predet	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	world	world	NOUN	NN	_	12	compound	_	ent_type=_|ent_id=2|ent_iob=O
+12	powers	power	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	believe	believe	VERB	VBP	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	Iran	Iran	PROPN	NNP	_	16	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	has	have	AUX	VBZ	_	13	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	decisive	decisive	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	role	role	NOUN	NN	_	16	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	various	various	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	regional	regional	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	issues	issue	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 38
+# sent_len = 25
+# text = Even our archenemies accept that it is not possible to find or implement a solution to the Middle East issues without involving our country.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Even	even	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	archenemies	archenemie	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	accept	accept	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+6	it	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	4	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	7	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	possible	possible	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	to	to	PART	TO	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	find	find	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	or	or	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	implement	implement	VERB	VB	_	11	conj	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	solution	solution	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	to	to	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=LOC|ent_id=3|ent_iob=B
+18	Middle	Middle	PROPN	NNP	_	19	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+19	East	East	PROPN	NNP	_	20	compound	_	ent_type=LOC|ent_id=1|ent_iob=I
+20	issues	issue	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	without	without	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	involving	involve	VERB	VBG	_	21	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	our	-PRON-	DET	PRP$	_	24	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	country	country	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 39
+# sent_len = 63
+# text = This state of affairs is not comparable to the time when our country - with all its glorious history, with all its historical heritage, and with all its [courageous] people - was a simple pawn in the hands of domineering and colonial powers - they took advantage of our country the way they liked and ignored the public.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	This	this	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	state	state	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	affairs	affair	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	50	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	not	not	PART	RB	_	5	neg	_	ent_type=_|ent_id=2|ent_iob=O
+7	comparable	comparable	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	time	time	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	when	when	ADV	WRB	_	36	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+12	our	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+13	country	country	NOUN	NN	_	36	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	all	all	DET	PDT	_	19	predet	_	ent_type=_|ent_id=2|ent_iob=O
+17	its	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	glorious	glorious	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	history	history	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	with	with	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+22	all	all	DET	PDT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	its	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	historical	historical	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	heritage	heritage	NOUN	NN	_	21	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	with	with	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	all	all	DET	PDT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	its	-PRON-	DET	PRP$	_	34	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	[	[	PUNCT	-LRB-	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+32	courageous	courageous	ADJ	JJ	_	34	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	]	]	PUNCT	-RRB-	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	people	people	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	-	-	PUNCT	,	_	36	punct	_	ent_type=_|ent_id=2|ent_iob=O
+36	was	be	AUX	VBD	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+37	a	a	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	simple	simple	ADJ	JJ	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	pawn	pawn	NOUN	NN	_	36	attr	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	36	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	the	the	DET	DT	_	42	det	_	ent_type=_|ent_id=2|ent_iob=O
+42	hands	hand	NOUN	NNS	_	40	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	of	of	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	domineering	domineering	ADJ	JJ	_	47	amod	_	ent_type=_|ent_id=2|ent_iob=O
+45	and	and	CCONJ	CC	_	44	cc	_	ent_type=_|ent_id=2|ent_iob=O
+46	colonial	colonial	ADJ	JJ	_	44	conj	_	ent_type=_|ent_id=2|ent_iob=O
+47	powers	power	NOUN	NNS	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	-	-	PUNCT	:	_	50	punct	_	ent_type=_|ent_id=2|ent_iob=O
+49	they	-PRON-	PRON	PRP	_	50	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+50	took	take	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+51	advantage	advantage	NOUN	NN	_	50	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+52	of	of	ADP	IN	_	50	prep	_	ent_type=_|ent_id=2|ent_iob=O
+53	our	-PRON-	DET	PRP$	_	54	poss	_	ent_type=_|ent_id=2|ent_iob=O
+54	country	country	NOUN	NN	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+55	the	the	DET	DT	_	56	det	_	ent_type=_|ent_id=2|ent_iob=O
+56	way	way	NOUN	NN	_	50	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+57	they	-PRON-	PRON	PRP	_	58	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+58	liked	like	VERB	VBD	_	56	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+59	and	and	CCONJ	CC	_	58	cc	_	ent_type=_|ent_id=2|ent_iob=O
+60	ignored	ignore	VERB	VBD	_	58	conj	_	ent_type=_|ent_id=2|ent_iob=O
+61	the	the	DET	DT	_	62	det	_	ent_type=_|ent_id=2|ent_iob=O
+62	public	public	NOUN	NN	_	60	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+63	.	.	PUNCT	.	_	50	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 40
+# sent_len = 43
+# text = The present situation is not comparable to the time when domineering powers had absolute control over the country's economy and its resources (such as oil, mineral and human resources) and geopolitical position and used them as they wished.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	present	present	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	situation	situation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+6	comparable	comparable	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	time	time	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	when	when	ADV	WRB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+11	domineering	domineering	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	powers	power	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	had	have	AUX	VBD	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	absolute	absolute	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	control	control	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	over	over	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	country	country	NOUN	NN	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+19	's	's	PART	POS	_	18	case	_	ent_type=_|ent_id=2|ent_iob=O
+20	economy	economy	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	its	-PRON-	DET	PRP$	_	23	poss	_	ent_type=_|ent_id=2|ent_iob=O
+23	resources	resource	NOUN	NNS	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	(	(	PUNCT	-LRB-	_	23	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	such	such	ADJ	JJ	_	26	amod	_	ent_type=_|ent_id=2|ent_iob=O
+26	as	as	SCONJ	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	oil	oil	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	,	,	PUNCT	,	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+29	mineral	mineral	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	29	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	human	human	ADJ	JJ	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+32	resources	resource	NOUN	NNS	_	29	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	)	)	PUNCT	-RRB-	_	27	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	and	and	CCONJ	CC	_	27	cc	_	ent_type=_|ent_id=2|ent_iob=O
+35	geopolitical	geopolitical	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	position	position	NOUN	NN	_	27	conj	_	ent_type=_|ent_id=2|ent_iob=O
+37	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+38	used	use	VERB	VBD	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+39	them	-PRON-	PRON	PRP	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	as	as	SCONJ	IN	_	42	mark	_	ent_type=_|ent_id=2|ent_iob=O
+41	they	-PRON-	PRON	PRP	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+42	wished	wish	VERB	VBD	_	38	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+43	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 41
+# sent_len = 8
+# text = The Revolution brought about a fundamental transformation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Revolution	Revolution	PROPN	NNP	_	3	nsubj	_	ent_type=EVENT|ent_id=3|ent_iob=B
+3	brought	bring	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	about	about	ADP	RP	_	3	prt	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	fundamental	fundamental	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	transformation	transformation	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 42
+# sent_len = 10
+# text = Of course this transformation has other meanings as well.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	transformation	transformation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	has	have	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	other	other	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	meanings	meaning	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	as	as	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	well	well	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 43
+# sent_len = 20
+# text = A nation that enjoys such willpower is capable of turning such a political system into a favorable democratic system.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	A	a	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	enjoys	enjoy	VERB	VBZ	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	such	such	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	willpower	willpower	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	capable	capable	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	turning	turn	VERB	VBG	_	9	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	such	such	DET	PDT	_	14	predet	_	ent_type=_|ent_id=2|ent_iob=O
+12	a	a	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	political	political	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	system	system	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	into	into	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	favorable	favorable	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	democratic	democratic	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	system	system	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 44
+# sent_len = 22
+# text = Such a nation would undoubtedly succeed in its economic plans and in propagating its culture, human values, and ideology.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Such	such	DET	PDT	_	3	predet	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	would	would	VERB	MD	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	undoubtedly	undoubtedly	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	succeed	succeed	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	its	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	economic	economic	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	plans	plan	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	propagating	propagate	VERB	VBG	_	12	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	its	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	culture	culture	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	,	,	PUNCT	,	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	human	human	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	values	value	NOUN	NNS	_	15	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+20	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	ideology	ideology	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 45
+# sent_len = 9
+# text = And our nation did succeed in these areas.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	And	and	CCONJ	CC	_	5	cc	_	ent_type=_|ent_id=2|ent_iob=O
+2	our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	did	do	AUX	VBD	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	succeed	succeed	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	areas	area	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 46
+# sent_len = 26
+# text = That was the fundamental transformation that some of us failed to understand at that time - and some people still have difficulty understanding this transformation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	fundamental	fundamental	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	transformation	transformation	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	SCONJ	IN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	some	some	DET	DT	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	us	-PRON-	PRON	PRP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	failed	fail	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	understand	understand	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	at	at	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	that	that	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	time	time	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	-	-	PUNCT	:	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	some	some	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	people	people	NOUN	NNS	_	21	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	still	still	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	have	have	AUX	VBP	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+22	difficulty	difficulty	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	understanding	understand	VERB	VBG	_	22	acl	_	ent_type=_|ent_id=2|ent_iob=O
+24	this	this	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	transformation	transformation	NOUN	NN	_	23	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 47
+# sent_len = 42
+# text = When a nation is vigilant and realizes the value of its determination and when a nation realizes that no power can stop them from doing what they have decided to do, it is not possible to confront such a nation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	When	when	ADV	WRB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	vigilant	vigilant	ADJ	JJ	_	4	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	realizes	realize	VERB	VBZ	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	value	value	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	its	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	determination	determination	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	when	when	ADV	WRB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	nation	nation	NOUN	NN	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	realizes	realize	VERB	VBZ	_	34	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+18	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+19	no	no	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	power	power	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	can	can	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	stop	stop	VERB	VB	_	17	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+23	them	-PRON-	PRON	PRP	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	from	from	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	doing	do	VERB	VBG	_	24	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	what	what	PRON	WP	_	31	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	they	-PRON-	PRON	PRP	_	29	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+28	have	have	AUX	VBP	_	29	aux	_	ent_type=_|ent_id=2|ent_iob=O
+29	decided	decide	VERB	VBN	_	25	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+30	to	to	PART	TO	_	31	aux	_	ent_type=_|ent_id=2|ent_iob=O
+31	do	do	AUX	VB	_	29	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+32	,	,	PUNCT	,	_	34	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	it	-PRON-	PRON	PRP	_	34	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+34	is	be	AUX	VBZ	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	not	not	PART	RB	_	34	neg	_	ent_type=_|ent_id=2|ent_iob=O
+36	possible	possible	ADJ	JJ	_	34	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+37	to	to	PART	TO	_	38	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	confront	confront	VERB	VB	_	34	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+39	such	such	DET	PDT	_	41	predet	_	ent_type=_|ent_id=2|ent_iob=O
+40	a	a	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	nation	nation	NOUN	NN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 48
+# sent_len = 20
+# text = Superpowers - whose only goal is to dominate and bully other nations - do not want to accept this.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Superpowers	superpower	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	-	-	PUNCT	:	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	whose	whose	DET	WP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	only	only	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	goal	goal	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	is	be	AUX	VBZ	_	1	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	dominate	dominate	VERB	VB	_	6	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	bully	bully	ADV	RB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	other	other	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	nations	nation	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	-	-	PUNCT	:	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+14	do	do	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	want	want	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	accept	accept	VERB	VB	_	16	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	this	this	DET	DT	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 49
+# sent_len = 16
+# text = Superpowers may impose some penalties on that nation, but they cannot dominate it.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Superpowers	superpower	NOUN	NNS	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	may	may	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	impose	impose	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	some	some	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	penalties	penalty	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	on	on	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	that	that	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	they	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	can	can	VERB	MD	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	not	not	PART	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	dominate	dominate	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	it	-PRON-	PRON	PRP	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 50
+# sent_len = 8
+# text = They cannot enslave such a nation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	enslave	enslave	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	such	such	DET	PDT	_	7	predet	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	nation	nation	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 51
+# sent_len = 11
+# text = They cannot impose their opinions and will on it.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	can	can	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	impose	impose	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	opinions	opinion	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	it	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 52
+# sent_len = 10
+# text = The superpowers still have a hard time understanding this.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	superpowers	superpower	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	still	still	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	hard	hard	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	time	time	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	understanding	understand	VERB	VBG	_	7	acl	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 53
+# sent_len = 13
+# text = It is 30 years now since the beginning of this fundamental transformation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	30	30	NUM	CD	_	4	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+4	years	year	NOUN	NNS	_	2	attr	_	ent_type=DATE|ent_id=1|ent_iob=I
+5	now	now	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	since	since	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	beginning	beginning	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	this	this	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	fundamental	fundamental	ADJ	JJ	_	12	amod	_	ent_type=_|ent_id=2|ent_iob=O
+12	transformation	transformation	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 54
+# sent_len = 27
+# text = The enemies of the Iranian nation and the Islamic Republic have employed various methods in the vain hope that they will regain control over our nation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemies	enemy	NOUN	NNS	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nation	nation	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+9	Islamic	Islamic	PROPN	NNP	_	10	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+10	Republic	Republic	PROPN	NNP	_	6	conj	_	ent_type=GPE|ent_id=1|ent_iob=I
+11	have	have	AUX	VBP	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	employed	employ	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+13	various	various	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	methods	method	NOUN	NNS	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	vain	vain	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	hope	hope	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	SCONJ	IN	_	22	mark	_	ent_type=_|ent_id=2|ent_iob=O
+20	they	-PRON-	PRON	PRP	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	will	will	VERB	MD	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	regain	regain	VERB	VB	_	14	acl	_	ent_type=_|ent_id=2|ent_iob=O
+23	control	control	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	over	over	ADP	IN	_	23	prep	_	ent_type=_|ent_id=2|ent_iob=O
+25	our	-PRON-	DET	PRP$	_	26	poss	_	ent_type=_|ent_id=2|ent_iob=O
+26	nation	nation	NOUN	NN	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	.	.	PUNCT	.	_	12	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 55
+# sent_len = 17
+# text = They had absolute control over our country for several decades and refused to relinquish this control.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	had	have	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	absolute	absolute	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	control	control	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	over	over	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	our	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	country	country	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	for	for	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	several	several	ADJ	JJ	_	10	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+10	decades	decade	NOUN	NNS	_	8	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	refused	refuse	VERB	VBD	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	to	to	PART	TO	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	relinquish	relinquish	VERB	VB	_	12	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	control	control	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 56
+# sent_len = 13
+# text = Now they hope to re-establish their domination over our nation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Now	now	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	they	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	re	re	VERB	VB	_	6	dep	_	ent_type=_|ent_id=2|ent_iob=O
+6	-	-	VERB	VB	_	7	dep	_	ent_type=_|ent_id=2|ent_iob=O
+7	establish	establish	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	their	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	domination	domination	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	over	over	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	nation	nation	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 57
+# sent_len = 13
+# text = That is the Islamic Republic's problem with its powerful enemies today.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+5	Republic	Republic	PROPN	NNP	_	7	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+6	's	's	PART	POS	_	5	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+7	problem	problem	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+8	with	with	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	its	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	powerful	powerful	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	enemies	enemy	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	today	today	NOUN	NN	_	7	npadvmod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 58
+# sent_len = 10
+# text = Our nuclear energy or missile programs are just pretexts.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Our	-PRON-	DET	PRP$	_	3	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nuclear	nuclear	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	energy	energy	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	or	or	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	missile	missile	NOUN	NN	_	6	compound	_	ent_type=_|ent_id=2|ent_iob=O
+6	programs	program	NOUN	NNS	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	just	just	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	pretexts	pretext	NOUN	NNS	_	7	attr	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 59
+# sent_len = 15
+# text = The problem lies somewhere else: A nation has managed to fight foreign domination.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	problem	problem	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	lies	lie	VERB	VBZ	_	10	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	somewhere	somewhere	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+5	else	else	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	:	:	PUNCT	:	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	A	a	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	nation	nation	NOUN	NN	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	has	have	AUX	VBZ	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	managed	manage	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+11	to	to	PART	TO	_	12	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	fight	fight	VERB	VB	_	10	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+13	foreign	foreign	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	domination	domination	NOUN	NN	_	12	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 60
+# sent_len = 8
+# text = They seek to regain control over us.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	seek	seek	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	regain	regain	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	control	control	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	over	over	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	us	-PRON-	PRON	PRP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 61
+# sent_len = 20
+# text = They have been unsuccessful so far and they will not mange to dominate our nation in the future either.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	unsuccessful	unsuccessful	ADJ	JJ	_	3	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	so	so	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	far	far	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	and	and	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+8	they	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	will	will	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	mange	mange	VERB	VB	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	to	to	PART	TO	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	dominate	dominate	VERB	VB	_	11	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	our	-PRON-	DET	PRP$	_	15	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	nation	nation	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	future	future	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	either	either	ADV	RB	_	11	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 62
+# sent_len = 29
+# text = Out of the different sanctions that they have imposed on our country for many consecutive years, the Omid satellite suddenly came out and was launched into space.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Out	out	SCONJ	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	different	different	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	sanctions	sanction	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	have	have	AUX	VBP	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	imposed	impose	VERB	VBN	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	our	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	country	country	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	for	for	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	many	many	ADJ	JJ	_	16	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+15	consecutive	consecutive	ADJ	JJ	_	16	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+16	years	year	NOUN	NNS	_	13	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+17	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	Omid	Omid	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	satellite	satellite	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	suddenly	suddenly	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	came	come	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	out	out	ADP	RP	_	22	prt	_	ent_type=_|ent_id=2|ent_iob=O
+24	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+25	was	be	AUX	VBD	_	26	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+26	launched	launch	VERB	VBN	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+27	into	into	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	space	space	NOUN	NN	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 63
+# sent_len = 47
+# text = Out of all the restrictions that they imposed on us, suddenly there emerged the capability to enrich uranium, which is supposed to be an exclusive right monopolized by superpowers - a technology which must not be used anywhere in the world without their permission.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Out	out	SCONJ	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	all	all	DET	PDT	_	5	predet	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	restrictions	restriction	NOUN	NNS	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	that	that	DET	WDT	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	they	-PRON-	PRON	PRP	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	imposed	impose	VERB	VBD	_	5	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+9	on	on	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	us	-PRON-	PRON	PRP	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	suddenly	suddenly	ADV	RB	_	14	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	there	there	PRON	EX	_	14	expl	_	ent_type=_|ent_id=2|ent_iob=O
+14	emerged	emerge	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	capability	capability	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	PART	TO	_	18	aux	_	ent_type=_|ent_id=2|ent_iob=O
+18	enrich	enrich	VERB	VB	_	16	acl	_	ent_type=_|ent_id=2|ent_iob=O
+19	uranium	uranium	NOUN	NN	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	,	,	PUNCT	,	_	19	punct	_	ent_type=_|ent_id=2|ent_iob=O
+21	which	which	DET	WDT	_	23	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	is	be	AUX	VBZ	_	23	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+23	supposed	suppose	VERB	VBN	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	PART	TO	_	25	aux	_	ent_type=_|ent_id=2|ent_iob=O
+25	be	be	AUX	VB	_	23	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+26	an	an	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	exclusive	exclusive	ADJ	JJ	_	28	amod	_	ent_type=_|ent_id=2|ent_iob=O
+28	right	right	NOUN	NN	_	25	attr	_	ent_type=_|ent_id=2|ent_iob=O
+29	monopolized	monopolize	VERB	VBN	_	28	acl	_	ent_type=_|ent_id=2|ent_iob=O
+30	by	by	ADP	IN	_	29	agent	_	ent_type=_|ent_id=2|ent_iob=O
+31	superpowers	superpower	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	-	-	PUNCT	:	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	a	a	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	technology	technology	NOUN	NN	_	31	appos	_	ent_type=_|ent_id=2|ent_iob=O
+35	which	which	DET	WDT	_	39	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+36	must	must	VERB	MD	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+37	not	not	PART	RB	_	39	neg	_	ent_type=_|ent_id=2|ent_iob=O
+38	be	be	AUX	VB	_	39	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+39	used	use	VERB	VBN	_	34	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+40	anywhere	anywhere	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+41	in	in	ADP	IN	_	40	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	the	the	DET	DT	_	43	det	_	ent_type=_|ent_id=2|ent_iob=O
+43	world	world	NOUN	NN	_	41	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+44	without	without	ADP	IN	_	39	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	their	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+46	permission	permission	NOUN	NN	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 64
+# sent_len = 18
+# text = It shows that the enemies have been unsuccessful and that their sanctions and threats have proven ineffective.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	shows	show	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	7	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemies	enemy	NOUN	NNS	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	been	be	AUX	VBN	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	unsuccessful	unsuccessful	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	12	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	sanctions	sanction	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	12	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	threats	threat	NOUN	NNS	_	12	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	have	have	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	proven	prove	VERB	VBN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+17	ineffective	ineffective	ADJ	JJ	_	16	oprd	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 65
+# sent_len = 3
+# text = How come?
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	How	how	ADV	WRB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	come	come	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	?	?	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 66
+# sent_len = 19
+# text = That is because our nation has so far preserved its determination which is based on deep religious faith.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	because	because	SCONJ	IN	_	9	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	nation	nation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	has	have	AUX	VBZ	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	so	so	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	far	far	ADV	RB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	preserved	preserve	VERB	VBN	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	its	-PRON-	DET	PRP$	_	11	poss	_	ent_type=_|ent_id=2|ent_iob=O
+11	determination	determination	NOUN	NN	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	which	which	DET	WDT	_	14	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+13	is	be	AUX	VBZ	_	14	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	based	base	VERB	VBN	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	on	on	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	deep	deep	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	religious	religious	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	faith	faith	NOUN	NN	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 67
+# sent_len = 13
+# text = Our nation is making progress and the enemies cannot stop us.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Our	-PRON-	DET	PRP$	_	2	poss	_	ent_type=_|ent_id=2|ent_iob=O
+2	nation	nation	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	is	be	AUX	VBZ	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	making	make	VERB	VBG	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	progress	progress	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	enemies	enemy	NOUN	NNS	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+9	can	can	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	not	not	PART	RB	_	11	neg	_	ent_type=_|ent_id=2|ent_iob=O
+11	stop	stop	VERB	VB	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	us	-PRON-	PRON	PRP	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 68
+# sent_len = 42
+# text = While the well-equipped, modern propaganda machines of these superpowers are broadcasting against the Islamic Republic and the Islamic movement, the propagation of this idea [the revolution] led to the events that took place in Gaza.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	While	while	SCONJ	IN	_	14	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	well	well	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	-	-	PUNCT	HYPH	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+5	equipped	equip	VERB	VBN	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+7	modern	modern	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	propaganda	propaganda	NOUN	NN	_	9	compound	_	ent_type=_|ent_id=2|ent_iob=O
+9	machines	machine	NOUN	NNS	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	these	these	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	superpowers	superpower	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	14	aux	_	ent_type=_|ent_id=2|ent_iob=O
+14	broadcasting	broadcast	VERB	VBG	_	33	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	against	against	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+17	Islamic	Islamic	PROPN	NNP	_	18	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	Republic	Republic	PROPN	NNP	_	15	pobj	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	Islamic	islamic	ADJ	JJ	_	22	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+22	movement	movement	NOUN	NN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	propagation	propagation	NOUN	NN	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+26	of	of	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	this	this	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	idea	idea	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	[	[	PUNCT	-LRB-	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+31	revolution	revolution	NOUN	NN	_	25	appos	_	ent_type=_|ent_id=2|ent_iob=O
+32	]	]	PUNCT	-RRB-	_	31	punct	_	ent_type=_|ent_id=2|ent_iob=O
+33	led	lead	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+34	to	to	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	the	the	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	events	event	NOUN	NNS	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	that	that	DET	WDT	_	38	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	took	take	VERB	VBD	_	36	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+39	place	place	NOUN	NN	_	38	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	in	in	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+41	Gaza	Gaza	PROPN	NNP	_	40	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+42	.	.	PUNCT	.	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 69
+# sent_len = 25
+# text = Such a small group, living in a small geographical area, stood against a government that considers itself among the top world powers.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Such	such	DET	PDT	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	small	small	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	group	group	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	living	live	VERB	VBG	_	4	acl	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	small	small	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	geographical	geographical	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	area	area	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	stood	stand	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+14	against	against	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	a	a	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	government	government	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	that	that	DET	WDT	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+18	considers	consider	VERB	VBZ	_	16	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+19	itself	-PRON-	PRON	PRP	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	among	among	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	top	top	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	world	world	NOUN	NN	_	24	compound	_	ent_type=_|ent_id=2|ent_iob=O
+24	powers	power	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	.	.	PUNCT	.	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 70
+# sent_len = 18
+# text = That enemy used all its facilities to dominate this nation, but it failed to do so.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enemy	enemy	NOUN	NN	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	all	all	DET	PDT	_	6	predet	_	ent_type=_|ent_id=2|ent_iob=O
+5	its	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	facilities	facility	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	PART	TO	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	dominate	dominate	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	this	this	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	nation	nation	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	but	but	CCONJ	CC	_	3	cc	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	failed	fail	VERB	VBD	_	3	conj	_	ent_type=_|ent_id=2|ent_iob=O
+15	to	to	PART	TO	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+16	do	do	AUX	VB	_	14	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+17	so	so	ADV	RB	_	16	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	14	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 71
+# sent_len = 6
+# text = That is no mean achievement.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	no	no	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	mean	mean	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	achievement	achievement	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 72
+# sent_len = 15
+# text = The events in Gaza were preceded by the events in Lebanon two years ago.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	events	event	NOUN	NNS	_	6	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	Gaza	Gaza	PROPN	NNP	_	3	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+5	were	be	AUX	VBD	_	6	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+6	preceded	precede	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	by	by	ADP	IN	_	6	agent	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	events	event	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Lebanon	Lebanon	PROPN	NNP	_	10	pobj	_	ent_type=GPE|ent_id=3|ent_iob=B
+12	two	two	NUM	CD	_	13	nummod	_	ent_type=DATE|ent_id=3|ent_iob=B
+13	years	year	NOUN	NNS	_	14	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	ago	ago	ADV	RB	_	6	advmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 73
+# sent_len = 17
+# text = The Zionist regime used all its facilities and Americans provided weapons for it at that time.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Zionist	zionist	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	regime	regime	NOUN	NN	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	used	use	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	all	all	DET	PDT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	its	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	facilities	facility	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	Americans	Americans	PROPN	NNPS	_	7	conj	_	ent_type=NORP|ent_id=3|ent_iob=B
+10	provided	provide	VERB	VBD	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	weapons	weapon	NOUN	NNS	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	for	for	ADP	IN	_	10	dative	_	ent_type=_|ent_id=2|ent_iob=O
+13	it	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	at	at	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	time	time	NOUN	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 74
+# sent_len = 49
+# text = Although Israel itself is a manufacturer of bombs and an exporter of military equipment, the US provided it with military equipment during the 33-day war to help it defeat some determined and faithful youth - who were defending their country - but they could not do that.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Although	although	SCONJ	IN	_	4	mark	_	ent_type=_|ent_id=2|ent_iob=O
+2	Israel	Israel	PROPN	NNP	_	4	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+3	itself	-PRON-	PRON	PRP	_	2	appos	_	ent_type=_|ent_id=2|ent_iob=O
+4	is	be	AUX	VBZ	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+5	a	a	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	manufacturer	manufacturer	NOUN	NN	_	4	attr	_	ent_type=_|ent_id=2|ent_iob=O
+7	of	of	ADP	IN	_	6	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	bombs	bomb	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	6	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	an	an	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	exporter	exporter	NOUN	NN	_	6	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	military	military	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	equipment	equipment	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	US	US	PROPN	NNP	_	18	nsubj	_	ent_type=GPE|ent_id=3|ent_iob=B
+18	provided	provide	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+19	it	-PRON-	PRON	PRP	_	18	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	with	with	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	military	military	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	equipment	equipment	NOUN	NN	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	during	during	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	26	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	33-day	33-day	NUM	CD	_	26	nummod	_	ent_type=_|ent_id=2|ent_iob=O
+26	war	war	NOUN	NN	_	23	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	PART	TO	_	28	aux	_	ent_type=_|ent_id=2|ent_iob=O
+28	help	help	VERB	VB	_	18	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+29	it	-PRON-	PRON	PRP	_	30	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+30	defeat	defeat	VERB	VB	_	28	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+31	some	some	DET	DT	_	35	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	determined	determined	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+33	and	and	CCONJ	CC	_	32	cc	_	ent_type=_|ent_id=2|ent_iob=O
+34	faithful	faithful	ADJ	JJ	_	32	conj	_	ent_type=_|ent_id=2|ent_iob=O
+35	youth	youth	NOUN	NN	_	30	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	-	-	PUNCT	:	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+37	who	who	PRON	WP	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+38	were	be	AUX	VBD	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+39	defending	defend	VERB	VBG	_	35	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+40	their	-PRON-	DET	PRP$	_	41	poss	_	ent_type=_|ent_id=2|ent_iob=O
+41	country	country	NOUN	NN	_	39	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	-	-	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+43	but	but	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+44	they	-PRON-	PRON	PRP	_	47	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+45	could	could	VERB	MD	_	47	aux	_	ent_type=_|ent_id=2|ent_iob=O
+46	not	not	PART	RB	_	47	neg	_	ent_type=_|ent_id=2|ent_iob=O
+47	do	do	AUX	VB	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+48	that	that	DET	DT	_	47	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+49	.	.	PUNCT	.	_	47	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 75
+# sent_len = 5
+# text = Are these feats trivial?
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+2	these	these	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	feats	feat	NOUN	NNS	_	1	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	trivial	trivial	ADJ	JJ	_	1	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	?	?	PUNCT	.	_	1	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 76
+# sent_len = 14
+# text = All of these have helped change the balance of power in the world.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	All	all	DET	DT	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	of	of	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+3	these	these	DET	DT	_	2	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	have	have	AUX	VBP	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	helped	help	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	change	change	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	balance	balance	NOUN	NN	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	of	of	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+10	power	power	NOUN	NN	_	9	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 77
+# sent_len = 31
+# text = The unfair balance of power in the world - in which the world is divided into the dominant and the dominated - has changed as a result of these events.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	unfair	unfair	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	balance	balance	NOUN	NN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	power	power	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	world	world	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	-	-	PUNCT	,	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	in	in	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	which	which	DET	WDT	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	15	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+14	is	be	AUX	VBZ	_	15	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	divided	divide	VERB	VBN	_	3	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	into	into	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	dominant	dominant	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	dominated	dominate	VERB	VBN	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	-	-	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+23	has	have	AUX	VBZ	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	changed	change	VERB	VBN	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	as	as	SCONJ	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	result	result	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	of	of	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+29	these	these	DET	DT	_	30	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	events	event	NOUN	NNS	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+31	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 78
+# sent_len = 53
+# text = After the advent of colonialism in the 17th and 18th century, the world got used to the situation in which a limited number of governments had full control over the fate of other governments and nations throughout the world by relying on their military power, and not their ethical power.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	After	after	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	the	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	advent	advent	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	colonialism	colonialism	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	11	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+8	17th	17th	ADJ	JJ	_	11	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=DATE|ent_id=1|ent_iob=I
+10	18th	18th	ADJ	JJ	_	8	conj	_	ent_type=DATE|ent_id=1|ent_iob=I
+11	century	century	NOUN	NN	_	6	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	world	world	NOUN	NN	_	16	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+15	got	get	VERB	VBD	_	16	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+16	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	to	to	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	situation	situation	NOUN	NN	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	which	which	DET	WDT	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	a	a	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	limited	limited	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	number	number	NOUN	NN	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	governments	government	NOUN	NNS	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	had	have	AUX	VBD	_	19	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	full	full	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	control	control	NOUN	NN	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	over	over	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	fate	fate	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	of	of	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	other	other	ADJ	JJ	_	35	amod	_	ent_type=_|ent_id=2|ent_iob=O
+35	governments	government	NOUN	NNS	_	33	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+36	and	and	CCONJ	CC	_	35	cc	_	ent_type=_|ent_id=2|ent_iob=O
+37	nations	nation	NOUN	NNS	_	35	conj	_	ent_type=_|ent_id=2|ent_iob=O
+38	throughout	throughout	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	the	the	DET	DT	_	40	det	_	ent_type=_|ent_id=2|ent_iob=O
+40	world	world	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+41	by	by	ADP	IN	_	27	prep	_	ent_type=_|ent_id=2|ent_iob=O
+42	relying	rely	VERB	VBG	_	41	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+43	on	on	ADP	IN	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+44	their	-PRON-	DET	PRP$	_	46	poss	_	ent_type=_|ent_id=2|ent_iob=O
+45	military	military	ADJ	JJ	_	46	amod	_	ent_type=_|ent_id=2|ent_iob=O
+46	power	power	NOUN	NN	_	43	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+48	and	and	CCONJ	CC	_	42	cc	_	ent_type=_|ent_id=2|ent_iob=O
+49	not	not	PART	RB	_	52	neg	_	ent_type=_|ent_id=2|ent_iob=O
+50	their	-PRON-	DET	PRP$	_	52	poss	_	ent_type=_|ent_id=2|ent_iob=O
+51	ethical	ethical	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+52	power	power	NOUN	NN	_	42	conj	_	ent_type=_|ent_id=2|ent_iob=O
+53	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 79
+# sent_len = 23
+# text = Sometimes a certain government gains natural influence among other nations or governments as a result of its ethical appeal or intellectual power.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Sometimes	sometimes	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	certain	certain	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	government	government	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	gains	gain	VERB	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	natural	natural	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	influence	influence	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	among	among	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	nations	nation	NOUN	NNS	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	or	or	CCONJ	CC	_	10	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	governments	government	NOUN	NNS	_	10	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	as	as	SCONJ	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	a	a	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	result	result	NOUN	NN	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	its	-PRON-	DET	PRP$	_	19	poss	_	ent_type=_|ent_id=2|ent_iob=O
+18	ethical	ethical	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	appeal	appeal	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	or	or	CCONJ	CC	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+21	intellectual	intellectual	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	power	power	NOUN	NN	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 80
+# sent_len = 8
+# text = That was not the case with colonialism.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	2	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	case	case	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+6	with	with	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	colonialism	colonialism	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 81
+# sent_len = 18
+# text = The influence that colonialism gained was due to the terror it struck into the hearts of nations.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	influence	influence	NOUN	NN	_	6	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	DET	WDT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	colonialism	colonialism	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	gained	gain	VERB	VBD	_	2	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	due	due	ADJ	JJ	_	6	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	terror	terror	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	it	-PRON-	PRON	PRP	_	12	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	struck	strike	VERB	VBD	_	10	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+13	into	into	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+15	hearts	heart	NOUN	NNS	_	13	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	nations	nation	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 82
+# sent_len = 8
+# text = It was due to its military power.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	It	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	due	due	ADJ	JJ	_	2	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	its	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	military	military	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	power	power	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 83
+# sent_len = 48
+# text = The world was used to the situation in which a number of people held this power and the rest of the nations and governments yielded to their power: depending on their intelligence, some of the dominated governments and nations were better off than the others.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	world	world	NOUN	NN	_	4	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+3	was	be	AUX	VBD	_	4	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+4	used	use	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	situation	situation	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	14	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	which	which	DET	WDT	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	a	a	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	number	number	NOUN	NN	_	14	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	people	people	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	held	hold	VERB	VBN	_	7	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+15	this	this	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+16	power	power	NOUN	NN	_	14	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	and	and	CCONJ	CC	_	16	cc	_	ent_type=_|ent_id=2|ent_iob=O
+18	the	the	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+19	rest	rest	NOUN	NN	_	16	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	of	of	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+22	nations	nation	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	governments	government	NOUN	NNS	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	yielded	yield	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	to	to	ADP	IN	_	25	prep	_	ent_type=_|ent_id=2|ent_iob=O
+27	their	-PRON-	DET	PRP$	_	28	poss	_	ent_type=_|ent_id=2|ent_iob=O
+28	power	power	NOUN	NN	_	26	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	:	:	PUNCT	:	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	depending	depend	VERB	VBG	_	42	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	on	on	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	their	-PRON-	DET	PRP$	_	33	poss	_	ent_type=_|ent_id=2|ent_iob=O
+33	intelligence	intelligence	NOUN	NN	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	,	,	PUNCT	,	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+35	some	some	DET	DT	_	42	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+36	of	of	ADP	IN	_	35	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	39	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	dominated	dominate	VERB	VBN	_	39	amod	_	ent_type=_|ent_id=2|ent_iob=O
+39	governments	government	NOUN	NNS	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+40	and	and	CCONJ	CC	_	39	cc	_	ent_type=_|ent_id=2|ent_iob=O
+41	nations	nation	NOUN	NNS	_	39	conj	_	ent_type=_|ent_id=2|ent_iob=O
+42	were	be	AUX	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+43	better	well	ADJ	JJR	_	44	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+44	off	off	ADP	RP	_	42	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+45	than	than	SCONJ	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	the	the	DET	DT	_	47	det	_	ent_type=_|ent_id=2|ent_iob=O
+47	others	other	NOUN	NNS	_	45	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+48	.	.	PUNCT	.	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 84
+# sent_len = 18
+# text = They were like servants and slaves some of whom could get some food while others went hungry.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	were	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	servants	servant	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	slaves	slave	NOUN	NNS	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+7	some	some	DET	DT	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	of	of	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	whom	whom	PRON	WP	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	could	could	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	get	get	AUX	VB	_	6	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	some	some	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	food	food	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	while	while	SCONJ	IN	_	16	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	others	other	NOUN	NNS	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+16	went	go	VERB	VBD	_	11	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+17	hungry	hungry	ADJ	JJ	_	16	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 85
+# sent_len = 12
+# text = The Islamic Revolution put an end to this state of affairs.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+3	Revolution	Revolution	PROPN	NNP	_	4	nsubj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+4	put	put	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	an	an	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	end	end	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	to	to	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	this	this	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	state	state	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	affairs	affair	NOUN	NNS	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 86
+# sent_len = 16
+# text = People realized that the domineering powers did not necessarily have the last word on everything.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	People	People	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	realized	realize	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	domineering	domineering	ADJ	JJ	_	6	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	powers	power	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	did	do	AUX	VBD	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	not	not	PART	RB	_	10	neg	_	ent_type=_|ent_id=2|ent_iob=O
+9	necessarily	necessarily	ADV	RB	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	last	last	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	word	word	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	on	on	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	everything	everything	PRON	NN	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 87
+# sent_len = 14
+# text = They realized that nations and their faith and determination have the last word.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	realized	realize	VERB	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	that	that	SCONJ	IN	_	10	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	nations	nation	NOUN	NNS	_	10	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	their	-PRON-	DET	PRP$	_	7	poss	_	ent_type=_|ent_id=2|ent_iob=O
+7	faith	faith	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	and	and	CCONJ	CC	_	7	cc	_	ent_type=_|ent_id=2|ent_iob=O
+9	determination	determination	NOUN	NN	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	have	have	AUX	VBP	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	last	last	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	word	word	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 88
+# sent_len = 10
+# text = That was what the Iranian nation taught the world.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	what	what	PRON	WP	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	6	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Iranian	iranian	ADJ	JJ	_	6	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+6	nation	nation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	taught	teach	VERB	VBD	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	world	world	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 89
+# sent_len = 14
+# text = Of course the Islamic Revolution was not the only revolution in the world.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Of	of	ADV	RB	_	2	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	course	course	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	5	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+4	Islamic	Islamic	PROPN	NNP	_	5	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+5	Revolution	Revolution	PROPN	NNP	_	6	nsubj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+6	was	be	AUX	VBD	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+7	not	not	PART	RB	_	6	neg	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	only	only	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	revolution	revolution	NOUN	NN	_	6	attr	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	world	world	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	6	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 90
+# sent_len = 49
+# text = However, if you take a look at the history of different revolutions - including the French Revolution as well as the revolutions that occurred before and after it - you will realize that no revolution has ever managed to maintain its original principles for several consecutive decades.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	However	however	ADV	RB	_	33	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	,	,	PUNCT	,	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+3	if	if	SCONJ	IN	_	5	mark	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	take	take	VERB	VBP	_	33	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+6	a	a	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	look	look	NOUN	NN	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	at	at	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	history	history	NOUN	NN	_	8	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	of	of	ADP	IN	_	10	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	different	different	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	revolutions	revolution	NOUN	NNS	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	-	-	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+15	including	include	VERB	VBG	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	18	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+17	French	French	PROPN	NNP	_	18	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+18	Revolution	Revolution	PROPN	NNP	_	15	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+19	as	as	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+20	well	well	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	as	as	SCONJ	IN	_	18	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	23	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	revolutions	revolution	NOUN	NNS	_	18	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	that	that	DET	WDT	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	occurred	occur	VERB	VBD	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	before	before	ADP	IN	_	25	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	after	after	ADP	IN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	it	-PRON-	PRON	PRP	_	28	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	-	-	PUNCT	:	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	you	-PRON-	PRON	PRP	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	will	will	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	realize	realize	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+34	that	that	SCONJ	IN	_	39	mark	_	ent_type=_|ent_id=2|ent_iob=O
+35	no	no	DET	DT	_	36	det	_	ent_type=_|ent_id=2|ent_iob=O
+36	revolution	revolution	NOUN	NN	_	39	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+37	has	have	AUX	VBZ	_	39	aux	_	ent_type=_|ent_id=2|ent_iob=O
+38	ever	ever	ADV	RB	_	39	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+39	managed	manage	VERB	VBN	_	33	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+40	to	to	PART	TO	_	41	aux	_	ent_type=_|ent_id=2|ent_iob=O
+41	maintain	maintain	VERB	VB	_	39	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+42	its	-PRON-	DET	PRP$	_	44	poss	_	ent_type=_|ent_id=2|ent_iob=O
+43	original	original	ADJ	JJ	_	44	amod	_	ent_type=_|ent_id=2|ent_iob=O
+44	principles	principle	NOUN	NNS	_	41	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+45	for	for	ADP	IN	_	44	prep	_	ent_type=_|ent_id=2|ent_iob=O
+46	several	several	ADJ	JJ	_	48	amod	_	ent_type=DATE|ent_id=3|ent_iob=B
+47	consecutive	consecutive	ADJ	JJ	_	48	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+48	decades	decade	NOUN	NNS	_	45	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+49	.	.	PUNCT	.	_	33	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 91
+# sent_len = 35
+# text = The Islamic Revolution has been unparalleled in that no revolution has ever maintained its original principles, moved on its original path, refused to yield to different powers, and kept making progress.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+2	Islamic	Islamic	PROPN	NNP	_	3	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+3	Revolution	Revolution	PROPN	NNP	_	5	nsubj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+4	has	have	AUX	VBZ	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	unparalleled	unparalleled	ADJ	JJ	_	5	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	no	no	DET	DT	_	10	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	revolution	revolution	NOUN	NN	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	has	have	AUX	VBZ	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+12	ever	ever	ADV	RB	_	13	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+13	maintained	maintain	VERB	VBN	_	5	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+14	its	-PRON-	DET	PRP$	_	16	poss	_	ent_type=_|ent_id=2|ent_iob=O
+15	original	original	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	principles	principle	NOUN	NNS	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	moved	move	VERB	VBD	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+19	on	on	ADP	IN	_	18	prep	_	ent_type=_|ent_id=2|ent_iob=O
+20	its	-PRON-	DET	PRP$	_	22	poss	_	ent_type=_|ent_id=2|ent_iob=O
+21	original	original	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	path	path	NOUN	NN	_	19	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+23	,	,	PUNCT	,	_	18	punct	_	ent_type=_|ent_id=2|ent_iob=O
+24	refused	refuse	VERB	VBD	_	5	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	to	to	PART	TO	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	yield	yield	VERB	VB	_	24	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+27	to	to	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	different	different	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	powers	power	NOUN	NNS	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	,	,	PUNCT	,	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+31	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+32	kept	keep	VERB	VBD	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+33	making	make	VERB	VBG	_	32	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+34	progress	progress	NOUN	NN	_	33	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 92
+# sent_len = 8
+# text = That is the prescription for the future.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	That	that	DET	DT	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	the	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	prescription	prescription	NOUN	NN	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	for	for	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	future	future	NOUN	NN	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 93
+# sent_len = 66
+# text = You as well as the entire Iranian nation know that the only way to achieve final victory is to keep treading the straight path of faith in God, in your capabilities, in national power, in national self-confidence, in all types of sincere efforts - such as scientific and practical efforts and military action whenever necessary - and in jihad.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	as	as	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	well	well	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	as	as	SCONJ	IN	_	1	cc	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	entire	entire	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	Iranian	iranian	ADJ	JJ	_	8	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	nation	nation	NOUN	NN	_	1	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	know	know	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	that	that	SCONJ	IN	_	18	mark	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	only	only	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	way	way	NOUN	NN	_	18	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	to	to	PART	TO	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	achieve	achieve	VERB	VB	_	13	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+16	final	final	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	victory	victory	NOUN	NN	_	15	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	is	be	AUX	VBZ	_	9	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	keep	keep	VERB	VB	_	18	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+21	treading	tread	VERB	VBG	_	20	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+22	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+23	straight	straight	ADJ	JJ	_	24	amod	_	ent_type=_|ent_id=2|ent_iob=O
+24	path	path	NOUN	NN	_	21	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	faith	faith	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	26	prep	_	ent_type=_|ent_id=2|ent_iob=O
+28	God	God	PROPN	NNP	_	27	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	your	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	capabilities	capability	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+34	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+35	national	national	ADJ	JJ	_	36	amod	_	ent_type=_|ent_id=2|ent_iob=O
+36	power	power	NOUN	NN	_	34	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	,	,	PUNCT	,	_	21	punct	_	ent_type=_|ent_id=2|ent_iob=O
+38	in	in	ADP	IN	_	21	prep	_	ent_type=_|ent_id=2|ent_iob=O
+39	national	national	ADJ	JJ	_	42	amod	_	ent_type=_|ent_id=2|ent_iob=O
+40	self	self	NOUN	NN	_	42	compound	_	ent_type=_|ent_id=2|ent_iob=O
+41	-	-	PUNCT	HYPH	_	42	punct	_	ent_type=_|ent_id=2|ent_iob=O
+42	confidence	confidence	NOUN	NN	_	38	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+43	,	,	PUNCT	,	_	20	punct	_	ent_type=_|ent_id=2|ent_iob=O
+44	in	in	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+45	all	all	DET	DT	_	46	det	_	ent_type=_|ent_id=2|ent_iob=O
+46	types	type	NOUN	NNS	_	44	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+47	of	of	ADP	IN	_	46	prep	_	ent_type=_|ent_id=2|ent_iob=O
+48	sincere	sincere	ADJ	JJ	_	49	amod	_	ent_type=_|ent_id=2|ent_iob=O
+49	efforts	effort	NOUN	NNS	_	47	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+50	-	-	PUNCT	,	_	49	punct	_	ent_type=_|ent_id=2|ent_iob=O
+51	such	such	ADJ	JJ	_	52	amod	_	ent_type=_|ent_id=2|ent_iob=O
+52	as	as	SCONJ	IN	_	49	prep	_	ent_type=_|ent_id=2|ent_iob=O
+53	scientific	scientific	ADJ	JJ	_	56	amod	_	ent_type=_|ent_id=2|ent_iob=O
+54	and	and	CCONJ	CC	_	53	cc	_	ent_type=_|ent_id=2|ent_iob=O
+55	practical	practical	ADJ	JJ	_	53	conj	_	ent_type=_|ent_id=2|ent_iob=O
+56	efforts	effort	NOUN	NNS	_	52	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+57	and	and	CCONJ	CC	_	56	cc	_	ent_type=_|ent_id=2|ent_iob=O
+58	military	military	ADJ	JJ	_	59	amod	_	ent_type=_|ent_id=2|ent_iob=O
+59	action	action	NOUN	NN	_	56	conj	_	ent_type=_|ent_id=2|ent_iob=O
+60	whenever	whenever	ADV	WRB	_	61	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+61	necessary	necessary	ADJ	JJ	_	56	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+62	-	-	PUNCT	:	_	61	punct	_	ent_type=_|ent_id=2|ent_iob=O
+63	and	and	CCONJ	CC	_	61	cc	_	ent_type=_|ent_id=2|ent_iob=O
+64	in	in	ADP	IN	_	61	conj	_	ent_type=_|ent_id=2|ent_iob=O
+65	jihad	jihad	NOUN	NN	_	64	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+66	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 94
+# sent_len = 9
+# text = We must not lose sight of these factors.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	We	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	lose	lose	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	sight	sight	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	these	these	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	factors	factor	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 95
+# sent_len = 38
+# text = The enthusiastic presence of our nation in the demonstrations on Bahman 22 each year is a symbolic act that bears testimony to the steadfastness of our nation and its adherence to the ideals pursued by the Revolution.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	enthusiastic	enthusiastic	ADJ	JJ	_	3	amod	_	ent_type=_|ent_id=2|ent_iob=O
+3	presence	presence	NOUN	NN	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	of	of	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	our	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	nation	nation	NOUN	NN	_	4	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	demonstrations	demonstration	NOUN	NNS	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	Bahman	Bahman	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	22	22	NUM	CD	_	11	nummod	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	each	each	DET	DT	_	14	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+14	year	year	NOUN	NN	_	15	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+15	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+16	a	a	DET	DT	_	18	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	symbolic	symbolic	ADJ	JJ	_	18	amod	_	ent_type=_|ent_id=2|ent_iob=O
+18	act	act	NOUN	NN	_	15	attr	_	ent_type=_|ent_id=2|ent_iob=O
+19	that	that	DET	WDT	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+20	bears	bear	VERB	VBZ	_	18	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	testimony	testimony	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	to	to	ADP	IN	_	20	prep	_	ent_type=_|ent_id=2|ent_iob=O
+23	the	the	DET	DT	_	24	det	_	ent_type=_|ent_id=2|ent_iob=O
+24	steadfastness	steadfastness	NOUN	NN	_	22	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+25	of	of	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	our	-PRON-	DET	PRP$	_	27	poss	_	ent_type=_|ent_id=2|ent_iob=O
+27	nation	nation	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	and	and	CCONJ	CC	_	24	cc	_	ent_type=_|ent_id=2|ent_iob=O
+29	its	-PRON-	DET	PRP$	_	30	poss	_	ent_type=_|ent_id=2|ent_iob=O
+30	adherence	adherence	NOUN	NN	_	24	conj	_	ent_type=_|ent_id=2|ent_iob=O
+31	to	to	ADP	IN	_	30	prep	_	ent_type=_|ent_id=2|ent_iob=O
+32	the	the	DET	DT	_	33	det	_	ent_type=_|ent_id=2|ent_iob=O
+33	ideals	ideal	NOUN	NNS	_	31	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+34	pursued	pursue	VERB	VBN	_	33	acl	_	ent_type=_|ent_id=2|ent_iob=O
+35	by	by	ADP	IN	_	34	agent	_	ent_type=_|ent_id=2|ent_iob=O
+36	the	the	DET	DT	_	37	det	_	ent_type=_|ent_id=2|ent_iob=O
+37	Revolution	Revolution	PROPN	NNP	_	35	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+38	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 96
+# sent_len = 26
+# text = By taking part in 22nd of Bahman demonstrations [marking the victory of the Islamic Revolution], our nation has proven its active participation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	By	by	ADP	IN	_	22	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	taking	take	VERB	VBG	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+3	part	part	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+4	in	in	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	22nd	22nd	NOUN	NN	_	4	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	Bahman	Bahman	PROPN	NNP	_	8	compound	_	ent_type=NORP|ent_id=3|ent_iob=B
+8	demonstrations	demonstration	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	[	[	PUNCT	-LRB-	_	10	punct	_	ent_type=_|ent_id=2|ent_iob=O
+10	marking	mark	VERB	VBG	_	1	pcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	victory	victory	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	of	of	ADP	IN	_	12	prep	_	ent_type=_|ent_id=2|ent_iob=O
+14	the	the	DET	DT	_	16	det	_	ent_type=EVENT|ent_id=3|ent_iob=B
+15	Islamic	Islamic	PROPN	NNP	_	16	compound	_	ent_type=EVENT|ent_id=1|ent_iob=I
+16	Revolution	Revolution	PROPN	NNP	_	13	pobj	_	ent_type=EVENT|ent_id=1|ent_iob=I
+17	]	]	PUNCT	-RRB-	_	10	punct	_	ent_type=EVENT|ent_id=1|ent_iob=I
+18	,	,	PUNCT	,	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+19	our	-PRON-	DET	PRP$	_	20	poss	_	ent_type=_|ent_id=2|ent_iob=O
+20	nation	nation	NOUN	NN	_	22	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+21	has	have	AUX	VBZ	_	22	aux	_	ent_type=_|ent_id=2|ent_iob=O
+22	proven	prove	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+23	its	-PRON-	DET	PRP$	_	25	poss	_	ent_type=_|ent_id=2|ent_iob=O
+24	active	active	ADJ	JJ	_	25	amod	_	ent_type=_|ent_id=2|ent_iob=O
+25	participation	participation	NOUN	NN	_	22	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	22	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 97
+# sent_len = 33
+# text = You have seen during the last 30 years that the people have taken part in 22nd of Bahman demonstrations in extreme cold and searing heat - in hot areas of the country.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	seen	see	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	during	during	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	8	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	last	last	ADJ	JJ	_	8	amod	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	30	30	NUM	CD	_	8	nummod	_	ent_type=DATE|ent_id=1|ent_iob=I
+8	years	year	NOUN	NNS	_	4	pobj	_	ent_type=DATE|ent_id=1|ent_iob=I
+9	that	that	SCONJ	IN	_	13	mark	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	people	people	NOUN	NNS	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+12	have	have	AUX	VBP	_	13	aux	_	ent_type=_|ent_id=2|ent_iob=O
+13	taken	take	VERB	VBN	_	8	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	part	part	NOUN	NN	_	13	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	22nd	22nd	NOUN	NN	_	15	pobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+17	of	of	ADP	IN	_	16	prep	_	ent_type=_|ent_id=2|ent_iob=O
+18	Bahman	Bahman	PROPN	NNP	_	19	compound	_	ent_type=FAC|ent_id=3|ent_iob=B
+19	demonstrations	demonstration	NOUN	NNS	_	17	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	in	in	ADP	IN	_	19	prep	_	ent_type=_|ent_id=2|ent_iob=O
+21	extreme	extreme	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+22	cold	cold	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+23	and	and	CCONJ	CC	_	22	cc	_	ent_type=_|ent_id=2|ent_iob=O
+24	searing	searing	ADJ	JJ	_	22	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	heat	heat	NOUN	NN	_	29	nmod	_	ent_type=_|ent_id=2|ent_iob=O
+26	-	-	PUNCT	HYPH	_	25	punct	_	ent_type=_|ent_id=2|ent_iob=O
+27	in	in	ADP	IN	_	25	prt	_	ent_type=_|ent_id=2|ent_iob=O
+28	hot	hot	ADJ	JJ	_	29	amod	_	ent_type=_|ent_id=2|ent_iob=O
+29	areas	area	NOUN	NNS	_	20	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	the	the	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	country	country	NOUN	NN	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 98
+# sent_len = 14
+# text = The people have taken part in different demonstrations and maintained their active participation.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	people	people	NOUN	NNS	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	taken	take	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	part	part	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	different	different	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+8	demonstrations	demonstration	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	maintained	maintain	VERB	VBD	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	their	-PRON-	DET	PRP$	_	13	poss	_	ent_type=_|ent_id=2|ent_iob=O
+12	active	active	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	participation	participation	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 99
+# sent_len = 12
+# text = They have not allowed 22nd of Bahman to fall into oblivion.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	not	not	PART	RB	_	4	neg	_	ent_type=_|ent_id=2|ent_iob=O
+4	allowed	allow	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	22nd	22nd	NOUN	NN	_	4	dobj	_	ent_type=DATE|ent_id=3|ent_iob=B
+6	of	of	ADP	IN	_	5	prep	_	ent_type=DATE|ent_id=1|ent_iob=I
+7	Bahman	Bahman	PROPN	NNP	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	fall	fall	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	into	into	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	oblivion	oblivion	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 100
+# sent_len = 14
+# text = By Allah's favor, the situation will be the same this year.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	By	by	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	favor	favor	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+7	situation	situation	NOUN	NN	_	9	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+8	will	will	VERB	MD	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=DATE|ent_id=3|ent_iob=B
+11	same	same	ADJ	JJ	_	9	attr	_	ent_type=DATE|ent_id=1|ent_iob=I
+12	this	this	DET	DT	_	13	det	_	ent_type=DATE|ent_id=1|ent_iob=I
+13	year	year	NOUN	NN	_	9	npadvmod	_	ent_type=DATE|ent_id=1|ent_iob=I
+14	.	.	PUNCT	.	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 101
+# sent_len = 11
+# text = The Iranian nation will once again prove their active presence.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	3	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	Iranian	iranian	ADJ	JJ	_	3	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+3	nation	nation	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	once	once	ADV	RB	_	6	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	again	again	ADV	RB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+7	prove	prove	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+8	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+9	active	active	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	presence	presence	NOUN	NN	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 102
+# sent_len = 13
+# text = This will frustrate the enemy in the true sense of the word.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	This	this	DET	DT	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	will	will	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	frustrate	frustrate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	enemy	enemy	NOUN	NN	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	3	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	true	true	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	sense	sense	NOUN	NN	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	12	det	_	ent_type=_|ent_id=2|ent_iob=O
+12	word	word	NOUN	NN	_	10	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+13	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 103
+# sent_len = 41
+# text = Taking part in demonstrations and other arenas - different elections, public presence in political arenas, and impressive scientific and technological achievements - will frustrate the enemy, and our nation has fortunately proven this over and over again.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Taking	take	VERB	VBG	_	26	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+2	part	part	NOUN	NN	_	1	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+3	in	in	ADP	IN	_	1	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	demonstrations	demonstration	NOUN	NNS	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	other	other	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	arenas	arena	NOUN	NNS	_	9	npadvmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	-	-	PUNCT	HYPH	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	different	different	ADJ	JJ	_	10	amod	_	ent_type=_|ent_id=2|ent_iob=O
+10	elections	election	NOUN	NNS	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+12	public	public	ADJ	JJ	_	13	amod	_	ent_type=_|ent_id=2|ent_iob=O
+13	presence	presence	NOUN	NN	_	26	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+15	political	political	ADJ	JJ	_	16	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	arenas	arena	NOUN	NNS	_	14	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	,	,	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+18	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	impressive	impressive	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+20	scientific	scientific	ADJ	JJ	_	23	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	and	and	CCONJ	CC	_	20	cc	_	ent_type=_|ent_id=2|ent_iob=O
+22	technological	technological	ADJ	JJ	_	20	conj	_	ent_type=_|ent_id=2|ent_iob=O
+23	achievements	achievement	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	-	-	PUNCT	,	_	13	punct	_	ent_type=_|ent_id=2|ent_iob=O
+25	will	will	VERB	MD	_	26	aux	_	ent_type=_|ent_id=2|ent_iob=O
+26	frustrate	frustrate	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+27	the	the	DET	DT	_	28	det	_	ent_type=_|ent_id=2|ent_iob=O
+28	enemy	enemy	NOUN	NN	_	26	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+29	,	,	PUNCT	,	_	26	punct	_	ent_type=_|ent_id=2|ent_iob=O
+30	and	and	CCONJ	CC	_	26	cc	_	ent_type=_|ent_id=2|ent_iob=O
+31	our	-PRON-	DET	PRP$	_	32	poss	_	ent_type=_|ent_id=2|ent_iob=O
+32	nation	nation	NOUN	NN	_	35	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+33	has	have	AUX	VBZ	_	35	aux	_	ent_type=_|ent_id=2|ent_iob=O
+34	fortunately	fortunately	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	proven	prove	VERB	VBN	_	26	conj	_	ent_type=_|ent_id=2|ent_iob=O
+36	this	this	DET	DT	_	35	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+37	over	over	ADP	RP	_	35	prt	_	ent_type=_|ent_id=2|ent_iob=O
+38	and	and	CCONJ	CC	_	37	cc	_	ent_type=_|ent_id=2|ent_iob=O
+39	over	over	ADV	RB	_	40	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+40	again	again	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+41	.	.	PUNCT	.	_	35	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 104
+# sent_len = 20
+# text = The efforts of our youth have constantly manifested their effects and these efforts must increase on a daily basis.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	2	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	efforts	effort	NOUN	NNS	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+3	of	of	ADP	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	our	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+5	youth	youth	NOUN	NN	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	have	have	AUX	VBP	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	constantly	constantly	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+8	manifested	manifest	VERB	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	their	-PRON-	DET	PRP$	_	10	poss	_	ent_type=_|ent_id=2|ent_iob=O
+10	effects	effect	NOUN	NNS	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	these	these	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	efforts	effort	NOUN	NNS	_	15	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	must	must	VERB	MD	_	15	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	increase	increase	VERB	VB	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	on	on	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	a	a	DET	DT	_	19	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	daily	daily	ADJ	JJ	_	19	amod	_	ent_type=_|ent_id=2|ent_iob=O
+19	basis	basis	NOUN	NN	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	.	.	PUNCT	.	_	15	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 105
+# sent_len = 8
+# text = You have your own share of responsibilities.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	your	-PRON-	DET	PRP$	_	5	poss	_	ent_type=_|ent_id=2|ent_iob=O
+4	own	own	ADJ	JJ	_	5	amod	_	ent_type=_|ent_id=2|ent_iob=O
+5	share	share	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	of	of	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	responsibilities	responsibility	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 106
+# sent_len = 18
+# text = You have to shoulder certain predetermined duties in the Air Force of the Islamic Republic of Iran.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	have	have	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	shoulder	shoulder	VERB	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	certain	certain	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	predetermined	predetermine	VERB	VBN	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	duties	duty	NOUN	NNS	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	in	in	ADP	IN	_	7	prep	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+10	Air	Air	PROPN	NNP	_	11	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+11	Force	Force	PROPN	NNP	_	8	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	15	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Islamic	Islamic	PROPN	NNP	_	15	compound	_	ent_type=_|ent_id=2|ent_iob=O
+15	Republic	Republic	PROPN	NNP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	Iran	Iran	PROPN	NNP	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 107
+# sent_len = 22
+# text = There are important duties that you have to shoulder both in air defense and other major parts of the Air Force.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	There	there	PRON	EX	_	2	expl	_	ent_type=_|ent_id=2|ent_iob=O
+2	are	be	AUX	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	duties	duty	NOUN	NNS	_	2	attr	_	ent_type=_|ent_id=2|ent_iob=O
+5	that	that	DET	WDT	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	you	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	have	have	AUX	VBP	_	4	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	shoulder	shoulder	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	both	both	DET	DT	_	11	preconj	_	ent_type=_|ent_id=2|ent_iob=O
+11	in	in	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+12	air	air	NOUN	NN	_	13	compound	_	ent_type=_|ent_id=2|ent_iob=O
+13	defense	defense	NOUN	NN	_	11	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	other	other	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+16	major	major	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	parts	part	NOUN	NNS	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	21	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+20	Air	Air	PROPN	NNP	_	21	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+21	Force	Force	PROPN	NNP	_	18	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+22	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 108
+# sent_len = 14
+# text = The most important duty is to feel that you should bridge the gaps.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	The	the	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+2	most	most	ADV	RBS	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	important	important	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	duty	duty	NOUN	NN	_	5	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	is	be	AUX	VBZ	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+6	to	to	PART	TO	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	feel	feel	VERB	VB	_	5	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	that	that	SCONJ	IN	_	11	mark	_	ent_type=_|ent_id=2|ent_iob=O
+9	you	-PRON-	PRON	PRP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+10	should	should	VERB	MD	_	11	aux	_	ent_type=_|ent_id=2|ent_iob=O
+11	bridge	bridge	VERB	VB	_	7	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+12	the	the	DET	DT	_	13	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	gaps	gap	NOUN	NNS	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	.	.	PUNCT	.	_	5	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 109
+# sent_len = 18
+# text = You must bridge the gaps in facilities, organizations, and management no matter where you serve.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	You	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	must	must	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	bridge	bridge	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	gaps	gap	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	in	in	ADP	IN	_	5	prep	_	ent_type=_|ent_id=2|ent_iob=O
+7	facilities	facility	NOUN	NNS	_	6	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	,	,	PUNCT	,	_	7	punct	_	ent_type=_|ent_id=2|ent_iob=O
+9	organizations	organization	NOUN	NNS	_	7	conj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+12	management	management	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+13	no	no	ADV	RB	_	14	neg	_	ent_type=_|ent_id=2|ent_iob=O
+14	matter	matter	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+15	where	where	ADV	WRB	_	17	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+16	you	-PRON-	PRON	PRP	_	17	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+17	serve	serve	VERB	VBP	_	14	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+18	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 110
+# sent_len = 26
+# text = When a certain group of people are determined to make progress, they do not wait for anyone to offer help or advice to them.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	When	when	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+2	a	a	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+3	certain	certain	ADJ	JJ	_	4	amod	_	ent_type=_|ent_id=2|ent_iob=O
+4	group	group	NOUN	NN	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+5	of	of	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+6	people	people	NOUN	NNS	_	5	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	are	be	AUX	VBP	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	determined	determined	ADJ	JJ	_	7	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	to	to	PART	TO	_	10	aux	_	ent_type=_|ent_id=2|ent_iob=O
+10	make	make	VERB	VB	_	8	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+11	progress	progress	NOUN	NN	_	10	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	they	-PRON-	PRON	PRP	_	16	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+14	do	do	AUX	VBP	_	16	aux	_	ent_type=_|ent_id=2|ent_iob=O
+15	not	not	PART	RB	_	16	neg	_	ent_type=_|ent_id=2|ent_iob=O
+16	wait	wait	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+17	for	for	ADP	IN	_	20	mark	_	ent_type=_|ent_id=2|ent_iob=O
+18	anyone	anyone	PRON	NN	_	20	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+19	to	to	PART	TO	_	20	aux	_	ent_type=_|ent_id=2|ent_iob=O
+20	offer	offer	VERB	VB	_	16	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+21	help	help	NOUN	NN	_	20	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+22	or	or	CCONJ	CC	_	21	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	advice	advice	VERB	VB	_	21	conj	_	ent_type=_|ent_id=2|ent_iob=O
+24	to	to	ADP	IN	_	20	dative	_	ent_type=_|ent_id=2|ent_iob=O
+25	them	-PRON-	PRON	PRP	_	24	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+26	.	.	PUNCT	.	_	16	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 111
+# sent_len = 12
+# text = They carry out needs assessment and try to meet those needs.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	carry	carry	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	out	out	ADP	RP	_	2	prt	_	ent_type=_|ent_id=2|ent_iob=O
+4	needs	need	NOUN	NNS	_	5	compound	_	ent_type=_|ent_id=2|ent_iob=O
+5	assessment	assessment	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+6	and	and	CCONJ	CC	_	2	cc	_	ent_type=_|ent_id=2|ent_iob=O
+7	try	try	VERB	VB	_	2	conj	_	ent_type=_|ent_id=2|ent_iob=O
+8	to	to	PART	TO	_	9	aux	_	ent_type=_|ent_id=2|ent_iob=O
+9	meet	meet	VERB	VB	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+10	those	those	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	needs	need	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 112
+# sent_len = 12
+# text = They try to do their duty in the best possible way.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	They	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	try	try	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	to	to	PART	TO	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+4	do	do	AUX	VB	_	2	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+5	their	-PRON-	DET	PRP$	_	6	poss	_	ent_type=_|ent_id=2|ent_iob=O
+6	duty	duty	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+7	in	in	ADP	IN	_	4	prep	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	best	good	ADJ	JJS	_	10	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+10	possible	possible	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	way	way	NOUN	NN	_	7	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 113
+# sent_len = 30
+# text = By Allah's grace, this has been the dominant characteristic of the Air Force personnel so far and this characteristic will be preserved in the future as well.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	By	by	ADP	IN	_	8	prep	_	ent_type=_|ent_id=2|ent_iob=O
+2	Allah	Allah	PROPN	NNP	_	4	poss	_	ent_type=_|ent_id=2|ent_iob=O
+3	's	's	PART	POS	_	2	case	_	ent_type=_|ent_id=2|ent_iob=O
+4	grace	grace	NOUN	NN	_	1	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	,	,	PUNCT	,	_	8	punct	_	ent_type=_|ent_id=2|ent_iob=O
+6	this	this	DET	DT	_	8	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	has	have	AUX	VBZ	_	8	aux	_	ent_type=_|ent_id=2|ent_iob=O
+8	been	be	AUX	VBN	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+9	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+10	dominant	dominant	ADJ	JJ	_	11	amod	_	ent_type=_|ent_id=2|ent_iob=O
+11	characteristic	characteristic	NOUN	NN	_	8	attr	_	ent_type=_|ent_id=2|ent_iob=O
+12	of	of	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	the	the	DET	DT	_	16	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	Air	Air	PROPN	NNP	_	15	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+15	Force	Force	PROPN	NNP	_	16	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+16	personnel	personnel	NOUN	NNS	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+17	so	so	ADV	RB	_	18	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+18	far	far	ADV	RB	_	8	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+19	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+20	this	this	DET	DT	_	21	det	_	ent_type=_|ent_id=2|ent_iob=O
+21	characteristic	characteristic	NOUN	NN	_	24	nsubjpass	_	ent_type=_|ent_id=2|ent_iob=O
+22	will	will	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+23	be	be	AUX	VB	_	24	auxpass	_	ent_type=_|ent_id=2|ent_iob=O
+24	preserved	preserve	VERB	VBN	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+25	in	in	ADP	IN	_	24	prep	_	ent_type=_|ent_id=2|ent_iob=O
+26	the	the	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	future	future	NOUN	NN	_	25	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	as	as	ADV	RB	_	29	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+29	well	well	ADV	RB	_	24	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+30	.	.	PUNCT	.	_	24	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 114
+# sent_len = 21
+# text = I get this feeling whenever I see the youthful, determined, and faithful faces of the Air Force personnel.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	get	get	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	this	this	DET	DT	_	4	det	_	ent_type=_|ent_id=2|ent_iob=O
+4	feeling	feeling	NOUN	NN	_	2	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	whenever	whenever	ADV	WRB	_	7	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+6	I	-PRON-	PRON	PRP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+7	see	see	VERB	VBP	_	2	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+8	the	the	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+9	youthful	youthful	ADJ	JJ	_	7	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	,	,	PUNCT	,	_	9	punct	_	ent_type=_|ent_id=2|ent_iob=O
+11	determined	determined	ADJ	JJ	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	,	,	PUNCT	,	_	11	punct	_	ent_type=_|ent_id=2|ent_iob=O
+13	and	and	CCONJ	CC	_	11	cc	_	ent_type=_|ent_id=2|ent_iob=O
+14	faithful	faithful	ADJ	JJ	_	15	amod	_	ent_type=_|ent_id=2|ent_iob=O
+15	faces	face	NOUN	NNS	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+16	of	of	ADP	IN	_	15	prep	_	ent_type=_|ent_id=2|ent_iob=O
+17	the	the	DET	DT	_	20	det	_	ent_type=_|ent_id=2|ent_iob=O
+18	Air	Air	PROPN	NNP	_	19	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+19	Force	Force	PROPN	NNP	_	20	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+20	personnel	personnel	NOUN	NNS	_	16	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+21	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 115
+# sent_len = 15
+# text = One could also feel the same thing when reading the reports in this regard.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	One	one	PRON	PRP	_	4	nsubj	_	ent_type=CARDINAL|ent_id=3|ent_iob=B
+2	could	could	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	feel	feel	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	the	the	DET	DT	_	7	det	_	ent_type=_|ent_id=2|ent_iob=O
+6	same	same	ADJ	JJ	_	7	amod	_	ent_type=_|ent_id=2|ent_iob=O
+7	thing	thing	NOUN	NN	_	4	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+8	when	when	ADV	WRB	_	9	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+9	reading	read	VERB	VBG	_	4	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+10	the	the	DET	DT	_	11	det	_	ent_type=_|ent_id=2|ent_iob=O
+11	reports	report	NOUN	NNS	_	9	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+12	in	in	ADP	IN	_	11	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+14	regard	regard	NOUN	NN	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 116
+# sent_len = 35
+# text = I would like to commemorate all those esteemed martyrs of the Air Force and the Islamic Republic's Army as well all those who exerted efforts and laid down their lives for the Revolution.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	3	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	to	to	PART	TO	_	5	aux	_	ent_type=_|ent_id=2|ent_iob=O
+5	commemorate	commemorate	VERB	VB	_	3	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+6	all	all	DET	PDT	_	9	predet	_	ent_type=_|ent_id=2|ent_iob=O
+7	those	those	DET	DT	_	9	det	_	ent_type=_|ent_id=2|ent_iob=O
+8	esteemed	esteem	VERB	VBN	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	martyrs	martyr	NOUN	NNS	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	of	of	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+11	the	the	DET	DT	_	13	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+12	Air	Air	PROPN	NNP	_	13	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+13	Force	Force	PROPN	NNP	_	10	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+14	and	and	CCONJ	CC	_	13	cc	_	ent_type=_|ent_id=2|ent_iob=O
+15	the	the	DET	DT	_	17	det	_	ent_type=GPE|ent_id=3|ent_iob=B
+16	Islamic	Islamic	PROPN	NNP	_	17	compound	_	ent_type=GPE|ent_id=1|ent_iob=I
+17	Republic	Republic	PROPN	NNP	_	19	poss	_	ent_type=GPE|ent_id=1|ent_iob=I
+18	's	's	PART	POS	_	17	case	_	ent_type=GPE|ent_id=1|ent_iob=I
+19	Army	Army	PROPN	NNP	_	13	conj	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	ADV	RB	_	21	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	well	well	ADV	RB	_	5	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	all	all	DET	PDT	_	23	predet	_	ent_type=_|ent_id=2|ent_iob=O
+23	those	those	DET	DT	_	5	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+24	who	who	PRON	WP	_	25	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+25	exerted	exert	VERB	VBD	_	23	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+26	efforts	effort	NOUN	NNS	_	25	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+27	and	and	CCONJ	CC	_	25	cc	_	ent_type=_|ent_id=2|ent_iob=O
+28	laid	lay	VERB	VBN	_	25	conj	_	ent_type=_|ent_id=2|ent_iob=O
+29	down	down	ADP	RP	_	28	prt	_	ent_type=_|ent_id=2|ent_iob=O
+30	their	-PRON-	DET	PRP$	_	31	poss	_	ent_type=_|ent_id=2|ent_iob=O
+31	lives	life	NOUN	NNS	_	28	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+32	for	for	ADP	IN	_	28	prep	_	ent_type=_|ent_id=2|ent_iob=O
+33	the	the	DET	DT	_	34	det	_	ent_type=_|ent_id=2|ent_iob=O
+34	Revolution	Revolution	PROPN	NNP	_	32	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+35	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 117
+# sent_len = 15
+# text = I would also like to commemorate our magnanimous Imam who founded this great movement.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	4	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	would	would	VERB	MD	_	4	aux	_	ent_type=_|ent_id=2|ent_iob=O
+3	also	also	ADV	RB	_	4	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+4	like	like	VERB	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+5	to	to	PART	TO	_	6	aux	_	ent_type=_|ent_id=2|ent_iob=O
+6	commemorate	commemorate	VERB	VB	_	4	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+7	our	-PRON-	DET	PRP$	_	9	poss	_	ent_type=_|ent_id=2|ent_iob=O
+8	magnanimous	magnanimous	ADJ	JJ	_	9	amod	_	ent_type=_|ent_id=2|ent_iob=O
+9	Imam	Imam	PROPN	NNP	_	6	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	who	who	PRON	WP	_	11	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+11	founded	found	VERB	VBD	_	9	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+12	this	this	DET	DT	_	14	det	_	ent_type=_|ent_id=2|ent_iob=O
+13	great	great	ADJ	JJ	_	14	amod	_	ent_type=_|ent_id=2|ent_iob=O
+14	movement	movement	NOUN	NN	_	11	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+15	.	.	PUNCT	.	_	4	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 118
+# sent_len = 37
+# text = I also thank the honorable Air Force officials and all those who are active in different parts of it as well as all the innovators who laid the foundations of these innovations in the Air Force.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	3	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	also	also	ADV	RB	_	3	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+3	thank	thank	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	8	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	honorable	honorable	ADJ	JJ	_	8	amod	_	ent_type=_|ent_id=2|ent_iob=O
+6	Air	Air	PROPN	NNP	_	7	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+7	Force	Force	PROPN	NNP	_	8	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+8	officials	official	NOUN	NNS	_	3	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	all	all	DET	PDT	_	11	predet	_	ent_type=_|ent_id=2|ent_iob=O
+11	those	those	DET	DT	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	who	who	PRON	WP	_	13	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+13	are	be	AUX	VBP	_	11	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+14	active	active	ADJ	JJ	_	13	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+15	in	in	ADP	IN	_	13	prep	_	ent_type=_|ent_id=2|ent_iob=O
+16	different	different	ADJ	JJ	_	17	amod	_	ent_type=_|ent_id=2|ent_iob=O
+17	parts	part	NOUN	NNS	_	15	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+18	of	of	ADP	IN	_	17	prep	_	ent_type=_|ent_id=2|ent_iob=O
+19	it	-PRON-	PRON	PRP	_	18	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+20	as	as	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+21	well	well	ADV	RB	_	22	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+22	as	as	SCONJ	IN	_	19	cc	_	ent_type=_|ent_id=2|ent_iob=O
+23	all	all	DET	PDT	_	25	predet	_	ent_type=_|ent_id=2|ent_iob=O
+24	the	the	DET	DT	_	25	det	_	ent_type=_|ent_id=2|ent_iob=O
+25	innovators	innovator	NOUN	NNS	_	19	conj	_	ent_type=_|ent_id=2|ent_iob=O
+26	who	who	PRON	WP	_	27	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+27	laid	lay	VERB	VBD	_	25	relcl	_	ent_type=_|ent_id=2|ent_iob=O
+28	the	the	DET	DT	_	29	det	_	ent_type=_|ent_id=2|ent_iob=O
+29	foundations	foundation	NOUN	NNS	_	27	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+30	of	of	ADP	IN	_	29	prep	_	ent_type=_|ent_id=2|ent_iob=O
+31	these	these	DET	DT	_	32	det	_	ent_type=_|ent_id=2|ent_iob=O
+32	innovations	innovation	NOUN	NNS	_	30	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+33	in	in	ADP	IN	_	32	prep	_	ent_type=_|ent_id=2|ent_iob=O
+34	the	the	DET	DT	_	36	det	_	ent_type=ORG|ent_id=3|ent_iob=B
+35	Air	Air	PROPN	NNP	_	36	compound	_	ent_type=ORG|ent_id=1|ent_iob=I
+36	Force	Force	PROPN	NNP	_	33	pobj	_	ent_type=ORG|ent_id=1|ent_iob=I
+37	.	.	PUNCT	.	_	3	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 119
+# sent_len = 42
+# text = I hope Allah the Exalted will bestow increasing success and determination on you so that the Army and the entire Armed Forces can achieve such a position that the Iranian nation would feel completely secure in the face of all threats.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	I	-PRON-	PRON	PRP	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	hope	hope	VERB	VBP	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	Allah	Allah	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+4	the	the	DET	DT	_	5	det	_	ent_type=_|ent_id=2|ent_iob=O
+5	Exalted	Exalted	PROPN	NNP	_	7	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+6	will	will	VERB	MD	_	7	aux	_	ent_type=_|ent_id=2|ent_iob=O
+7	bestow	bestow	VERB	VB	_	2	ccomp	_	ent_type=_|ent_id=2|ent_iob=O
+8	increasing	increase	VERB	VBG	_	7	xcomp	_	ent_type=_|ent_id=2|ent_iob=O
+9	success	success	NOUN	NN	_	8	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+10	and	and	CCONJ	CC	_	9	cc	_	ent_type=_|ent_id=2|ent_iob=O
+11	determination	determination	NOUN	NN	_	9	conj	_	ent_type=_|ent_id=2|ent_iob=O
+12	on	on	ADP	IN	_	9	prep	_	ent_type=_|ent_id=2|ent_iob=O
+13	you	-PRON-	PRON	PRP	_	12	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+14	so	so	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+15	that	that	SCONJ	IN	_	24	mark	_	ent_type=_|ent_id=2|ent_iob=O
+16	the	the	DET	DT	_	17	det	_	ent_type=_|ent_id=2|ent_iob=O
+17	Army	Army	PROPN	NNP	_	24	nsubj	_	ent_type=ORG|ent_id=3|ent_iob=B
+18	and	and	CCONJ	CC	_	17	cc	_	ent_type=_|ent_id=2|ent_iob=O
+19	the	the	DET	DT	_	22	det	_	ent_type=_|ent_id=2|ent_iob=O
+20	entire	entire	ADJ	JJ	_	22	amod	_	ent_type=_|ent_id=2|ent_iob=O
+21	Armed	Armed	PROPN	NNP	_	22	compound	_	ent_type=ORG|ent_id=3|ent_iob=B
+22	Forces	Forces	PROPN	NNPS	_	17	conj	_	ent_type=ORG|ent_id=1|ent_iob=I
+23	can	can	VERB	MD	_	24	aux	_	ent_type=_|ent_id=2|ent_iob=O
+24	achieve	achieve	VERB	VB	_	8	advcl	_	ent_type=_|ent_id=2|ent_iob=O
+25	such	such	DET	PDT	_	27	predet	_	ent_type=_|ent_id=2|ent_iob=O
+26	a	a	DET	DT	_	27	det	_	ent_type=_|ent_id=2|ent_iob=O
+27	position	position	NOUN	NN	_	24	dobj	_	ent_type=_|ent_id=2|ent_iob=O
+28	that	that	SCONJ	IN	_	33	mark	_	ent_type=_|ent_id=2|ent_iob=O
+29	the	the	DET	DT	_	31	det	_	ent_type=_|ent_id=2|ent_iob=O
+30	Iranian	iranian	ADJ	JJ	_	31	amod	_	ent_type=NORP|ent_id=3|ent_iob=B
+31	nation	nation	NOUN	NN	_	33	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+32	would	would	VERB	MD	_	33	aux	_	ent_type=_|ent_id=2|ent_iob=O
+33	feel	feel	VERB	VB	_	27	acl	_	ent_type=_|ent_id=2|ent_iob=O
+34	completely	completely	ADV	RB	_	35	advmod	_	ent_type=_|ent_id=2|ent_iob=O
+35	secure	secure	ADJ	JJ	_	33	acomp	_	ent_type=_|ent_id=2|ent_iob=O
+36	in	in	ADP	IN	_	33	prep	_	ent_type=_|ent_id=2|ent_iob=O
+37	the	the	DET	DT	_	38	det	_	ent_type=_|ent_id=2|ent_iob=O
+38	face	face	NOUN	NN	_	36	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+39	of	of	ADP	IN	_	38	prep	_	ent_type=_|ent_id=2|ent_iob=O
+40	all	all	DET	DT	_	41	det	_	ent_type=_|ent_id=2|ent_iob=O
+41	threats	threat	NOUN	NNS	_	39	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+42	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
+
+# sent_id = 120
+# sent_len = 11
+# text = Greetings be upon you and Allah's mercy and blessings.
+# title = Leader's Speech to Air Force Personnel
+# year = 2009
+1	Greetings	greeting	NOUN	NNS	_	2	nsubj	_	ent_type=_|ent_id=2|ent_iob=O
+2	be	be	AUX	VB	_	0	ROOT	_	ent_type=_|ent_id=2|ent_iob=O
+3	upon	upon	SCONJ	IN	_	2	prep	_	ent_type=_|ent_id=2|ent_iob=O
+4	you	-PRON-	PRON	PRP	_	3	pobj	_	ent_type=_|ent_id=2|ent_iob=O
+5	and	and	CCONJ	CC	_	4	cc	_	ent_type=_|ent_id=2|ent_iob=O
+6	Allah	Allah	PROPN	NNP	_	8	poss	_	ent_type=PERSON|ent_id=3|ent_iob=B
+7	's	's	PART	POS	_	6	case	_	ent_type=_|ent_id=2|ent_iob=O
+8	mercy	mercy	NOUN	NN	_	4	conj	_	ent_type=_|ent_id=2|ent_iob=O
+9	and	and	CCONJ	CC	_	8	cc	_	ent_type=_|ent_id=2|ent_iob=O
+10	blessings	blessing	NOUN	NNS	_	8	conj	_	ent_type=_|ent_id=2|ent_iob=O
+11	.	.	PUNCT	.	_	2	punct	_	ent_type=_|ent_id=2|ent_iob=O
